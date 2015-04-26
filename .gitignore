@@ -1,8 +1,36 @@
-_site
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.gz
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
 .DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
 *.sublime-project
 *.sublime-workspace
-codekit-config.json
+.idea
+
+# Project specific
+_gh_pages
+_site
 node_modules
-Gemfile.lock
+bower_components
+.ruby-version
 .sass-cache
+.code-highlighter-cache
+Gemfile.lock

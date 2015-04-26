@@ -1,13 +1,12 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "habd.as",
+  "author": "Josh Habdas <josh@habd.as>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
+    "url": "git://github.com/jhabdas/habd.as.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
+    "url": "https://github.com/jhabdas/habd.as/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
