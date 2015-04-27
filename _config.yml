@@ -51,7 +51,6 @@ paginate: 5
 
 # Conversion
 markdown: KramdownPygments
-highlighter: rouge
 
 # Markdown Processors
 kramdown:
@@ -61,7 +60,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   input: GFM
-  syntax_highlighter: rouge
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

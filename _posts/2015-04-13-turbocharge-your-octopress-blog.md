@@ -42,12 +42,12 @@ Like the JS in the section above, we’ll want to leverage Rake tasks to optimiz
 Once the CSS-related Rake tasks are incorporated into the Rakefile tweak the `minify_css` task, changing the assignment to `output` as shown here:
 
 ```ruby
-desc “Minify CSS”
+desc "Minify CSS"
 task :minify_css do
-  puts “## Minifying CSS”
-  input = “#{source_dir}/stylesheets/all.css”
-  output = “#{source_dir}/_includes/inline.css”
-  system “cleancss -e -o #{output} #{input}”
+  puts "## Minifying CSS"
+  input = "#{source_dir}/stylesheets/all.css"
+  output = "#{source_dir}/_includes/inline.css"
+  system "cleancss -e -o #{output} #{input}"
 end
 ```
 
