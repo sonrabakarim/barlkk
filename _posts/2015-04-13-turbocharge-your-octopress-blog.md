@@ -110,7 +110,7 @@ This step should earn you around a 5 point bump in Page Speed. And that's all th
 Here are some other ideas to eke out a just a little more speed from your Octopress blog:
 
 - If you embed YouTube videos on your site the iFrames are slowing things down. Instead, generate video preview placeholder images using [Responsive YouTube frames](http://erossignon.github.io/blog/2012/11/25/improve-responsiveness-of-youtube-frames-in-jekyll-and-octopress-pages/).
-- Reduce DNS look-up time for external requests using DNS prefetching (e.g. `<link href="//apis.google.com" rel="dns-prefetch">`). Leverage [WebPageTest](http://webpagetest.org/) and [ShowSlow](http://www.showslow.com/) to help pinpoint worst offenders.
+- Reduce DNS look-up time for external requests using DNS prefetching. Leverage [WebPageTest](http://webpagetest.org/) and [ShowSlow](http://www.showslow.com/) to help pinpoint worst offenders.
 - Look through the CSS and Sass used and work on discarding unnecessary style rules.
 - Check out [all](http://danluu.com/octopress-speedup/) [these](http://www.eriwen.com/performance/make-octopress-fast/) [articles](http://blog.jphpsf.com/2012/06/12/squeezing-octopress-for-faster-load-times) as they help influenced this post in one way or another.
 
