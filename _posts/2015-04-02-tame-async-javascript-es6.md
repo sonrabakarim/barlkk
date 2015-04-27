@@ -16,7 +16,7 @@ One of the trickier parts of writing JS for the web is working with async code. 
 
 > Tame async JavaScript with ES6 using Generators and Promises
 
-<!-- more -->
+<!--more-->
 
 Take for example the following method:
 

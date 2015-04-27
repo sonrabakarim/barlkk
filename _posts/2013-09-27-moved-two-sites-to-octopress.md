@@ -23,7 +23,7 @@ If you're having problems visualizing, just check out the [system diagram](http:
 
 [Moving From Tumblr to Octopress](http://techblog.trunkclub.com/moving-from-tumblr-to-octopress/)
 
-<!-- more -->
+<!--more-->
 
 ## Handling taxonomy
 

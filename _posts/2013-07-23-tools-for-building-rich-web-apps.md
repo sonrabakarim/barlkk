@@ -19,8 +19,6 @@ published: true
 
 After recently planning to do a survey of tools for building rich web apps I stumbled across <https://github.com/codylindley/frontend-tools>, which claims to be an opinionated list of tools for building front-end applications. For those new to building modern web applications, it's certainly easier to take in than larger lists like <https://github.com/joyent/node/wiki/modules>. But lists aren't necessarily the best place to start for putting an application together. At least not where the rubber hits the road.
 
-<!-- more -->
-
 ## The Web has all the resources you need
 
 Instead of staring down the barrel of a list, consider simply diving in and creating something once you've read some related articles. Perhaps one of the best producers of fat-client content and tutorials recently has been Addy Osmani. Check out his blog: [Articles for developers][1]. Here are two articles from Addy which, when put together, cover how to set up a full-stack Backbone app with separate front- and back-end components:

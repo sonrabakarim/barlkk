@@ -26,7 +26,7 @@ For those not familiar, [Ghost](https://ghost.org/) is a new open-source bloggin
 
 Not being a huge fan of CMS-based blogging platforms like [Drupal and WordPress](/drupal-7-for-wordpress-admins/), I figured I might be able to leverage some [Sublime Text SFTP research](/sftp-to-ubuntu-server-sublime-text/) I did to test an FTP connection to Ghostify for image uploads. And it worked like a charm! Follow along to learn how to FTP static assets to Ghostify with Sublime Text.
 
-<!-- more -->
+<!--more-->
 
 ## Requirements
 

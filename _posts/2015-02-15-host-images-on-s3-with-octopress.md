@@ -19,7 +19,7 @@ Glancing over the Octopress plug-ins list yesterday I noticed something I hadnâ€
 
 > Learn how to host images on S3 with Octopress.
 
-<!-- more -->
+<!--more-->
 
 ## Create S3 bucket
 

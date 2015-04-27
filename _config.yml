@@ -25,6 +25,8 @@ owner:
   # google plus id, include the '+', eg +mmistakes
   google_plus: +JoshHabdas
 
+excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+
 # Background image to be tiled on all pages
 background: witewall_3.png
 

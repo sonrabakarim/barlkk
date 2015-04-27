@@ -27,7 +27,7 @@ After recently writing about [web app development using backbone and vagrant][1]
 
 Sweet. In addition to Addy's very awesome and open-source book [Backbone Fundamentals][3], he's also writing some useful related articles. And though I'd likely ditch haml in favor of [emblem][4] with [swag][5], Addy's article ought to be a good starting point for the Ruby newbie.
 
-<!-- more -->
+<!--more-->
 
 Building on my "you can do this on Windows too" [mantra as of late][1], I also want to point out that, to get the linked tutorial to work correctly on Ubuntu running in a virtual machine on Windows using Vagrant, you need to [configure Sinatra][6] to bind to the server on ip 0.0.0.0 ([not just 127.0.0.1][7]) so that Vagrant will be able to port-forward from Windows to WEBrick onto the Ubuntu guest machine, like:
 

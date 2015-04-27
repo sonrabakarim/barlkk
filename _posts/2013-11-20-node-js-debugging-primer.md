@@ -23,9 +23,9 @@ So I'm putting together this killer new JS front-end development stack called [B
 
 > Follow along if you'd like to learn how to get started debugging Node.js applications using Jake.
 
-The problem is the stack I'm working with is complex enough a small backtrace would be about as effective as a probe into [Tesla's recent automobile fires](http://www.detroitnews.com/article/20131119/AUTO01/311190039/U-S-opens-Tesla-battery-fire-investigation). Nevertheless, I want running Testlas *[sic]* so it's time to jump into some Node.js step debugging. Follow along if you'd like to learn how to get started debugging Node.js applications.
+<!--more-->
 
-<!-- more -->
+The problem is the stack I'm working with is complex enough a small backtrace would be about as effective as a probe into [Tesla's recent automobile fires](http://www.detroitnews.com/article/20131119/AUTO01/311190039/U-S-opens-Tesla-battery-fire-investigation). Nevertheless, I want running Testlas *[sic]* so it's time to jump into some Node.js step debugging. Follow along if you'd like to learn how to get started debugging Node.js applications.
 
 ## Getting setup
 

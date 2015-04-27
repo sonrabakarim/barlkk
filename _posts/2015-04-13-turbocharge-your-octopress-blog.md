@@ -19,7 +19,7 @@ The need for speed is upon us. Out of the box Octopress 2.0 isn’t as fast as i
 
 > Learn how to turbocharge your Octopress blog
 
-<!-- more -->
+<!--more-->
 
 ## Optimize JavaScript
 

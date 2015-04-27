@@ -14,8 +14,6 @@ format: aside
 ---
 Remote projects in Eclipse can be a great way of managing websites from thin clients, as well as sites with existing backup processes in place.
 
-<!-- more -->
-
 To create a remote project use <abbr title="Remote Systems Explorer">RSE</abbr> to establish a new connection using one of the available connection types (such as SSH).
 
 **Note:** SSH may need to be explicitly enabled via the site's web hosting control panel to function correctly with Eclipse.

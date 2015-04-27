@@ -33,8 +33,15 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {% if post.content contains '<!--more-->' %}
+      {{ post.content | split:'<!--more-->' | first }}
+    {% else %}
+      {{ post.excerpt }}
+    {% endif %}
   </div>
+  <footer>
+    <a style="padding:0.5rem 0.5rem 0.5rem 0" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+  </footer>
 </article>
 {% endfor %}
 

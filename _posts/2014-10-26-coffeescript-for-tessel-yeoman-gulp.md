@@ -23,7 +23,7 @@ But wait, I hate JavaScript, [JabbaScript](http://www.schnell.net/jabbascript.ht
 
 > Learn how to transpile CoffeeScript to JavaScript using Yeoman and Gulp for use with the Tessel microcontroller
 
-<!-- more -->
+<!--more-->
 
 Why Yeoman and Gulp? Set-up speed and simplicity primarily, though moving things to [Jake](jakejs.com) does [have its appeal](https://github.com/trunkclub/brunch-with-panache) and might scale better. But right now we're starting small.
 

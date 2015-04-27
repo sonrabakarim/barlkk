@@ -4,7 +4,7 @@ layout: post
 title: "Add Google Analytics to Ghost with CloudFlare"
 date: 2013-12-05
 comments: true
-categories: 
+categories:
   - tutorials
 tags:
   - blogging
@@ -19,13 +19,11 @@ tags:
 
 [Ghost](https://ghost.org/) is the new hotness in blogging. It has more than 5,000 backers on Kickstarter and has raised more than USD $300,000 in funding. But given its relatively new on the block, there's not a lot in the way of tutorials or primers for getting started.
 
-Looking at the world of analytics, there are a few tutorials on page one of Google which encourage users to customize Ghost themes. But customizing a theme is a hack and locks users into something I like to call a "customization corner". Customizing in the way suggested makes it more difficult for users to switch themes later and increases the risk of functionality breakage when one theme is swapped out for another. Don't do it. 
+Looking at the world of analytics, there are a few tutorials on page one of Google which encourage users to customize Ghost themes. But customizing a theme is a hack and locks users into something I like to call a "customization corner". Customizing in the way suggested makes it more difficult for users to switch themes later and increases the risk of functionality breakage when one theme is swapped out for another. Don't do it.
 
 Instead, consider adding analytics using a CDN like [CloudFlare](http://www.cloudflare.com/). Not only does adding analytics through a CDN prevent the need to customize Ghost, it'll also speed up your blog at the same time and can be done without any coding. And the best part is, it can be done for free.
 
 > Learn how to add Google Analytics to Ghost for free, no coding required
-
-<!-- more -->
 
 To add Google Analytics to Ghost with CloudFlare follow the steps in the sections below.
 
