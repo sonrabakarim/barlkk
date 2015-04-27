@@ -17,13 +17,13 @@ tags:
 
 A few years back Sauce Labs co-founder Jason Huggins ([@hugs](https://twitter.com/hugs)) was giving a talk at [js.chi()](http://www.meetup.com/js-chi/), showing us how to use an Arduino to change the color of an LED based on an input. During the talk Jason suggested those interested in microcontrollers check out [Pumping Station: One](http://pumpingstationone.org/) up on Clybourn. So I got some friends together and we went to PS1, and learned the basics of programming an Arduino. The event was a fun experience and, later that night, netted me a [Larson Scanner](https://twitter.com/jhabdas/status/454997782219079680). Since then I've procured a [Raspberry PI](http://www.raspberrypi.org/), and started [tinkering with](https://twitter.com/jhabdas/status/385647879622123521) [Google Coder](http://www.raspberrypi.org/google-coder/). And now it's time for Tessel.
 
-At first I completely overlooked Tessel, even though they had a booth at [Fluent Conf](http://fluentconf.com/) this year, a crowd I'm likely to pop up in from time to time given the nature of my work. But several months later they got on my radar again and I purchased one instantly after realizing I could run JavaScript on it. Finally! No more weird IDEs (Arduino) or fickle hardware environments (Raspberry Pi). Just sweet JavaScript and Tessel...
-
-But wait, I hate JavaScript, [JabbaScript](http://www.schnell.net/jabbascript.html), or whatever you call it. That may seem a little harsh, but after six years of writing the stuff I've gotten a healthy appreciation for not using it after I switched to CoffeeScript. And so after unboxing the Tessel and trying out a few sample scripts I got to the point where I wanted to write, but I wanted to write in CoffeeScript. And even though tessel [does not _currently_ support](https://forums.tessel.io/t/coffeescript-doesnt-work/440) CoffeeScript, and I'd argue it never should, that doesn't mean we can't write CoffeeScript for it.
-
 > Learn how to transpile CoffeeScript to JavaScript using Yeoman and Gulp for use with the Tessel microcontroller
 
 <!--more-->
+
+At first I completely overlooked Tessel, even though they had a booth at [Fluent Conf](http://fluentconf.com/) this year, a crowd I'm likely to pop up in from time to time given the nature of my work. But several months later they got on my radar again and I purchased one instantly after realizing I could run JavaScript on it. Finally! No more weird IDEs (Arduino) or fickle hardware environments (Raspberry Pi). Just sweet JavaScript and Tessel...
+
+But wait, I hate JavaScript, [JabbaScript](http://www.schnell.net/jabbascript.html), or whatever you call it. That may seem a little harsh, but after six years of writing the stuff I've gotten a healthy appreciation for not using it after I switched to CoffeeScript. And so after unboxing the Tessel and trying out a few sample scripts I got to the point where I wanted to write, but I wanted to write in CoffeeScript. And even though tessel [does not _currently_ support](https://forums.tessel.io/t/coffeescript-doesnt-work/440) CoffeeScript, and I'd argue it never should, that doesn't mean we can't write CoffeeScript for it.
 
 Why Yeoman and Gulp? Set-up speed and simplicity primarily, though moving things to [Jake](jakejs.com) does [have its appeal](https://github.com/trunkclub/brunch-with-panache) and might scale better. But right now we're starting small.
 
