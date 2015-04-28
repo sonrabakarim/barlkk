@@ -1,11 +1,11 @@
 title: habd.as
 description: Tech tutorials and other tidbits
-disqus_shortname: habdas
+disqus_shortname: habd-as
 reading_time: true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: //habd.as
+url: http://habd.as
 
 # Owner/author information
 owner:
@@ -31,9 +31,9 @@ background: witewall_3.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-6473963-1
-google_verify: B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
+google_verify: B7WE9il5wd1Mjl9PZttf1pLgrxVmric
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: DBC165D1E8CE148BED6D48D4F31A3831
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Chicago
