@@ -18,7 +18,7 @@ tags:
 published: true
 ---
 
-Recently while Googling `Olla de Carne` (Costa Rican beef stew) my browser was [hijacked][1] after taking a search results link. Rather than receiving a list of ingredients, the link redirected the browser to a bogus antivirus site that mimicked Windows and faked an integrated Explorer virus scan (see screenshot below or <a class="youtube" href="http://www.youtube.com/v/gnZSOMdp9oI">watch the video</a>).
+Recently while Googling `Olla de Carne` (Costa Rican beef stew) my browser was [hijacked][1] after taking a search results link. Rather than receiving a list of ingredients, the link redirected the browser to a bogus antivirus site that mimicked Windows and faked an integrated Explorer virus scan. Let's examine how it happened.
 
 <!--more-->
 
