@@ -147,7 +147,7 @@ The Chrome button issues are happening on and off. Some of the changes in behavi
  [1]: http://en.wikipedia.org/wiki/Page_hijacking
  [2]: http://en.wikipedia.org/wiki/Social_engineering_(security)
  [3]: http://en.wikipedia.org/wiki/HTTP_302
- [4]: ../assets/carne.php
+ [4]: /assets/carne.php
  [5]: http://woodstockfolkmusic.com/
  [6]: http://en.wikipedia.org/wiki/Keyword_stuffing
  [7]: http://en.wikipedia.org/wiki/Spamdexing
