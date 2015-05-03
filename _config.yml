@@ -1,11 +1,11 @@
 title: habd.as
 description: Tech tutorials and other tidbits
-disqus_shortname: habd-as
+disqus_shortname: habdas
 reading_time: true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: #http://habd.as
+url: http://habd.as
 
 # Owner/author information
 owner:
