@@ -24,7 +24,7 @@ Looking to create a simple website but don’t want to pay an arm and a leg for 
 
 # Configure Server for Docker deployments
 
-In this tutorial we’ll use a remote server to host our Jekyll site. For simplicity we’ll use DigitalOcean and take advantage of the 1-click Docker installation feature. If you don’t already have a DigitalOcean account you can [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0) for $10 (~2 months) free, stopping anytime for a prorated fee.
+In this tutorial we’ll use a remote server to host our Jekyll site. For simplicity we’ll use DigitalOcean and take advantage of the 1-click Docker installation feature. If you don’t already have a DigitalOcean account you can [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0) for $10 (~2 months) free, stopping at anytime.
 
 If you’re not planning to deploy your site to DigitalOcean you may skip this section and ad lib when we get to running the site remotely.
 
@@ -197,5 +197,7 @@ Here are some ideas for things try next once you’re happy with the look-and-fe
 - Learn about and set-up zero-downtime deployments using a proxy and tools such as [flocker](https://github.com/ClusterHQ/flocker) or [Ansible](http://www.ansible.com/).
 - [Sign-up](https://www.cloudflare.com/sign-up) for a free CloudFlare account and use it to increase the performance of your Jekyll site.
 - Purchase a vanity domain name and use it to route DNS traffic to CloudFlare or directly to the app running on the Droplet.
+
+---
 
 [^1]: It’s all fun and games until someone jails the root user.
