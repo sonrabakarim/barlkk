@@ -177,6 +177,12 @@ Once the container image is built, run it on port 80 for both host and container
 
 Now that the site’s up and running you can test it by browsing to `http://HOST/` where `HOST` is the IP of your Droplet. If everything worked you should be staring at the same Jekyll site you saw on your local machine earlier.
 
+## Stopping the site
+
+When we're ready to bring your site down you can do so doing the following on the remote server:
+
+    docker stop $(docker ps -lq)
+
 # Wrapping up
 
 In this tutorial we learned how to create simple websites with Jekyll and Docker. Additionally we learned a simple workflow to deploy them to DigitalOcean via the command line, using Passenger to serve them with minimal required configuration.
