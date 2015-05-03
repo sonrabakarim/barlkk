@@ -11,7 +11,7 @@ image:
   creditlink: http://pixabay.com/en/sailing-boat-sea-ocean-679833/
 ---
 
-Looking to create a simple website but don’t want to pay an arm and a leg for setup and hosting? Get started for only $5, with the first two free.
+Looking to create a simple website but don’t want to pay an arm and a leg for setup and hosting? Get started for only $5, with the first two months free.
 
 > Learn how to setup simple websites with Jekyll and Docker
 
