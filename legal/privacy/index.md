@@ -32,8 +32,19 @@ not limited to, your name, email address, postal address and phone
 number ("Personal Information").
 
 Site uses Google Analytics Demographics and Interest Reporting and Google
-Analytics Remarketing. Info collected using this feature will be used for
-research purposes and will not be sold or shared with any third-party.
+Analytics Remarketing. Info collected using this feature will not be sold
+or shared with any third-party.
+
+Using the [Ads Settings][1], visitors can opt-out of Google Analytics
+for Display Advertising and customize Google Display Network ads.
+
+Site also uses Twitter's conversion tracking and tailored audiences
+products. Info collected using this feature will not be sold
+or shared with any third-party.
+
+Users may opt out of Twitter's conversion tracking by enabling the Do Not
+Track functionality in their Web browser or by through [certain methods][2]
+provided by Twitter.
 
 **Log Data**
 
@@ -63,9 +74,6 @@ electronic storage, is 100% secure. While we strive to use commercially
 acceptable means to protect your Personal Information, we cannot
 guarantee its absolute security.
 
-Using the [Ads Settings][1], visitors can opt-out of Google Analytics
-for Display Advertising and customize Google Display Network ads.
-
 **Links To Other Sites**
 
 Our Site may contain links to other sites that are not operated by us.
@@ -82,3 +90,4 @@ services.
 If you have any questions about this Privacy Policy, please contact us.
 
 [1]: https://www.google.com/settings/ads
+[2]: https://support.twitter.com/articles/20170405

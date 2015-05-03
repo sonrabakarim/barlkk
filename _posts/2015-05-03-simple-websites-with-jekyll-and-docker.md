@@ -201,3 +201,11 @@ Here are some ideas for things try next once you’re happy with the look-and-fe
 ---
 
 [^1]: It’s all fun and games until someone jails the root user.
+
+<!-- Twitter conversion tracking code snippet -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+twttr.conversion.trackPid('l609n', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l609n&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l609n&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /></noscript>
