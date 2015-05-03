@@ -2,7 +2,7 @@
 layout: post
 title: "Simple websites with Jekyll and Docker"
 permalink: /simple-websites-jekyll-docker/
-description: "Want to create a website but not sure where to start? Host simple websites using Docker and Jekyll for only $5 bucks a month."
+description: "Want to create a website but not sure where to start? Host simple websites using Docker and Jekyll for only five bucks a month."
 date: 2015-05-03T01:01:56-05:00
 tags: [github, blogging, jekyll, docker, passenger, virtualbox, webmaster, vm, virtualization, hosting]
 categoryies: [tutorials]
@@ -12,7 +12,7 @@ image:
   creditlink: http://pixabay.com/en/sailing-boat-sea-ocean-679833/
 ---
 
-Looking to create a simple website but don’t want to pay an arm and a leg for setup and hosting? Get started for only $5, with the first two months free.
+Looking to create a simple website but don’t want to pay an arm and a leg for setup and hosting? Get started for only $5 a month, with the first two months free.
 
 > Learn how to setup simple websites with Jekyll and Docker
 
@@ -102,7 +102,7 @@ Once the container is configured go ahead and **build the container** image like
 
     docker build --rm .
 
-The above builds the Docker image, removing intermediate containers after a successful build. It may take a moment while Docker *pulls* dependent layers. Once completed once, however, dependent layers will be cached during subsequent builds.
+The above builds the Docker image, removing intermediate containers after a successful build. It may take a moment while Docker *pulls* dependent layers. Once completed, however, dependent layers will be cached during subsequent builds.
 
 Once built, get a listing of images:
 
@@ -131,11 +131,11 @@ You can even connect to the above IP using a web browser. If everything’s work
 
 ![Jekyll site running in a browser](/images/docker-passenger-lanyon.png)
 
-That’s all there is to it! Now that we’ve got a simple Jekyll website running under Docker let’s go ahead and deploy it to DigitalOcean.
+That wasn't so hard now, was it? Now that we’ve got a simple Jekyll website running under Docker let’s go ahead and deploy it to DigitalOcean.
 
 # Run the site on DigitalOcean
 
-To run our Jekyll site on our Droplet we’ll first create an archive of the site source, then upload the site source to DigitalOcean, then build and run the container image on the remote server.
+To run our Jekyll site on our Droplet we’ll first create an archive of the site source. Then we'll upload the site source to DigitalOcean, build and run it.
 
 ## Upload site
 
@@ -192,10 +192,10 @@ In this tutorial we learned how to create simple websites with Jekyll and Docker
 
 Here are some ideas for things try next once you’re happy with the look-and-feel of your new Jekyll site:
 
-- Install the [Octopress 3](https://github.com/octopress/octopress) and learn how it can be used to simplify the process of managing pages and posts.
+- Install [Octopress 3](https://github.com/octopress/octopress) and learn how it can be used to simplify the process of managing pages and posts.
 - Automate the deployment process using [drone](https://github.com/drone/drone) or [Octopress](https://github.com/octopress/deploy) and let us know how you did it in the comments section below.
 - Learn about and set-up zero-downtime deployments using a proxy and tools such as [flocker](https://github.com/ClusterHQ/flocker) or [Ansible](http://www.ansible.com/).
-- [Sign-up](https://www.cloudflare.com/sign-up) for a free CloudFlare account and use it to increase the performance of your Jekyll site.
+- [Sign-up](https://www.cloudflare.com/sign-up) for a free CloudFlare account and use it to boost site performance.
 - Purchase a vanity domain name and use it to route DNS traffic to CloudFlare or directly to the app running on the Droplet.
 
 ---
