@@ -99,25 +99,23 @@ This allows Docker images to be built in a matter of seconds, which is what make
 
 Once the container is configured go ahead and **build the container** image like so:
 
-```
-docker build --rm .
-```
+    docker build --rm .
 
 The above builds the Docker image, removing intermediate containers after a successful build. It may take a moment while Docker *pulls* dependent layers. Once completed once, however, dependent layers will be cached during subsequent builds.
 
 Once built, get a listing of images:
 
-`docker images`
+    docker images
 
 Look at the top of the resulting list and **copy the Image ID** of the most recent entry.
 
 **Run the image** in the background, publishing port 80 on the container to port 80 to the host:
 
-`docker run -d -p 80:80 b64bea84255a`
+    docker run -d -p 80:80 b64bea84255a
 
 Confirm the container is running with:
 
-`docker ps`
+    docker ps
 
 In this list look for an active container to confirm the site is up-and-running on port 80.
 
@@ -147,11 +145,11 @@ First commit any changes you’ve made and **create a gzipped tarball** of the s
 ```
 git add -A && git commit -m "All the things"
 git archive -o app.tar.gz --prefix=app/ master
-``
+```
 
 Next use Secure copy to **transfer the site’s source files** from the current host to the Droplet and rebuild the container image there:
 
-`scp app.tar.gz deployer@HOST`
+    scp app.tar.gz deployer@HOST:
 
 Where `HOST` is the IP of the Droplet created earlier. This will copy the site archive to the server where it can be built and run.
 
@@ -161,17 +159,17 @@ Where `HOST` is the IP of the Droplet created earlier. This will copy the site a
 
 With the app source uploaded to the server we’re ready to build and run the container image remotely. To do this first login to the remote server:
 
-`ssh deployer@HOST`
+    ssh deployer@HOST
 
 Where `HOST` is the IP of the Droplet.
 
 Once logged in to the remote, unarchive and build the site, tagging it `webapp` to give it a more friendly name:
 
-`tar zxvf app.tar.gz && docker build -t webapp app/`
+    tar zxvf app.tar.gz && docker build -t webapp app/
 
 Once the container image is built, run it on port 80 for both host and container:
 
-`docker run --rm -p 80:80 webapp`
+    docker run --rm -p 80:80 webapp
 
 *Note:* Run the above with the `-d` flag once you’ve confirmed the site is up to keep it running.
 
