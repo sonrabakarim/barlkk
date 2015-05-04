@@ -17,7 +17,7 @@ As I [mentioned][1] in late January, VUDU users now have the ability to upgrade 
 
 ## The value proposition
 
-Individuals can start convert their existing DVD disc collections to 1080p HDX high-defintion digital format for a nominal fee, and stream the converted movies to their televisions and other devices using an internet connection. The current cost for conversion for DVDs is **$2 per movie or $5 for a 1080p upgrade**, and $2 for Blu-ray to HDX.
+Individuals can start converting their existing DVD disc collections to 1080p HDX high-defintion digital format for a nominal fee, and stream the converted movies to their televisions and other devices using an internet connection. The current cost for conversion for DVDs is **$2 per movie or $5 for a 1080p upgrade**, and $2 for Blu-ray to HDX.
 
 Moving to digital streaming unlocks some long-awaited advantages for thrifty cinephiles, including:
 
