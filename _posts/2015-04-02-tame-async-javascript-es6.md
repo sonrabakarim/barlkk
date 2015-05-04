@@ -2,14 +2,15 @@
 author: Josh Habdas
 layout: post
 title: "Tame Async JavaScript with ES6"
+description: "Tame async JavaScript with ES6 using Generators and Promises"
 date: 2015-04-02 18:33
 comments: true
-categories:
-  - programming
-tags:
-  - es6
-  - javascript
-  - patterns
+categories: [coding]
+tags: [es6, javascript, patterns]
+image:
+  feature: lion-515029_1280.jpg
+  credit: designerpoint
+  creditlink: http://pixabay.com/en/lion-predator-big-cat-safari-515029/
 ---
 
 One of the trickier parts of writing JS for the web is working with async code. Control flow abstractions for handling async JS exist but are commonly overlooked in engineering organizations, which can lead JS projects unknowingly into a labyrinth of [IIFE](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)s, through the [pyramid of doom](http://survivejs.com/common_problems/pyramid.html) and directly to [callback hell](http://callbackhell.com/) — making code brittle and prone to breakage.
