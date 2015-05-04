@@ -92,9 +92,9 @@ Next we’ll configure a Docker container to host a Docker image we can use to r
 
 {% gist jhabdas/e0d5e3bed0316f1a5783 %}
 
-What’s this does is builds off an existing container called [passenger-docker](https://github.com/phusion/passenger-docker), exposes traffic on 80 for port-forwarding, copies the site into the container, builds the site using Jekyll, configures Nginx to use it and then serves the whole thing up using [Passenger](https://www.phusionpassenger.com).
+What this does is builds a container image based off a container called [passenger-docker](https://github.com/phusion/passenger-docker), exposes traffic on 80 for port-forwarding, copies the site into the container, builds the site using Jekyll, configures Nginx to use it and then serves the whole thing up using [Passenger](https://www.phusionpassenger.com).
 
-This allows Docker images to be built in a matter of seconds, which is what makes working with containers so appealing.
+Running the above Dockerfile allows images to be built in a matter of seconds, which is one of the reasons working with containers is so appealing.
 
 ## Build and run container image locally
 
