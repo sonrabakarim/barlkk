@@ -60,10 +60,12 @@ See also Roger Johansson's [Lightboxes and keyboard accessibility][2] for addit
 
 ## Recommended scripts
 
-*   [ColorBox][3] -- A light-weight, customizable lightbox plugin for jQuery
-*   [Lightview][4] -- Lightview was built to change the way you overlay content on a website
+* [FancyBox][5] -- A tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page
+* [ColorBox][3] -- A light-weight, customizable lightbox plugin for jQuery
+* [Lightview][4] -- Lightview was built to change the way you overlay content on a website
 
  [1]: http://planetozh.com/projects/lightbox-clones/
  [2]: http://www.456bereastreet.com/archive/200910/lightboxes_and_keyboard_accessibility/
  [3]: http://colorpowered.com/colorbox/
  [4]: http://www.nickstakenburg.com/projects/lightview/
+ [5]: http://fancybox.net/
