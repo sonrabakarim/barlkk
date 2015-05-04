@@ -4,32 +4,8 @@ author: Josh Habdas
 layout: post
 permalink: /developing-modern-web-applications-on-windows-vagrant/
 comments: true
-categories:
-  - tutorials
-tags:
-  - ajax
-  - html
-  - ria
-  - javascript
-  - coffeescript
-  - virtualization
-  - backbonejs
-  - chaplinjs
-  - bower
-  - scaffolt
-  - grunt
-  - editors
-  - nodejs
-  - curl
-  - brunch
-  - nginx
-  - virtualbox
-  - windows
-  - vagrant
-  - ubuntu
-  - bash
-  - phantomjs
-  - testem
+categories: [tutorials]
+tags: [ajax, html, ria, javascript, coffeescript, virtualization, backbonejs, chaplinjs, bower, scaffolt, grunt, editors, nodejs, curl, brunch, nginx, virtualbox, windows, vagrant, ubuntu, bash, phantomjs, testem]
 ---
 I earlier this month I spent [way too much time][1] writing an article on how to [SFTP to Ubuntu Server with Sublime Text][2]. The purpose of the SFTP effort was to set myself up for developing modern web applications on a new Windows 8 machine I bought to play SimCity 2013. And after getting everything working I realized the SFTP method had some gremlins and the file syncing reminded me of Dreamweaver–it simply wasn't fast enough.
 
@@ -67,17 +43,17 @@ Once the specified applications are installed it's time to start configuring the
 
 Once the core applications are installed, start configuring the development environment.
 
-First, open Git Shell from Windows and, at the command prompt, follow the simple [Vagrant Getting Started][15] instructions. This will download a Linux image for the VM, install and start it.
+First, open Git Shell from Windows and, at the command prompt, follow the simple [Vagrant Getting Started][15] instructions. This will download a Linux image for the <abbr title="Virtual Machine">VM</abbr>, install and start it.
 
-**Note:** The following steps will assume Vagrant installs Ubuntu 12.04 LTS, though other operating systems and versions are likely to be used in the future.
+**Note:** The following steps will assume Vagrant installs Ubuntu 12.04 <abbr title="Long-Term Support">LTS</abbr>, though other operating systems and versions are likely to be used in the future.
 
-After the virtual machine starts, connect to it with [Vagrant SSH][16]. Once at the bash prompt, pictured below, type `pwd` to confirm the current directory is the vagrant home directory.
+After the virtual machine starts, connect to it with [Vagrant SSH][16]. Once at the <abbr title="Bourne-again shell">bash</abbr> prompt, pictured below, type `pwd` to confirm the current directory is the vagrant home directory.
 
 ![Screenshot of Ubuntu SSH log-in with Vagrant using Git Shell](//s3.amazonaws.com/images.habdas.org/powershell-vagrant.png)
 
 Then, from the prompt, run the following commands, in sequence, and accepting any intermediate prompts presented, to [install Node.js][35], Nginx and curl, set-up Vagrant [synced folders][34] and start the web server.
 
-```
+```sh
 sudo apt-get update
 sudo apt-get install python-software-properties python g++ make
 sudo add-apt-repository ppa:chris-lea/node.js
@@ -93,7 +69,7 @@ sudo /usr/sbin/nginx
 
 Once complete, execute `curl localhost` at the bash prompt to verify the web server started and is sending an expected HTTP response, as shown below.
 
-``` html
+```html
 <html>
 <head>
 <title>Welcome to nginx!</title>
@@ -104,9 +80,9 @@ Once complete, execute `curl localhost` at the bash prompt to verify the web s
 </html>
 ```
 
-If the response is successful, [network the VM][36] with Windows–the host machine–by editing the Vagrantfile (a text file created when the VM was created), uncommenting the following line and saving the file.
+If the response is successful, [network the VM][36] with Windows–the host machine–by editing the `Vagrantfile` (a text file created when the VM was created), uncommenting the following line and saving the file.
 
-``` ruby Vagrantfile
+```ruby
 # config.vm.network :forwarded_port, guest: 80, host: 8080
 ```
 
@@ -138,7 +114,7 @@ It's worth mentioning that Brunch has skeletons available for a number of other 
 
 Back in Ubuntu (you may need to SSH in again), from the bash prompt, `cd` to _/vagrant/www_ and enter the following at the prompt to install the Brunch application assembler, create a new application using the default Brunch skeleton, install dependencies and build the app:
 
-```
+```sh
 sudo npm install -g brunch
 brunch new todomvc && cd todomvc
 sudo npm install --no-bin-links # Skip soft links to avoid symlink errors
@@ -158,9 +134,9 @@ At first when the page is pulled up, errors are preventing the content from load
     Uncaught SyntaxError: Unexpected token < app.js:1
     Uncaught ReferenceError: require is not defined
 
-Debugging will show that Nginx is responding with HTML for the external CSS and JS files, instead of the expected style and script resources. Why is that? Let's take a <a href="view-source:http://localhost:8080/todomvc/public/index.html" target="_blank" rel="nofollow">look at the page source</a> and find out. It should look something like the following:
+Debugging will show that Nginx is responding with HTML for the external CSS and JS files, instead of the expected style and script resources. Why is that? Let's take a <a href="view-source:http://localhost:8080/todomvc/public/index.html" target="_blank" rel="nofollow">look at the `index.html` page source</a> and find out. It should look something like the following:
 
-``` html index.html
+```html
 <!doctype html>
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
@@ -183,7 +159,7 @@ It’s a fairly vanilla HTML5 document with some conditional comments for IE, Un
 
 The errors themselves are occurring because the external resources cannot be located relative to the web root and so Nginx has decided instead to return the default <i>index.html</i> file–the one modified earlier. There are a few ways to fix this:
 
-- Change the paths of the external resources to be document- rather than root-relative;</span>
+- Change the paths of the external resources to be document- rather than root-relative;
 - Change the web root to point to the application's public directory; and
 - Configure Brunch to deploy files to the web root.
 
@@ -193,7 +169,7 @@ Though any of these options would work, we're going to go with configuring brunc
 
 Earlier, the web root was modified by moving the Nginx <i>www</i> folder to <i>/vagrant/www</i> and creating a symlink pointing to the new location. Remove that symlink and create a new <i>www</i> folder in its place, so generated application files can be deployed to a location outside of Vagrant synced folders.
 
-```
+```sh
 sudo rm /usr/share/nginx/www && sudo mkdir /usr/share/nginx/www
 ```
 
@@ -201,11 +177,11 @@ sudo rm /usr/share/nginx/www && sudo mkdir /usr/share/nginx/www
 
 To configure the Brunch app to deploy files to the new location, modify the [configuration file][24] in the application root directory, add the following paths directive, save the file, and rebuild the application with sudo privileges:
 
-``` coffeescript config.coffee
+```coffee
 paths:
   public: '/usr/share/nginx/www'
 ```
-```
+```sh
 cd /vagrant/www/todomvc && sudo brunch b
 ```
 
@@ -219,9 +195,9 @@ Before going any further, now is a good time to get acquainted with the applic
 
 ### Get aquainted with the application stack
 
-Once you have the sample app up-and-running, pull up the page source once more and notice the following two external scripts:
+Once you have the sample app up-and-running, pull up the `index.html` page source once more and notice the following two external scripts:
 
-``` html index.html
+```html
 <script src="/javascripts/vendor.js"></script>
 <script src="/javascripts/app.js"></script>
 ```
@@ -234,7 +210,7 @@ Each of the two JS files in the page source represent all of the individual scri
 
 The stylesheets for the application are created in a similar manner, except that, unlike the script files, both the vendor and app stylesheets are combined into a single file. The behavior for CSS is determined by the following [files][18] statement in `config.coffee`:
 
-``` coffeescript config.coffee
+```coffeescript
 'stylesheets/app.css': /^(app|vendor)/
 ```
 
@@ -316,7 +292,3 @@ This article covered a series of steps which can be used for developing modern w
  [40]: http://phantomjs.org/
  [41]: https://github.com/airportyh/testem
  [42]: http://arturadib.com/hello-backbonejs/docs/1.html
-
- *[VM]: Virtual Machine
- *[LTS]: Long-Term Support
- *[bash]: Bourne-again shell
