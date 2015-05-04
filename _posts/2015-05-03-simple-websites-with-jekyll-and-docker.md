@@ -18,7 +18,7 @@ Looking to create a simple website but don’t want to pay an arm and a leg for 
 
 <!--more-->
 
-**Primary Objective:** Create and host simple websites with Jekyll and Docker using Mark Otto’s beautiful and minimalistic [Lanyon theme](https://github.com/poole/lanyon).
+**Primary Objective:** Create and host simple websites with Jekyll and Docker using Mark Otto’s beautiful and minimalistic [Lanyon][1] theme.
 
 **Secondary Objective:** Earn some geek cred by learning how to use Jekyll, Docker and Passenger; and learning how to deploy your website from the command line.
 
@@ -30,9 +30,9 @@ If you’re not planning to deploy your site to DigitalOcean you may skip this s
 
 ## Create Docker Droplet
 
-Login to [Digital Ocean Control Panel](https://cloud.digitalocean.com/droplets/) and choose **Create Droplet**. Complete the subsequent form, selecting the $5/mo. size option and, in the *Select Image* section, click *Applications* and choose **Docker** as shown below.
+Login to [DigitalOcean Control Panel](https://cloud.digitalocean.com/droplets/) and choose **Create Droplet**. Complete the subsequent form, selecting the $5/mo. size option and, in the *Select Image* section, click *Applications* and choose **Docker** as shown below.
 
-![Digital Ocean Droplet creation with Docker App selected](/images/digitalocean-docker-app.png "Select Docker in the DigitalOcean Control Panel during Droplet creation.")
+![DigitalOcean Droplet creation with Docker App selected](/images/digitalocean-docker-app.png "Select Docker in the DigitalOcean Control Panel during Droplet creation.")
 
 Then **Add SSH Key** and create your Droplet. Provisioning should finish in a matter of seconds all thanks to your handy clickwork.
 
@@ -82,7 +82,7 @@ You’ll see a command listing if everything worked. If not, **ensure boot2docke
 
 ## Clone Jekyll seed
 
-In order to build a Docker image to run our Jekyll site we need an actual site to start with. Rather than creating one from scratch we’re going to use an open-source seed called [Lanyon](http://lanyon.getpoole.com/) by Mark Otto. Go ahead and clone it now:
+In order to build a Docker image to run our Jekyll site we need an actual site to start with. Rather than creating one from scratch we’re going to use an open-source seed called [Lanyon][1] by Mark Otto. Go ahead and clone it now:
 
     git clone https://github.com/poole/lanyon.git lanyon && cd $_
 
@@ -201,6 +201,7 @@ Here are some ideas for things try next once you’re happy with the look-and-fe
 ---
 
 [^1]: It’s all fun and games until someone jails the root user.
+[1]: http://lanyon.getpoole.com/ "Example of Lanyon theme by Mark Otto"
 
 <!-- Twitter conversion tracking code snippet -->
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
