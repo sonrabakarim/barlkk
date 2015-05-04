@@ -19,6 +19,10 @@ The need for speed is upon us. Out of the box the speed of an Octopress kinda dr
 
 <!--more-->
 
+If you followed along with the above and are using something like S3 or [CloudFlare](https://www.cloudflare.com/) to host your images you should be at or near a 90+ rating for both mobile and desktop on PageSpeed Insights.
+
+![Screenshot of 92/100 Google PageSpeed score](//s3.amazonaws.com/images.habdas.org/pagespeed-92.png)
+
 ## Optimize JavaScript
 
 The first speed offender on a stock Octopress install is the JavaScript. The stock Octopress configuration does not include an asset pipeline to concatenate and uglify JS files, resulting in a greater number of external script requests. But we can remedy that without too much effort.
@@ -114,8 +118,4 @@ Here are some other ideas to eke out a just a little more speed from your Octopr
 
 ## In review
 
-If you followed along with the above and are using something like S3 or [CloudFlare](https://www.cloudflare.com/) to host your images you should be at or near a 90+ rating for both mobile and desktop on PageSpeed Insights.
-
-![Screenshot of 92/100 Google PageSpeed score](//s3.amazonaws.com/images.habdas.org/pagespeed-92.png)
-
-It’s likely much of this will no longer be necessary given the new [asset pipeline](https://github.com/octopress/asset-pipeline) for and Octopress 3 — which [is coming](http://octopress.org/2015/01/15/octopress-3.0-is-coming/). But until then enjoy these tips to turbocharge your Octopress blog.
+It’s likely much of this will no longer be necessary given the new [Octopress asset pipeline](https://github.com/octopress/asset-pipeline) for and Octopress 3 — which [is coming](http://octopress.org/2015/01/15/octopress-3.0-is-coming/). But until then enjoy these tips to turbocharge your Octopress blog.
