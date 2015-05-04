@@ -21,6 +21,12 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
+<!-- DNS Prefetching for A-grade browsers -->
+<link href="//images.habdas.org" rel="dns-prefetch">
+<link href="//platform.twitter.com" rel="dns-prefetch">
+<link href="//apis.google.com" rel="dns-prefetch">
+<link href="//load.sumome.com" rel="dns-prefetch">
+
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 
