@@ -4,18 +4,16 @@ layout: post
 title: "Turbocharge Your Octopress Blog"
 date: 2015-04-13 21:00
 comments: true
-categories:
-  - tutorials
-tags:
-  - octopress
-  - blogging
-  - performance
-  - optimization
-  - s3
-  - aws
+description: "Speed up your Octopress or Jekyll blog and rank higher in search with a 92 or better page speed. Learn how to turbocharge your Octopress blog."
+categories: [tutorials]
+tags: [octopress, blogging, performance, optimization, s3, aws]
+image:
+  feature: octopus-250101_1280.jpg
+  credit: cocoparisienne
+  creditlink: http://pixabay.com/en/octopus-suction-cup-suction-cups-250101/
 ---
 
-The need for speed is upon us. Out of the box Octopress 2.0 isn’t as fast as it can be. However, there are a number of things you can do to to speed it up without a complete overhaul.
+The need for speed is upon us. Out of the box the speed of an Octopress kinda drags. However, there are a number of things you can do to to speed it up without a complete overhaul.
 
 > Learn how to turbocharge your Octopress blog
 
