@@ -2,7 +2,7 @@
 layout: post
 title: "Simple websites with Jekyll and Docker"
 permalink: /simple-websites-jekyll-docker/
-description: "Want to create a website but not sure where to start? Host simple websites using Docker and Jekyll for only five bucks a month."
+description: "Host simple websites using Docker and Jekyll for only five $5 bucks a month."
 date: 2015-05-03T01:01:56-05:00
 tags: [github, blogging, jekyll, docker, passenger, virtualbox, webmaster, vm, virtualization, hosting]
 categoryies: [tutorials]
