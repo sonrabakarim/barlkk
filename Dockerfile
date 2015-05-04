@@ -1,4 +1,4 @@
-# DOCKER-VERSION 1.2.0
+# DOCKER-VERSION 1.5.0, build a8a31ef
 
 # habd.as Dockerfile
 # Runs Octopress 3 under Nginx with Passenger
