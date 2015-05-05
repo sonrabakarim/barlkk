@@ -69,4 +69,4 @@ Resulting in JSON like the following logged to the console:
 
 The above leverages ES6 [Generators](http://wiki.ecmascript.org/doku.php?id=harmony:generators), [Promises](http://caniuse.com/#search=promises), [Destructuring assignments](http://wiki.ecmascript.org/doku.php?id=harmony:destructuring) and the [Fetch API](https://fetch.spec.whatwg.org/#fetch-api) to perform Ajax operations in a maintainable way without introducing too much complexity. Pretty pithy when compared with ES5. And though [async functions](http://wiki.ecmascript.org/doku.php?id=strawman:async_functions) should simplify things when ES7 lands, use the above to tame async JavaScript with ES6.
 
-Need a working example? Check out the [chat parser](https://github.com/jhabdas/xanthippe/) I created using ES6 and Babel.
+Need a working example? Check out the [chat parser](https://github.com/jhabdas/xanthippe/) I created using ES6 and Babel. Looking for more depth? Check out [Synchronous Asynchronous JavaScript with ES6 Generators](http://chrisbuttery.com/articles/synchronous-asynchronous-javascript-with-es6-generators/) by Chris Buttery.
