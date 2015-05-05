@@ -2,10 +2,15 @@
 title: Developing modern web applications on Windows with Vagrant
 author: Josh Habdas
 layout: post
+description: "How to set up a development environment in Windows using a virtualized Linux box."
 permalink: /developing-modern-web-applications-on-windows-vagrant/
 comments: true
 categories: [tutorials]
 tags: [ajax, html, ria, javascript, coffeescript, virtualization, backbonejs, chaplinjs, bower, scaffolt, grunt, editors, nodejs, curl, brunch, nginx, virtualbox, windows, vagrant, ubuntu, bash, phantomjs, testem]
+image:
+  feature: cress-253799_1280.jpg
+  credit: stux
+  creditlink: http://pixabay.com/en/cress-seedling-plant-253799/
 ---
 I earlier this month I spent [way too much time][1] writing an article on how to [SFTP to Ubuntu Server with Sublime Text][2]. The purpose of the SFTP effort was to set myself up for developing modern web applications on a new Windows 8 machine I bought to play SimCity 2013. And after getting everything working I realized the SFTP method had some gremlins and the file syncing reminded me of Dreamweaver–it simply wasn't fast enough.
 
