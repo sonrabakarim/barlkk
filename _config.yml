@@ -29,10 +29,9 @@ excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of 
 # Background image to be tiled on all pages
 background: witewall_3.png
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: # UA-6473963-1 disabled in favor of Analytics tag for Tag Manager
+# Analytics and webmaster tools
+segment_io: YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
 google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
