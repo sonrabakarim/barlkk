@@ -2,7 +2,7 @@
 layout: post
 title: "Simple websites with Jekyll and Docker"
 permalink: /simple-websites-jekyll-docker/
-description: "Host simple websites using Docker and Jekyll for only five $5 bucks a month."
+description: "Host your own simple website using Jekyll and Docker for only five $5 bucks a month."
 date: 2015-05-03T01:01:56-05:00
 tags: [github, blogging, jekyll, docker, passenger, virtualbox, webmaster, vm, virtualization, hosting]
 categoryies: [tutorials]
@@ -12,7 +12,7 @@ image:
   creditlink: http://pixabay.com/en/sailing-boat-sea-ocean-679833/
 ---
 
-Looking to create a simple website but don’t want to pay an arm and a leg for setup and hosting? Get started for only $5 a month, with the first two months free.
+Looking to create a simple website but don’t want to pay through the nose for hosting? Get started for only five $5 bucks a month.
 
 > Learn how to setup simple websites with Jekyll and Docker
 
