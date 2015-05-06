@@ -9,4 +9,6 @@ comments: false
 modified: 2015-04-28
 ---
 
-*Coming soon...* And unlike every other time you've seen that I'm actually not lying. ;)
+*Coming soon...* Until then, enjoy some Lumpen.fm:
+
+<audio src="http://50.7.99.155:7416/;stream/1" preload="auto" controls></audio>
