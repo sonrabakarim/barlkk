@@ -17,7 +17,7 @@ analytics.page()
 <!-- Enable AnchorJS -->
 <script>addAnchors('.entry-content h1, .entry-content h2, .entry-content h3');</script>
 
-<!-- Fade-in SumoMe Share Client on scroll -->
+<!-- FadeIn SumoMe Share Client on scroll -->
 <style>
   .sumome-share-client-wrapper {
     opacity: 0;
@@ -27,10 +27,10 @@ analytics.page()
 (function () {
 
   var defaults = {
+    fadeInAtY: 400,
     select: function () {
-      return document.querySelector('.sumome-share-client-wrapper');
-    },
-    fromTop: 400
+      return document.querySelector('.sumome-share-client-wrapper')
+    }
   }
 
   var lastScrollY = 0;
@@ -50,8 +50,8 @@ analytics.page()
   }
 
   function update () {
-    if (lastScrollY > defaults.fromTop) {
-      if (el = defaults.select()) { // >=]
+    if (lastScrollY > defaults.fadeInAtY) {
+      if (el = defaults.select()) { // a h@ck but its worth it
         el.style.removeProperty('opacity');
         el.classList.add('animated', 'fadeIn');
         window.removeEventListener('scroll', onScroll, false);
