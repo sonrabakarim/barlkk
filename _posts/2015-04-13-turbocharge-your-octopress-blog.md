@@ -29,7 +29,12 @@ The first speed offender on a stock Octopress install is the JavaScript. The sto
 
 After a little digging I found some Rake tasks on [Making Octopress Fast](http://www.eriwen.com/performance/make-octopress-fast/) to handle combining and minifying JS files into a file called `all.js`, eliminating the need to include individual JS files. Incorporate the JS-related tasks into your Rakefile. While you’re at it, add the CSS related tasks as well — we’ll be using them later.
 
-**Note:** The Rake tasks in the above article make use of but don't mention a couple of NPM modules required to function. To get them working install Node or [io.js](https://iojs.org/) and NPM, then install the dependencies with `npm install -g clean-css && npm install -g uglifyjs`.
+**Note:** The Rake tasks in the above article make use of but don't mention a couple of NPM modules required to function. To get them working install Node or [io.js](https://iojs.org/) and NPM, then install the dependencies:
+
+```sh
+npm install -g clean-css
+npm install -g uglifyjs
+```
 
 Once the Rake tasks are functional you’ll be able to remove a few of the `script` tags from `source/_includes/head.html` as well as any *asides* or *plug-ins* making external script requests.
 
