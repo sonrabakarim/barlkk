@@ -193,7 +193,7 @@ In this tutorial we learned how to create simple websites with Jekyll and Docker
 
 Here are some ideas for things try next once you’re happy with the look-and-feel of your new Jekyll site:
 
-- Host your Docker container on DockerHub. They'll event automatically build images for you when you commit to GitHub or BitBucket. [Here's mine](https://registry.hub.docker.com/u/jhabdas/habd.as/).
+- Host your Docker container on [DockerHub](https://registry.hub.docker.com/u/jhabdas/habd.as/). They'll even automatically build images for you when you commit to GitHub or BitBucket.
 - Install [Octopress 3](https://github.com/octopress/octopress) and learn how it can be used to simplify the process of managing pages and posts.
 - Automate the deployment process using [drone](https://github.com/drone/drone) or [Octopress](https://github.com/octopress/deploy) and let us know how you did it in the comments section below.
 - Learn about and set-up zero-downtime deployments using a proxy and tools such as [flocker](https://github.com/ClusterHQ/flocker) or [Ansible](http://www.ansible.com/).
