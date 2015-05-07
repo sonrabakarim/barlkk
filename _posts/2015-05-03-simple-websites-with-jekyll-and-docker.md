@@ -197,7 +197,7 @@ Here are some ideas for things try next once you’re happy with the look-and-fe
 - Install [Octopress 3](https://github.com/octopress/octopress) and learn how it can be used to simplify the process of managing pages and posts.
 - Automate the deployment process using [drone](https://github.com/drone/drone) or [Octopress](https://github.com/octopress/deploy) and let us know how you did it in the comments section below.
 - Learn about and set-up zero-downtime deployments using a proxy and tools such as [flocker](https://github.com/ClusterHQ/flocker) or [Ansible](http://www.ansible.com/).
-- [Sign-up](https://www.cloudflare.com/sign-up) for a free CloudFlare account and use it to boost site performance.
+- [Sign-up for a free CloudFlare](https://www.cloudflare.com/sign-up) account and use the CDN to boost site performance.
 - Purchase a vanity domain name and use it to route DNS traffic to CloudFlare or directly to the app running on the Droplet.
 
 ---
