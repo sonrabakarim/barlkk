@@ -22,45 +22,6 @@ Looking to create a simple website but don’t want to pay through the nose for 
 
 **Secondary Objective:** Earn some geek cred by learning how to use Jekyll, Docker and Passenger; and learning how to deploy your website from the command line.
 
-# Configure Server for Docker deployments
-
-In this tutorial we’ll use a remote server to host our Jekyll site. For simplicity we’ll use DigitalOcean and take advantage of the 1-click Docker installation feature. If you don’t already have a DigitalOcean account you can use my referral code for 2 months free.
-
-<a href="https://www.digitalocean.com/?refcode=9d5c1c681fd0" class="btn btn-warning">Free hosting for 2 months</a>
-If you’re not planning to host your site on DigitalOcean you may skip this step and use another hosting provider.
-
-## Create Docker Droplet
-
-Login to [DigitalOcean Control Panel](https://cloud.digitalocean.com/droplets/) and choose **Create Droplet**. Complete the subsequent form, selecting the $5/mo. size option and, in the *Select Image* section, click *Applications* and choose **Docker** as shown below.
-
-![DigitalOcean Droplet creation with Docker App selected](/images/digitalocean-docker-app.png "Select Docker in the DigitalOcean Control Panel during Droplet creation.")
-
-Then **Add SSH Key** and create your Droplet. Provisioning should finish in a matter of seconds all thanks to your handy clickwork.
-
-## Create new user
-
-Once the new Droplet is active we should create a new user so we’re not always executing commands as root[^1].
-
-First, **open a console** such as [iTerm 2](http://iterm2.com/) or [cmder](http://gooseberrycreative.com/cmder/) and SSH as root using the IP of the Droplet you created, e.g.
-
-    ssh root@45.55.234.56
-
-**Note**: If this is the first time connecting you’ll be prompted regarding host authenticity. Enter `yes` to continue connecting.
-
-(Assuming you added SSH keys when creating the droplet you should now be connected to the droplet and logged in as *root*. Otherwise, enter the password to continue.)
-
-Next, **create a new user** called `deployer` and give them super user privileges as described in [How To Add and Delete Users on an Ubuntu 14.04 VPS](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps). Once complete `exit` SSH to end the remote connection. Next we’ll give the new user password-free access to the Droplet.
-
-## Add SSH key for deployer
-
-With the new user created we can **add an SSH key** for them with the following command:
-
-    cat ~/ .ssh/id_rsa.pub | ssh deployer@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
-
-Where `HOST` is the IP of the Droplet.
-
-You will be prompted for the password — go ahead and enter it. From now on you will no longer have to enter the password for this user while connecting from this machine.
-
 # Create Docker image
 
 Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run on our Droplet.
@@ -133,6 +94,45 @@ You can even connect to the above IP using a web browser. If everything’s work
 ![Jekyll site running in a browser](/images/docker-passenger-lanyon.png)
 
 That wasn't so hard now, was it? Now that we’ve got a simple Jekyll website running under Docker let’s go ahead and deploy it to DigitalOcean.
+
+# Configure Server for Docker deployments
+
+In this tutorial we’ll use a remote server to host our Jekyll site. For simplicity we’ll use DigitalOcean and take advantage of the 1-click Docker installation feature. If you don’t already have a DigitalOcean account you can use my referral code for 2 months free.
+
+<a href="https://www.digitalocean.com/?refcode=9d5c1c681fd0" class="btn btn-warning">Free hosting for 2 months</a>
+If you’re not planning to host your site on DigitalOcean you may skip this step and use another hosting provider.
+
+## Create Docker Droplet
+
+Login to [DigitalOcean Control Panel](https://cloud.digitalocean.com/droplets/) and choose **Create Droplet**. Complete the subsequent form, selecting the $5/mo. size option and, in the *Select Image* section, click *Applications* and choose **Docker** as shown below.
+
+![DigitalOcean Droplet creation with Docker App selected](/images/digitalocean-docker-app.png "Select Docker in the DigitalOcean Control Panel during Droplet creation.")
+
+Then **Add SSH Key** and create your Droplet. Provisioning should finish in a matter of seconds all thanks to your handy clickwork.
+
+## Create new user
+
+Once the new Droplet is active we should create a new user so we’re not always executing commands as root[^1].
+
+First, **open a console** such as [iTerm 2](http://iterm2.com/) or [cmder](http://gooseberrycreative.com/cmder/) and SSH as root using the IP of the Droplet you created, e.g.
+
+    ssh root@45.55.234.56
+
+**Note**: If this is the first time connecting you’ll be prompted regarding host authenticity. Enter `yes` to continue connecting.
+
+(Assuming you added SSH keys when creating the droplet you should now be connected to the droplet and logged in as *root*. Otherwise, enter the password to continue.)
+
+Next, **create a new user** called `deployer` and give them super user privileges as described in [How To Add and Delete Users on an Ubuntu 14.04 VPS](https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps). Once complete `exit` SSH to end the remote connection. Next we’ll give the new user password-free access to the Droplet.
+
+## Add SSH key for deployer
+
+With the new user created we can **add an SSH key** for them with the following command:
+
+    cat ~/ .ssh/id_rsa.pub | ssh deployer@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+
+Where `HOST` is the IP of the Droplet.
+
+You will be prompted for the password — go ahead and enter it. From now on you will no longer have to enter the password for this user while connecting from this machine.
 
 # Run the site on DigitalOcean
 
