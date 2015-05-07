@@ -26,7 +26,7 @@ Looking to create a simple website but don’t want to pay through the nose for 
 
 Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run on our Droplet.
 
-**Tip:** Never used Docker before? No worries! Just head over to the [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn. SSH into the Droplet under the new user account to follow along with the examples therein.
+**Tip:** Never used Docker before? No worries! Just head over to the [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn to start learning.
 
 ## Install Docker
 
