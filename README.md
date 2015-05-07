@@ -9,7 +9,7 @@ My personal site all containerized using the HPSTR theme for Jekyll.
 - Everything you see in the HPSTR section below
 - Ready-to-use Dockerfile for site containerization
 - Improved SEO with post excerpts and auto-generated meta descriptions
-- Configurable support for [Segment.io](segment.io)
+- Configurable support for [Segment.io](http://segment.io)
 - Support for GitHub flavored markdown and code fencing
 - Better semantics with the `main` and `aside` elements
 - A `robots.txt` file for crawlers
