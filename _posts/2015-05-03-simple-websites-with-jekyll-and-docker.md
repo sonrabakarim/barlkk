@@ -4,7 +4,7 @@ title: "Simple websites with Jekyll and Docker"
 permalink: /simple-websites-jekyll-docker/
 description: "Learn how to host your own simple websites with Jekyll and Docker."
 date: 2015-05-03T01:01:56-05:00
-tags: [github, blogging, jekyll, docker, passenger, virtualbox, webmaster, vm, virtualization, hosting]
+tags: [blogging, devops, jekyll, docker, server, webmaster, vm, virtualization, hosting]
 categoryies: [tutorials]
 image:
   feature: sailing-boat-679833_1280.jpg
@@ -24,7 +24,7 @@ Looking to create a simple website but don’t want to pay through the nose for 
 
 # Create Docker image
 
-Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run on our Droplet.
+Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run locally and on a server.
 
 **Tip:** Never used Docker before? No worries! Just head over to the [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn to start learning.
 
@@ -175,7 +175,7 @@ Once the container image is built, run it on port 80 for both host and container
 
 *Note:* Run the above with the `-d` flag once you’ve confirmed the site is up to keep it running.
 
-## Confirm site is up
+## Confirm Docker web server is up
 
 Now that the site’s up and running you can test it by browsing to `http://HOST/` where `HOST` is the IP of your Droplet. If everything worked you should be staring at the same Jekyll site you saw on your local machine earlier.
 
