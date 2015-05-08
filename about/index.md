@@ -9,6 +9,6 @@ comments: false
 modified: 2015-04-28
 ---
 
-*Coming soon...* Until then, enjoy some Lumpen.fm:
+*Coming soon...* Until then, enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lumpen Radio</a>:
 
 <audio src="http://50.7.99.155:7416/;stream/1" preload="auto" controls></audio>
