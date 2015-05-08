@@ -54,9 +54,15 @@ Next we’ll configure a Docker container to host a Docker image we can use to r
 
 {% gist jhabdas/e0d5e3bed0316f1a5783 %}
 
-What this does is builds a container image based off a container called [passenger-docker](https://github.com/phusion/passenger-docker), exposes traffic on 80 for port-forwarding, copies the site into the container, builds the site using Jekyll, configures Nginx to use it and then serves the whole thing up using [Passenger](https://www.phusionpassenger.com).
+What this will do is build a container image based off a container called [passenger-docker](https://github.com/phusion/passenger-docker), exposes traffic on 80 for port-forwarding, copies the site into the container, builds the site using Jekyll, configures Nginx to use it and then serves the whole thing up using [Passenger](https://www.phusionpassenger.com).
 
-Running the above Dockerfile allows images to be built in a matter of seconds, which is one of the reasons working with containers is so appealing.
+## Install Ruby dependencies
+
+The dockerfile wants a file you don't have yet called `Gemfile.lock`. To create it [use Bundler](http://bundler.io/) from the *same directory* as the `Gemfile`:
+
+    bundle install
+
+Once the lock file is created you're ready to build the container image.
 
 ## Build and run container image locally
 
@@ -66,7 +72,7 @@ Once the container is configured go ahead and **build the container** image like
 
 The above builds the Docker image, removing intermediate containers after a successful build. It may take a moment while Docker *pulls* dependent layers. Once completed, however, dependent layers will be cached during subsequent builds.
 
-Once built, get a listing of images:
+After the build completes, get a listing of images:
 
     docker images
 
