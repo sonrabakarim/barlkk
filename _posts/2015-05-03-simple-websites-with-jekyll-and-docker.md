@@ -44,7 +44,7 @@ You’ll see a command listing if everything worked. If not, **ensure boot2docke
 
 ## Clone Jekyll seed
 
-In order to build a Docker image to run our Jekyll site we need an actual site to start with. Rather than creating one from scratch we’re going to use an open-source seed called [Lanyon][1] by Mark Otto. Go ahead and clone it now:
+In order to build a Docker image to run our Jekyll site we need an actual site to start with. Rather than creating one from scratch we’re going to use an open-source seed called [Lanyon][1] by Mark Otto. Go ahead and **clone it now**:
 
     git clone https://github.com/poole/lanyon.git lanyon && cd $_
 
