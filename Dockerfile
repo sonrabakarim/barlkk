@@ -4,7 +4,7 @@
 # Runs Octopress 3 under Nginx with Passenger
 
 FROM phusion/passenger-ruby21:0.9.15
-MAINTAINER Josh Habdas "jsoh@habd.as"
+MAINTAINER Josh Habdas "jhabdas@gmail.com"
 
 # Set environment variables
 ENV HOME /root
