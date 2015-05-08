@@ -15,6 +15,21 @@ My personal site all containerized using the HPSTR theme for Jekyll.
 - A `robots.txt` file for crawlers
 - Less code for a lighter footprint
 
+# Usage with Docker
+
+```
+                                   ##         .
+                             ## ## ##        ==
+                          ## ## ## ## ##    ===
+                       /""""""""""""""""\___/ ===
+                  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
+                       \______ o          _,/
+                        \      \       _,'
+                         `'--.._\..--''
+```
+
+This site leverages Docker for local development and deployment. For detailed installation instructions head over to [Simple websites with Jekyll and Docker][1].
+
 # HPSTR Jekyll Theme
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
@@ -40,3 +55,5 @@ They say three times the charm, so here is another free responsive Jekyll theme 
 HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
 To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
+
+[1]: http://habd.as/simple-websites-jekyll-docker/ "Create and host simple websites with Jekyll and Docker using Mark Otto's beautiful and minimalistic Lanyon theme."
