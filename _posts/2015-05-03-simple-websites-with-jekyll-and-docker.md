@@ -18,7 +18,7 @@ Looking to create a simple website but don’t want to pay through the nose for 
 
 <!--more-->
 
-**Primary Objective:** Create and host simple websites with Jekyll and Docker using Mark Otto’s beautiful and minimalistic [Lanyon][1] theme.
+**Primary Objective:** Create and host simple websites with [Jekyll][2] and Docker using Mark Otto’s beautiful and minimalistic [Lanyon][1] theme.
 
 **Secondary Objective:** Earn some geek cred by learning how to use Jekyll, Docker and Passenger; and learning how to deploy your website from the command line.
 
@@ -210,6 +210,7 @@ Here are some ideas for things try next once you’re happy with the look-and-fe
 
 [^1]: It’s all fun and games until someone jails the root user.
 [1]: http://lanyon.getpoole.com/ "Example of Lanyon theme by Mark Otto"
+[2]: http://jekyllrb.com/ "Transform your plain text into static websites and blogs."
 
 <!-- Twitter conversion tracking code snippet -->
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
