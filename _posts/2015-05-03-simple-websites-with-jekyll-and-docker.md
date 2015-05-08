@@ -82,15 +82,15 @@ Look at the top of the resulting list and **copy the Image ID** of the most rece
 
     docker run -d -p 80:80 b64bea84255a
 
-Confirm the container is running with:
+Verify the container is running with:
 
     docker ps
 
-In this list look for an active container to confirm the site is up-and-running on port 80.
+In this list look for an active container, meaning the image is up-and-running on port 80.
 
 ## Connect to Jekyll site
 
-With the container running our Docker image confirm it’s serving up our Jekyll site:
+With the container image still running, confirm it’s serving up our Jekyll site:
 
 `curl $(boot2docker ip)` on Windows or Mac; or,
 `curl localhost` on Linux.
