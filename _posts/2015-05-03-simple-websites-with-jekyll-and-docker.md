@@ -12,7 +12,7 @@ image:
   creditlink: http://pixabay.com/en/sailing-boat-sea-ocean-679833/
 ---
 
-Looking to create a simple website but don’t want to pay through the nose for hosting? Get started for only five $5 bucks a month.
+Looking to create a simple website but don’t want to pay through the nose for hosting? Get started for only five $5 bucks a month with Jekyll and Docker.
 
 > Learn how to setup simple websites with Jekyll and Docker
 
