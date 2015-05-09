@@ -32,7 +32,7 @@ cd ~
 z ww # or simply 'z w'
 ```
 
-While you're at it, checkout the shorthand `ls` feature in **zsh**. It enables typing fuzzy `ls` path parts like `ls /u/l/dtra`, and pressing `TAB` twice to arrive at `/usr/lib/dtrace`. Use `chsh -s /bin/zsh` set **zsh** as your default shell to try it out.
+While you're at it, checkout the shorthand `ls` feature in **zsh**. It enables typing fuzzy `ls` path parts like `ls /u/l/dtra`, and pressing `TAB` twice to arrive at `/usr/lib/dtrace`. Use `chsh -s /bin/zsh` set **zsh** as your default shell to try it out. You can try it out along with `z` using [my dotfiles](https://github.com/jhabdas/dotfiles).
 
 Speed up your workflow with `rupa/z` and other time-saving affordances to benefit from less repetition and more time doing the stuff you love.
 
