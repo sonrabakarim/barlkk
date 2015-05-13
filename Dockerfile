@@ -1,7 +1,7 @@
 # DOCKER-VERSION 1.6.0, build 4749651
 
 # habd.as Dockerfile
-# Runs Octopress 3 under Nginx with Passenger
+# Runs Jekyll under Nginx with Passenger
 
 FROM phusion/passenger-ruby21:0.9.15
 MAINTAINER Josh Habdas "jhabdas@gmail.com"
