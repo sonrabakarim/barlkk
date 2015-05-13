@@ -40,7 +40,7 @@ Set suggested environment variables, if prompted, then do:
 
     docker
 
-You’ll see a command listing if everything worked. If not, **ensure boot2docker is running** with `boot2docker status`.
+You’ll see a command listing if everything worked. If not, ensure boot2docker is running with `boot2docker status`.
 
 ## Clone Jekyll seed
 
