@@ -3,7 +3,7 @@ title: Backbone.js Extensions, Plugins, Resources
 author: Josh Habdas
 layout: post
 permalink: /backbone-js-extensions-plugins-resources/
-comments: true
+comments: false
 categories:
   - reference
 tags:
