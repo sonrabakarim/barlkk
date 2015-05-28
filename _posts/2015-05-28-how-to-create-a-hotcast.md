@@ -31,7 +31,7 @@ Here’s a pictorial representation of how it works:
 
 # Less talk, more do
 
-Okay, you’re eager to get started. Here’s how to make this work. You’ll need a few things to do this, most of which you probably have lying around the house. The others you can be cheaply bought at the store or online.
+Okay, you’re eager to get started. Here’s how to make this work. You’ll need a few things to do this, most of which you probably have lying around the house. The others can be cheaply bought at the store or online.
 
 ## Requirements
 
@@ -45,7 +45,7 @@ Okay, you’re eager to get started. Here’s how to make this work. You’ll ne
 Follow these steps in order. If you have any questions just let me know in the comments section below and I’ll see what I can do to help.
 
 1. Connect WiFi extender/router to the temporary WiFi network (not your hotspot). Just ask your neighbor or use a hotspot on another phone.
-2. Factory reset your Chromecast by holding down the little button near the micro-USB port for about 10-15 seconds. This will give us a clean slate for our setup.
+2. Factory reset your Chromecast by holding down the little button near the micro-USB port for about 10-15 seconds. This will give us a clean slate for the setup.
 3. Connect your smartphone to the WiFi network given off by the Chromecast. The SSID broadcast will be something like `Chromecast8675309`.
 4. Use the Chromcast app on your phone (install from Play/App store if not already available) to configure your Chromecast to connect to the temporary network. Once complete your Chromecast will say it’s ready to cast.
 5. Disconnect your phone from the Chromecast if still connected and open up a WiFi hotspot for which to tether.
@@ -61,8 +61,8 @@ While your new Hotcast will allow you to leverage your existing cellular data ne
 
 - You will not be able to cast from the phone with the active hotspot. Though you *can* cast from another phone. And I must admit Netflix from a laptop running Chrome works quite supurbly.
 - Uses phone’s tethering, thus data plan. If you’ve got a lame data cap you may not be able to make it through a full movie. But if you’re not you’ll be streaming HD goodness to your TV.
-- Some providers, like T-Mobile, offer “unlimited data” plans. That’s not totally true a at least a few data providers will use that as marketing jargon yet either throttle or completely limit your hotspot tethering caps.
+- Some providers, like T-Mobile, offer “unlimited data” plans. That’s not totally true as at least a few data providers will use that as marketing jargon yet either throttle or completely limit your hotspot tethering caps.
 
 # In conclusion
 
-In this post we learned how to create a Hotcast, which leverages a intermediate device to circumvent the restrictions of the Chromecast to work with a hotspot. The more people we can get to do this the less people who’ll need cable internet and, eventually, the better the LTE networks will become. While you’re saving yourself thousands per year on outrageous cable internet packages do yourself a solid and save even more money by doing [Movies on the cheap with VUDU In Home Disc to Digital](/movies-on-the-cheap-with-vudu-in-home-disc-to-digital/).
+In this post we learned how to create a Hotcast, which leverages an intermediate device to circumvent the restrictions of the Chromecast to work with a hotspot. The more people we can get to do this the less people who’ll need cable internet and, eventually, the better the LTE networks will become. While you’re saving yourself thousands per year on outrageous cable internet packages do yourself a solid and save even more money by doing [Movies on the cheap with VUDU In Home Disc to Digital](/movies-on-the-cheap-with-vudu-in-home-disc-to-digital/).
