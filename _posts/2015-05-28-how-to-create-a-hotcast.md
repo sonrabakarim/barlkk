@@ -60,7 +60,7 @@ While your new Hotcast will allow you to leverage your existing cellular data ne
 **Caveats**
 
 - You will not be able to cast from the phone with the active hotspot. Though you *can* cast from another phone. And I must admit Netflix from a laptop running Chrome works quite supurbly.
-- Uses phone’s tethering, thus data plan. If you’ve got a lame data cap you may not be able to make it through a full movie. But if you’re not you’ll be streaming HD goodness to your TV.
+- Uses phone’s tethering, thus data plan. If you’ve got a lame data cap you may not be able to make it through a full movie. But if you’re not you’ll be streaming HD goodness to your TV for hours of enjoyment.
 - Some providers, like T-Mobile, offer “unlimited data” plans. That’s not totally true as at least a few data providers will use that as marketing jargon yet either throttle or completely limit your hotspot tethering caps.
 
 # In conclusion
