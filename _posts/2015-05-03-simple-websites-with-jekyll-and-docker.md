@@ -155,6 +155,8 @@ git add -A && git commit -m "All the things"
 git archive -o app.tar.gz --prefix=app/ master
 ```
 
+**Tip:** At this point you'll want to push your changes to your own repo on GitHub. There are several ways of accomplishing this. Check out [Fork a Repo](https://help.github.com/articles/fork-a-repo/) for more information.
+
 Next use Secure copy to **transfer the site’s source files** from the current host to the Droplet and rebuild the container image there:
 
     scp app.tar.gz deployer@HOST:
