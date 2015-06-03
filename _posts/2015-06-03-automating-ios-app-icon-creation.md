@@ -8,7 +8,7 @@ categories: [tutorials]
 tags: [iOS, native, docker, shell]
 ---
 
-While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got to the point where I was ready to enter beta - and I needed an App Icon for my app. I hit up a few peeps with app already in the App Store to understand how they created their app icons. Much to my chagrin I found out each of them had created their app icons manually using an image editing tool of some sort. Not wanting to work through the process of manual image creation using a GUI editor I stumbled upon an [Inkscape template and accompanying script](https://github.com/theherk/App-Icon-Template) that’ll do it for you. Giggity!
+While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got to the point where I was ready to enter beta - and I needed an App Icon for my app. I hit up a few peeps with apps already in the App Store to understand how they created their app icons. Much to my chagrin I found out each of them had created their app icons manually using an image editing tool of some sort. Not wanting to work through the process of manual image creation using a GUI editor I stumbled upon an [Inkscape template and accompanying script](https://github.com/theherk/App-Icon-Template) that’ll do it for you. Giggity!
 
 > Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting
 
@@ -27,11 +27,11 @@ Two approaches I thought of immediately given [previous](/developing-modern-web-
 
 # The Docker way
 
-Given I already had Docker installed I simply went ahead and used that. Following is a loose outline of the steps I followed. Please adapt these to meet your needs. The approach will work for both Windows and Mac users and requires a total of zero dollars to do.
+Given I already had Docker installed I simply went ahead and used that. Following are the steps I followed. Please adapt these to meet your needs. The approach will work for both Windows and Mac users and requires a total of zero dollars to do.
 
 # Run an Ubuntu container
 
-With Docker installed and running ([install instructions for](http://habd.as/simple-websites-jekyll-docker/#install-docker)) go ahead and *start an Ubuntu shell using terminal*:
+With Docker installed and running ([install instructions for Mac](http://habd.as/simple-websites-jekyll-docker/#install-docker)) go ahead and **start an Ubuntu shell using a terminal**:
 
 ```sh
 docker run -it ubuntu:14.04 /bin/bash
@@ -46,9 +46,9 @@ git clone https://github.com/theherk/App-Icon-Template
 cd App-Icon-Template
 ```
 
-This will create a new folder called `App-Icon-Template` under the root users home directory with the contents of the Git repo and enter the directory.
+This will create a new folder called `App-Icon-Template` under the root users home directory with the contents of the Git repo and enter the directory. Additionally, it'll install a few utilities we'll need to run later.
 
-You’re almost ready to start converting, but first you’ll need to get you SVG into the Docker container.
+You’re almost ready to start converting, but first you’ll need to get your SVG into the Docker container.
 
 # Copy SVG image into Docker container
 
@@ -70,13 +70,13 @@ You’re now ready to run the script to create the iOS assets.
 
 # Run the resize script to create asset images
 
-To run the resize script simply type the following from the command line in the same directory where your new image resides:
+To run the resize script simply type the following from the command line in the directory where your new image resides:
 
 ```sh
 ./resize.sh appicon.svg
 ```
 
-You’ll see some verbose output as the script goes to work rasterizing your SVG to PNG images of various sizes for iOS. Wait for it to finish and then type `ll` again. You should see something like this:
+You’ll see some verbose output as the script goes to work rasterizing your SVG into PNG bitmap images of various sizes for iOS. Wait for it to finish and then type `ll` again. You should see something like this:
 
 ```
 root@63041193137f:/App-Icon-Template# ll
@@ -114,7 +114,7 @@ If you see that, it worked. Now go ahead and create an archive of those files so
 
 # Create an archive of the image assets
 
-With our assets created we’ll need an easy way to extract them from the Docker container and back onto the host machine (your machine). To do this simply back out one directory and use the tar utility, like so:
+With our assets created we’ll need an easy way to extract them from the Docker container and back onto the host machine (your machine). To do this back out one directory and use the tar utility, like so:
 
 ```
 cd ..
@@ -127,13 +127,13 @@ And that’s that. Now type `exit` to exit the Docker container, saving your cha
 
 # Copy the archive out of the container
 
-With the archive created and the container `exit`ed you’re ready to copy the archive out of the container. To do this simply run the following, which’ll pull the file from the latest docker image created (which happened automatically when you exited):
+With the archive created and the container `exit`ed you’re ready to copy the archive out of the container. To do this run the following, which’ll pull the file from the latest docker image created (which happened automatically when you exited):
 
 ```sh
 docker cp $(docker ps -alq):appicons.tar.gz .
 ```
 
-You can then extract the archive containing the images and move on with your day.
+You can then extract the archive containing the images and get back to doing what you love most.
 
 # Wrapping up
 
