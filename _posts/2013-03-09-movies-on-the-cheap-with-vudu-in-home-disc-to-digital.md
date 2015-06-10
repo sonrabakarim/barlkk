@@ -11,7 +11,7 @@ tags:
   - thrifty
   - movies
 ---
-As I [mentioned][1] in late January, VUDU users now have the ability to upgrade their existing DVDs to HDX for $5 and stream them right at home. But I wanted to unpack this statement a little for those not on the Twitters and those who have not used VUDU or UltraViolet before. This information will be most useful to value-conscious consumers who already have DVD collections and are in the process of or have already purchased high-definition Internet TVs for their homes.
+VUDU users now have the ability to upgrade their existing DVDs to HDX for $5 and stream them right at home. But I wanted to unpack this statement a little for those not on the Twitters and those who have not used VUDU or UltraViolet before. This information will be most useful to value-conscious consumers who already have DVD collections and are in the process of or have already purchased high-definition Internet TVs for their homes.
 
 <!--more-->
 
@@ -44,7 +44,6 @@ View movies added to the UltraViolet cloud using any compatible device or applic
 
 As the Blu-ray revolution has occurred, the price of DVDs has been driven down significantly. Consider purchasing used DVDs and then converting them with the HDX upgrade. Flea markets are a great place to find used DVDs. And the bargain bins at stores like FYE, Walmart and Best Buy are great places to look as well. <a href="https://twitter.com/UVVU/status/311992215327100928">According to UltraViolet</a>, to ensure the film can be converted just search vudu.com and look for the UV icon.
 
- [1]: https://twitter.com/jhabdas/status/297194375539224576
  [2]: http://www.vudu.com
  [3]: http://www.uvvu.com
  [4]: http://www.vudu.com/in_home_disc_to_digital.html

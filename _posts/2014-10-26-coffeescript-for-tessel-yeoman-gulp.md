@@ -15,7 +15,7 @@ tags:
   - yeoman
 ---
 
-A few years back Sauce Labs co-founder Jason Huggins ([@hugs](https://twitter.com/hugs)) was giving a talk at [js.chi()](http://www.meetup.com/js-chi/), showing us how to use an Arduino to change the color of an LED based on an input. During the talk Jason suggested those interested in microcontrollers check out [Pumping Station: One](http://pumpingstationone.org/) up on Clybourn. So I got some friends together and we went to PS1, and learned the basics of programming an Arduino. The event was a fun experience and, later that night, netted me a [Larson Scanner](https://twitter.com/jhabdas/status/454997782219079680). Since then I've procured a [Raspberry PI](http://www.raspberrypi.org/), and started [tinkering with](https://twitter.com/jhabdas/status/385647879622123521) [Google Coder](http://www.raspberrypi.org/google-coder/). And now it's time for Tessel.
+A few years back Sauce Labs co-founder Jason Huggins ([@hugs](https://twitter.com/hugs)) was giving a talk at [js.chi()](http://www.meetup.com/js-chi/), showing us how to use an Arduino to change the color of an LED based on an input. During the talk Jason suggested those interested in microcontrollers check out [Pumping Station: One](http://pumpingstationone.org/) up on Clybourn. So I got some friends together and we went to PS1, and learned the basics of programming an Arduino. The event was a fun experience and, later that night, netted me a working Larson Scanner. Since then I've procured a [Raspberry PI](http://www.raspberrypi.org/), and started tinkering with [Google Coder](http://www.raspberrypi.org/google-coder/). And now it's time for Tessel.
 
 > Learn how to transpile CoffeeScript to JavaScript using Yeoman and Gulp for use with the Tessel microcontroller
 

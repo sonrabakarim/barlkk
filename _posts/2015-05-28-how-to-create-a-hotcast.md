@@ -1,7 +1,6 @@
 ---
 title: How to create a Hotcast
 layout: post
-title: "How to create a Hotcast"
 date: 2015-05-28T10:21:47-05:00
 comments: true
 description: "Learn how to stream HD video to your TV over your smartphone’s LTE network using Chromecast."
@@ -15,7 +14,7 @@ When I got a Chromecast a couple of years ago I was a little miffed when I disco
 
 # An impetus for change
 
-I’m what you might call, uh, a little thrifty. So thrifty in fact I haven’t paid for cable internet for over three years. How? Well, first I discovered a hole in T-Mobile’s LTE network restrictions on LTE data capping and leveraged that to boost ~80GB/month for about 6 months before [they caught on](https://twitter.com/jhabdas/statuses/415363809570594816). After that I went to Best Buy and picked up a cheapo Belkin WiFi range extender and started boosting signal from my neighbor until he moved out. And so it was time to hit the drawing board again.
+I’m what you might call, uh, a little thrifty. So thrifty in fact I haven’t paid for cable internet for over three years. How? Well, first I discovered a hole in T-Mobile’s LTE network restrictions on LTE data capping and leveraged that to boost ~80GB/month for about 6 months before they caught on. After that I went to Best Buy and picked up a cheapo Belkin WiFi range extender and started boosting signal from my neighbor until he moved out. And so it was time to hit the drawing board again.
 
 # Looking for inspiration
 

@@ -12,7 +12,7 @@ image:
   credit: stux
   creditlink: http://pixabay.com/en/cress-seedling-plant-253799/
 ---
-I earlier this month I spent [way too much time][1] writing an article on how to [SFTP to Ubuntu Server with Sublime Text][2]. The purpose of the SFTP effort was to set myself up for developing modern web applications on a new Windows 8 machine I bought to play SimCity 2013. And after getting everything working I realized the SFTP method had some gremlins and the file syncing reminded me of Dreamweaver–it simply wasn't fast enough.
+I earlier this month I spent way too much time writing an article on how to [SFTP to Ubuntu Server with Sublime Text][2]. The purpose of the SFTP effort was to set myself up for developing modern web applications on a new Windows 8 machine I bought to play SimCity 2013. And after getting everything working I realized the SFTP method had some gremlins and the file syncing reminded me of Dreamweaver—it simply wasn't fast enough.
 
 Lately, unless you were running a Linux machine or had the pleasure of owning a Mac with OS X, developing modern web applications has been a bit of a kludge. Enter Vagrant.
 
@@ -48,7 +48,7 @@ Once the specified applications are installed it's time to start configuring the
 
 Once the core applications are installed, start configuring the development environment.
 
-First, open Git Shell from Windows and, at the command prompt, follow the simple [Vagrant Getting Started][15] instructions. This will download a Linux image for the <abbr title="Virtual Machine">VM</abbr>, install and start it.
+First, open Git Shell from Windows and, at the command prompt, follow the simple [Vagrant Getting Started][15] instructions. This will download a Linux image for the <abbr title="Virtual Machine">VM</abbr>, install and start it.
 
 **Note:** The following steps will assume Vagrant installs Ubuntu 12.04 <abbr title="Long-Term Support">LTS</abbr>, though other operating systems and versions are likely to be used in the future.
 
@@ -255,7 +255,6 @@ Knowing what an application framework is capable of, and how to use it properly,
 
 This article covered a series of steps which can be used for developing modern web applications on Windows. It started with a development environment configuration using Vagrant, progressed thru the steps needed for developing modern applications, and ended with some learning exercises and personal suggestions. Developing modern web applications no longer requires a Linux box or Mac OS X. So boot up that Windows machine, go forth and code.
 
- [1]: https://twitter.com/jhabdas/status/319213133287788545
  [2]: /sftp-to-ubuntu-server-sublime-text
  [3]: http://windows.microsoft.com/
  [4]: http://windows.github.com/

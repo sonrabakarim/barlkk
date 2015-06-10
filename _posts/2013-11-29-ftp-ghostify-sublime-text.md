@@ -18,11 +18,11 @@ tags:
 
 I've wanted to write about a non-technical subject for a while to help round out my writing skills and cater to a broader audience. The subject matter of which became clear after recently discovering that there's not a lot of information out there covering meals in the AM. So, with inspiration from my [food-blogging neighbor](http://www.hgjones.org/), but with an obvious lack of understanding for the intricacies of food composition and preparation, I have decided to create a new food blog which focuses on something I love -- Breakfast -- and introduce it in an approachable way -- with absurdity.
 
-To get started, I decided to take advantage of the Thanksgiving Day message I received from [Ghostify](https://twitter.com/ghostifyio) letting me know their beta service was ready. Within [5 minutes](https://twitter.com/jhabdas/status/406104094063882240) of entering my credit card details on the Ghostify site, I had my first Ghost blog up and running.
+To get started, I decided to take advantage of the Thanksgiving Day message I received from [Ghostify](https://twitter.com/ghostifyio) letting me know their beta service was ready. Within 5 minutes of entering my credit card details on the Ghostify site, I had my first Ghost blog up and running.
 
 For those not familiar, [Ghost](https://ghost.org/) is a new open-source blogging platform built on top of [Node.js](http://nodejs.org/) using [Express](http://expressjs.com/). Like [Wintersmith](https://github.com/jnordberg/wintersmith) it takes an all JS approach to site generation -- a novel shift from Ruby-based site generators like [Octopress](http://octopress.org/), as the need to learn any Ruby in order to customize it becomes irrelevant.
 
-> With the new [blog is up on Ghostify](https://twitter.com/jhabdas/status/406104094063882240) I needed a quick way to create image assets for my new Ghost blog.
+> With the new blog up on Ghostify I needed a quick way to create image assets for my new Ghost blog.
 
 Not being a huge fan of CMS-based blogging platforms like [Drupal and WordPress](/drupal-7-for-wordpress-admins/), I figured I might be able to leverage some [Sublime Text SFTP research](/sftp-to-ubuntu-server-sublime-text/) I did to test an FTP connection to Ghostify for image uploads. And it worked like a charm! Follow along to learn how to FTP static assets to Ghostify with Sublime Text.
 
@@ -138,4 +138,4 @@ To try it, open the Ghost editor, press `Ctrl` + `Shift` + `L` (or platform equi
 
 ## Summary
 
-That was relatively painless. Now SVG images can be created and referenced from new posts on a Ghost blog hosted on Ghostify, and they're organized near the other theme assets. And while it's not a great idea to customize Ghost themes, storing images in the way described using FTP fits the bill for now. Speaking of bills, time to go eat some breakfast so I can create some content for my first post on [hazbreakfast](http://hazbreakfa.st/).
+That was relatively painless. Now SVG images can be created and referenced from new posts on a Ghost blog hosted on Ghostify, and they're organized near the other theme assets. And while it's not a great idea to customize Ghost themes, storing images in the way described using FTP fits the bill for now. Speaking of bills, time to go eat some breakfast so I can create some content for my new blog.
