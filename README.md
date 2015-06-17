@@ -2,7 +2,7 @@
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/simple-websites-with-jekyll-and-docker)
 
-My personal site all containerized using the HPSTR theme for Jekyll.
+My personal site all containerized and using the HPSTR theme for Jekyll.
 
 # Features
 
@@ -29,7 +29,7 @@ My personal site all containerized using the HPSTR theme for Jekyll.
                          `'--.._\..--''
 ```
 
-This site leverages Docker for local development and deployment. For detailed installation instructions head over to [Simple websites with Jekyll and Docker][1].
+This site leverages Docker for local development and production hosting. Learn how you can too using the detailed installation instructions provided for [Simple websites with Jekyll and Docker][1].
 
 # HPSTR Jekyll Theme
 
