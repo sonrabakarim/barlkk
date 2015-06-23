@@ -12,9 +12,11 @@ While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got t
 
 > Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting
 
-# The struggle is real
+# Why everything I have is broken
 
 With blissful excitement I cloned the [App-Icon-Template](https://github.com/theherk/App-Icon-Template) and ran the script on my machine. [It failed to output any images](https://github.com/theherk/App-Icon-Template/issues/3). So I slept on it.
+
+![Why everything I have is broken](http://imgs.xkcd.com/comics/hard_reboot.png)
 
 After scanning a few posts on the Inkscape Forums I deduced that Inkscape, which only runs under X11 on Yosemite, simply doesn’t play well with OS X. So why not use Linux!
 
