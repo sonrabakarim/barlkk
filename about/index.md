@@ -15,10 +15,10 @@ Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lump
 
 # Presentations
 
-Decks for talks I've given. Most of them can be found linked from my [SpeakerDeck profile](https://speakerdeck.com/jhabdas) and [Slides profile](https://slides.com/jhabdas).
+All about talks I've gives. Most of them can be found linked from my [SpeakerDeck profile](https://speakerdeck.com/jhabdas) and [Slides profile](https://slides.com/jhabdas).
 
 <table>
-  <caption>Decks for talks I've given</caption>
+  <caption>Slide Decks</caption>
   <thead>
     <tr>
       <th>Date</th>
