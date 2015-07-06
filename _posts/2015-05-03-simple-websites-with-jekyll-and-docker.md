@@ -5,7 +5,7 @@ permalink: /simple-websites-jekyll-docker/
 description: "Learn how to host your own simple websites with Jekyll and Docker."
 date: 2015-05-03T01:01:56-05:00
 tags: [blogging, devops, jekyll, docker, server, webmaster, vm, virtualization, hosting]
-categoryies: [tutorials]
+categories: [tutorials]
 image:
   feature: sailing-boat-679833_1280.jpg
   credit: Counselling
