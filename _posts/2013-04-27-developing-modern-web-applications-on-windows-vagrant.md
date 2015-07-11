@@ -1,8 +1,8 @@
 ---
-title: Developing modern web applications on Windows with Vagrant
+title: Developing single-page apps on Windows with Vagrant
 author: Josh Habdas
 layout: post
-description: "How to set up a development environment in Windows using a virtualized Linux box."
+description: "How to set up rapid Web development workflow in Windows using a virtualized Linux box."
 permalink: /developing-modern-web-applications-on-windows-vagrant/
 comments: true
 categories: [tutorials]
@@ -21,6 +21,8 @@ Lately, unless you were running a Linux machine or had the pleasure of owning a 
 In this article I'll explain how to set up a development environment in Windows using a virtualized Linux box, suitable for rapid prototyping. Then I'll take it a step further and explain how to integrate a Backbone-based application framework with Vagrant and Sublime Text, greatly increasing the speed for developing modern web applications on Windows.
 
 <!--more-->
+
+**Update <time datetime="2015-07-11">7 Jul 2015</time>:** Yo, this post was written in 2013. Before going any further, please read [When fast isn't fast anymore](/when-fast-isnt-fast-anymore).
 
 ## Applications used
 
