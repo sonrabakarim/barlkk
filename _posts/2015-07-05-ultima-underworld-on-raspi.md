@@ -93,4 +93,4 @@ The value of each of the settings can be seen while DOSBox is in windowed mode. 
 
 # That's a wrap
 
-In the article we learned how to set-up the Raspberry Pi to play Ultima Underworld - The Stygian Abyss, one of my favorite games as a kid. It's probably the best game ever made. If you're able to make it down to the boss at the end of the game please post a screenshot in the comments section below. You're awesome.
+In the article we learned how to set-up the Raspberry Pi to play Ultima Underworld - The Stygian Abyss, one of my favorite games as a kid. It's probably the best game ever made. Once you beat it head over to [RetroPi Project](http://blog.petrockblock.com/retropie/) and incorporate a game controller into your setup.
