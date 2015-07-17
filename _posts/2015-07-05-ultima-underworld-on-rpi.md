@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ultima Underworld on RasPi
+title: Ultima Underworld on RPi
 date: 2015-07-05T23:40:50-05:00
-tags: [raspi, microcontrollers, gaming, dos]
+tags: [rpi, microcontrollers, gaming, dos]
 description: "Transport your gaming mind to 1992 with one of the best RPGs of all time."
 categories: [tutorials]
 ---
 
-I installed <abbr title="DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.">DOSBox</abbr> on my Raspberry Pi today so I could play one of my favorite childhood games: **Ultima Underworld - The Stygian Abyss.** You can [learn more about](http://www.abandonia.com/en/games/193/Ultima+Underworld+-+The+Stygian+Abyss.html) this game on Abandonia. If you like what you see, follow this guide to set it up on your RasPi and be instantly transported back in time with this 1992 retro classic.
+I installed <abbr title="DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.">DOSBox</abbr> on my Raspberry Pi today so I could play one of my favorite childhood games: **Ultima Underworld - The Stygian Abyss.** You can [learn more about](http://www.abandonia.com/en/games/193/Ultima+Underworld+-+The+Stygian+Abyss.html) this game on Abandonia. If you like what you see, follow this guide to set it up on your RPi and be instantly transported back in time with this 1992 retro classic.
 
 <figure>
   <img src="/images/ultima-underworld-raspi.jpg" alt="Ultima Underworld main menu.">
@@ -17,12 +17,14 @@ I installed <abbr title="DOSBox is an emulator program that emulates an IBM PC c
 # Requirements
 
 - Raspberry Pi with Raspbian or similar installed
-- Connected up to a monitor, mouse, keyboard and speakers
+- Connected to a monitor, mouse, keyboard and speakers
 - With network connectivity
 
 # Experience
 
-So far I've been able to get a pretty clean game intro video sequence. Actual gameplay is a bit choppy still, which should improve on the Raspberry Pi 2 with its 1GB onboard RAM and 900MHz stock processor.
+So far I've been able to get a pretty clean game intro video sequence. Actual gameplay is a bit choppy still, which should improve on the Raspberry Pi 2 with its quad-core 900MHz processor.
+
+**Update 17 Jul 2015:** Got an RPi2 and the game runs great using [RetroPie](http://blog.petrockblock.com/retropie/). No chop in the audio and the video is smooth like butter, making for an great gaming experience. (Note: I set the *Memory Split* under Raspberry Pi *Advanced Options* to 512, though I'm not sure it's necessary.)
 
 # Getting started
 
@@ -52,11 +54,11 @@ The result will be a folder called "dosprogs" in the home directory of the curre
 
 # Overclock the device
 
-The days of hardware turbo buttons are long gone. But that doesn't mean you can't get a little extra oomph out of your Pi microcontroller anyway. Log-off the current GUI session and **enable Turbo mode** from the Overclocking section after running `sudo raspi-config` from the terminal. You will be prompted to restart your machine if the settings took.
+The days of hardware turbo buttons are long gone. But that doesn't mean you can't get a little extra oomph out of your Pi micro computer anyway. Log-off the current GUI session and **enable Turbo mode** from the Overclocking section after running `sudo RPi-config` from the terminal. You will be prompted to restart your machine if the settings took.
 
 # Configure DOSBox
 
-Once overclocked to *Turbo* mode (1000mhz on a RasPi 1 Model B) you're ready tweak the DOSBox configuration. It takes a little time to get right, expecially if you're not used to it, so just be patient. The result will improve your gaming experience and is time well spent.
+Once overclocked to *Turbo* mode (1000mhz on a RPi 1 Model B) you're ready tweak the DOSBox configuration. It takes a little time to get right, expecially if you're not used to it, so just be patient. The result will improve your gaming experience and is time well spent.
 
 Upon installation of DOSBox my config was located at `/home/pi/.dosbox/dosbox-0.74.conf`. I went ahead and made a back-up copy of the file before I started tweaking.
 
@@ -93,4 +95,4 @@ The value of each of the settings can be seen while DOSBox is in windowed mode. 
 
 # That's a wrap
 
-In the article we learned how to set-up the Raspberry Pi to play Ultima Underworld - The Stygian Abyss, one of my favorite games as a kid. It's probably the best game ever made. Once you beat it head over to [RetroPi Project](http://blog.petrockblock.com/retropie/) and incorporate a game controller into your setup.
+In the article we learned how to set-up the Raspberry Pi to play Ultima Underworld - The Stygian Abyss, one of my favorite games as a kid. And probably one of the best games ever made. As you look into the Orb you know it leads to Britannia...
