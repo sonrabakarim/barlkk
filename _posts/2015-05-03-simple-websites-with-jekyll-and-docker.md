@@ -134,7 +134,7 @@ Next, **create a new user** called `deployer` and give them super user privilege
 
 With the new user created we can **add an SSH key** for them with the following command:
 
-    cat ~/ .ssh/id_rsa.pub | ssh deployer@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+    cat ~/.ssh/id_rsa.pub | ssh deployer@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 
 Where `HOST` is the IP of the Droplet.
 
