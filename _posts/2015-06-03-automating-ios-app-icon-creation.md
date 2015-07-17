@@ -6,6 +6,10 @@ comments: true
 description: Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting.
 categories: [tutorials]
 tags: [iOS, native, docker, shell]
+image:
+  feature: wheels-784865_1920.jpg
+  credit: Efraimstochter
+  creditlink: https://pixabay.com/en/wheels-machine-installation-art-784865/
 ---
 
 While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got to the point where I was ready to enter beta - and I needed an App Icon for my app. I hit up a few peeps with apps already in the App Store to understand how they created their app icons. Much to my chagrin I found out each of them had created their app icons manually using an image editing tool of some sort. Not wanting to work through the process of manual image creation using a GUI editor I stumbled upon an [Inkscape template and accompanying script](https://github.com/theherk/App-Icon-Template) that’ll do it for you. Giggity!
