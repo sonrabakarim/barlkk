@@ -14,6 +14,8 @@ image:
 
 While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got to the point where I was ready to enter beta - and I needed an App Icon for my app. I hit up a few peeps with apps already in the App Store to understand how they created their app icons. Much to my chagrin I found out each of them had created their app icons manually using an image editing tool of some sort. Not wanting to work through the process of manual image creation using a GUI editor I stumbled upon an [Inkscape template and accompanying script](https://github.com/theherk/App-Icon-Template) that’ll do it for you. Giggity!
 
+**Update 24 Jul 15:** For those with a Sketch license, app icon and launch screen images can be produced along with asset catalogs using the [sketch-to-xcode-assets-catalog](https://github.com/GeertWille/sketch-to-xcode-assets-catalog), though the approach used in this article allows for creation of assets without an additional penny spent. Thanks to [Diego Durli](https://br.linkedin.com/in/diegodurli) for the information.gi
+
 > Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting
 
 # Why everything I have is broken
@@ -145,4 +147,4 @@ You can then extract the archive containing the images and get back to doing wha
 
 In this post we learned how to run a script to automatically generate icons for iOS apps using an existing SVG image. Currently [the script](https://github.com/theherk/App-Icon-Template/blob/master/resize.sh) supports up to iOS 8, so please help keep it updated in the future.
 
-For additional information on creating App Icons, including file naming conventions, please refer to the *iOS Human Interface Guidelines* website for more detail.
+For additional information on creating App Icons, including file naming conventions, please refer to Apple's *iOS Human Interface Guidelines*.
