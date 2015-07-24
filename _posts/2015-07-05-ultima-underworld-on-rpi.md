@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Ultima Underworld on RPi
+title: Ultima Underworld Stygian Abyss on RPi 2
+permalink: /ultima-underworld-on-rpi/
 date: 2015-07-05T23:40:50-05:00
-tags: [rpi, microcontrollers, gaming, dos]
-description: "Transport your gaming mind to 1992 with one of the best RPGs of all time."
+tags: [rpi, microcomputers, gaming, retro, dos]
+description: "Transport your mind back to 1992 with one of the best RPGs of all time."
 categories: [tutorials]
 ---
 
@@ -24,7 +25,7 @@ I installed <abbr title="DOSBox is an emulator program that emulates an IBM PC c
 
 So far I've been able to get a pretty clean game intro video sequence. Actual gameplay is a bit choppy still, which should improve on the Raspberry Pi 2 with its quad-core 900MHz processor.
 
-**Update 17 Jul 2015:** Got an RPi2 and the game runs great using [RetroPie](http://blog.petrockblock.com/retropie/). No chop in the audio and the video is smooth like butter, making for an great gaming experience. (Note: I set the *Memory Split* under Raspberry Pi *Advanced Options* to 512, though I'm not sure it's necessary.)
+**Update 17 Jul 2015:** The game runs great on the RPi 2 Model B running DOSBox from [RetroPie](http://blog.petrockblock.com/retropie/) with [EmulationStation](http://www.emulationstation.org/). Unlike RPi 1 Model B+ there's no chop in the audio, and the video is smooth like butter. You may or may not want to set the *Memory Split* setting under Raspberry Pi *Advanced Options* to 512.
 
 # Getting started
 
@@ -80,9 +81,9 @@ UW.EXE
 
 # Enable audio playback
 
-If you're using HDMI for video out from the Pi you may need to adjust your speaker settings to achieve audio. Run `sudo raspi-config` from a terminal emulator and adjust the setting for audio from under *Advanced settings*.
+If you're using HDMI for video out from the Pi you may need to adjust your speaker settings to achieve audio. Run `sudo raspi-config` from a terminal emulator and adjust the setting for audio from under *Advanced settings*. Then ensure you select `SoundBlaster` or `SoundBlaster Pro` from the `INSTALL.EXE` included with the game before running the main executable.
 
-# Benchmarking experience
+# Customizing experience
 
 To arrive at the best setup for your config, once you have the video settings set the way you like them and the audio enabled, use the [performance shortcuts](http://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox#Performance) to fine-tune the experience:
 
@@ -91,7 +92,9 @@ To arrive at the best setup for your config, once you have the video settings se
 `Ctrl` + `F11` decreases cycle speed
 `Ctrl` + `F12` increases cycle speed
 
-The value of each of the settings can be seen while DOSBox is in windowed mode. Once you find the settings which work best for you, set them in the configuration file.
+The value of each of the settings can be seen while DOSBox is in windowed mode. If launched from terminal within X the settings will be output back to the terminal window as they're updated.
+
+Once you find the settings which work best for you, set them in the configuration file. See the [Special Keys](http://www.dosbox.com/wiki/Special_Keys) on the DOSBox Wiki for additional keyboard shortcuts, including `Ctrl` + `F9` which is useful for quitting a game if it freezes during game play.
 
 # That's a wrap
 
