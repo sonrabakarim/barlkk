@@ -13,9 +13,13 @@ Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lump
 
 <audio src="http://stream.lumpen.fm:7416/;stream/1" preload="auto" controls></audio>
 
-# Presentations
+# Projects
 
-All about talks I've gives. Most of them can be found linked from my [SpeakerDeck profile](https://speakerdeck.com/jhabdas) and [Slides profile](https://slides.com/jhabdas).
+[React Native iOS app for WLPN 105.5 Chicago](https://github.com/jhabdas/lumpen-radio)
+
+# Talks
+
+Slide decks for talks I've given.
 
 <table>
   <caption>Slide Decks</caption>
@@ -29,8 +33,10 @@ All about talks I've gives. Most of them can be found linked from my [SpeakerDec
     <tr>
       <td>
         <time datetime="2015-06-30">June 30th, 2015</time>
+        <time datetime="2015-05-28">May 28th, 2015</time>
       </td>
       <td>
+        <a href="http://slides.com/jhabdas/simple-websites-jekyll-docker/">Simple websites with Jekyll and Docker</a>
         <a href="http://slides.com/jhabdas/streaming-audio-react-native/">Build a streaming audio app with React Native</a>
       </td>
     </tr>
