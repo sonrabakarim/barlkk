@@ -5,7 +5,7 @@ layout: post
 comments: true
 description: Tips to get your app delivered faster.
 categories: [reference]
-tags: [react, react native, native, programming, oss]
+tags: [react, react native, native, programming, web platform]
 image:
   feature: macro-319237_1280.jpg
   credit: ibangfotografi

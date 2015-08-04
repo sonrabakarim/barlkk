@@ -6,7 +6,7 @@ description: "How to set up rapid Web development workflow in Windows using a vi
 permalink: /developing-modern-web-applications-on-windows-vagrant/
 comments: true
 categories: [tutorials]
-tags: [ajax, html, ria, javascript, coffeescript, virtualization, backbonejs, chaplinjs, bower, scaffolt, grunt, editors, nodejs, curl, brunch, nginx, virtualbox, windows, vagrant, ubuntu, bash, phantomjs, testem]
+tags: [ajax, html, ria, javascript, coffeescript, virtualization, backbonejs, chaplinjs, bower, scaffolt, grunt, editors, nodejs, curl, brunch, nginx, virtualbox, windows, vagrant, ubuntu, bash, phantomjs, testem, web platform]
 image:
   feature: cress-253799_1280.jpg
   credit: stux
