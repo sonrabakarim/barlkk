@@ -20,9 +20,9 @@ owner:
   stackexchange: 366663
   linkedin: jhabdas
   instagram: jhabdas
-  # flickr: 44745799@N08
-  # tumblr: jhabdas
-  # google_plus: +JoshHabdas
+  flickr:
+  tumblr:
+  google_plus:
 
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
@@ -30,9 +30,9 @@ excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of 
 background: witewall_3.png
 
 # Analytics and webmaster tools
-segment_io: YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
-google_verify: B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
-bing_verify: DBC165D1E8CE148BED6D48D4F31A3831
+# segment_io: YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
+# google_verify: B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
+# bing_verify: DBC165D1E8CE148BED6D48D4F31A3831
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: America/Chicago
