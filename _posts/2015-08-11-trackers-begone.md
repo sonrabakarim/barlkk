@@ -4,7 +4,7 @@ date: 2015-08-11T12:07:55-05:00
 layout: post
 comments: false
 categories: [reference]
-tags: [react, react native, native, programming, web platform]
+tags: [security, privacy, open web]
 image:
   feature: camera-712122_1280.jpg
   credit: staffordgreen0
