@@ -22,7 +22,6 @@ Application boilerplates for creating React applications.
 
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
-- [Este.js](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for universal functional web apps. Forget about evil frameworks, learn laser focused libraries and patterns instead.
 
 # React Native
 
