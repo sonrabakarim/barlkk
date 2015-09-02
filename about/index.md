@@ -15,7 +15,7 @@ Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lump
 
 # Projects
 
-Showcase of various open source and Web Platform engineering work I've done.
+Showcase of various open source and Web Platform software engineering work I've done.
 
 **[React Native iOS app for WLPN 105.5 Chicago](https://github.com/jhabdas/lumpen-radio)**
 
@@ -27,23 +27,39 @@ Isomorphic <abbr title="Rapid Application Development">RAD</abbr> toolkit empowe
 
 # Talks
 
-Slide decks for talks I've given.
-
 <table>
-  <caption>Slide Decks</caption>
+  <caption>Talks I've given. A very incomplete list.</caption>
   <thead>
     <tr>
       <th>Date</th>
-      <th>Topic</th>
+      <th>Deck</th>
+      <th>Format</th>
+      <th>Host</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
+        <time datetime="2015-07-27">27 Aug 2015</time>
+      </td>
+      <td>
+        <a href="http://slides.com/jhabdas/streaming-audio-react-native/">Build a streaming audio app with React Native</a>
+      </td>
+      <td>Webcast</td>
+      <td>
+        <a href="http://www.oreilly.com/pub/e/3483">O'Reilly Media</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <time datetime="2015-06-30">30 Jun 2015</time>
       </td>
       <td>
-        <a href="http://slides.com/jhabdas/simple-websites-jekyll-docker/">Simple websites with Jekyll and Docker</a>
+        <a href="http://slides.com/jhabdas/streaming-audio-react-native/">Build a streaming audio app with React Native</a>
+      </td>
+      <td>Full talk</td>
+      <td>
+        <a href="http://www.meetup.com/React-Chicago/events/222510246/">React Chicago</a>
       </td>
     </tr>
     <tr>
@@ -51,7 +67,11 @@ Slide decks for talks I've given.
         <time datetime="2015-05-28">28 May 2015</time>
       </td>
       <td>
-        <a href="http://slides.com/jhabdas/streaming-audio-react-native/">Build a streaming audio app with React Native</a>
+        <a href="http://slides.com/jhabdas/simple-websites-jekyll-docker/">Simple websites with Jekyll and Docker</a>
+      </td>
+      <td>Lightning talk</td>
+      <td>
+        <a href="http://www.meetup.com/Docker-Chicago/events/222157658/">Docker Chicago</a>
       </td>
     </tr>
     <tr>
@@ -61,6 +81,8 @@ Slide decks for talks I've given.
       <td>
         <a href="https://slides.com/jhabdas/typeahead-with-bloodhound/">Typeahead with Bloodhound</a>
       </td>
+      <td>Full talk</td>
+      <td></td>
     </tr>
   </tbody>
 </table>

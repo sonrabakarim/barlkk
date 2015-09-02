@@ -44,6 +44,9 @@ A new feature in Xcode 6 and iOS 8+ allows app developers the ability to create 
 ## Creating an App Icon
 Your app is going to need an icon. They can be [created for free](/automating-ios-app-icon-creation/) without much design skill whatsoever.
 
+## Device Preview
+A picture's worth a thousand words. Show people what your app will look like on their actual device with [iPhone Screenshot Maker](http://iphone-screenshot.com/). The application will frame an app screenshot inside the iOS device of your choosing and even put a slick gloss on the screen for you. Best of all, it's free.
+
 # App submission
 Getting your app in the App Store for real.
 
