@@ -47,8 +47,11 @@ A new feature in Xcode 6 and iOS 8+ allows app developers the ability to create 
 ## Creating an App Icon
 Your app is going to need an icon. They can be [created for free](/automating-ios-app-icon-creation/) without much design skill whatsoever.
 
-## Device Preview
+## Making a device preview image
 A picture's worth a thousand words. Show people what your app will look like on their actual device with [iPhone Screenshot Maker](http://iphone-screenshot.com/). The application will frame an app screenshot inside the iOS device of your choosing and even put a slick gloss on the screen for you. Best of all, it's free.
+
+## Incorporating a custom font
+Avoid <abbr title="Flash of Unstyled Content">FOUC</abbr> by bundling your font in the application binary rather than pulling pulling the font from the Web. Font flickers could be avoided by base-64 encoding the font and embedding it in an inline style declaration, but it's easier to slip the font into the app itself. To do so review the [Common Mistakes With Adding Custom Fonts to Your iOS App](http://codewithchris.com/common-mistakes-with-adding-custom-fonts-to-your-ios-app/) and follow the instructions provided to add your font.
 
 # App submission
 Getting your app in the App Store for real.
