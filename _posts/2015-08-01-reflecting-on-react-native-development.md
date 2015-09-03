@@ -27,6 +27,7 @@ Swift feels a lot more like JavaScript, which is great for programmers coming fr
 - Xcode will automatically create a bridging header between languages called `MyApp-Bridging-Header.h`.
 - Update *Build Settings* to set “Defines Module” setting to `YES`.
 - Import to Objective-C like so: `ModuleName-Swift.h` (where `ModuleName` is your *Product Module Name* and `-Swift` is a fixed suffix.
+  **Tip**: Confirm your *Product Module Name* by searching for "Product Module Name" in Build Settings for the main project target.
 - Import the `.h` file into your existing Obj-C classes to use Swift from existing Obj-C classes
 - Review the [Mix and Match](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html) page on the Apple Developer Portal.
 
