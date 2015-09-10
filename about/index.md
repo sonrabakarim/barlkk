@@ -36,7 +36,7 @@ Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser
 # Talks
 
 <table>
-  <caption>Some talks I've given.</caption>
+  <caption>Various public speaking engagements.</caption>
   <thead>
     <tr>
       <th>Date</th>
