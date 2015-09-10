@@ -25,6 +25,14 @@ Open source iOS native app using React Native. Geared toward easing the barrier 
 
 Isomorphic development toolkit empowers engineers, designers and product owners to quickly develop single-page Web applications for the back-office. Used to power enterprise E-commerce, operations and merchandising applications. But simple enough to build one-off apps. Created entirely using JavaScript and Node.js. Supports TDD, integration testing, module generators, fast page loads and sub-second builds. Integrates with React.
 
+**<a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>**
+
+Beer-first mobile search app built with Hapi and Chaplin. Allows quick retrieval of beer info by keyword search against the Untappd API.
+
+**<a href="https://github.com/jhabdas/xanthippe" target="_blank">Xanthippe</a>**
+
+Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser using SystemJS with CORS disabled.
+
 # Talks
 
 <table>
