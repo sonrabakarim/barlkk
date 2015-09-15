@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-09-14
+modified: 2015-09-15
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -15,7 +15,7 @@ image:
 
 Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome React boilerplates -- sometimes knows as starter kits, seeds or skeletons -- for getting React-based applications off the ground in a hurry. These application templates were not taken from any list, however awesome <a rel="nofollow" href="https://github.com/sindresorhus/awesome">that list</a> might actually be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426). They're open source and waiting for you to clone, fork and build upon for your next React project.
 
-Contributions via comments are welcome. The best ones will be moved into the article body and the link's `nofollow` removed.
+Contributions via comments are welcome. The best ones will be moved into the article body and the `nofollow` removed.
 
 # React
 
@@ -25,13 +25,13 @@ Application boilerplates for creating React applications.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron application boilerplate based on react, react-router, webpack, react-hot-loader for rapid application development
 - [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application. [Uses](https://github.com/relayjs/relay-starter-kit/blob/37f1d13613db732b2d924a55cecf89c255ce0f40/package.json#L14) the Babel Relay Plug-in and [linked to](https://facebook.github.io/relay/docs/guides-babel-plugin.html#content) from the official Relay documentation so it's likely to gain traction as a starting point for new apps.
-- [jspm-react](https://github.com/tinkertrain/jspm-react) - Configured starter repo to build web apps with React and ES6 modules
+- [jspm-react](https://github.com/tinkertrain/jspm-react) - Configured starter repo to build web apps with React and ES6 modules using JSPM. Not actively maintained, though the author is still accepting pull requests.
 
 # React Native
 
 Application boilerplates for creating React Native applications.
 
-- [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar).
+- [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar). See it in use with [React Native Icons](https://github.com/corymsmith/react-native-icons) in my [Smartphone Symphony](https://github.com/jhabdas/SmartphoneSymphony) app.
 - [react-native-starter-kit](https://github.com/jhabdas/react-native-starter-kit) - My opinionated boilerplate for starting React Native apps. This will evolve over time, but plans are for a minimalist seed intended to serve as a starting point for a variety of new apps.
 - [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
 - [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server) - A development server that leverages the Webpack Dev Server and the React Packager to enable building React Native JavaScript bundles with webpack. This allows you to use the existing webpack ecosystem when targeting React Native.
