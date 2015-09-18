@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-09-15
+modified: 2015-09-18
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -31,8 +31,7 @@ Application boilerplates for creating React applications.
 
 Application boilerplates for creating React Native applications.
 
-- [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar). See it in use with [React Native Icons](https://github.com/corymsmith/react-native-icons) in my [Smartphone Symphony](https://github.com/jhabdas/SmartphoneSymphony) app.
-- [react-native-starter-kit](https://github.com/jhabdas/react-native-starter-kit) - My opinionated boilerplate for starting React Native apps. This will evolve over time, but plans are for a minimalist seed intended to serve as a starting point for a variety of new apps.
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6 using Babel.
 - [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
-- [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server) - A development server that leverages the Webpack Dev Server and the React Packager to enable building React Native JavaScript bundles with webpack. This allows you to use the existing webpack ecosystem when targeting React Native.
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
+- [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar). See it in use with [React Native Icons](https://github.com/corymsmith/react-native-icons) in my [Smartphone Symphony](https://github.com/jhabdas/SmartphoneSymphony) app.
