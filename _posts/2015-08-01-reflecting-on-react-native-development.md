@@ -86,7 +86,7 @@ I ran into a lot of friction here at first and once after changing something, so
 -- Review your Keychain and what’s configured there as well
 - In the end what worked for me was to close the main Xcode window *with the archive Organizer window still open*, which I tried in desperation after 2 hours of a whole lotta no such luck otherwise. Weird, right?
 
-## Developing with Xcode 7 for iOS 9
+## Upgrading an existing app for Xcode 7 and iOS 9
 
 If you're using Webpack Dev Server to host your application you'll need to update your `Info.plist` to ease security restrictions. Meteor was anticipated to [have this problem](https://github.com/meteor/meteor/issues/4560) way back in June. Here's more info and a [workaround for HTTP connections](https://forums.developer.apple.com/thread/4017) not supporting TLS 1.2.
 
@@ -95,6 +95,8 @@ Here's the error I saw before updating [Lumpen Radio](https://github.com/jhabdas
 > The resource could not be loaded because the App Transport Security policy requires the use of a secure connection.
 
 After updating `Info.plist` file using the workaround the issue was fixed.
+
+While updating I bumped Lumpen Radio to React Native `0.11.0` and CocoaPods `0.39.0.beta.4` while updating to Xcode `7` and started getting generic archives instead of iOS Archives while trying to release. After several hours of debugging I found [an answer](https://github.com/CocoaPods/CocoaPods/issues/4119#issuecomment-137169818). If you're using CocoaPods and start seeing the same problem it could be a number of things, but what I encountered differed from most.
 
 # That's all folks
 If this was helpful for you please [try out my free app](https://appsto.re/us/NdeV7.i) and check out the [full source](https://github.com/jhabdas/lumpen-radio). Tips accepted using Gratipay. Click the tips badge in the repo to learn more and help reward me for my time. Cheers.
