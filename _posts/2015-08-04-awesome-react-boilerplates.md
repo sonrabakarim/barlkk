@@ -21,8 +21,8 @@ Contributions via comments are welcome. The best ones will be moved into the art
 
 Application boilerplates for creating React applications.
 
-- [Este.js](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for universal functional web apps. Forget about evil frameworks, learn laser focused libraries and patterns instead.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries.
+- [Este.js](https://github.com/este/este) - A React/Flux dev stack and starter kit for universal functional web apps. Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as some alternatives.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron application boilerplate based on react, react-router, webpack, react-hot-loader for rapid application development
 - [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application. [Uses](https://github.com/relayjs/relay-starter-kit/blob/37f1d13613db732b2d924a55cecf89c255ce0f40/package.json#L14) the Babel Relay Plug-in and [linked to](https://facebook.github.io/relay/docs/guides-babel-plugin.html#content) from the official Relay documentation so it's likely to gain traction as a starting point for new apps.
