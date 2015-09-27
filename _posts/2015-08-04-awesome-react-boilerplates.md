@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-09-18
+modified: 2015-09-26
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -21,6 +21,7 @@ Contributions via comments are welcome. The best ones will be moved into the art
 
 Application boilerplates for creating React applications.
 
+- [Este.js](https://github.com/este/este) - The most complete React/Flux dev stack and starter kit for universal functional web apps. Forget about evil frameworks, learn laser focused libraries and patterns instead.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron application boilerplate based on react, react-router, webpack, react-hot-loader for rapid application development
