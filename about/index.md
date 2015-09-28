@@ -99,11 +99,35 @@ Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser
         <time datetime="2014-05-14">14 May 2014</time>
       </td>
       <td>
-        <a href="https://speakerdeck.com/jhabdas/brunch-with-panache" target="_blank">Building with Brunch with Panache</a>
+        <a href="https://speakerdeck.com/jhabdas/brunch-with-panache" target="_blank">Brunch with Panache</a>
       </td>
       <td>Full talk</td>
       <td>
         <a href="http://www.meetup.com/chicago-html5/events/162640832/" target="_blank">HTML5 Chicago</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <time datetime="2014-02-12">12 Feb 2014</time>
+      </td>
+      <td>
+        <a href="https://speakerdeck.com/jhabdas/rivets" target="_blank">Rivets</a>
+      </td>
+      <td>Full talk</td>
+      <td>
+        Meetup
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <time datetime="2014-02-12">12 Feb 2014</time>
+      </td>
+      <td>
+        <a href="https://speakerdeck.com/jhabdas/hopstop" target="_blank">Brunch with Chaplin</a>
+      </td>
+      <td>Short talk</td>
+      <td>
+        <a href="http://www.meetup.com/js-chi/events/132710002/" target="_blank">JavaScript Chicago</a>
       </td>
     </tr>
   </tbody>
