@@ -6,7 +6,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2015-09-10
+modified: 2015-10-18
 ---
 
 Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lumpen Radio</a> as the page comes together. Press play to tune in.
@@ -80,6 +80,18 @@ Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser
       <td>Lightning talk</td>
       <td>
         <a href="http://www.meetup.com/Docker-Chicago/events/222157658/" target="_blank">Docker Chicago</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <time datetime="2015-01-08">8 Jan 2015</time>
+      </td>
+      <td>
+        <a href="http://slides.com/jhabdas/exim" target="_blank">Exim: An HTML5 architecture built on Flux + React</a>
+      </td>
+      <td>Lightning talk</td>
+      <td>
+        <a href="http://www.meetup.com/chicago-html5/events/218749155/" target="_blank">HTML5 Chicago</a>
       </td>
     </tr>
     <tr>
