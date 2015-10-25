@@ -17,9 +17,17 @@ Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lump
 
 Showcase of various open source and Web Platform software engineering work I've done.
 
+**<a href="https://github.com/jhabdas/lumpenradio-com" target="_blank">Lumpen Radio Web 2.0</a>**
+
+SEO-friendly React application for the Web. Capable of sub-second page loads on mobile. Pulls remote data and renders it on the server, then serves it up from Express. Supports Markdown processing with XSS, derived data and more.
+
 **<a href="https://github.com/jhabdas/lumpen-radio" target="_blank">React Native iOS app for WLPN 105.5 Chicago</a>**
 
-Open source iOS native app using React Native. Geared toward easing the barrier to entry for non-profits and other <abbr title="Low-Power FM">LPFM</abbr> broadcast radio stations. [Learn more](https://www.fcc.gov/encyclopedia/low-power-fm-broadcast-radio-stations-lpfm) about LPFM.
+Open source iOS native app using React Native. Eases the barrier to entry in the App Store for <abbr title="Low-Power FM">LPFM</abbr> broadcast radio stations and others, allowing them full control of app experience.
+
+**<a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>**
+
+A application seed I maintain to help people start new React Native projects using ES6 Modules while making it easy to build and scale an app using best practices and standards-based and emerging development techniques.
 
 **<a href="https://github.com/trunkclub/brunch-with-panache" target="_blank">Brunch with Panache</a>**
 
