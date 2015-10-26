@@ -56,6 +56,18 @@ Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser
   <tbody>
     <tr>
       <td>
+        <time datetime="2015-11-10">10 Nov 2015</time>
+      </td>
+      <td>
+        Isomorphic Rendering with React
+      </td>
+      <td>Lightning talk</td>
+      <td>
+        <a href="http://www.meetup.com/chicago-html5/events/226035801/" target="_blank">HTML5 Chicago</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <time datetime="2015-07-27">27 Aug 2015</time>
       </td>
       <td>
