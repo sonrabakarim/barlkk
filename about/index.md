@@ -6,12 +6,18 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2015-10-18
+modified: 2015-10-28
 ---
 
 Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lumpen Radio</a> as the page comes together. Press play to tune in.
 
 <audio src="http://stream.lumpen.fm:7416/;stream/1" preload="auto" controls></audio>
+
+# Booking
+
+Stuck on something? Book time with me for help with your project.
+
+<script data-codementor="jhabdas" data-style="badge" data-theme="dark" src="https://cdn.codementor.io/assets/badge.js"></script>
 
 # Projects
 
