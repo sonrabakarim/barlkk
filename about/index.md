@@ -9,19 +9,23 @@ comments: false
 modified: 2015-10-28
 ---
 
-Thanks for your interest. I'm a web developer from Chicago. Here is some of my work. I also maintain [a blog](/).
+I'm a web developer from Chicago. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the hamburger. Thanks for your interest!
 
-# Projects
+# Open Source Projects
 
 Showcase of various open source and Web Platform software engineering work I've done.
 
 **<a href="https://github.com/jhabdas/lumpenradio-com" target="_blank">Lumpen Radio Web 2.0</a>**
 
-SEO-friendly React application for the Web. Capable of sub-second page loads on mobile. Pulls remote data and renders it on the server, then serves it up from Express. Supports Markdown processing with XSS, derived data and more.
+[![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio-web-2-0)
+
+SEO-friendly React application for the Web. Firebase for Auth and data. Uses Alt for unidirectional data flow. Capable of sub-second page loads on mobile thanks to server-side pre-rendering of React components. ES7 decorators used to inject styles into components on render, thereby inlining CSS with the app's first HTTP response payload. JS payload lazy-loaded thereafter, if the browser supports JavaScript.
 
 **<a href="https://github.com/jhabdas/lumpen-radio" target="_blank">React Native iOS app for WLPN 105.5 Chicago</a>**
 
-Open source iOS native app using React Native. Eases the barrier to entry in the App Store for <abbr title="Low-Power FM">LPFM</abbr> broadcast radio stations and others, allowing them full control of app experience.
+[![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio)
+
+iOS app using React Native. Eases the barrier to entry in the App Store for <abbr title="Low-Power FM">LPFM</abbr> broadcast radio stations and others.
 
 **<a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>**
 
