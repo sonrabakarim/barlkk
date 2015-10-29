@@ -1,7 +1,7 @@
 ---
 title: Reflecting on React Native development
 date: 2015-08-01T12:57:51-05:00
-modified: 2015-09-18
+modified: 2015-10-29
 layout: post
 comments: true
 description: Tips to get your app delivered faster.
@@ -54,6 +54,14 @@ A picture's worth a thousand words. Show people what your app will look like on 
 
 ## Incorporating a custom font
 Avoid <abbr title="Flash of Unstyled Content">FOUC</abbr> by bundling your font in the application binary rather than pulling pulling the font from the Web. Font flickers could be avoided by base-64 encoding the font and embedding it in an inline style declaration, but it's easier to slip the font into the app itself. To do so review the [Common Mistakes With Adding Custom Fonts to Your iOS App](http://codewithchris.com/common-mistakes-with-adding-custom-fonts-to-your-ios-app/) and follow the instructions provided to add your font.
+
+## Enabling Push Notifications
+
+If your app is running a version of `react-native` before `0.13.0` you're going to have a little friction getting started here due to an evolving RN codebase. Here's how it'll initially manifest itself:
+
+> RCTPushNotificationManager.h not found
+
+When this happens it's because your app cannot find the `.h` file in its Header Search Paths (in Build Settings). To fix this follow the [sage advice in #1979](https://github.com/facebook/react-native/pull/1979#issue-94795697). And don't forget to [link your library](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content)!
 
 # App submission
 Getting your app in the App Store for real.
