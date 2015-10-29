@@ -2,22 +2,14 @@
 layout: page
 title: About Josh Habdas
 image:
-  feature: abstract-8.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: balance-110850_1280.jpg
+  credit: realworkhard
+  creditlink: https://pixabay.com/en/balance-meditation-meditate-silent-110850/
 comments: false
 modified: 2015-10-28
 ---
 
-Enjoy some <a href="http://lumpenradio.com/" target="_blank" rel="nofollow">Lumpen Radio</a> as the page comes together. Press play to tune in.
-
-<audio src="http://stream.lumpen.fm:7416/;stream/1" preload="auto" controls></audio>
-
-# Booking
-
-Stuck on something? Book time with me for help with your project.
-
-<script data-codementor="jhabdas" data-style="badge" data-theme="dark" src="https://cdn.codementor.io/assets/badge.js"></script>
+Thanks for your interest. I'm a web developer from Chicago. Here is some of my work. I also maintain [a blog](/).
 
 # Projects
 
