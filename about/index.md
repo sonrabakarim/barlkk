@@ -9,39 +9,43 @@ comments: false
 modified: 2015-10-28
 ---
 
-I'm a web developer from Chicago. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the <i class="icon ion-navicon"></i> then About. Thanks for your interest!
+A web developer from Chicago with a B.S. in Information Systems and more than ten years of enterprise and back-office app dev experience. I have two fluffy cats so you know I'm legit. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the <i class="icon ion-navicon"></i> then About. Thanks and be well.
 
 # Open Source Projects
 
 Showcase of various open source and Web Platform software engineering work I've done.
 
+## Recent
+
 **<a href="https://github.com/jhabdas/lumpenradio-com" target="_blank">Lumpen Radio Web 2.0</a>**
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio-web-2-0)
 
-SEO-friendly React application for the Web. Firebase for Auth and data. Uses Alt for unidirectional data flow. Capable of sub-second page loads on mobile thanks to server-side pre-rendering of React components. ES7 decorators used to inject styles into components on render, thereby inlining CSS with the app's first HTTP response payload. JS payload lazy-loaded thereafter, if the browser supports JavaScript.
+SEO-friendly React application for the Web. Firebase for Auth and data. Uses Alt for unidirectional data flow. Capable of sub-second page loads on mobile thanks to server-side pre-rendering of React components. ES7 decorators used to inject styles into components on render, thereby inlining CSS with the app's first HTTP response payload. JS payload lazy-loaded thereafter, if the browser supports JavaScript. Webpack code splitting is used to reduce payload chunk size. Planned admin data management flow with Material UI.
 
 **<a href="https://github.com/jhabdas/lumpen-radio" target="_blank">React Native iOS app for WLPN 105.5 Chicago</a>**
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio)
 
-iOS app using React Native. Eases the barrier to entry in the App Store for <abbr title="Low-Power FM">LPFM</abbr> broadcast radio stations and others.
+iOS app built from the ground up using React Native. Selected for the <a href="https://facebook.github.io/react-native/showcase.html" target="_blank">React Native Showcase</a>. Eases the barrier to app entry for <abbr title="Low-Power FM">LPFM</abbr> broadcast stations and others streaming media online. The app is thoroughly documented, I've given [several talks and a Webcast](#talks) on <a href="slides.com/jhabdas/streaming-audio-react-native/" target="_blank">its construction</a> as well as written some related [blog](/reflecting-on-react-native-development/) [posts](/automating-ios-app-icon-creation/).
 
 **<a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>**
 
-A application seed I maintain to help people start new React Native projects using ES6 Modules while making it easy to build and scale an app using best practices and standards-based and emerging development techniques.
-
-**<a href="https://github.com/trunkclub/brunch-with-panache" target="_blank">Brunch with Panache</a>**
-
-Isomorphic development toolkit empowers engineers, designers and product owners to quickly develop single-page Web applications for the back-office. Used to power enterprise E-commerce, operations and merchandising applications. But simple enough to build one-off apps. Created entirely using JavaScript and Node.js. Supports TDD, integration testing, module generators, fast page loads and sub-second builds. Integrates with React.
-
-**<a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>**
-
-Beer-first mobile search app built with Hapi and Chaplin. Allows quick retrieval of beer info by keyword search against the Untappd API.
+An [application seed](/awesome-react-boilerplates/) I maintain to help others start new React Native projects using ES6 and ES7 modules while making it faster and easier to develop and scale.
 
 **<a href="https://github.com/jhabdas/xanthippe" target="_blank">Xanthippe</a>**
 
 Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser using SystemJS with CORS disabled.
+
+## Older
+
+**<a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>**
+
+Beer-first search app for the Web. Built with Hapi and Chaplin (like Marionette, on top of Backbone). Allows quick retrieval of beer info by keyword search against the Untappd API. Optimized for mobile.
+
+**<a href="https://github.com/trunkclub/brunch-with-panache" target="_blank">Brunch with Panache</a>**
+
+Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engineers, designers and product owners to quickly develop and contribute to single-page fat client Web applications for the back-office. Used to power enterprise E-commerce, operations and merchandising applications. But simple enough to build one-off apps. Created entirely using JavaScript and Node.js. Supports TDD, integration testing, module generators, fast page loads and sub-second builds. Integrates with React. Grab the [Dockerfile](https://github.com/trunkclub/bwp-docker) here.
 
 # Talks
 
