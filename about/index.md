@@ -9,7 +9,7 @@ comments: false
 modified: 2015-10-28
 ---
 
-I'm a web developer from Chicago. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the hamburger. Thanks for your interest!
+I'm a web developer from Chicago. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the <i class="icon ion-navicon"></i> then About. Thanks for your interest!
 
 # Open Source Projects
 
