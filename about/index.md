@@ -37,6 +37,13 @@ An [application seed](/awesome-react-boilerplates/) I maintain to help others st
 
 Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser using SystemJS with CORS disabled.
 
+**<a href="https://github.com/jhabdas/habd.as" target="_blank">habd.as</a>**
+
+[![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/simple-websites-with-jekyll-and-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jhabdas/habd.as.svg)](https://hub.docker.com/r/jhabdas/habd.as/)
+
+Static site built with Jekyll and Docker. Utilizes Octopress 3 for post management. Automatically builds to Docker Hub. Hosted under a Docker container on a Digital Ocean droplet. Served using Nginx with Passenger. Used learnings to create the tutorial [Simple Websites with Jekyll and Docker](/simple-websites-jekyll-docker/).
+
 ## Older
 
 **<a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>**
