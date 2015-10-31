@@ -9,7 +9,7 @@ comments: false
 modified: 2015-10-28
 ---
 
-A web developer from Chicago with a B.S. in Information Systems and more than ten years of enterprise and back-office app dev experience. I have two fluffy cats so you know I'm legit. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit the <i class="fa fa-bars"></i> then About. Thanks and be well.
+A web developer from Chicago with a B.S. in Information Systems and more than ten years of enterprise and back-office app dev experience. I have two fluffy cats so you know I'm legit. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit <i class="fa fa-bars"></i> then About. Thanks and be well.
 
 # Open Source Projects
 
