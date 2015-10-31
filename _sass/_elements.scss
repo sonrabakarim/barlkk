@@ -11,6 +11,20 @@ hr {
     border-bottom: 1px solid #fff;
 }
 
+// Tables
+// --------------------------------------------------
+
+table {
+  caption {
+    border-bottom: 1px dotted $border-color;
+    padding-bottom: 0.5em;
+  }
+  td {
+    padding: 0.5em;
+  }
+}
+
+
 // Figures and images
 // --------------------------------------------------
 figure {

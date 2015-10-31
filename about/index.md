@@ -50,7 +50,7 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
 # Talks
 
 <table>
-  <caption>Various public speaking engagements.</caption>
+  <caption>Various public speaking engagements I've had.</caption>
   <thead>
     <tr>
       <th>Date</th>
@@ -153,7 +153,7 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       </td>
       <td>Full talk</td>
       <td>
-        Meetup
+        <a href="http://www.meetup.com/Chicago-Backbone/events/149611272/" target="_blank">Backbone Chicago</a>
       </td>
     </tr>
     <tr>
