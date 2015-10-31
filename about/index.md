@@ -17,13 +17,13 @@ Showcase of various open source and Web Platform software engineering work I've 
 
 ## Recent
 
-**<a href="https://github.com/jhabdas/lumpenradio-com" target="_blank">Lumpen Radio Web 2.0</a>**
+### <a href="https://github.com/jhabdas/lumpenradio-com" target="_blank">Lumpen Radio Web 2.0</a>
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio-web-2-0)
 
 SEO-friendly React application for the Web. Firebase for Auth and data. Uses Alt for unidirectional data flow. Capable of sub-second page loads on mobile thanks to server-side pre-rendering of React components. ES7 decorators used to inject styles into components on render, thereby inlining CSS with the app's first HTTP response payload. JS payload lazy-loaded thereafter, if the browser supports JavaScript. Webpack code splitting is used to reduce payload chunk size. Planned admin data management flow with Material UI.
 
-**<a href="https://github.com/jhabdas/lumpen-radio" target="_blank">React Native iOS app for WLPN 105.5 Chicago</a>**
+### <a href="https://github.com/jhabdas/lumpen-radio" target="_blank">React Native iOS app for WLPN 105.5 Chicago</a>
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/lumpen-radio)
 
@@ -31,15 +31,15 @@ iOS app built from the ground up using React Native. Selected for the <a href="h
 
 [![Download it on the App Store.](/images/download-on-app-store-badge.svg)](http://appsto.re/us/NdeV7.i)
 
-**<a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>**
+### <a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>
 
 An [application seed](/awesome-react-boilerplates/) I maintain to help others start new React Native projects using ES6 and ES7 modules while making it faster and easier to develop and scale.
 
-**<a href="https://github.com/jhabdas/xanthippe" target="_blank">Xanthippe</a>**
+### <a href="https://github.com/jhabdas/xanthippe" target="_blank">Xanthippe</a>
 
 Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser using SystemJS with CORS disabled.
 
-**<a href="https://github.com/jhabdas/habd.as" target="_blank">habd.as</a>**
+### <a href="https://github.com/jhabdas/habd.as" target="_blank">habd.as</a>
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/simple-websites-with-jekyll-and-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jhabdas/habd.as.svg)](https://hub.docker.com/r/jhabdas/habd.as/)
@@ -48,11 +48,11 @@ Static site built with Jekyll and Docker. Utilizes Octopress 3 for post manageme
 
 ## Older
 
-**<a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>**
+### <a href="https://github.com/jhabdas/hopstop" target="_blank">Hopstop</a>
 
 Beer-first search app for the Web. Built with Hapi and Chaplin (like Marionette, on top of Backbone). Allows quick retrieval of beer info by keyword search against the Untappd API. Optimized for mobile.
 
-**<a href="https://github.com/trunkclub/brunch-with-panache" target="_blank">Brunch with Panache</a>**
+### <a href="https://github.com/trunkclub/brunch-with-panache" target="_blank">Brunch with Panache</a>
 
 Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engineers, designers and product owners to quickly develop and contribute to single-page fat client Web applications for the back-office. Used to power enterprise E-commerce, operations and merchandising applications. But simple enough to build one-off apps. Created entirely using JavaScript and Node.js. Supports TDD, integration testing, module generators, fast page loads and sub-second builds. Integrates with React. Grab the [Dockerfile](https://github.com/trunkclub/bwp-docker) here.
 
