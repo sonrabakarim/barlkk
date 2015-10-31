@@ -1,18 +1,20 @@
 # habd.as
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/simple-websites-with-jekyll-and-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jhabdas/habd.as.svg)](https://hub.docker.com/r/jhabdas/habd.as/)
 
-My personal site all containerized and using the HPSTR theme for Jekyll.
+My personal website, containerized and using the HPSTR theme for Jekyll.
 
 # Features
 
 - Everything you see in the HPSTR section below
+- Ready-to-use Dockerfile for site containerization ([full instructions here](http://habd.as/simple-websites-jekyll-docker/))
 - Post excerpts and auto-generated meta descriptions
 - Configurable support for [Segment.io](http://segment.io)
 - Support for GitHub flavored markdown and code fencing
 - Better semantics with the `main` and `aside` elements
 - Improved discoverability of `abbr` elements
-- Ready-to-use Dockerfile for site containerization
+- Basic styling for `table` elements
 - A `robots.txt` file for crawlers
 - Less code for a lighter footprint
 
