@@ -16,11 +16,14 @@ hr {
 
 table {
   caption {
+    font-style: italic;
     border-bottom: 1px dotted $border-color;
     padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
   }
   td {
-    padding: 0.5em;
+    vertical-align: top;
+    padding: 1em 0.5em;
   }
 }
 

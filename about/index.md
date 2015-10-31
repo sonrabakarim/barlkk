@@ -29,6 +29,8 @@ SEO-friendly React application for the Web. Firebase for Auth and data. Uses Alt
 
 iOS app built from the ground up using React Native. Selected for the <a href="https://facebook.github.io/react-native/showcase.html" target="_blank">React Native Showcase</a>. Eases the barrier to app entry for <abbr title="Low-Power FM">LPFM</abbr> broadcast stations and others streaming media online. The app is thoroughly documented, I've given [several talks and a Webcast](#talks) on <a href="slides.com/jhabdas/streaming-audio-react-native/" target="_blank">its construction</a> as well as written some related [blog](/reflecting-on-react-native-development/) [posts](/automating-ios-app-icon-creation/).
 
+[![Download it on the App Store.](/images/download-on-app-store-badge.svg)](http://appsto.re/us/NdeV7.i)
+
 **<a href="https://github.com/jhabdas/react-native-webpack-starter-kit" target="_blank">React Native Webpack Starter Kit</a>**
 
 An [application seed](/awesome-react-boilerplates/) I maintain to help others start new React Native projects using ES6 and ES7 modules while making it faster and easier to develop and scale.
