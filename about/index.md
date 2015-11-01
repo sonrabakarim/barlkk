@@ -6,7 +6,7 @@ image:
   credit: realworkhard
   creditlink: https://pixabay.com/en/balance-meditation-meditate-silent-110850/
 comments: false
-modified: 2015-10-28
+modified: 2015-10-31
 ---
 
 A web developer from Chicago with a B.S. in Information Systems and more than ten years of enterprise and back-office app dev experience. I have two fluffy cats so you know I'm legit. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit <i class="fa fa-bars"></i> then About. Thanks and be well.
@@ -58,12 +58,11 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
 # Talks
 
 <table>
-  <caption>Various public speaking engagements I've had.</caption>
+  <caption>Various talks I've given.</caption>
   <thead>
     <tr>
       <th>Date</th>
       <th>Deck</th>
-      <th>Format</th>
       <th>Host</th>
     </tr>
   </thead>
@@ -75,7 +74,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         Isomorphic Rendering with React
       </td>
-      <td>Lightning talk</td>
       <td>
         <a href="http://www.meetup.com/chicago-html5/events/226035801/" target="_blank">HTML5 Chicago</a>
       </td>
@@ -87,7 +85,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="http://slides.com/jhabdas/streaming-audio-react-native/" target="_blank">Build a streaming audio app with React Native</a>
       </td>
-      <td>Webcast</td>
       <td>
         <a href="http://www.oreilly.com/pub/e/3483" target="_blank">O'Reilly Media</a>
       </td>
@@ -99,7 +96,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="http://slides.com/jhabdas/streaming-audio-react-native/" target="_blank">Build a streaming audio app with React Native</a>
       </td>
-      <td>Full talk</td>
       <td>
         <a href="http://www.meetup.com/React-Chicago/events/222510246/" target="_blank">React Chicago</a>
       </td>
@@ -111,7 +107,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="http://slides.com/jhabdas/simple-websites-jekyll-docker/" target="_blank">Simple websites with Jekyll and Docker</a>
       </td>
-      <td>Lightning talk</td>
       <td>
         <a href="http://www.meetup.com/Docker-Chicago/events/222157658/" target="_blank">Docker Chicago</a>
       </td>
@@ -123,7 +118,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="http://slides.com/jhabdas/exim" target="_blank">Exim: An HTML5 architecture built on Flux + React</a>
       </td>
-      <td>Lightning talk</td>
       <td>
         <a href="http://www.meetup.com/chicago-html5/events/218749155/" target="_blank">HTML5 Chicago</a>
       </td>
@@ -135,7 +129,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="https://slides.com/jhabdas/typeahead-with-bloodhound/" target="_blank">Typeahead with Bloodhound</a>
       </td>
-      <td>Lightning talk</td>
       <td>
         <a href="http://www.meetup.com/js-chi/events/175330142/" target="_blank">JavaScript Chicago</a>
       </td>
@@ -147,7 +140,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="https://speakerdeck.com/jhabdas/brunch-with-panache" target="_blank">Brunch with Panache</a>
       </td>
-      <td>Full talk</td>
       <td>
         <a href="http://www.meetup.com/chicago-html5/events/162640832/" target="_blank">HTML5 Chicago</a>
       </td>
@@ -159,7 +151,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="https://speakerdeck.com/jhabdas/rivets" target="_blank">Rivets</a>
       </td>
-      <td>Full talk</td>
       <td>
         <a href="http://www.meetup.com/Chicago-Backbone/events/149611272/" target="_blank">Backbone Chicago</a>
       </td>
@@ -171,7 +162,6 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
       <td>
         <a href="https://speakerdeck.com/jhabdas/hopstop" target="_blank">Brunch with Chaplin</a>
       </td>
-      <td>Short talk</td>
       <td>
         <a href="http://www.meetup.com/js-chi/events/132710002/" target="_blank">JavaScript Chicago</a>
       </td>
