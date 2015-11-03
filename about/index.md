@@ -6,7 +6,7 @@ image:
   credit: realworkhard
   creditlink: https://pixabay.com/en/balance-meditation-meditate-silent-110850/
 comments: false
-modified: 2015-10-31
+modified: 2015-11-03
 ---
 
 A web developer from Chicago with a B.S. in Information Systems and more than ten years of enterprise and back-office app dev experience. I have two fluffy cats so you know I'm legit. Here is some of my work. I also maintain [a tech blog](/). If you'd like to contact me just hit <i class="fa fa-bars"></i> then About. Thanks and be well.
@@ -149,7 +149,7 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
         <time datetime="2014-02-12">12 Feb 2014</time>
       </td>
       <td>
-        <a href="https://speakerdeck.com/jhabdas/rivets" target="_blank">Rivets</a>
+        <a href="https://speakerdeck.com/jhabdas/rivets" target="_blank">Two-way data-binding with Rivets</a>
       </td>
       <td>
         <a href="http://www.meetup.com/Chicago-Backbone/events/149611272/" target="_blank">Backbone Chicago</a>
@@ -157,7 +157,7 @@ Isomorphic development toolkit I worked with Trunk to Open Source. Empowers engi
     </tr>
     <tr>
       <td>
-        <time datetime="2014-02-12">12 Feb 2014</time>
+        <time datetime="2013-10-22">22 Oct 2013</time>
       </td>
       <td>
         <a href="https://speakerdeck.com/jhabdas/hopstop" target="_blank">Brunch with Chaplin</a>
