@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-10-21
+modified: 2015-11-06
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -32,7 +32,7 @@ Application boilerplates for creating React applications.
 
 Application boilerplates for creating React Native applications.
 
-- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6 using Babel.
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6/7 using Babel.
 - [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar). See it in use with [React Native Icons](https://github.com/corymsmith/react-native-icons) in my [Smartphone Symphony](https://github.com/jhabdas/SmartphoneSymphony) app.
