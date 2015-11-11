@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-11-06
+modified: 2015-11-23
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -21,6 +21,7 @@ Contributions via comments are welcome. The best ones will be moved into the art
 
 Application boilerplates for creating React applications.
 
+- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com).
 - [Este.js](https://github.com/este/este) - A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as the React Starter Kit.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.

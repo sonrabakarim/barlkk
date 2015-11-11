@@ -2,6 +2,7 @@
 title: Automating iOS App Icon Creation
 layout: post
 date: 2015-06-03T10:41:16-05:00
+modified: 2015-11-11
 comments: true
 description: Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting.
 categories: [tutorials]
@@ -14,7 +15,9 @@ image:
 
 While working on a React Native app for [Lumpen Radio](http://lumpen.fm) I got to the point where I was ready to enter beta - and I needed an App Icon for my app. I hit up a few peeps with apps already in the App Store to understand how they created their app icons. Much to my chagrin I found out each of them had created their app icons manually using an image editing tool of some sort. Not wanting to work through the process of manual image creation using a GUI editor I stumbled upon an [Inkscape template and accompanying script](https://github.com/theherk/App-Icon-Template) that’ll do it for you. Giggity!
 
-**Update 24 Jul 15:** For those with a Sketch license, app icon and launch screen images can be produced along with asset catalogs using the [sketch-to-xcode-assets-catalog](https://github.com/GeertWille/sketch-to-xcode-assets-catalog), though the approach used in this article allows for creation of assets without an additional penny spent. Thanks to [Diego Durli](https://br.linkedin.com/in/diegodurli) for the information.gi
+**Update 11 Nov 15:** Thanks to a well placed tip from [SubProto](https://disqus.com/by/subproto/) it's possible to get the script running on OS X. To do so look at the `resize.sh` code from the commit [`bd335fd`](https://github.com/theherk/App-Icon-Template/tree/bd335fd38eae9782bd75317de9c751daa9344a35) and adapt accordingly. I tested this on OS X 10.11.1 (El Capitan) using the provided icon template with success.
+
+**Update 24 Jul 15:** For those with a Sketch license, app icon and launch screen images can be produced along with asset catalogs using the [sketch-to-xcode-assets-catalog](https://github.com/GeertWille/sketch-to-xcode-assets-catalog), though the approach used in this article allows for creation of assets without an additional penny spent. Thanks to [Diego Durli](https://br.linkedin.com/in/diegodurli) for the information.
 
 > Automate creation of iOS App Icons using SVG multi-rasterization to PNG with Inkscape and shell scripting
 
