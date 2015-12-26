@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2015-12-04
+modified: 2015-12-26
 layout: post
 comments: true
 description: Awesome React Boilerplates for kicking your app development into high gear.
@@ -24,6 +24,7 @@ Application boilerplates for creating React applications.
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com).
 - [Este.js](https://github.com/este/este) - A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as the React Starter Kit.
+- [hapi-universal-redux](https://github.com/luandro/hapi-universal-redux) - Isomorphic starterkit with server-side React rendering using npm, piping, webpack, webpack-dev-server, react-transform, hapi.js, babel.js, react.js, redux, redux-devtools, simple-redux-router, react-router, radium.
 - [re-base](https://github.com/tylermcginnis/re-base) - Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron application boilerplate based on react, react-router, webpack, react-hot-loader for rapid application development
 - [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application. [Uses](https://github.com/relayjs/relay-starter-kit/blob/37f1d13613db732b2d924a55cecf89c255ce0f40/package.json#L14) the Babel Relay Plug-in and [linked to](https://facebook.github.io/relay/docs/guides-babel-plugin.html#content) from the official Relay documentation so it's likely to gain traction as a starting point for new apps.
