@@ -93,7 +93,7 @@ If you are using an affordable hosting solution like BlueHost or DreamHost, and 
  [3]: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
  [4]: http://cheat.errtheblog.com/s/vim
  [5]: https://github.com/brunch/brunch/wiki/Skeletons
- [6]: http://developing-modern-web-applications-on-windows-vagrant/
+ [6]: /developing-modern-web-applications-on-windows-vagrant/
  [7]: https://www.cloudflare.com/
 
  *[LTS]: Long-Term Support
