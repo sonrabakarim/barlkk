@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-02-03
+modified: 2016-02-16
 layout: post
 comments: true
 description: Awesome React starter kits for kicking your app development into high gear.
@@ -22,8 +22,9 @@ Contributions via comments are welcome. The best ones will be moved into the art
 Application boilerplates for creating React applications.
 
 - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS modules with Sass support, unit testing, code coverage reports, bundle splitting, and a whole lot more.
-- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com).
+- [react-slingshot](https://github.com/coryhouse/react-slingshot) - React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
+- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [Este.js](https://github.com/este/este) - A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as the React Starter Kit.
 - [hapi-universal-redux](https://github.com/luandro/hapi-universal-redux) - Isomorphic starter kit with server-side React rendering using npm, piping, webpack, webpack-dev-server, react-transform, hapi.js, babel.js, react.js, redux, redux-devtools, simple-redux-router, react-router, radium.
 - [hapi-react-starter-kit](https://github.com/Dindaleon/hapi-react-starter-kit) - Another isomorphic boilerplate chalk full of features for the taking.
