@@ -1,7 +1,7 @@
 ---
 title: Awesome React Boilerplates
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-02-16
+modified: 2016-02-20
 layout: post
 comments: true
 description: Awesome React starter kits for kicking your app development into high gear.
@@ -37,7 +37,7 @@ Application boilerplates for creating React applications.
 
 Application boilerplates for creating React Native applications.
 
-- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6/7 using Babel.
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A future-facing starter kit for React Native apps. Takes a minimalistic lean on tooling. Follows the latest React Native stable release. Uses Babel 6 for ES6-style JSX transpilation with ES7 Stage 1 support, and Webpack as a dev server and module bundler. Provides static code linting using ESLint and build output in the same console window, and Source Maps for debugging in the browser. Features cross-platform functional stateless component example and makes semicolons a thing of the past.
 - [react-native-redux-starter-kit](https://github.com/LeoLeBras/react-native-redux-starter-kit) - A Redux starter kit for RN.
 - [snowflake](https://github.com/bartonhammond/snowflake) - A React-Native starter kit using Redux, Parse.com, Jest
 - [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
