@@ -37,6 +37,7 @@ Application boilerplates for creating React applications.
 
 Application boilerplates for creating React Native applications.
 
+- [snowflake](https://github.com/bartonhammond/snowflake) - A React-Native starter kit using Redux, Parse.com, Jest
 - [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - Forward-looking React Native apps with Webpack and Babel
 - [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
