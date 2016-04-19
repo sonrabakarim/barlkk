@@ -4,6 +4,7 @@ title: "Simple websites with Jekyll and Docker"
 permalink: /simple-websites-jekyll-docker/
 description: "Learn how to host your own simple websites with Jekyll and Docker."
 date: 2015-05-03T01:01:56-05:00
+modified: 2016-04-18
 tags: [blogging, devops, jekyll, docker, server, webmaster, vm, virtualization, hosting]
 categories: [tutorials]
 image:
@@ -30,23 +31,26 @@ Alright, now onto the fun stuff! In this section we’re going to clone a seed f
 
 ## Install Docker
 
-Docker is designed to run only on Linux. To use it on OS X or Windows you’ll need to run a virtual machine with Linux on it. To do so [download and install Virtual Box](https://www.virtualbox.org/) and [boot2docker](http://boot2docker.io/), and follow the setup instructions for each.
+Docker is designed to run on Linux. To use it on Windows you’ll need to run a virtual machine with Linux on it. To do so [download and install Virtual Box](https://www.virtualbox.org/) and [docker-machine](https://github.com/docker/machine), and follow the setup instructions for each. Mac OS X users can use [dlite](https://github.com/nlf/dlite) and skip using VirtualBox and `docker-machine` altogether.
 
-Once installed and set-up, **start the Docker daemon**:
+If using `docker-machine`, **create a virtual machine** using the virtualbox driver and then **start the Docker daemon** on it, setting any environment variables suggested by `docker-machine` to enable proper connection from the host machine to the VM:
 
-    boot2docker up
+    docker-machine create -d virtualbox default
+    docker-machine start default
 
-Set suggested environment variables, if prompted, then do:
+Once Docker is installed, run it with:
 
     docker
 
-You’ll see a command listing if everything worked. If not, ensure boot2docker is running with `boot2docker status`.
+You’ll see a command listing if everything worked. If not, ensure your Docker environment is configured correctly before proceeding.
 
 ## Clone Jekyll seed
 
 In order to build a Docker image to run our Jekyll site we need an actual site to start with. Rather than creating one from scratch we’re going to use an open-source seed called [Lanyon][1] by Mark Otto. Go ahead and **clone it now**:
 
     git clone https://github.com/poole/lanyon.git lanyon && cd $_
+
+**Tip:** For a more feature-rich starter theme with a sharp design check out any of the wonderful [Jekyll themes by Michael Rose](https://mademistakes.com/work/jekyll-themes/), such as [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/).
 
 ## Configure Docker host container
 
