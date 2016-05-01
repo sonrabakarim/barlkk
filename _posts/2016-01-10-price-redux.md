@@ -5,9 +5,9 @@ categories: [opinion]
 description: "Learn Redux through experience, not expensive training."
 tags: [react, redux, coding, training]
 image:
-  feature: apple-256263_1920.jpg
-  credit: jarmoluk
-  creditlink: https://pixabay.com/en/apple-education-school-knowledge-256263/
+  feature:
+  credit:
+  creditlink:
 comments: false
 share: true
 date: 2016-01-10T16:08:28-06:00
