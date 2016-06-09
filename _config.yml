@@ -28,10 +28,10 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification : B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
+bing_site_verification   : DBC165D1E8CE148BED6D48D4F31A3831
+alexa_site_verification  : # Claim a site feature retired May 2016
+yandex_site_verification : 4006a8813cbb9fdb
 
 # Social Sharing
 twitter:
