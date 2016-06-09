@@ -50,7 +50,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : segment # false (default), "segment", "google", "google-universal", "custom"
   google:
     tracking_id          :
   segment:
