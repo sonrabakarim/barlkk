@@ -15,6 +15,6 @@ In this talk I introduce Paul Miller's Exim (React + Flux) architecture and demo
 View the [application source](https://github.com/jhabdas/exim-chat-example) used for the presentation demo.
 {: .notice--info}
 
-<div class="intrinsic-container intrinsic-container-4x3">
+<div class="intrinsic-container intrinsic-container--4x3">
   <iframe src="//slides.com/jhabdas/exim/embed?style=light" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

@@ -16,6 +16,6 @@ This lightning talk summarizes the primary steps needed to quickly start and hos
 Check out the [related post](/simple-websites-jekyll-docker/) for more detailed instructions on getting started.
 {: .notice--info}
 
-<div class="intrinsic-container intrinsic-container-4x3">
+<div class="intrinsic-container intrinsic-container--4x3">
   <iframe src="//slides.com/jhabdas/simple-websites-jekyll-docker/embed?style=light" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

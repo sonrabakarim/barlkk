@@ -15,6 +15,6 @@ In this talk I show how to leverage a remote API on a mobile device to filter an
 View the [application source](https://github.com/jhabdas/hopstop/tree/ratchet) used for the presentation demo.
 {: .notice--info}
 
-<div class="intrinsic-container intrinsic-container-4x3">
+<div class="intrinsic-container intrinsic-container--4x3">
   <iframe src="//slides.com/jhabdas/typeahead-with-bloodhound/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

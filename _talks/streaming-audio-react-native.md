@@ -18,6 +18,6 @@ This talk deconstructs some key features for streaming audio on iOS and explains
 Talk also [available as a free Webcast](http://www.oreilly.com/pub/e/3483) courtesy of O'Reilly Media.
 {: .notice--info}
 
-<div class="intrinsic-container intrinsic-container-4x3">
+<div class="intrinsic-container intrinsic-container--4x3">
   <iframe src="//slides.com/jhabdas/streaming-audio-react-native/embed?style=light" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
