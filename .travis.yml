@@ -4,4 +4,4 @@ rvm:
   - 2.2
 install: bundle install
 script: JEKYLL_ENV=production bundle exec jekyll build
-after_success: s3_website push
+after_success: s3_website push --force
