@@ -1,0 +1,17 @@
+# Masthead navigation links
+
+masthead:
+  - title: "Work"
+    url: /work/
+  - title: "Talks"
+    url: /talks/
+  - title: "Archives"
+    url: /posts/
+  - title: "Contact"
+    url: /contact/
+
+# Footer navigation links
+
+footer:
+  - title: "Terms &amp; Policies"
+    url: /terms/

@@ -1,0 +1,73 @@
+/* ==========================================================================
+   CUSTOMIZATIONS
+   ========================================================================== */
+
+/*
+   AnchorJS styles
+   ========================================================================== */
+
+ .anchorjs-link {
+   font-family: 'fontawesome';
+   color: $link-color;
+
+   &:hover {
+     color: $link-color-hover;
+     text-decoration: none !important;
+   }
+   &:active {
+     color: $link-color-hover;
+   }
+   &:focus {
+     outline: 0;
+   }
+ }
+
+/*
+   Flick scrolling for WebKit Mobile (must wrap all visible content)
+   ========================================================================== */
+
+html, body {
+  height: 100%;
+}
+
+.flick {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  &__content {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/*
+   Responsive iFrames - https://benmarshall.me/responsive-iframes/
+   ========================================================================== */
+
+.intrinsic-container {
+   position: relative;
+   height: 0;
+   overflow: hidden;
+
+   &--16x9 { /* 16x9 Aspect Ratio */
+     padding-bottom: 56.25%;
+   }
+
+   &--4x3 { /* 4x3 Aspect Ratio */
+     padding-bottom: 75%;
+   }
+
+   iframe {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+   }
+ }
