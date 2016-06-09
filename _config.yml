@@ -11,11 +11,11 @@ title                    : "habd.as"
 title_separator          : "-"
 name                     : "Josh Habdas"
 description              : "Building the future Web"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+repository               : https://github.com/jhabdas/habd.as/
 teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "facebook", "google-plus", custom"
@@ -66,7 +66,7 @@ google_ad_slot           :
 author:
   name             : "Josh Habdas"
   avatar           : "bio-photo.jpg"
-  bio              : "Believe nothing you see and only half of what you code."
+  bio              : "Trust only half of what you steal and nothing that you code."
   location         : "Chicago, USA"
   email            :
   uri              :
