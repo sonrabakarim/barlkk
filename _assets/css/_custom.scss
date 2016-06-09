@@ -3,6 +3,25 @@
    ========================================================================== */
 
 /*
+   ParticlesJS styles
+   ========================================================================== */
+
+#particles-js {
+  position: relative;
+  background-color: #e8e8e8;
+  background-image: url("http://habd.as/images/estes-1500x1500.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+/*
    AnchorJS styles
    ========================================================================== */
 
