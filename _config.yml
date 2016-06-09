@@ -18,9 +18,9 @@ teaser                   : programming-942487_500.jpg # filename of teaser fallb
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : disqus # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : habdas # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -53,6 +53,8 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+  segment:
+    write_key            : YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
 
 # Google AdSense
 google_ad_client         :
