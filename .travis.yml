@@ -1,9 +1,6 @@
 language: ruby
 rvm:
   - 2.2
-env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-after_success: s3_website push
 install: bundle install
 script: JEKYLL_ENV=production bundle exec jekyll build
+after_success: s3_website push
