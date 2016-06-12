@@ -104,7 +104,7 @@ end
 # Usage: rake s3_website
 desc "push the contents of ./_site to S3"
 task :s3_website do
-  puts "* rsyncing the contents of ./_site to the server"
+  puts "* syncing the contents of ./_site to the server"
   system "s3_website push" # use --force with S3 config updates
 end
 
