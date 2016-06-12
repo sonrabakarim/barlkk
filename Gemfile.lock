@@ -35,7 +35,6 @@ GEM
     fastimage (2.0.0)
       addressable (~> 2)
     ffi (1.9.10)
-    ffi (1.9.10-x64-mingw32)
     font-awesome-sass (4.6.2)
       sass (>= 3.2)
     forwardable-extended (2.6.0)
@@ -193,4 +192,4 @@ DEPENDENCIES
   uglifier (~> 3.0.0)
 
 BUNDLED WITH
-   1.12.4
+   1.12.5

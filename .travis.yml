@@ -2,5 +2,4 @@ language: ruby
 rvm:
   - 2.2
 install: bundle install
-script: JEKYLL_ENV=production bundle exec jekyll build
-after_success: s3_website push
+script: rake deploy
