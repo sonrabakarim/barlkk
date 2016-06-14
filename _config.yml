@@ -20,6 +20,10 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 
+# CloudCannon
+# - https://docs.cloudcannon.com/building/jekyll/
+version: 3.0.3
+
 # SEO Related
 google_site_verification : B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
 bing_site_verification   : DBC165D1E8CE148BED6D48D4F31A3831
