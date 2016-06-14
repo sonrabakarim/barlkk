@@ -4,5 +4,5 @@
 //= require plugins/jquery.magnific-popup.js
 //= require plugins/jquery.smooth-scroll.min.js
 //= require plugins/stickyfill.min.js
-//= require plugins/anchor.js
-//= require plugins/particles.min.js
+//= require vendor/anchor.js
+//= require vendor/particles.min.js

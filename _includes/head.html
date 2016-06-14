@@ -15,7 +15,13 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-{% css preload.css rel:preload %}
+<script>
+  {% asset_source vendor/loadCSS.js %}
+  loadCSS("{% asset_path preload.css %}")
+</script>
+<noscript>
+  {% css preload.css rel:preload %}
+</noscript>
 
 <style>
   {% asset_source priority.css %}
