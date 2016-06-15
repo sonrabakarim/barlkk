@@ -19,9 +19,7 @@
   {% asset_source vendor/loadCSS.js %}
   loadCSS("{% asset_path preload.css %}")
 </script>
-<noscript>
-  {% css preload.css rel:preload %}
-</noscript>
+<noscript>{% css preload.css rel:preload %}</noscript>
 
 <style>
   {% asset_source priority.css %}
