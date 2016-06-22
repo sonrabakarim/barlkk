@@ -34,7 +34,7 @@ After switching from WordPress to Jekyll here's roughly what my PageSpeed has lo
 | 2015 | 92        | Jekyll    | DigitalOcean (CloudFlare) |
 | 2016 | 100       | Jekyll    | Amazon S3 (CloudFront)    |
 
-As you can see Jekyll is holding its weight for my relatively small site. And while build times [start to suffer](https://mademistakes.com/articles/using-jekyll-2016/) as sites reach 1000 pages, it's possible to BYO asset pipeline much like what some are [doing with Hugo](https://github.com/adrinux/web-starter-hugo) (which is super fast, by the way).
+As you can see Jekyll is holding its weight for my relatively small site, and page speed has been increasing over time (and understanding). And while build times [start to suffer](https://mademistakes.com/articles/using-jekyll-2016/) as sites reach 1000 pages, it's possible to BYO asset pipeline much like what some are [doing with Hugo](https://github.com/adrinux/web-starter-hugo) (which is super fast, by the way).
 
 ## Hitting PageSpeed 100
 
@@ -73,7 +73,7 @@ assets:
 
 ### Concatenate and output fingerprinted JS
 
-For externally loaded files, Jekyll Assets will automatically handle filename digesting (a.k.a. fingerprinting[^2]) and code uglification when built with the `JEKYLL_ENV=production` environment flag. But it needs to know a little about how your JS files are structured in order to be most effective.
+For externally loaded files, Jekyll Assets will automatically handle filename digesting (a.k.a. fingerprinting), necessary to allow CDN cache-busting, and code uglification when built with the `JEKYLL_ENV=production` environment flag. But it needs to know a little about how your JS files are structured in order to be most effective.
 
 Depending on your site structure you'll likely either want to create an `app.js` or both `app.js` and `vendor.js`. I tend to prefer the later as vendor code changes less often and, therefore, can be cached more aggressively in the browser (which we'll get to in a bit).
 
@@ -247,4 +247,3 @@ In this post I covered the evolution of how I hit PageSpeed 100 and the techniqu
 ![Screenshot showing PageSpeed 100](/images/ps100_1024.png)
 
 [^1]: GitHub Pages CDN [didn't exist until 2014](https://github.com/blog/1715-faster-more-awesome-github-pages).
-[^2]: Fingerprinting is important to allow for cache busting.
