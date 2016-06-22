@@ -3,7 +3,7 @@ title: Work
 permalink: /work/
 modified: 2016-05-27
 layout: splash
-excerpt: "Selected open source and for-profit endeavors."
+excerpt: "Assorted good things I've done."
 header:
   overlay_image: pourover-unsplash_1280.jpeg
   overlay_filter: 0.5
