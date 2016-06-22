@@ -26,13 +26,13 @@ In late 2011 Amazon CTO Werner Vogels was writing about [Jekyll & Amazon S3](htt
 
 After switching from WordPress to Jekyll here's roughly what my PageSpeed has looked like over time:
 
-| Year | PageSpeed | Platform  | Hosting      |
-|------|-----------|-----------|--------------|
-| 2009 | 72        | WordPress | BlueHost     |
-| 2013 | 85        | Jekyll    | GitHub Pages |
-| 2014 | 88        | Jekyll    | DigitalOcean |
-| 2015 | 92        | Jekyll    | DigitalOcean |
-| 2016 | 100       | Jekyll    | Amazon S3    |
+| Year | PageSpeed | Platform  | Hosting (CDN)             |
+|------|-----------|-----------|---------------------------|
+| 2009 | 72        | WordPress | BlueHost (None)           |
+| 2013 | 85        | Jekyll    | GitHub Pages (None[^1])   |
+| 2014 | 88        | Jekyll    | DigitalOcean (CloudFlare) |
+| 2015 | 92        | Jekyll    | DigitalOcean (CloudFlare) |
+| 2016 | 100       | Jekyll    | Amazon S3 (CloudFront)    |
 
 As you can see Jekyll is holding its weight for my relatively small site. And while build times [start to suffer](https://mademistakes.com/articles/using-jekyll-2016/) as sites reach 1000 pages, it's possible to BYO asset pipeline much like what some are [doing with Hugo](https://github.com/adrinux/web-starter-hugo) (which is super fast, by the way).
 
@@ -42,7 +42,7 @@ Okay, enough with the rambling. Want to hit a page speed of 100? Here's how usin
 
 ### Install Jekyll
 
-I'm going to assume you can figure out how to [install Jekyll](http://jekyllrb.com/docs/installation/). There are [hundreds of](http://jekyllthemes.org/) [free themes](http://jekyll.tips/templates/) available. But two I recommend are [Lanyon](http://lanyon.getpoole.com/) by Mark Otto and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. If you're coming from WordPress or another CMS can migrate your content using one of the many [Jekyll importers](https://import.jekyllrb.com/docs/home/).
+I'm going to assume you can figure out how to [install Jekyll](http://jekyllrb.com/docs/installation/). There are [hundreds of](http://jekyllthemes.org/) [free themes](http://jekyll.tips/templates/) available. But two I recommend are [Lanyon](http://lanyon.getpoole.com/) by Mark Otto and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. If you're coming from WordPress or another blogging platform you can migrate your content to Jekyll using one of the [many available importers](https://import.jekyllrb.com/docs/home/).
 
 ### Add the Jekyll Assets gem
 
@@ -73,9 +73,9 @@ assets:
 
 ### Concatenate and output fingerprinted JS
 
-Jekyll Assets will automatically handle digesting of filenames (fingerprint them for later cache busting) and uglification when run with the `JEKYLL_ENV=production` environment flag. But it still needs to know a little more about how JS files are structured before it'll do that for us.
+For externally loaded files, Jekyll Assets will automatically handle filename digesting (a.k.a. fingerprinting[^2]) and code uglification when built with the `JEKYLL_ENV=production` environment flag. But it needs to know a little about how your JS files are structured in order to be most effective.
 
-Depending on your site you'll likely either want to create an `app.js` or both `app.js` and `vendor.js`. I tend to prefer the later as vendor code changes less often and, therefore, can be cached more aggressively in the browser (which we'll get to in a bit).
+Depending on your site structure you'll likely either want to create an `app.js` or both `app.js` and `vendor.js`. I tend to prefer the later as vendor code changes less often and, therefore, can be cached more aggressively in the browser (which we'll get to in a bit).
 
 To concatenate files simply `require` them from a Jekyll Assets _source_ configured earlier:
 
@@ -90,12 +90,13 @@ To concatenate files simply `require` them from a Jekyll Assets _source_ configu
 //= require vendor/particles.min.js
 ```
 
-Assuming the above was the entire contents of `vendor.js`, when the build runs, the contents of all of the above files will be concatenated into that single file and then output in a Jekyll layout or include like so:
+Assuming the above was the entire contents of `vendor.js`, when the build runs, the contents of the required files will be concatenated into a single file and can added to the generated page using the Jekyll Assets `js` or `javascript` tags.
+
+Here's an example showing two tags, one of which is loaded asynchronously:
 
 ```liquid
 {{ "{% js vendor " }}%}
 {{ "{% js app async " }}%}
-</body>
 ```
 
 **Tip:** Include scripts directly above (or very near) the `BODY` closing tag. Ideally both of them would load `async`, but it's not strictly necessary for a perfect page speed and comes with a [set of complexities](http://www.stevesouders.com/blog/2008/12/27/coupling-async-scripts/) we can ignore for now by not coupling them (or simply using a single file like `app.js`).
@@ -138,7 +139,7 @@ With Jekyll Assets we can output our critical path CSS (or all of the it, if the
 
 ### Lazy-load remaining CSS
 
-If you properly separated your critical path CSS you can load the rest asynchronyously to prevent the browser from waiting to display the page while it's downloaded. To do so I recommend doing one or both of:
+If you properly separated your critical path CSS you can load the rest asynchronously--which helps prevent scroll jank as the user scroll immediately after a page loads. To do so I recommend doing one or both of:
 
 - Using [`rel="preload"` link type](https://w3c.github.io/preload/) (W3C draft at time of writing); and,
 - Loading the CSS using a JS loader like [loadCSS](https://github.com/filamentgroup/loadCSS).
@@ -160,10 +161,9 @@ Here's how to use both at the same time for non-critical path CSS:
 
 There are a lot of posts on this topic so I won't go in depth here. If your site is heavy on image content you're going to want responsive images. And if that's the case I agree with [Michael Rose](https://mademistakes.com/articles/using-jekyll-2016/) ([and others](http://blog.cloudfour.com/the-real-conflict-behind-picture-and-srcset/)) using `srcset` is the correct approach for creating responsive images unless you need to incorporate _art direction_, in which case you should use the HTML 5 `picture` element.
 
-Using Jekyll plug-ins responsive images with `srcset` attributes can be created with  [`jekyll-responsive-image`](https://github.com/wildlyinaccurate/jekyll-responsive-image) while those using the `picture` element can be created using the [`jekyll-picture-tag`](https://github.com/robwierzbowski/jekyll-picture-tag).
+With Jekyll plug-ins, responsive images using `srcset` can be created by  [`jekyll-responsive-image`](https://github.com/wildlyinaccurate/jekyll-responsive-image) while `picture` elements can be created using [`jekyll-picture-tag`](https://github.com/robwierzbowski/jekyll-picture-tag).
 
-**Tip:** Identify large images by navigating to the location where you're storing images in your project and then simply `ls -al` and look for large file sizes. Then use GiMP (`brew cask install gimp` if using [Homebrew](http://brew.sh/) on OS X) and [`imagemin`](https://github.com/imagemin/imagemin) to make adjustments as you see fit.
-{: .notice--info}
+Identify large images by navigating to the location where you're storing images in your project and then simply `ls -al` and look for large file sizes. Then use GiMP (`brew cask install gimp` if using [Homebrew](http://brew.sh/) on OS X) and [`imagemin`](https://github.com/imagemin/imagemin) to make adjustments as you see fit.
 
 ### Dealing with web fonts
 
@@ -196,7 +196,7 @@ The [`s3_website`](https://github.com/laurilehmijoki/s3_website) gem makes it ri
 
     gemrat s3_website
 
-Once installed following the [`s3_website` instructions](https://github.com/laurilehmijoki/s3_website) to create a config file, S3 bucket and connected CloudFront distribution---all from the command line. Here's the [config file I was using](https://github.com/jhabdas/habd.as/blob/e2c38a13c75ec33feb5fe93ee9be4f3003b96017/s3_website.yml) when I hit PageSpeed 100. Notice I'm using the config to specify the file types to compress, which cache control headers to add set <abbr title="Time to live">TTL</abbr> for the CloudFront distribution.
+Once installed following the [`s3_website` instructions](https://github.com/laurilehmijoki/s3_website) to create a config file, S3 bucket and connected CloudFront distribution---all from the command line. Here's the [config file I was using](https://github.com/jhabdas/habd.as/blob/e2c38a13c75ec33feb5fe93ee9be4f3003b96017/s3_website.yml) when I hit PageSpeed 100. Notice I'm using the config to specify file extensions to compress, cache control headers and <abbr title="Time to live">TTL</abbr> for the CloudFront distribution.
 
 ## Deploy with Travis
 
@@ -245,3 +245,6 @@ Pretty simple, right? There's really not that much to it.
 In this post I covered the evolution of how I hit PageSpeed 100 and the techniques I used to get there so you can too. This post was inspired by the many Jekyll gods out there for sharing their tips on improving Jekyll performance, and a lot of personal trial and error. If you have any questions, or additional tips to share, please leave a note in the comments section below.
 
 ![Screenshot showing PageSpeed 100](/images/ps100_1024.png)
+
+[^1]: GitHub Pages CDN [didn't exist until 2014](https://github.com/blog/1715-faster-more-awesome-github-pages).
+[^2]: Fingerprinting is important to allow for cache busting.
