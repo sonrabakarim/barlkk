@@ -5,6 +5,7 @@ date: 2013-09-27
 categories:
   - reference
 tags:
+  - jekyll
   - octopress
   - travis-ci
   - github

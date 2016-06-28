@@ -6,6 +6,7 @@ excerpt: Learn how to host Octopress (Jekyll) images on S3.
 categories:
   - tutorials
 tags:
+  - jekyll
   - octopress
   - s3
   - aws
