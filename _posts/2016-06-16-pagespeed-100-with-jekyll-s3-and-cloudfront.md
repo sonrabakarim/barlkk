@@ -11,8 +11,9 @@ tags:
   - jekyll
   - blog
 header:
-  overlay_image: london-telephone-booth-long-exposure-lights-6618_1024.jpg
+  overlay_image: london-telephone-booth-6618_1024.jpg
   overlay_filter: 0.5
+  teaser: london-telephone-booth-6618_500x352.jpg
 ---
 {% include toc %}
 

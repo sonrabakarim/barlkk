@@ -5,6 +5,9 @@ date: 2013-04-01
 excerpt: Learn how to use Sublime Text to SFTP to an Ubuntu server for simple remote website administration.
 categories: [tutorials]
 tags: [cloud, coding, ssh, ftp, ftps, sftp, linux, ubuntu]
+header:
+  overlay_image: binary-1377017_1280.jpg
+  overlay_filter: 0.5
 ---
 {% include toc %}
 

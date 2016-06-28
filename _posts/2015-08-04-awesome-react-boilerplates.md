@@ -9,7 +9,7 @@ tags: [react, react native, native, programming, web platform]
 header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [artbaggage](https://pixabay.com/en/circular-plates-metal-iron-837510/)"
+  teaser: circular-837510_500x333.jpg
 ---
 
 Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome React boilerplates -- sometimes knows as starter kits, seeds or skeletons -- for getting React-based applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.

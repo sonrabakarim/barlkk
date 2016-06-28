@@ -8,7 +8,7 @@ tags: [redis, golang, docker]
 header:
   overlay_image: phone-735062_1280.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [Gellinger](https://pixabay.com/en/phone-communication-call-select-735062/)"
+  teaser: phone-735062_500x309.jpg
 ---
 For several weeks I've been thinking about how to go about creating a chat application. After a knowledge drop from [Kent Safranski](http://fluidbyte.net/) I was inspired to stand-up the chat app using Redis. For the experiment I decided to use Go given the [concurrency affordances][2] baked into the language. So I took [A Tour of Go] and hit the blogs to see what I could find in the open source community.
 
