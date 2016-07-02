@@ -13,7 +13,7 @@ Looking back on learning to code originally, it started when I played script kid
 
 Why? Because after seeing a prominent Chicago JS-related Meetup mail blast hundreds of people for a 2-day paid Redux training (they never show the prices up-front) I feel compelled yet again[^3] to tell anyone with a desire or passion to code what it costs to do so.
 
-So, without further adieu, ladies and gentlemen, the price of learning to code, without restriction, I'm fairly certain, is somewhere close, close to the amount of:
+So, without further ado, ladies and gentlemen, the price of learning to code, without restriction, I'm fairly certain, is somewhere close, close to the amount of:
 
 > Learning to code is free.
 
