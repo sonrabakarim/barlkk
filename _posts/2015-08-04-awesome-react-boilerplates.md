@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-06-09
+modified: 2016-07-05
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -59,13 +59,13 @@ Application boilerplates for creating React apps.
 Application boilerplates for creating React Native applications.
 
 **[pepperoni](http://getpepperoni.com/)**
-<br>An aspirational open source starter for React Native and jam packed with lots of tasty ingredients.
+<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I'm currently building a project with this kit so stay tuned for more information.
+
+**[snowflake](https://github.com/bartonhammond/snowflake)**
+<br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond).
 
 **[react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)**
 <br>Build your React Native app with Webpack and Babel.
-
-**[snowflake](https://github.com/bartonhammond/snowflake)**
-<br>A React-Native starter kit using Redux, Parse.com, Jest
 
 **[react-native-es6-babel](https://github.com/roman01la/react-native-babel)**
 <br>Configuration to build React Native apps with ES6 using webpack and Babel
