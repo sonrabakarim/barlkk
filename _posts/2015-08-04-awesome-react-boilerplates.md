@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-07-05
+modified: 2016-07-06
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -12,9 +12,9 @@ header:
   teaser: circular-837510_500x333.jpg
 ---
 
-Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome React boilerplates -- sometimes knows as starter kits, seeds or skeletons -- for getting React-based applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
+Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome React boilerplates -- sometimes knows as starter kits or seeds -- for getting React-based applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
 
-Contributions via comments welcome. The best ones will be moved into the article body and the `nofollow` removed.
+Contributions via comments welcome. The best react boilerplates will be moved into the article body and the `nofollow` removed.
 {: .notice }
 
 # React
