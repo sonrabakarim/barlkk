@@ -12,9 +12,9 @@ header:
   teaser: circular-837510_500x333.jpg
 ---
 
-Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome React boilerplates -- sometimes knows as starter kits or seeds -- for getting React-based applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
+Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes knows as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
 
-Contributions via comments welcome. The best react boilerplates will be moved into the article body and the `nofollow` removed.
+Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow` removed.
 {: .notice }
 
 # React
