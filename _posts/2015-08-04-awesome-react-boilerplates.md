@@ -33,12 +33,6 @@ Application boilerplates for creating React apps.
 **[react-slingshot](https://github.com/coryhouse/react-slingshot)**
 <br>React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
 
-**[hapi-universal-redux](https://github.com/luandro/hapi-universal-redux)**
-<br>Isomorphic starter kit with server-side React rendering using npm, piping, webpack, webpack-dev-server, react-transform, hapi.js, babel.js, react.js, redux, redux-devtools, simple-redux-router, react-router, radium.
-
-**[hapi-react-starter-kit](https://github.com/Dindaleon/hapi-react-starter-kit)**
-<br>Another isomorphic boilerplate chalk full of features for the taking.
-
 **[Este](https://github.com/este/este)**
 <br>A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as React Starter Kit.
 
