@@ -21,6 +21,9 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 
 Application boilerplates for creating React apps.
 
+**[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
+I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
+
 **[react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/)**
 <br>A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 
@@ -29,6 +32,9 @@ Application boilerplates for creating React apps.
 
 **[react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)**
 <br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS modules with Sass support, unit testing, code coverage reports, bundle splitting, and a whole lot more.
+
+**[react-boilerplate](https://github.com/mxstbr/react-boilerplate)**
+From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
 
 **[react-slingshot](https://github.com/coryhouse/react-slingshot)**
 <br>React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
