@@ -34,7 +34,7 @@ Application boilerplates for creating React apps.
 <br>Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com) or my [Isomporhpic Rendering with React](/talks/isomorphic-rendering-react/) talk.
 
 **[react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)**
-<br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS modules with Sass support, unit testing, code coverage reports, bundle splitting, and a whole lot more.
+<br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies. It's a bit heavy for those new to React, and doesn't have the benefits of Isomorphic rendering, but there's plenty of info to take away from studying it.
 
 **[react-boilerplate](https://github.com/mxstbr/react-boilerplate)**
 From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
