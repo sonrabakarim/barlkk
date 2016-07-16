@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-07-06
+modified: 2016-07-16
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -22,7 +22,10 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 Application boilerplates for creating React apps.
 
 **[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
-I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
+<br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
+
+**[simple-static-react-aframe](https://github.com/Jon-Biz/simple-static-react-aframe)**
+<br>It's refreshing to see a new use case for a boilerplate. This boilerplate gets you set-up to build a VR website with React and Aframe. Check out the mobile demo and start building the next Pokémon Go.
 
 **[react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/)**
 <br>A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
