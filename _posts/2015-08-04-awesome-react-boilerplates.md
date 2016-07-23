@@ -62,13 +62,13 @@ Application boilerplates for creating React apps.
 Application boilerplates for creating React Native applications.
 
 **[ignite](https://github.com/infinitered/ignite)**
-<br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base!
+<br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Includes redux sagas and some config to get going with Fastlane for CI.
 
 **[pepperoni](http://getpepperoni.com/)**
 <br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I created a small app with this and, while the linting rules are a little persnickety for my taste (plus semicolons, who needs them?) the overall developer experience was good.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
-<br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond).
+<br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Parse, which is planned to be replaced with [Serverless](serverless.com), which uses AWS Lambdas and helps get you in the public cloud. Oh là là!
 
 **[react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)**
 <br>Build your React Native app with Webpack and Babel.
