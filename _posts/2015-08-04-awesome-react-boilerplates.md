@@ -37,7 +37,7 @@ Application boilerplates for creating React apps.
 <br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies. It's a bit heavy for those new to React, and doesn't have the benefits of Isomorphic rendering, but there's plenty of info to take away from studying it.
 
 **[react-boilerplate](https://github.com/mxstbr/react-boilerplate)**
-From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
+<br>From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
 
 **[react-slingshot](https://github.com/coryhouse/react-slingshot)**
 <br>React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
@@ -61,8 +61,11 @@ From the documentation, "A highly scalable, offline-first foundation with the be
 
 Application boilerplates for creating React Native applications.
 
+**[ignite](https://github.com/infinitered/ignite)**
+<br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base!
+
 **[pepperoni](http://getpepperoni.com/)**
-<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I'm currently building a project with this kit so stay tuned for more information.
+<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I created a small app with this and, while the linting rules are a little persnickety for my taste (plus semicolons, who needs them?) the overall developer experience was good.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
 <br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond).
