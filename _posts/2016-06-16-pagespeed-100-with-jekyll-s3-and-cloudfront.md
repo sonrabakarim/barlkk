@@ -241,6 +241,13 @@ end
 
 Pretty simple, right? There's really not that much to it.
 
+## Extra credit: Add SSL to your CloudFront distribution
+
+Let's say you want to look boss by using [the physical web](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e) to broadcast a link to [a slide deck](https://slides.com/jhabdas) for a presentation you're about to give at a Meetup. What better way to impress than to push out a link to the deck over Bluetooth during the meeting.
+
+If you want to do this you're going to want to [set-up SSL for your CloudFront distribution](https://nparry.com/2015/11/14/letsencrypt-cloudfront-s3.html).
+{: .notice--info}
+
 ## The end is the beginning is the end
 
 In this post I covered the evolution of how I hit PageSpeed 100 and the techniques I used to get there so you can too. This post was inspired by the many Jekyll gods out there for sharing their tips on improving Jekyll performance, and a lot of personal trial and error. If you have any questions, or additional tips to share, please leave a note in the comments section below.
