@@ -10,7 +10,8 @@ sidebar:
   - title: "Given on"
     text: >
       8/15 for [O'Reilly Media](http://www.oreilly.com/pub/e/3483)<br>
-      6/15 for [React Chicago](http://www.meetup.com/React-Chicago/events/222510246/)
+      6/15 for [React Chicago](http://www.meetup.com/React-Chicago/events/222510246/)<br>
+      7/28 for [React Native Chicago](http://www.meetup.com/React-Native-Chicago/events/231397590)
 ---
 
 This talk deconstructs some key features for streaming audio on iOS and explains how they work along with example code snippets.
