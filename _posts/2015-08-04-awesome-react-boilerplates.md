@@ -12,7 +12,7 @@ header:
   teaser: circular-837510_500x333.jpg
 ---
 
-Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes knows as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
+Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes known as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
 
 Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow` removed.
 {: .notice }
@@ -22,7 +22,7 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 Application boilerplates for creating React apps.
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps! Super pumped about this one. Comes replete with a Slush generator (remember Yeoman? me either) and is set-up for use of CSS modules with SASS, includes Airbnb linters and Mocha for testing.
+<br>Finally, a simple starter kit for scalable apps! Super pumped about this one. Replete with a Slush generator (remember Yeoman? me either) and is set-up for use of CSS modules with SASS, includes Airbnb linters and Mocha for testing.
 
 **[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
 <br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
