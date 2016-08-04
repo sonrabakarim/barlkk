@@ -19,7 +19,7 @@ I’d originally planned to make this a tutorial on how to build a React Native 
 Tips to save you time developing an app with React Native.
 
 ## Getting started
-To get started quickly with app development consider your basic needs. You could start building your app using the React Native CLI but you may quickly run into friction scaling. If that's a concern check out this list of awesome [React Native Boilerplates](http://habd.as/awesome-react-boilerplates/#react-native).
+To get started quickly with app development consider your basic needs. You could start building your app using the React Native CLI but you may quickly run into friction scaling. If that's a concern check out this list of awesome [React Native Boilerplates](/awesome-react-boilerplates/#react-native).
 
 ## Incorporating Swift
 Swift feels a lot more like JavaScript, which is great for programmers coming from Web. I chose to start my app with Objective-C and then start using Swift once I became more comfortable with the creation process. At the time of writing creating Custom Native modules with Swift requires some [extra care](https://facebook.github.io/react-native/docs/native-modules-ios.html#exporting-swift) to work properly, though [hacks are starting](https://gist.github.com/robertjpayne/855fdb15d5ceca12f6c5) which may ease development in the future.

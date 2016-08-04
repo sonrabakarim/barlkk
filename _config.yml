@@ -4,7 +4,7 @@ title                    : "habd.as"
 title_separator          : "-"
 name                     : "Josh Habdas"
 description              : "Building the future Web"
-url                      : http://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
+url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/jhabdas/habd.as/
 teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,7 +78,7 @@ author:
   github           : jhabdas
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         : jhabdas
   pinterest        :

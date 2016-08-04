@@ -17,7 +17,7 @@ This page is reviewed and revised from time to time.
 
 This Privacy Policy was last modified on June 08, 2016.
 
-habd.as ("us", "we", or "our") operates http://habd.as (the
+habd.as ("us", "we", or "our") operates https://habd.as (the
 "Site"). This page informs you of our policies regarding the collection,
 use and disclosure of Personal Information we receive from users of the
 Site.
@@ -27,7 +27,7 @@ Site. By using the Site, you agree to the collection and use of
 information in accordance with this policy. Unless otherwise defined in
 this Privacy Policy, terms used in this Privacy Policy have the same
 meanings as in our Terms and Conditions, accessible at
-http://habd.as.
+https://habd.as.
 
 ### Information Collection And Use
 

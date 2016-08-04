@@ -42,7 +42,7 @@ Given I already had Docker installed I simply went ahead and used that. Followin
 
 ## Run an Ubuntu container
 
-With Docker installed and running ([install instructions for Mac](http://habd.as/simple-websites-jekyll-docker/#install-docker)) go ahead and **start an Ubuntu shell using a terminal**:
+With Docker installed and running ([install instructions for Mac](/simple-websites-jekyll-docker/#install-docker)) go ahead and **start an Ubuntu shell using a terminal**:
 
 ```sh
 docker run -it ubuntu:14.04 /bin/bash

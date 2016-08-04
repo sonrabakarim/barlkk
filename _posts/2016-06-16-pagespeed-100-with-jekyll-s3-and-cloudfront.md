@@ -17,7 +17,7 @@ header:
 ---
 {% include toc %}
 
-After moving this website from WordPress to [Jekyll](http://jekyllrb.com/) in 2013 I've [written](http://habd.as/moved-two-sites-to-octopress/) [enthusiastically](http://habd.as/host-images-on-s3-with-octopress/) [about](http://habd.as/turbocharge-your-octopress-blog/) [Jekyll](http://habd.as/simple-websites-jekyll-docker/). But it wasn't until recently that I was able to hit the elusive [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) **score of 100** for both desktop and mobile performance. Here's how I got there using Jekyll with S3 and CloudFront, and how you can too.
+After moving this website from WordPress to [Jekyll](http://jekyllrb.com/) in 2013 I've [written](/moved-two-sites-to-octopress/) [enthusiastically](/host-images-on-s3-with-octopress/) [about](/turbocharge-your-octopress-blog/) [Jekyll](/simple-websites-jekyll-docker/). But it wasn't until recently that I was able to hit the elusive [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) **score of 100** for both desktop and mobile performance. Here's how I got there using Jekyll with S3 and CloudFront, and how you can too.
 
 ## An Evolution of Speed
 
@@ -168,7 +168,7 @@ Identify large images by navigating to the location where you're storing images 
 
 ### Dealing with web fonts
 
-This is a tricky topic as web fonts are commonly used to style content used on first page render and almost always require a separate HTTP request---which hurts page speed. However, you can apply a technique similar to inline CSS using data URIs with [Inline Web Fonts](http://habd.as/turbocharge-your-octopress-blog/#inline-web-fonts) if your your font stack requires use of a web font.
+This is a tricky topic as web fonts are commonly used to style content used on first page render and almost always require a separate HTTP request---which hurts page speed. However, you can apply a technique similar to inline CSS using data URIs with [Inline Web Fonts](/turbocharge-your-octopress-blog/#inline-web-fonts) if your your font stack requires use of a web font.
 
 ### Iterate on speed
 
