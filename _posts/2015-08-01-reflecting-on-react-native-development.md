@@ -2,7 +2,7 @@
 title: Reflecting on React Native development
 author: Josh Habdas
 date: 2015-08-01T12:57:51-05:00
-modified: 2015-10-29
+modified: 2016-08-10
 excerpt: Tips to get your app delivered faster.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -54,6 +54,9 @@ Your app is going to need an icon. They can be [created for free](/automating-io
 
 ## Making a device preview image
 A picture's worth a thousand words. Show people what your app will look like on their actual device with [iPhone Screenshot Maker](http://iphone-screenshot.com/). The application will frame an app screenshot inside the iOS device of your choosing and even put a slick gloss on the screen for you. Best of all, it's free.
+
+**Update 10 Aug 2016:** I received an email from Apple today indicating screenshots have been made even easier. Just submit one set of screenshots and one optional app preview for the largest device size within a device family, and they will be used across all localizations and display sizes. If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots.
+{: .notice--info}
 
 ## Incorporating a custom font
 Avoid <abbr title="Flash of Unstyled Content">FOUC</abbr> by bundling your font in the application binary rather than pulling pulling the font from the Web. Font flickers could be avoided by base-64 encoding the font and embedding it in an inline style declaration, but it's easier to slip the font into the app itself. To do so review the [Common Mistakes With Adding Custom Fonts to Your iOS App](http://codewithchris.com/common-mistakes-with-adding-custom-fonts-to-your-ios-app/) and follow the instructions provided to add your font.
