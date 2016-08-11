@@ -15,3 +15,5 @@ gem 'mini_magick', '~> 4.5.1'
 
 gem 's3_website', '2.14.0'
 gem 'html-proofer', '3.0.6'
+
+gem 'octopress', '3.0.11'

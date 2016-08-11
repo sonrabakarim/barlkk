@@ -2,6 +2,7 @@
 title: Managing passwords on Android
 author: Josh Habdas
 date: 2010-10-10
+modified: 2016-10-08
 categories:
   - security
 tags:
@@ -14,6 +15,9 @@ tags:
 After [installing Android on my HD2][1] I quickly became challenged with the task of recalling passwords for frequently used applications like Last.fm, Mint, Facebook, Twitter, Gmail, Foursquare, et cetera. While recalling passwords for all of these apps might be painful for some, it's a cinch for those managing their passwords using one of the many available ports of the open-source [KeePass Password Safe][2]. For Android, the KeePass port I'm using is [KeePassDroid][3].
 
 > KeePassDroid makes recalling passwords as easy as copy/paste and also includes a password generator for creating strong passwords.
+
+**Update 10 Aug 16:** Though I still use the password management methods described herein, I've switched from KeePass to [KeePassX](https://www.keepassx.org/) on OS X, and use [MiniKeePass for iOS](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808?ls=1&mt=8).
+{: .notice--info}
 
 <!--more-->
 
