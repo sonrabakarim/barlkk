@@ -2,7 +2,7 @@
 title: Reflecting on React Native development
 author: Josh Habdas
 date: 2015-08-01T12:57:51-05:00
-modified: 2016-08-10
+modified: 2016-08-12
 excerpt: Tips to get your app delivered faster.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -80,11 +80,17 @@ Getting your app onto the hands of others early is a good idea. There are many d
 - When submitting new builds, ensure you create your Archive as iOS Device (i.e. unplug your actual device). If you don’t you’ll receive a “failed to code sign” error in Xcode.
 - You may be rejected for improper advertising identifier IDFA via Program License Agreement PLA 3.3.12 if you’re not serving ads and include `RCTAdSupport` Library (you’ll be notified during submission).
 
+**Update 12 Aug 2016:** After a recent [talk given](https://habd.as/talks/streaming-audio-react-native/) on building Lumpen Radio at Stridekick I learned [Build Buddy](https://buddybuild.com) was considered a good way to simplify and manage the beta testing and deployment process of RN apps.
+{: .notice--info}
+
 ## Submitting to App Store
 This could be a beta build or it could be your 1.0. The up-front part of the process starts in Xcode and requires you to upload an archive of your app to the App Store.
 
 - In your app [turn off developer mode and enable performance optimizations](http://herman.asia/building-a-flashcard-app-with-react-native) (see *Submitting the app* section for details).
+
   **Note:** *developer.apple.com* and *iTunes Connect* are all you need here.
+  {: .notice--info}
+
 - Hit the *Archive* button in Xcode after finishing the setup.
 - Getting screenshots can be a little tricky. There are a number of ways to go about it. You can even create custom frame borders of your app if you want to go all out. What worked best for me was the simplest solution of messing with the simulators to capture the images. But if you localize text in our app you may want to look at something like [Snapshot](https://github.com/KrauseFx/snapshot) and learn how to automate screen grabs.
 
