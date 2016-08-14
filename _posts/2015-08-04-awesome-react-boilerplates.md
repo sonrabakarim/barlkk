@@ -77,15 +77,6 @@ Application boilerplates for creating React Native applications.
 <br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Parse, which is planned to be replaced with [Serverless](serverless.com), which uses AWS Lambdas and helps get you in the public cloud. Oh là là!
 
 **[react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)**
-<br>Build your React Native app with Webpack and Babel.
-
-**[react-native-es6-babel](https://github.com/roman01la/react-native-babel)**
-<br>Configuration to build React Native apps with ES6 using webpack and Babel
-
-**[react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)**
-<br>Boilerplate for iOS app development with React Native, ES6 and Reflux
-
-**[react-native-tabbed](https://github.com/rxb/react-native-tabbed)**
-<br>An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the work of [`react-native-navbar`](https://github.com/Kureev/react-native-navbar). See it in use with [React Native Icons](https://github.com/corymsmith/react-native-icons) in my [Smartphone Symphony](https://github.com/jhabdas/SmartphoneSymphony) app.
+<br>Boilerplate I extracted from building the [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) app early in the RN lifecycle, enabling RN development using bundles dynamically generated with Webpack.
 
 [^1]: "The Stream" is a kind of slot machine used to [hijack your mind](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3).
