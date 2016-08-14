@@ -65,7 +65,7 @@ Application boilerplates for creating React apps.
 
 # React Native
 
-Application boilerplates for creating React Native applications.
+Application boilerplates for creating React Native applications. If you're just starting out, consider building your app from scratch using `react-native init` and leveraging the following kits for ideas until you get the hang of things.
 
 **[ignite](https://github.com/infinitered/ignite)**
 <br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Includes redux sagas and some config to get going with Fastlane for CI.
