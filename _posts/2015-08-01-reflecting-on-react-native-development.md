@@ -2,7 +2,7 @@
 title: Reflecting on React Native development
 author: Josh Habdas
 date: 2015-08-01T12:57:51-05:00
-modified: 2016-08-12
+modified: 2016-08-16
 excerpt: Tips to get your app delivered faster.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -96,6 +96,8 @@ This could be a beta build or it could be your 1.0. The up-front part of the pro
 
 **Update 10 Aug 2016:** I received an email from Apple today indicating screenshots have been made even easier. Just submit one set of screenshots and one optional app preview for the largest device size within a device family, and they will be used across all localizations and display sizes. If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots.
 {: .notice--info}
+
+**Update 16 Aug 2016:** See also instructions for re-enabling App Transport Security for iOS 9 on the RN [Running on Device](https://facebook.github.io/react-native/docs/running-on-device-ios.html) page.
 
 ## If and when you run into issues uploading to App Store
 I ran into a lot of friction here at first and once after changing something, so this gets its own section.
