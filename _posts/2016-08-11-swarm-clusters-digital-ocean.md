@@ -20,7 +20,7 @@ header:
 
 Back when I was working for [Trunk Club](https://www.trunkclub.com/) I worked with DevOps to get the Front End team set-up and running their local environments under Docker. It was a blast and I learned just how powerful Docker can be for simplifying local development under complex environments. At the time Docker was relatively new within the organization and we weren't using Docker in production.
 
-It wasn't until I worked with [TechnologyAdvice](http://technologyadvice.com/) earlier this year that I learned how to stand-up production Docker containers in the cloud using AWS EC2. It was super cool, but I found myself doing EC2 administration manually via the AWS Console---which is not quite as cool.
+It wasn't until I worked with [TechnologyAdvice](http://technologyadvice.com/) earlier this year that I learned how to stand-up production Docker containers in the cloud using AWS EC2. It was super cool, but I found myself doing EC2 administration manually via the AWS Console---not as cool.
 
 Since then I've been learning more about cloud architecture, [Lambda](https://aws.amazon.com/lambda/), [Serverless](http://serverless.com/) [AWS CLI](https://aws.amazon.com/cli/) and---now that [it's a part of Docker Machine](https://skillsmatter.com/skillscasts/8377-docker-london-meetup)---CLI-based Docker administration using [Docker Swarm](https://docs.docker.com/swarm/overview/). One thing I'm particularly geeked about is the [Docker Private Beta](https://beta.docker.com/), so I can begin experimenting with the new Docker Swarm and AWS.
 
@@ -111,7 +111,7 @@ If you do, you're golden. If not, you can `docker-machine rm <NAME>` to backtrac
 
 ## Connect node environments with Machine
 
-Connect to manager node and initialize swarm on it the following:
+Connect to manager node and initialize swarm on it with the following:
 
     eval $(docker-machine env swarm-manager) && \
     docker swarm init --advertise-addr $(docker-machine ip swarm-manager)
