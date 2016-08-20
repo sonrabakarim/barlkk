@@ -36,7 +36,7 @@ A few administrative things before we get going.
 
 ### Prerequisites
 
-Before we start you'll need an account with Digital Ocean. If you don’t already have an account you may [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0){: .btn .btn--success} for $10 in free credits. True story.
+Before we start you'll need an account with Digital Ocean. If you don’t already have an account you may [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0){: .btn .btn--inverse} for $10 in free credits.
 
 Once your account is created use Digital Ocean to [generate a Personal Access Token](https://cloud.digitalocean.com/settings/api/tokens) for use with Docker Swarm and save the token in your [password manager of choice](/managing-passwords-on-android/) for later retrieval.
 
@@ -74,22 +74,22 @@ Then run the following to provision the first Swarm node, which will become the 
 
     docker-machine create \
     --driver digitalocean \
-    --digitalocean-access-token $DIGITAL_OCEAN_TOKEN \
+    --digitalocean-access-token ${DIGITAL_OCEAN_TOKEN} \
     --digitalocean-region nyc3 \
     --digitalocean-size 512mb \
     --swarm --swarm-master \
-    --swarm-discovery token://$SWARM_CLUSTER_TOKEN \
+    --swarm-discovery token://${SWARM_CLUSTER_TOKEN} \
     swarm-manager
 
 Next, create a second, slave node:
 
     docker-machine create \
     --driver digitalocean \
-    --digitalocean-access-token=$DIGITAL_OCEAN_TOKEN \
+    --digitalocean-access-token=${DIGITAL_OCEAN_TOKEN} \
     --digitalocean-region=nyc3 \
     --digitalocean-size=512mb \
     --swarm \
-    --swarm-discovery token://$SWARM_CLUSTER_TOKEN \
+    --swarm-discovery token://${SWARM_CLUSTER_TOKEN} \
     swarm-agent
 
 ## Verify nodes created
