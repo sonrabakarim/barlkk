@@ -112,9 +112,11 @@ That wasn't so tough now, was it? Now that we’ve got a simple Jekyll website r
 
 # Configure Server for Docker deployments
 
-With the Docker image created we're ready to host our site. For simplicity we’ll use DigitalOcean and take advantage of their 1-click Docker installation. If you don’t already have a DigitalOcean account you may [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0){: .btn .btn--success} for 2 months FREE. After that it's only five bucks a month for your own <abbr title="Virtual Private Server">VPS</abbr>.
+With the Docker image created we're ready to host our site. For simplicity we’ll use DigitalOcean and take advantage of their 1-click Docker installation.
 
-If you’re not planning to DigitalOcean the steps below can be adapted for other providers.
+If you don’t already have a DigitalOcean account you may [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0){: .btn .btn--inverse} for 2 months FREE. After that it's only five bucks a month for your own <abbr title="Virtual Private Server">VPS</abbr>.
+
+If you’re not planning to use DigitalOcean the steps below can be adapted for other IaaS providers (e.g. AWS).
 {: .notice}
 
 ## Create Docker Droplet
