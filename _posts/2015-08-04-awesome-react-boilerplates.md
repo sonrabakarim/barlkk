@@ -22,7 +22,7 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 Application boilerplates for creating React apps.
 
 **[react-production-starter](https://github.com/jaredpalmer/react-production-starter)**
-<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Also _includes a Dockerfile__ to get you up-and-running in a flash.
+<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Also _includes a Dockerfile_ to get the app up and running in a flash.
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
 <br>Finally, a simple starter kit for scalable apps. Replete with a Slush generator (remember Yeoman? me either) and code generators, it's set-up for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing.
