@@ -25,7 +25,7 @@ Application boilerplates for creating React apps.
 <br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Also _includes a Dockerfile_ to get the app up and running in a flash.
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps. Replete with a Slush generator (remember Yeoman? me either) and code generators, it's set-up for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing.
+<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain).
 
 **[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
 <br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
