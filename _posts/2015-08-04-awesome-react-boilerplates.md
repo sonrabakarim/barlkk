@@ -3,7 +3,7 @@ title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
 modified: 2016-07-16
-excerpt: Awesome React starter kits to kick your app development into high gear.
+excerpt: Kick your React an RN app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
 header:
@@ -12,14 +12,16 @@ header:
   teaser: circular-837510_500x333.jpg
 ---
 
-Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes known as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to clone, fork and build upon for your next React project.
+Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes known as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to generate, clone, fork and build upon in your next React project.
+
+{% include toc %}
 
 Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow` removed.
 {: .notice }
 
 # React
 
-Application boilerplates for creating React apps.
+Application boilerplates for creating React apps. And wow are there plenty to choose from.
 
 **[react-production-starter](https://github.com/jaredpalmer/react-production-starter)**
 <br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Also _includes a Dockerfile_ to get the app up and running in a flash.
