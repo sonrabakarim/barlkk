@@ -28,8 +28,8 @@ This time around, however, instead of beta testing with Test Flight, I'm using [
 
 After just two days of using Buddybuild I've been able to get it to recognize both my iOS and Android apps, build their different variants, manage the majority of the CI process and allow me to deploy product to the first test user. That's breakneck speed compared to TestFlight.
 
-> That's breakneck speed compared to TestFlight.
+And, unlike with Test Flight, Buddybuild sports self-installing SDK which integrates at the click of a button and enables automated collection of user feedback along _with screenshots_. There's even a [Trello integration](http://blog.buddybuild.com/trello-integration/) to help manage and prioritize feedback. Pictured here an example of the instructions to users the SDK provides for sending feedback during beta testing:
 
-And, unlike with Test Flight, Buddybuild sports self-installing SDK which integrates at the click of a button and enables automated collection of user feedback along _with screenshots_. There's even a [Trello integration](http://blog.buddybuild.com/trello-integration/) to help manage and prioritize feedback.
+![Buddybuild user feedback screenshot](/images/buddybuild-sdk-user-feedback.png){: .align-center}
 
 So far I'm extremely impressed with Buddybuild and can't wait to see what else it can do.
