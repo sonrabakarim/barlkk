@@ -80,7 +80,7 @@ Getting your app onto the hands of others early is a good idea. There are many d
 - When submitting new builds, ensure you create your Archive as iOS Device (i.e. unplug your actual device). If you don’t you’ll receive a “failed to code sign” error in Xcode.
 - You may be rejected for improper advertising identifier IDFA via Program License Agreement PLA 3.3.12 if you’re not serving ads and include `RCTAdSupport` Library (you’ll be notified during submission).
 
-**Update 12 Aug 2016:** After a recent [talk given](https://habd.as/talks/streaming-audio-react-native/) on building Lumpen Radio at Stridekick I learned [Build Buddy](https://buddybuild.com) was considered a good way to simplify and manage the beta testing and deployment process of RN apps.
+**Update 12 Aug 2016:** After a recent [talk given](https://habd.as/talks/streaming-audio-react-native/) on building Lumpen Radio at Stridekick I learned [Buddybuild](https://buddybuild.com) was considered a good way to simplify and manage the beta testing and deployment process of RN apps.
 {: .notice--info}
 
 ## Submitting to App Store
