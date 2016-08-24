@@ -92,8 +92,8 @@ unless otherwise noted. Basically this means you are free to share, transmit,
 distribute, alter, transform, and build on my work just as long as you don't
 use it for commercial purposes without our prior written consent.
 
-## Contact Us
+## Contact Me
 
-If you have any questions about this Privacy Policy, please [contact us](/contact/).
+If you have any questions about this Privacy Policy, please [contact me](/contact/).
 
 [1]: https://www.google.com/settings/ads
