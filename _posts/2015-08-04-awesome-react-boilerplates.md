@@ -3,7 +3,7 @@ title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
 modified: 2016-07-16
-excerpt: Kick your React an RN app development into high gear.
+excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
 header:
