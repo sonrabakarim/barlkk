@@ -1,9 +1,8 @@
-*.sublime-project
-*.sublime-workspace
 .DS_Store
 .jekyll-metadata
 .sass-cache
 .asset-cache
+.serverless
 _asset_bundler_cache
 _site
 codekit-config.json
