@@ -65,15 +65,6 @@ feature_row2:
     url: "https://github.com/jhabdas/hopstop"
     btn_label: "View Source"
     btn_class: "btn--inverse"
-  -
-    title: "Brunch with Panache"
-    excerpt: >
-      Single-page app development toolkit I worked with [Trunk Club](http://www.trunkclub.com) to open source. Supports TDD, integration testing, module generators, fast page loads and sub-second builds.
-      <br><br>
-      <small>Jake / Brunch / Karma / Hapi</small>
-    url: "https://github.com/trunkclub/brunch-with-panache"
-    btn_label: "View Source"
-    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="feature_row1_overview" type="center" %}
