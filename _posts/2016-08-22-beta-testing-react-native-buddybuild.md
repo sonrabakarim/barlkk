@@ -13,7 +13,7 @@ tags:
 header:
   overlay_image: children-862572_1280.jpg
   overlay_filter: 0.5
-  teaser: children-862572_640.jpg
+  teaser: children-862572_512.jpg
 ---
 
 A year ago I built and open-sourced [Lumpen Radio for iOS](https://github.com/jhabdas/lumpen-radio) using React Native. A major takeaway during development was the importance of testing on actual devices. Not just my device. But, you know, like a responsible adult using a bunch of them.
