@@ -49,7 +49,7 @@ Always look for ways to scale the image size down. If the width of your image is
 
 ## Lower image quality when possible
 
-This is particularly useful for banner images and large JPGs that are used for aesthetics. When exporting the file as JPG try dialing down the quality from 90% to something radically less, say 40%, and preview the resulting image and see if you can notice the difference. If you can, dial the quality back up until you strike a good balance between image size and fidelity depending on your use case.
+This is particularly useful for banner images and large JPGs that are used for aesthetics. When exporting the file as JPG try dialing down the quality from 90% to something radically less, say 40% to 60%, and preview the resulting image and see if you can notice the difference. If you can, dial the quality back up until you strike a good balance between image size and fidelity depending on your use case.
 
 Note: This tends to work best for larger images.
 {: .notice}
