@@ -25,7 +25,7 @@ At first blush Sketch doesn't have a clear way to export images for the Web. So 
 
 First off, optimizing images isn't always needed. Being persnickety about image size isn't necessarily a bad thing, but there are probably better things you could be doing with your time than squeaking 2kb off a file. So before you become an image optimization czar determine if you even need to optimize your files.
 
-Two approaches I use for image optimization are data versus gut.
+Two approaches I use for image optimization are thusly:
 
 First look at the size of the images you're using on the Web. Are there some which're dramatically larger than the others but serve the same general purpose? Is so, your gut should be telling you there's a potential optimization in file size.
 
