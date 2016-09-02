@@ -11,9 +11,9 @@ tags:
   - optimization
   - tools
 header:
-    overlay_image: photo-1461504927642-dcd16a6c0805_1028.jpg
+    overlay_image: photo-1430760903787-4d91bbf15384_1280.jpg
     overlay_filter: 0.5
-    teaser: photo-1461504927642-dcd16a6c0805_512.jpg
+    teaser: photo-1430760903787-4d91bbf15384_512.jpg
 ---
 Over the course of time as a web developer I've used a number of different image editors for working with graphics for the Web. First there was Photoshop, which was totally unnecessary for light image work. Then then there was Fireworks. Because once upon a time it was needed for PNG-8 alpha transparency. Then there was GiMP, because I was being cheap. And now there's Sketch.
 
