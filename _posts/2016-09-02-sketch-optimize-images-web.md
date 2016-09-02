@@ -15,11 +15,7 @@ header:
     overlay_filter: 0.5
     teaser: photo-1430760903787-4d91bbf15384_512.jpg
 ---
-Over the course of time as a web developer I've used a number of different image editors for working with graphics for the Web. First there was Photoshop, which was totally unnecessary for light image work. Then then there was Fireworks. Because once upon a time it was needed for PNG-8 alpha transparency. Then there was GiMP, because I was being cheap. And now there's Sketch.
-
-Sketch is awesome. And it's an amazing tool both for designers and developers alike. And though it may be a bit shortsighted on my part, these days I tend to judge a designer's skill set by whether or not they use Sketch. If they are, I know they've been advancing their skills are passionate about their tools. If they aren't, I'll usually make a suggestion to check it out.
-
-At first blush Sketch doesn't have a clear way to export images for the Web. So I'm going to quickly share what I've been doing to optimize images for the Web using Sketch.
+At first glance Sketch doesn't have a clear way to export images for the Web. So I'm going to quickly share what I've been doing to optimize images for the Web using Sketch.
 
 # Avoid unnecessary optimization
 
