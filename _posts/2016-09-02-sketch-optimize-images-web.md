@@ -21,7 +21,7 @@ Sketch is awesome. And it's an amazing tool both for designers and developers al
 
 At first blush Sketch doesn't have a clear way to export images for the Web. So I'm going to quickly share what I've been doing to optimize images for the Web using Sketch.
 
-# Avoid premature optimization
+# Avoid unnecessary optimization
 
 First off, optimizing images isn't always needed. Being persnickety about image size isn't necessarily a bad thing, but there are probably better things you could be doing with your time than squeaking 2kb off a file. So before you become an image optimization czar determine if you even need to optimize your files.
 
