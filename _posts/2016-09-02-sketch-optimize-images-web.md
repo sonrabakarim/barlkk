@@ -41,7 +41,7 @@ Some techniques I use to optimize images with Sketch include the following.
 
 If you're exporting a photograph you're almost always going to want to export it as a JPG. JPEG is a lossy format, so each time it is optimized it loses quality. If you're familiar with VHS tapes, think of what happens when make a copy of a copy. You lose quality. So be sure to hang onto the original JPG assets when optimizing for the Web, so the image can be used in other mediums or optimized in a different way later on.
 
-If you're exporting an illustration or diagram with sharp lines, go for PNG. Though PNG _can_ be lossy if the number of bits used to save a file changes (e.g. saving a PNG-32 as PNG-8) the Sketch export tool by default doesn't provide these options.
+If you're exporting a screenshot, illustration or diagram with sharp lines, go for PNG. Though PNG _can_ be lossy if the number of bits used to save a file changes (e.g. saving a PNG-32 as PNG-8) the Sketch export tool by default doesn't provide these options.
 
 ## Scale down image size
 
@@ -58,7 +58,7 @@ Note: This tends to work best for larger images.
 
 Under the _File_ menu there's a command called _Reduce File Size_. Try it and see what it does.
 
-## Responsive images and thumbnails
+## Responsive images, screenshots and thumbnails
 
 If you're displaying thumbnail versions of your images elsewhere on a website, using the [`srcset` attribute](http://devdocs.io/html/attributes#srcset-attribute), or providing multiple image resolutions using the [`picture` element](http://devdocs.io/html/element/picture) (primarily intended for use in art direction), consider saving multiple versions of your images, each at smaller dimensions, so they'll load faster on mobile devices and in different usage contexts.
 

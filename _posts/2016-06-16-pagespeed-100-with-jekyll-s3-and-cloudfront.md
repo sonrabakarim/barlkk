@@ -252,6 +252,6 @@ If you want to do this you're going to want to [set-up SSL for your CloudFront d
 
 In this post I covered the evolution of how I hit PageSpeed 100 and the techniques I used to get there so you can too. This post was inspired by the many Jekyll gods out there for sharing their tips on improving Jekyll performance, and a lot of personal trial and error. If you have any questions, or additional tips to share, please leave a note in the comments section below.
 
-![Screenshot showing PageSpeed 100](/images/ps100_1024.png)
+![Screenshot showing PageSpeed 100](/images/ps100_640.png)
 
 [^1]: GitHub Pages CDN [didn't exist until 2014](https://github.com/blog/1715-faster-more-awesome-github-pages).
