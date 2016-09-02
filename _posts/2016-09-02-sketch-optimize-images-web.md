@@ -19,7 +19,7 @@ Over the course of time as a web developer I've used a number of different image
 
 Sketch is awesome. And it's an amazing tool both for designers and developers alike. And though it may be a bit shortsighted on my part, these days I tend to judge a designer's skill set by whether or not they use Sketch. If they are, I know they've been advancing their skills are passionate about their tools. If they aren't, I'll usually make a suggestion to check it out.
 
-At first blush Sketch doesn't have a clear way to export images for the Web. So I'm going to quickly share what I've been doing to optimize images for the Web using Sketch in this post.
+At first blush Sketch doesn't have a clear way to export images for the Web. So I'm going to quickly share what I've been doing to optimize images for the Web using Sketch.
 
 # Avoid premature optimization
 
