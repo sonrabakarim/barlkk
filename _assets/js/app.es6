@@ -20,6 +20,9 @@ function run() {
   // jQuery stuff
   $(() => {
 
+    // Activate Particles
+    $('#particles-js canvas').addClass('active')
+
     // FitVids init
     $('main').fitVids()
 
