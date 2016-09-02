@@ -2,7 +2,7 @@
 title: Sketch Optimize Images for Web
 date: 2016-09-02T10:14:05-05:00
 author: Josh Habdas
-excerpt: Simple techniques to optimize images for the Web.
+excerpt: Simple techniques to optimize images for the Web using Sketch.
 categories:
   - techniques
 tags:
