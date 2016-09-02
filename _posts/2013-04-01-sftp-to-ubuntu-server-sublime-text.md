@@ -8,6 +8,7 @@ tags: [cloud, coding, ssh, ftp, ftps, sftp, linux, ubuntu]
 header:
   overlay_image: binary-1377017_1280.jpg
   overlay_filter: 0.5
+  teaser: binary-1377017_512.jpg
 ---
 {% include toc %}
 
