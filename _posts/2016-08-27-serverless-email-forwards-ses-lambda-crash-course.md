@@ -15,7 +15,7 @@ tags:
 header:
   overlay_image: photo-1448227700746-d8eab5a1b9d7_1028.jpg
   overlay_filter: 0.5
-  teaser: photo-1448227700746-d8eab5a1b9d7_320.jpg
+  teaser: photo-1448227700746-d8eab5a1b9d7_512.jpg
 ---
 
 Recently this website underwent a major overhaul. I took it off my [simple Docker set-up](/simple-websites-jekyll-docker/) and [moved it to S3 with CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/). The process of which enabled me to reduce hosting costs by 80% all while increasing reach and decreasing page load times globally.
