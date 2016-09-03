@@ -58,7 +58,7 @@ If you're displaying thumbnail versions of your images on a website, or using th
 
 When exporting JPGs from Sketch there're a couple of checkboxes in the export dialog called Progressive and Save for Web. Consider using them.
 
-Progressive rendering will allow your image to load more quickly on slower connections by rendering the images in several passes, each pass with a higher fidelity, which can be good for larger images and helps get content on a screen more quickly.
+Progressive rendering will allow your image to load more quickly on slower connections by rendering the images in several passes, each pass with a higher fidelity, which can be good for larger images and helps get content on screen more quickly.
 
 Saving for Web will remove unneeded metadata from file headers, making the resulting size a little smaller. The more the better, and in this case less is more.
 
