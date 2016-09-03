@@ -51,11 +51,11 @@ This is particularly useful for large JPGs, often used for aesthetics or visual 
 
 Under the _File_ menu in Sketch there's a command called _Reduce File Size_. Try it. It's quite possible it just may save you a few MB. Though, if it's a Web image, and it's over 300KB in size you're probably doing something wrong.
 
-## Responsive images, screenshots and thumbnails
+## Responsive images and thumbnails
 
-If you're displaying thumbnail versions of your images elsewhere on a website, or using the [`srcset` attribute](http://devdocs.io/html/attributes#srcset-attribute), or [`picture` element](http://devdocs.io/html/element/picture), consider saving multiple versions of your images, each at smaller size dimensions, so they'll load faster on mobile devices and in different usage contexts. There are gobs of articles on the Web detailing how to do this, so I'll spare you the deets.
+If you're displaying thumbnail versions of your images on a website, or using the [`srcset` attribute](http://devdocs.io/html/attributes#srcset-attribute), or [`picture` element](http://devdocs.io/html/element/picture), consider saving multiple versions of your images, each at smaller size dimensions, so they'll load faster on mobile devices and in different usage contexts. There are gobs of articles on the Web detailing how to do this, so I'll spare you the deets.
 
-## Additional options
+## Additional considerations
 
 When exporting JPGs from Sketch there're a couple of checkboxes in the export dialog called Progressive and Save for Web. Consider using them.
 
