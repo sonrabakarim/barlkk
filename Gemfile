@@ -5,7 +5,7 @@ gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 
 gem 'jekyll-archives'
 
-gem 'jekyll-assets', '~> 2.2.7', group: :jekyll_plugins
+gem 'jekyll-assets', '~> 2.2.7', :group => :jekyll_plugins
 gem 'font-awesome-sass', '~> 4.6.2'
 gem 'sass', '~> 3.4.22'
 gem 'autoprefixer-rails', '~> 6.3.6.2'
@@ -16,4 +16,4 @@ gem 'mini_magick', '~> 4.5.1'
 gem 's3_website', '2.14.0'
 gem 'html-proofer', '3.0.6'
 
-gem 'octopress', '3.0.11'
+gem 'octopress', '3.0.11', :group => :development
