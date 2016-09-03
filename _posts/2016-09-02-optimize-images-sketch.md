@@ -34,7 +34,7 @@ Unlike SVG vector images, which are lightweight to begin with, raster images suc
 
 By default Sketch wants to export everything as a PNG. While that may be good for image fidelity, it's not always what you want.
 
-If you're exporting a photograph, export as JPG. JPEG is a lossy format, so each time it's optimized it loses quality. If you're familiar with VHS tapes, a simple analogy is what happens when you copy of a copy. You lose quality. So be sure to hang onto the original when optimizing images for the Web so they can be reused later.
+If you're exporting a photograph, export as JPG. JPEG is a lossy format, so each time it's optimized it loses quality. If you're familiar with VHS tapes, a simple analogy is what happens when you make a copy of a copy. You lose quality. So be sure to hang onto the original when optimizing images for the Web so they can be reused later.
 
 If you're exporting a screenshot, something with transparency, an illustration, or a diagram with sharp lines, export as PNG. Though PNGs _can_ be lossy if the number of bits used to save a file change (e.g. saving a PNG-32 as PNG-8), Sketch doesn't seem to have this option so fuggetaboutit.
 
