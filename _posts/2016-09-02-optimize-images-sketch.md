@@ -23,7 +23,7 @@ First off, don't overdo it. Optimizing images isn't always necessary. So before 
 
 Two simple methods:
 
-1. **Sort by size.** This one is downright simple, and, sadly, often overlooked. In our current world of <abbr title="Get Shit Done">GSD<abbr> we are not always valued by the quality of our work, but oftentimes by quantity. As a result, it's common to find image assets which are significantly larger than the others. Sorting exported assets by file size should make these leap out so they can be fixed.
+1. **Sort by size.** This one is downright simple, and, sadly, often overlooked. In our current world of <abbr title="Get Shit Done">GSD</abbr> we are not always valued by the quality of our work, but oftentimes by quantity. As a result, it's common to find image assets which are significantly larger than the others. Sorting exported assets by file size should make these leap out so they can be fixed.
 1. **Listen to the Google.** If you're building a website, run that shiny new blog post through [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and see if you're getting red flagged for image size. If you are, do something about it. And if you use Google Analytics you test many pages at the same time from _Behavior_ > _Site Speed_ > _Speed Suggestions_ menu item.
 
 # Using Sketch to optimize images
