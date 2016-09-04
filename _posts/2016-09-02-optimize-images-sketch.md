@@ -4,7 +4,7 @@ date: 2016-09-02T10:14:05-05:00
 author: Josh Habdas
 excerpt: Techniques to go faster and rank higher.
 categories:
-  - techniques
+  - tutorials
 tags:
   - sketch
   - performance
