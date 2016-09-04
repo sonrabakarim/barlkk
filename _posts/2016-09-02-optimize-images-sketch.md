@@ -21,10 +21,10 @@ You know the drill. When you're building for the Web or mobile performance is ev
 
 First off, don't overdo it. Optimizing images isn't always necessary. So before you go hog wild shaving a measly 2KB off a bunch of images, think for a moment about the Pareto principle, better known as the 80-20 rule, and only optimize what's absolutely necessary. Doing so will save you time and help you avoid diminishing returns.
 
-Two simple methods:
+Two simple methods to identify images worth optimizing:
 
-1. **Sort by size.** This one is downright simple, and, sadly, often overlooked. In our current world of <abbr title="Get Shit Done">GSD</abbr> we are not always valued by the quality of our work, but oftentimes by quantity. As a result, it's common to find image assets which are significantly larger than the others. Sorting exported assets by file size should make the large ones leap out so they can be addressed.
-1. **Listen to the Google.** If you're building a website, run that shiny new blog post through [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and see if you're getting red flagged for image size. If you are, do something about it. And if you use Google Analytics you can test many pages at the same time from the _Behavior_ > _Site Speed_ > _Speed Suggestions_ menu item.
+1. **Sort by size.** This one is downright simple and probably often overlooked. In our current world of <abbr title="Get Shit Done">GSD</abbr> we are not always paying attention to the details. As a result, it's common to find image assets which are significantly larger than the others. Sorting exported assets by file size should make the large ones leap out so they can be addressed if necessary.
+1. **Listen to the Google.** If you're building a website, run that shiny new blog post or landing page through [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and see if you're getting red flagged for image size. If you are, do something about it. And if you use Google Analytics you can test many pages at the same time from the _Behavior_ > _Site Speed_ > _Speed Suggestions_ menu item.
 
 # Using Sketch to optimize images
 
@@ -32,7 +32,7 @@ Unlike SVG vector images, which are lightweight to begin with, raster images suc
 
 ## Export the correct format
 
-By default Sketch wants to export everything as a PNG. While that may be good for image fidelity, it's not always what you want.
+By default Sketch wants to export everything as a PNG. While that may be good for image fidelity, it's not always what you want when saving for the Web.
 
 If you're exporting a photograph, export as JPG. JPEG is a lossy format, so each time it's optimized it loses quality. If you're familiar with VHS tapes, a simple analogy is what happens when you make a copy of a copy. You lose quality. So be sure to hang onto the original when optimizing images so they can be reoptimized later.
 
@@ -40,19 +40,15 @@ If you're exporting a screenshot, something with transparency, an illustration, 
 
 ## Scale down size
 
-Always look for ways to scale image size down. If the width of your image is more than 1028 pixels and you're not planning on displaying it on a HD jumbotron at the next Superbowl, consider locking the image dimensions and adjusting the width to 1028 pixels for a reasonable full-width display on most desktops and retina displays. And if you can get away with less, do it.
+Always look for ways to scale image size down. If the width of your image width is more than 1028 pixels, and you're not planning on displaying it on a HD jumbotron at the next Superbowl, consider locking the image dimensions and decreasing the width. I find for JPGs 1028 pixel width still looks pretty good even on a 15-inch Retina Display. And if you can get away with less while still maintaining a good experience, go for it.
 
 ## Use lower quality
 
 This is particularly useful for large JPGs, often used for aesthetics or visual trim. When exporting as JPG try dialing down the quality from 90% to something radically less, say 40% to 60%, preview it, and see if there's a noticeable difference in fidelity. If there's not, you've just struck gold my friend. But if there is, simply dial the quality back up by halves until you strike a good balance between size and fidelity.
 
-## Reduce File Size
-
-Under the _File_ menu in Sketch there's a command called _Reduce File Size_. Try it. It's quite possible it just may save you a few MB. Though, if it's a Web image, and it's over 300KB in size you're probably doing something wrong.
-
 ## Responsive images and thumbnails
 
-If you're displaying thumbnail versions of your images on a website, or using the [`srcset` attribute](http://devdocs.io/html/attributes#srcset-attribute), or [`picture` element](http://devdocs.io/html/element/picture), consider saving multiple versions of your images, each at smaller size dimensions, so they'll load faster on mobile devices and in different usage contexts. There are gobs of articles on the Web detailing how to do this, so I'll spare you the deets.
+If you're displaying thumbnail versions of your images on a website, using the [`srcset` attribute](http://devdocs.io/html/attributes#srcset-attribute) or [`picture` element](http://devdocs.io/html/element/picture), consider saving multiple versions of your images, each at smaller sizes. A little planning and automation here can go a long way to save bytes down the wire while at the same time improving UX.
 
 ## Additional considerations
 
