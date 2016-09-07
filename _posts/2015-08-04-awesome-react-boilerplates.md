@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-07-16
+modified: 2016-09-07
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -43,7 +43,7 @@ Application boilerplates for creating React apps. And wow are there plenty to ch
 <br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies. It's a bit heavy for those new to React, and doesn't have the benefits of Isomorphic rendering, but there's plenty of info to take away from studying it.
 
 **[react-boilerplate](https://github.com/mxstbr/react-boilerplate)**
-<br>From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
+<br>Very popular boilerplate from Max Stoiber considered to have [the best organizational pattern](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9). From the documentation, "A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices." I haven't personally tried this seed yet but it's got enough umph behind it to make it worth bringing to your attention.
 
 **[react-slingshot](https://github.com/coryhouse/react-slingshot)**
 <br>React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
