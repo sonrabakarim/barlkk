@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-09-07
+modified: 2016-09-08
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -67,11 +67,13 @@ Application boilerplates for creating React apps. And wow are there plenty to ch
 
 Application boilerplates for creating React Native applications. If you're just starting out, consider building your app from scratch using `react-native init` and leveraging the following kits for ideas until you get the hang of things.
 
+**[pepperoni](http://getpepperoni.com/)**
+<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I created a small app with this and, while the linting rules are a little persnickety for my taste (plus semicolons, who needs them?) the overall developer experience was good.
+
 **[ignite](https://github.com/infinitered/ignite)**
 <br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Includes redux sagas and some config to get going with Fastlane for CI.
 
-**[pepperoni](http://getpepperoni.com/)**
-<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I created a small app with this and, while the linting rules are a little persnickety for my taste (plus semicolons, who needs them?) the overall developer experience was good.
+After considering this for a spike or two I can't really say I like the directory organization of the generated boilerplate that much. Perhaps there's a good reason, but if so it's not documented and therefore becomes tribal knowledge. I'd really prefer to see all JavaScripts under a `src` directory and native code under `ios` and `android`.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
 <br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Parse, which is planned to be replaced with [Serverless](serverless.com), which uses AWS Lambdas and helps get you in the public cloud. Oh là là!
