@@ -2,7 +2,6 @@
 title: Swarm Clusters on Digital Ocean
 author: Josh Habdas
 date: 2016-08-11T00:08:32-05:00
-modified: 2016-09-09
 excerpt: Learn to use Docker Swarm with Digital Ocean in under 10 minutes.
 categories:
   - tutorials
@@ -26,9 +25,6 @@ But until I get into the beta group the best I can do is begin experimenting wit
 > In this post you will learn how to use the command line to create a Docker Swarm cluster with Machine on Digital Ocean, and use it to create a Swarm service runing 6 nginx containers spread across two different nodes in the cloud.
 
 Sound good? Let's get started!
-
-**Update:** I eventually made it into the Docker Beta group but haven't touched it. Mostly because <abbr title="Function as a Service">FaaS</abbr> is such a captivating thing. Read more about the [differences between Docker and Serverless](https://serverlesscode.com/post/docker-isnt-serverless/) and, when you're ready, try out my [Serverless crash course with AWS Lambda](/serverless-email-forwards-ses-lambda-crash-course/).
-{: .notice--info}
 
 ## Getting started
 
