@@ -2,7 +2,7 @@
 title: Optimize Images with Sketch
 date: 2016-09-02T10:14:05-05:00
 author: Josh Habdas
-excerpt: Techniques to go faster and rank higher.
+excerpt: Techniques to optimize assets for the Web.
 categories:
   - tutorials
 tags:
