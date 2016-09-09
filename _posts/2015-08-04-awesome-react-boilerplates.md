@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-09-08
+modified: 2016-09-09
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -11,6 +11,7 @@ header:
   overlay_filter: 0.5
   teaser: circular-837510_500x333.jpg
 ---
+{toc}
 
 Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes known as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to generate, clone, fork and build upon in your next React project.
 
@@ -65,18 +66,19 @@ Application boilerplates for creating React apps. And wow are there're a lot of 
 
 # React Native
 
-Application boilerplates for creating React Native applications. If you're just starting out, consider building your app from scratch using `react-native init` and leveraging the following kits for ideas until you get the hang of things.
+Application boilerplates for creating React Native applications. If you're just starting out, consider starting your app from scratch using `react-native init` and leveraging the following boilerplates for ideas until you get the hang of things. Otherwise, find your favorite and plunge right in!
 
 **[pepperoni](http://getpepperoni.com/)**
-<br>An well-built open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients. I created a small app with this and, while the linting rules are a little persnickety for my taste (plus semicolons, who needs them?) the overall developer experience was good.
-
-**[ignite](https://github.com/infinitered/ignite)**
-<br>The unfair starting CLI, Generator, and more for React Native. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Includes redux sagas and some config to get going with Fastlane for CI.
-
-After considering this for a spike or two I can't really say I like the directory organization of the generated boilerplate that much. Perhaps there's a good reason, but if so it's not documented and therefore becomes tribal knowledge. I'd really prefer to see all JavaScripts under a `src` directory and native code under `ios` and `android`.
+<br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
-<br>A React-Native starter kit using Redux, Parse.com, Jest given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Parse, which is planned to be replaced with [Serverless](serverless.com), which uses AWS Lambdas and helps get you in the public cloud. Oh là là!
+<br>A React Native starter kit for iOS and Android given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Redux, Jest, Istanbul, Parse integration (planned to be replaced with [Serverless](serverless.com)) and more. Includes video tutorials for set-up with Bitrise and more. Uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
+
+**[ignite](https://github.com/infinitered/ignite)**
+<br>The unfair starting CLI, Generator, and more for React Native cross-platform apps. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators and is easy to set-up. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Planned inclusion of Redux Sagas and some config to get going with Fastlane for CI. Plans to become less of a kitchen sink in the future. Also uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
+
+**[f8app](https://github.com/fbsamples/f8app)**
+<br>The official F8 app of 2016. Provides tutorials to help get started on [makeitopen.com](http://makeitopen.com) covering how they used React Native, Redux, Relay, GraphQL, and more.
 
 **[react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)**
 <br>Boilerplate I extracted from building the [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) app early in the RN lifecycle, enabling RN development using bundles dynamically generated with Webpack.
