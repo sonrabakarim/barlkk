@@ -2,6 +2,7 @@
 title: Swarm Clusters on Digital Ocean
 author: Josh Habdas
 date: 2016-08-11T00:08:32-05:00
+modified: 2016-09-09
 excerpt: Learn to use Docker Swarm with Digital Ocean in under 10 minutes.
 categories:
   - tutorials
@@ -18,17 +19,16 @@ header:
 
 ## Introduction
 
-Back when I was working for [Trunk Club](https://www.trunkclub.com/) I worked with DevOps to get the Front End team set-up and running their local environments under Docker. It was a blast and I learned just how powerful Docker can be for simplifying local development under complex environments. At the time Docker was relatively new within the organization and we weren't using Docker in production.
-
-It wasn't until I worked with [TechnologyAdvice](http://technologyadvice.com/) earlier this year that I learned how to stand-up production Docker containers in the cloud using AWS EC2. It was super cool, but I found myself doing EC2 administration manually via the AWS Console---not as cool.
-
-Since then I've been learning more about cloud architecture, [Lambda](https://aws.amazon.com/lambda/), [Serverless](http://serverless.com/) [AWS CLI](https://aws.amazon.com/cli/) and---now that [it's a part of Docker Machine](https://skillsmatter.com/skillscasts/8377-docker-london-meetup)---CLI-based Docker administration using [Docker Swarm](https://docs.docker.com/swarm/overview/). One thing I'm particularly geeked about is the [Docker Private Beta](https://beta.docker.com/), so I can begin experimenting with the new Docker Swarm and AWS.
+Lately I've been learning more about cloud architecture, [Lambda](https://aws.amazon.com/lambda/), [Serverless](http://serverless.com/) [AWS CLI](https://aws.amazon.com/cli/) and---now that [it's a part of Docker Machine](https://skillsmatter.com/skillscasts/8377-docker-london-meetup)---CLI-based Docker administration using [Docker Swarm](https://docs.docker.com/swarm/overview/). One thing I'm particularly geeked about is the [Docker Private Beta](https://beta.docker.com/), so I can begin experimenting with the new Docker Swarm and AWS.
 
 But until I get into the beta group the best I can do is begin experimenting with Docker Swarm using one of my favorite prototyping tools (besides the Raspberry Pi): Digital Ocean. And you can too.
 
 > In this post you will learn how to use the command line to create a Docker Swarm cluster with Machine on Digital Ocean, and use it to create a Swarm service runing 6 nginx containers spread across two different nodes in the cloud.
 
 Sound good? Let's get started!
+
+**Update:** I eventually made it into the Docker Beta group but haven't touched it. Mostly because <abbr title="Function as a Service">FaaS</abbr> is such a captivating thing. Read more about the [differences between Docker and Serverless](https://serverlesscode.com/post/docker-isnt-serverless/) and, when you're ready, try out my [Serverless crash course with AWS Lambda](/serverless-email-forwards-ses-lambda-crash-course/).
+{: .notice--info}
 
 ## Getting started
 
