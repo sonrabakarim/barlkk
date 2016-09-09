@@ -69,7 +69,7 @@ Application boilerplates for creating React apps. And wow are there're a lot of 
 Application boilerplates for creating React Native applications. If you're just starting out, consider starting your app from scratch using `react-native init` and leveraging the following boilerplates for ideas until you get the hang of things. Otherwise, find your favorite and plunge right in!
 
 **[pepperoni](http://getpepperoni.com/)**
-<br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing.
+<br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing. Also includes a bash script to help rename your application after your clone, fork or mirror.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
 <br>A React Native starter kit for iOS and Android given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Redux, Jest, Istanbul, Parse integration (planned to be replaced with [Serverless](serverless.com)) and more. Includes video tutorials for set-up with Bitrise and more. Uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
