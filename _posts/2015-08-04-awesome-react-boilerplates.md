@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.5
   teaser: circular-837510_500x333.jpg
 ---
-{toc}
+{% include toc %}
 
 Not interested in reinventing the wheel? Neither am I. Here's a short list of awesome boilerplates -- sometimes known as starter kits or seeds -- for getting React applications off the ground in a hurry. These application templates were not taken from any list, however <a rel="nofollow" href="https://github.com/sindresorhus/awesome">awesome</a> that list might be. Rather, they've gained enough mindshare to find me outside [*The Stream*](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)[^1]. They're open source and waiting for you to generate, clone, fork and build upon in your next React project.
 
