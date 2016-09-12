@@ -246,7 +246,7 @@ Pretty simple, right? There's really not that much to it.
 
 Let's say you want to look boss by using [the physical web](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e) to broadcast a link to [a slide deck](https://slides.com/jhabdas) for a presentation you're about to give at a Meetup. What better way to impress than to push out a link to the deck over Bluetooth during the meeting.
 
-This can be done with relative ease by following [set-up SSL for your CloudFront distribution](https://nparry.com/2015/11/14/letsencrypt-cloudfront-s3.html). Though as [mentioned by Pat Hawks](https://github.com/laurilehmijoki/s3_website/issues/202#issuecomment-174847183) on the on `s3_website` gem it would probably be easier and more convenient to use the AWS certificate manager instead.
+This can be done with relative ease using Let's Encrypt following [set-up SSL for your CloudFront distribution](https://nparry.com/2015/11/14/letsencrypt-cloudfront-s3.html). Though, as [mentioned by Pat Hawks](https://github.com/laurilehmijoki/s3_website/issues/202#issuecomment-174847183) on the on `s3_website` gem, "It would probably be easier and more convienient to just use AWS Certificate Manager instead."
 {: .notice--info}
 
 ## The end is the beginning is the end
