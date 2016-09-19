@@ -2,7 +2,7 @@
 title: Choose Hugo Over Jekyll
 date: 2016-09-19T10:36:32-05:00
 author: Josh Habdas
-excerpt: In a sea of choice, which will you choose?
+excerpt: In a sea of choice, which static site generator will you choose?
 categories:
   - opinion
 tags:
@@ -30,8 +30,4 @@ After trying a number of them myself over the years _The One_ I've zeroed in on 
 
 [![After Dark theme for Hugo screenshot](/images/after-dark-framed.png)](https://comfusion.github.io/after-dark/)
 
-So give Hugo a try.
-
-And, while you're at it, check out the [After Dark theme](https://comfusion.github.io/after-dark/) for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.
-
-In a sea of choice, which will you choose?
+So give Hugo a try. And, while you're at it, check out the [After Dark theme](https://comfusion.github.io/after-dark/) for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.
