@@ -2,6 +2,7 @@
 title: Web Development and Debugging Tools
 author: Josh Habdas
 date: 2009-01-10
+modified: 2016-09-16
 categories:
   - reference
 tags:
@@ -15,7 +16,8 @@ tags:
 ---
 Following is a  list of cross-browser/platform web development and debugging tools useful for client-side developers. Depending on the application, one or all of these tools can be valuable in completing work on a website front-end.
 
-> Check out the [Web UI Engineering Resources][1] page for an actively maintained list of web development resources.
+**Note:** This information was originally compiled in 2009. While not all of it is still relevant some of it may still be useful. Proceed with caution until I have a chance to reboot this list.
+{: .notice--info}
 
 <!--more-->
 
