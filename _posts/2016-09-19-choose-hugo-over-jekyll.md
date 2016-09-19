@@ -13,12 +13,12 @@ tags:
   - themes
   - cyberculture
 header:
-    overlay_image: photo-1442473483905-95eb436675f1_1280.jpeg
+    overlay_image: photo-1442473483905-95eb436675f1_1280.jpg
     overlay_filter: 0.5
-    teaser: photo-1430760903787-4d91bbf15384_512.jpeg
+    teaser: photo-1442473483905-95eb436675f1_512.jpg
 ---
 
-Many are familiar with the idea of static site generators like Jekyll. But Jekyll isn't the only one out there. In fact, [there are hundreds](https://staticsitegenerators.net/) of static site generators available. With so many to choose from it can be difficult to decide which one to use.
+Many are familiar with the idea of static site generators like Jekyll. But Jekyll isn't the only one out there. In fact, [there are hundreds](https://staticsitegenerators.net/) of static site generators available. With so many to choose from it can be difficult to decide which to use.
 
 After trying a number of them myself over the years _The One_ I've zeroed in on is none other than [Hugo](https://gohugo.io). My primary reasons for choosing Hugo include the following:
 
