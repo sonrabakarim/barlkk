@@ -126,7 +126,7 @@ CSS is generally included via a `<link>` in the document head, which is good for
 
 Critical Path CSS is commonly used to refer to the CSS responsible for rendering the visible content of a webpage when it first loads. Oftentimes what's required for first render is only a fraction of the CSS sent to a browser before a typical page load. As a result, there's a performance gain by inlining critical CSS into a `<style>` tag in the document `HEAD` and loading the rest asynchronously.
 
-If you're using Sass or Less separation should be Straight-forward. Create a `critical.scss|less` file and `@import` only the styles necessary to display what appears when page first renders.
+If you're using Sass or Less separation should be straight-forward. Create a `critical.scss|less` file and `@import` only the styles necessary to display what appears when page first renders.
 
 With Jekyll Assets we can output our critical path CSS (or all of the it, if there's not too much) like so:
 
