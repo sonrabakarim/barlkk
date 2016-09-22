@@ -77,6 +77,9 @@ Application boilerplates for creating React Native applications. If you're just 
 **[ignite](https://github.com/infinitered/ignite)**
 <br>The unfair starting CLI, Generator, and more for React Native cross-platform apps. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators and is easy to set-up. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Planned inclusion of Redux Sagas and some config to get going with Fastlane for CI. Plans to become less of a kitchen sink in the future. Also uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
 
+**Heads up!** Ignite uses `react-native-router-flux`, which is under a [BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause) open source license. I [reached out](https://github.com/aksonov/react-native-router-flux/issues/1199) to the maintainer of the project and they suggested credits must be given for distributed apps. Pepperoni App Kit uses NavigationExperimental and, therefore, does not have this particular restriction (at least for the router, I haven't checked all the other dependencies).
+{: .notice}
+
 **[f8app](https://github.com/fbsamples/f8app)**
 <br>The official F8 app of 2016. Provides tutorials to help get started on [makeitopen.com](http://makeitopen.com) covering how they used React Native, Redux, Relay, GraphQL, and more. Also includes [Microsoft CodePush](https://github.com/Microsoft/react-native-code-push) for app updates without going through the app stores.
 
