@@ -2,7 +2,7 @@
 title: Reflecting on React Native development
 author: Josh Habdas
 date: 2015-08-01T12:57:51-05:00
-modified: 2016-08-16
+modified: 2016-09-22
 excerpt: Tips to get your app delivered faster.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -80,7 +80,7 @@ Getting your app onto the hands of others early is a good idea. There are many d
 - When submitting new builds, ensure you create your Archive as iOS Device (i.e. unplug your actual device). If you don’t you’ll receive a “failed to code sign” error in Xcode.
 - You may be rejected for improper advertising identifier IDFA via Program License Agreement PLA 3.3.12 if you’re not serving ads and include `RCTAdSupport` Library (you’ll be notified during submission).
 
-**Update 12 Aug 2016:** After a recent [talk given](https://habd.as/talks/streaming-audio-react-native/) on building Lumpen Radio at Stridekick I learned [Buddybuild](https://buddybuild.com) was considered a good way to simplify and manage the beta testing and deployment process of RN apps.
+**Update 9 Sep 2016:** After a recent [talk given](https://habd.as/talks/streaming-audio-react-native/) on building Lumpen Radio at Stridekick I learned [Buddybuild](https://buddybuild.com) was considered a good way to simplify and manage the beta testing and deployment process of RN apps. I wrote a post about [Beta Testing React Native with Buddybuild](/beta-testing-react-native-buddybuild/).
 {: .notice--info}
 
 ## Submitting to App Store
