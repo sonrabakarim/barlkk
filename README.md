@@ -2,6 +2,7 @@
 
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jhabdas/simple-websites-with-jekyll-and-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jhabdas/habd.as.svg)](https://hub.docker.com/r/jhabdas/habd.as/)
+[![Microbadger](https://images.microbadger.com/badges/image/jhabdas/habd.as.svg)](https://microbadger.com/images/jhabdas/habd.as "Get your own image badge on microbadger.com")
 
 My personal website, containerized and using the HPSTR theme for Jekyll.
 
