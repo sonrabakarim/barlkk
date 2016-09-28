@@ -68,11 +68,11 @@ Application boilerplates for creating React apps. And wow are there're a lot of 
 
 Application boilerplates for creating React Native applications. If you're just starting out, consider starting your app from scratch using `react-native init` and leveraging the following boilerplates for ideas until you get the hang of things. Otherwise, find your favorite and plunge right in!
 
-**[pepperoni](http://getpepperoni.com/)**
-<br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing. Also includes a bash script to help rename your application after your clone, fork or mirror.
-
 **[ignite](https://github.com/infinitered/ignite)**
 <br>The unfair starting CLI, Generator, and more for React Native cross-platform apps. I looked over this and, though I haven't used it yet for a project, it has one of my favorite developer affordances: Generators and is easy to set-up. It also takes a different approach from most boilerplates in that you do not have to fork the repo. Just generate it from the base! Also, GantMan is receptive to feedback and publishing docs to help on the Web. That's awesome.
+
+**[pepperoni](http://getpepperoni.com/)**
+<br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing. Also includes a bash script to help rename your application after your clone, fork or mirror.
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
 <br>A React Native starter kit for iOS and Android given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Redux, Jest, Istanbul, Parse integration (planned to be replaced with [Serverless](serverless.com)) and more. Includes video tutorials for set-up with Bitrise and more. Uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
