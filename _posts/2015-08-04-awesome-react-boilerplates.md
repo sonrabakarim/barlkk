@@ -23,7 +23,7 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 Application boilerplates for creating React apps. And wow are there're a lot of good ones to choose from.
 
 **[react-production-starter](https://github.com/jaredpalmer/react-production-starter)**
-<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Sports [feature-first organization](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9), JS standard for simplified linting, built-in example site with collection and item views, sample navigation both internally and sample unit tests. Integrates easily with [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) and [Material UI](http://www.material-ui.com/). HMR that works! Also includes a `Dockerfile` to get the app up and running in a flash.
+<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Sports [feature-first organization](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9), JS standard for simplified linting, built-in example site with collection and item views, sample navigation both internally and sample unit tests. Integrates easily with [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) and [Material UI](http://www.material-ui.com/). Functional stateless (pure) components. HMR that works! Also includes a `Dockerfile` to get the app up and running in a flash. Yowza!
 <br><br>**Editor's choice**
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
