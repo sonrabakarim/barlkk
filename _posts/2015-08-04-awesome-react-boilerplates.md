@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-09-09
+modified: 2016-10-21
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -23,7 +23,7 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 Application boilerplates for creating React apps. And wow are there're a lot of good ones to choose from.
 
 **[react-production-starter](https://github.com/jaredpalmer/react-production-starter)**
-<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Also _includes a Dockerfile_ to get the app up and running in a flash.
+<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Sports [feature-first organization](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9), JS standard for simplified linting, built-in example site with collection and item views, sample navigation both internally and sample unit tests. Integrates easily with [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) and [Material UI](http://www.material-ui.com/). HMR that works! Also includes a `Dockerfile` to get the app up and running in a flash. **Editor's choice**
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
 <br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain).
