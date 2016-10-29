@@ -11,7 +11,7 @@ header:
 ---
 {% include toc %}
 
-One of the best parts of building with React is discovering new and awesome open source components to use. Rather than throwing a [kitchen](https://github.com/karl1992/awesome-react-components-all) [sink](https://github.com/enaqx/awesome-react#components) at you, here's a curated list of React component and component libraries I think are truly awesome.
+One of the best parts of building with React is discovering new and awesome open source components to use. Rather than throwing the [kitchen](https://github.com/karl1992/awesome-react-components-all) [sink](https://github.com/enaqx/awesome-react#components) at you, here's a curated list of React component and component libraries I think are truly awesome.
 
 Not sure where to start? Check out the list of [Awesome React Boilerplates](/awesome-react-boilerplates) for a solid starting point for your React-based apps.
 
