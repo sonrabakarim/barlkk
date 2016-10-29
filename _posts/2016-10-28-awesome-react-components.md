@@ -1,6 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
+modified: 2016-10-29
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -33,6 +34,9 @@ Awesome components for building React apps.
 
 _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of [Artsembler](https://artsembler.com/), for the suggestion._
 
+**[Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React)**
+<br>I had the pleasure of working with [Levi Thomason](https://github.com/levithomason) on this project when it was still called Stardust. Like Material UI, Semantic UI is a great way to get a project to MVP without a designer. And though it wasn't built from the ground-up in React, like Material UI, it's now the official React port of Semantic UI and sure to continue gaining traction as time goes on.
+
 **[React Native Web](https://github.com/necolas/react-native-web)**
 <br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
 
@@ -51,3 +55,6 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)**
 <br>No app is complete without some glamorous iconography. Install this module for access to over 3000 vector icons from several different icon sets, including [Material Icons](https://design.google.com/icons/).
+
+**[React Native Video](https://github.com/react-native-community/react-native-video)**
+<br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the React Native Community--makes it a cinch to enable stunning visual effects in your app.
