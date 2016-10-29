@@ -29,7 +29,7 @@ Application boilerplates for creating React apps. And wow are there're a lot of 
 <br><br>**Editor's choice**
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain).
+<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. That's wild!
 
 **[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
 <br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
