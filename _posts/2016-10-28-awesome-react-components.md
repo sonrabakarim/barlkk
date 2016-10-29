@@ -51,6 +51,3 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)**
 <br>No app is complete without some glamorous iconography. Install this module for access to over 3000 vector icons from several different icon sets, including [Material Icons](https://design.google.com/icons/).
-
-Find this useful? Please help support future posts by [supporting me on Patreon](https://www.patreon.com/jhabdas).
-{: .notice--success }

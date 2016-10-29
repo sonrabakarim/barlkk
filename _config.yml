@@ -247,6 +247,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      support: true
       related: true
   - # _talks
     scope:

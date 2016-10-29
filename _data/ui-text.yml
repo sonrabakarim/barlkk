@@ -14,6 +14,7 @@ en: &DEFAULT_EN
   minute_read           : "minute read"
   minutes_read          : "minutes read"
   share_on_label        : "Share on"
+  support_on_label      : "Support on"
   meta_label            :
   tags_label            : "Tags:"
   categories_label      : "Categories:"
