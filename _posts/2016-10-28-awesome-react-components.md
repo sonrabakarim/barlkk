@@ -57,4 +57,4 @@ Awesome components (native modules) for building React Native apps. All of which
 <br>No app is complete without some glamorous iconography. Install this module for access to over 3000 vector icons from several different icon sets, including [Material Icons](https://design.google.com/icons/).
 
 **[React Native Video](https://github.com/react-native-community/react-native-video)**
-<br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the React Native Community--makes it a cinch to enable stunning visual effects in your app.
+<br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the [React Native Community](https://github.com/react-native-community/)--makes it a cinch to enable stunning visual effects in your app.
