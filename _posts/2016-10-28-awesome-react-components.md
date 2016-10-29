@@ -24,7 +24,7 @@ Contributions via comments welcome. The best React and React Native Components w
 Awesome components for building React apps.
 
 **[Material UI](http://www.material-ui.com/)**
-<br>Short on design resources? Missing a style guide? No problem. With Material UI you can build and theme-roll an entire app without much of any design skills whatsoever, and still walk away looking like your right does more than fantasize about [retro gaming on an RPi](/ultima-underworld-on-rpi/).
+<br>Short on design resources? Missing a style guide? No problem. With Material UI you can build and theme-roll an entire app without much of any design skills whatsoever, and still walk away looking like your right brain does more than fantasize about [retro gaming on an RPi](/ultima-underworld-on-rpi/).
 
 **[React Flexbox Grid](https://github.com/roylee0704/react-flexbox-grid)**
 <br>Though Material UI has a pretty stellar [Grid List component](http://www.material-ui.com/#/components/grid-list), it's not intended for layout. That's what Flexbox is for, bra. This component leverages CSS Modules, and pairs well with [Aphrodite](https://github.com/Khan/aphrodite) and Material UI for bulletproof responsive layouts.
