@@ -16,7 +16,7 @@ One of the best parts of building with React is discovering new and awesome open
 Not sure where to start? Check out the list of [Awesome React Boilerplates](/awesome-react-boilerplates) for a solid starting point for your React-based apps.
 
 Contributions via comments welcome. The best React and React Native Components will be moved into the article body and the `nofollow` removed.
-{: .notice }
+{: .notice--info }
 
 # React
 
@@ -51,3 +51,6 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)**
 <br>No app is complete without some glamorous iconography. Install this module for access to over 3000 vector icons from several different icon sets, including [Material Icons](https://design.google.com/icons/).
+
+Find this useful? Please help support future posts by [supporting me on Patreon](https://www.patreon.com/jhabdas).
+{: .notice--success }

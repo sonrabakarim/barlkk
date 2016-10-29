@@ -18,7 +18,7 @@ Not interested in reinventing the wheel? Neither am I. Here's a short list of aw
 Already settled on a boilerplate? Check out the list of [Awesome React Components](/awesome-react-components) and start building without all the experimentation and research.
 
 Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow` removed.
-{: .notice }
+{: .notice--info }
 
 # React
 
@@ -85,5 +85,8 @@ Application boilerplates for creating React Native applications. If you're just 
 
 **[react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)**
 <br>Boilerplate I extracted from building the [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) app early in the RN lifecycle, enabling RN development using bundles dynamically generated with Webpack.
+
+Find this useful? Please help support future posts by [supporting me on Patreon](https://www.patreon.com/jhabdas).
+{: .notice--success }
 
 [^1]: "The Stream" is a kind of slot machine used to [hijack your mind](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3).
