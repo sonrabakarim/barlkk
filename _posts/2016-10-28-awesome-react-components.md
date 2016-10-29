@@ -30,7 +30,7 @@ Awesome components for building React apps.
 <br>Though Material UI has a pretty stellar [Grid List component](http://www.material-ui.com/#/components/grid-list), it's not intended for layout. That's what Flexbox is for, bra. This component leverages CSS Modules, and pairs well with [Aphrodite](https://github.com/Khan/aphrodite) and Material UI for bulletproof responsive layouts.
 
 **[PhotoSwipe](https://github.com/minhtranite/react-photoswipe)**
-<br>Looking to create an engaging image gallery without going all-in on an [image gallery component](https://github.com/xiaolin/react-image-gallery)? Check out [PhotoSwipe](photoswipe.com), then install this gnarly react port for a superior image browsing UX for desktop and mobile.
+<br>Looking to create an engaging image gallery without going all-in on an [image gallery component](https://github.com/xiaolin/react-image-gallery)? Check out [PhotoSwipe](http://photoswipe.com) to see what it looks like, then install this gnarly react port for a superior image browsing UX for desktop and mobile.
 
 _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of [Artsembler](https://artsembler.com/), for the suggestion._
 
