@@ -1,6 +1,7 @@
 ---
 title: The Road Ahead
 date: 2016-10-29T13:44:44-05:00
+modified: 2016-11-02
 excerpt: The journey of a thousand miles starts with...a blog?
 categories: [reflection]
 tags: [blogging, programming, freelance, career]
@@ -14,8 +15,10 @@ When I started this blog back in 2008 I didn't have a clear direction for what I
 
 Over time the direction of this blog became more clear. It eventually grew to become a tech tutorials site and [made open source](https://github.com/jhabdas/habd.as). It serves as a journal both for the community and a place for me to scribe how to do things I knew I'd otherwise forget. It worked, and has served both purposes well.
 
-After **deciding to leave the corporate world** earlier this year in favor of working with startups, individuals and small enterprise as a freelancer I realized this site was not the proper place to tell that story. And so I **created a new website** to start documenting the freelance journey. The new website name was inspired by none other than [Ean Platter](https://github.com/eanplatter) during our time together at TechnologyAdvice--it's called [Hack Cabin](http://hackcabin.com).
+After **deciding to leave the corporate world** earlier this year in favor of a path less conventional I realized this site was not the proper place to tell that story. And so I created a new website to start **documenting the freelance journey**. The new website name was inspired by one [Ean Platter](https://github.com/eanplatter), curator of the fantastic React Newsletter, during our time together at TechnologyAdvice--it's called [Hack Cabin](http://hackcabin.com).
 
-Please check out the new site if you're interested in gaining [your independence](https://medium.com/@andco_26266/welcome-to-your-independence-the-go-to-guide-for-freelancers-7b1f405f5aee) in the way you work. And if you're a developer doing closed source development, consider starting your own blog. You'll find a blog a great creative outlet for your work, and good way to improve your writing and software development skills. And, as an added bonus, you'll also get a warm fuzzy every time you find out others are benefiting from your work as well--even if you're not getting paid for it.
+Hack Cabin is a static website built using AWS and Hugo. [Read about the site architecture](http://hackcabin/post/initial-commit/) and why I suggest others [Choose Hugo Over Jekyll](/choose-hugo-over-jekyll/).
 
-To the road ahead, wherever it may lead. Onward ho!
+If you're not interested in technology I'll also be posting about travel and freelancing on Hack Cabin. So check it out if you're interested in [gaining independence](https://medium.com/@andco_26266/welcome-to-your-independence-the-go-to-guide-for-freelancers-7b1f405f5aee) in the way you work, and quietly slipping away from your corporate overlords.
+
+To the road ahead, wherever it may lead.
