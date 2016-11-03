@@ -28,8 +28,7 @@ main {
 
     .page__content,
     .page__meta,
-    .page__share,
-    .page__support {
+    .page__share {
       @include full();
     }
   }
@@ -184,11 +183,10 @@ main {
 }
 
 /*
-   Social sharing and support
+   Social sharing
    ========================================================================== */
 
-.page__share,
-.page__support {
+.page__share {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
@@ -207,18 +205,12 @@ main {
   }
 }
 
-.page__share-title,
-.page__support-title {
+.page__share-title {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
 }
 
-.page__support {
-  .btn img {
-    height: 1.5em;
-  }
-}
 
 /*
    Page meta

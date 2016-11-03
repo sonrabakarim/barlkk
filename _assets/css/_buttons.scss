@@ -116,14 +116,13 @@
     opacity: 0.65;
   }
 
-  /* social and support buttons */
+  /* social buttons */
 
   $social:
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (reddit, $reddit-color),
   (google-plus, $google-plus-color),
-  (patreon, $patreon-color),
   (linkedin, $linkedin-color);
 
   @each $socialnetwork, $color in $social {
