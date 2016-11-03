@@ -49,6 +49,9 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
+      {% if author.medium %}
+        <li><a href="https://medium.com/@{{ author.medium }}"><i class="fa fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
+      {% endif %}
       {% if author.codementor %}
         <li><a href="https://www.codementor.io/{{ author.codementor }}"><i class="fa fa-fw fa-laptop" aria-hidden="true"></i> Codementor</a></li>
       {% endif %}
