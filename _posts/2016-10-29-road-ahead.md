@@ -4,7 +4,7 @@ date: 2016-10-29T13:44:44-05:00
 modified: 2016-11-02
 excerpt: The journey of a thousand miles starts with...a blog?
 categories: [reflection]
-tags: [blogging, programming, freelance, career]
+tags: [blogging, programming, freelance, career, travel]
 header:
   overlay_image: photo-1464498939806-94a4611c3c74_1280.jpg
   overlay_filter: 0.5
