@@ -40,6 +40,9 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 **[React Native Web](https://github.com/necolas/react-native-web)**
 <br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
 
+**[React Waypoint](https://github.com/brigade/react-waypoint)**
+<br>Based on the ever-so-useful [Waypoints](http://imakewebthings.com/waypoints/) library, leverage this component to trigger animations or capture events as users ogle their way down your pages.
+
 # React Native
 
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
