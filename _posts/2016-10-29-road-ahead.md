@@ -15,10 +15,10 @@ When I started this blog back in 2008 I didn't have a clear direction for what I
 
 Over time the content direction for the blog became clearer. It eventually grew to become a tech tutorials site and [made open source](https://github.com/jhabdas/habd.as). It serves as a journal both for the community and a place for me to scribe how to do things I knew I'd otherwise forget. It worked, and has served both purposes well.
 
-After deciding to leave the corporate world earlier this year in favor of a path less conventional I realized this site was not the proper place to tell that story. And so I created a **new website to start documenting the freelance journey**. The new website name was inspired by one [Ean Platter](https://github.com/eanplatter), curator of the fantastic [React Newsletter](http://reactjsnewsletter.com/), during our time together at TechnologyAdvice--it's called [Hack Cabin](http://hackcabin.com).
+After deciding to leave the corporate world earlier this year in favor of a path less conventional I realized this site was not the proper place to tell that story. And so I created a **new website to start documenting the freelance journey**. The new website name was inspired by one Ean Platter, curator of the fantastic [React Newsletter](http://reactjsnewsletter.com/), during our time together at TechnologyAdvice--it's called Hack Cabin.
 
-Hack Cabin is a static website built using AWS and Hugo. [Read about the site architecture](http://hackcabin/post/initial-commit/) and why I suggest others [Choose Hugo Over Jekyll](/choose-hugo-over-jekyll/).
+[Hack Cabin](http://hackcabin.com) is a static website built using AWS and Hugo. To get acquainted, read about the [site architecture](http://hackcabin/post/initial-commit/) or why I suggest others [Choose Hugo Over Jekyll](/choose-hugo-over-jekyll/).
 
-And if you're not interested in technology I'll also be writing about travel and freelancing on Hack Cabin. So check it out if you're interested in [gaining independence](https://medium.com/@andco_26266/welcome-to-your-independence-the-go-to-guide-for-freelancers-7b1f405f5aee) in the way you work, and quietly slipping away from your corporate overlords.
+And if you're not interested in technology I'll also be writing about [travel](hackcabin.com/post/bali-travel-survival-guide/) and freelancing on Hack Cabin. So check it out if you're interested in [gaining independence](http://hackcabin.com/post/six-figure-job-independence/) in the way you work, and quietly slipping away from your corporate overlords.
 
 To the road ahead, wherever it may lead.
