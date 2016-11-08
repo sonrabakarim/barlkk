@@ -48,7 +48,7 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
-<br>If Material UI and React Native hooked up and had a kid, it would be called Shoutem UI Toolkit. Get ready for the next generation of rapid prototyping on mobile. This is the framework you've all been waiting for. Get it now.
+<br>If Material UI and React Native hooked-up and instantiated a child, it would be called Shoutem UI Toolkit. Get ready for the next generation of rapid prototyping on mobile. This is the framework you've all been waiting for. Get it now.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
