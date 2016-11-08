@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2016-10-29
+modified: 2016-11-07
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -47,11 +47,11 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
+**[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
+<br>If Material UI and React Native hooked up and had a kid, it would be called Shoutem UI Toolkit. Get ready for the next generation of rapid prototyping on mobile. This is the framework you've all been waiting for. Get it now.
+
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
-
-**[React Native Material Kit](https://github.com/xinthink/react-native-material-kit)**
-<br>Furthest along in terms of bringing the beauty of [Material Design](https://material.google.com/) to React Native, though keep your eye on the [Material UI support issue](https://github.com/callemall/material-ui/issues/593) for RN for updates as this space is fragmented for RN and several other Material kits exist (though none are nearly as good).
 
 **[React Native Router Flux](https://github.com/aksonov/react-native-router-flux/)**
 <br>Routing in RN is, ahem, a bit of suck. In fact, there are [several ways to do navigation](https://facebook.github.io/react-native/docs/navigation.html) in RN core. Instead of rolling your own, use this router -- which integrates easily with Redux and will help you better manage your application state and overall composition.
