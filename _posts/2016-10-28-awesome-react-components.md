@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2016-11-07
+modified: 2016-11-10
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -48,16 +48,22 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
-<br>If Material UI and React Native hooked-up and instantiated a child, it would be called Shoutem UI Toolkit. Get ready for the next generation of rapid prototyping on mobile. This is the framework you've all been waiting for. Get it now.
+<br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a number of components, provides an opinionated way to theme an app and also provides a declarative way to perofrm common animations and parallax.
+
+**[React Native Elements](https://github.com/react-native-community/React-Native-Elements)**
+<br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
 
 **[React Native Router Flux](https://github.com/aksonov/react-native-router-flux/)**
-<br>Routing in RN is, ahem, a bit of suck. In fact, there are [several ways to do navigation](https://facebook.github.io/react-native/docs/navigation.html) in RN core. Instead of rolling your own, use this router -- which integrates easily with Redux and will help you better manage your application state and overall composition.
+<br>Routing in RN is, ahem, a bit of suck. In fact, there are [several ways to do navigation](https://facebook.github.io/react-native/docs/navigation.html) in RN core. Instead of rolling your own, use React Native Router Flux -- which integrates easily with Redux -- to help you manage card-based scenes in your app.
 
 **[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)**
 <br>No app is complete without some glamorous iconography. Install this module for access to over 3000 vector icons from several different icon sets, including [Material Icons](https://design.google.com/icons/).
 
 **[React Native Video](https://github.com/react-native-community/react-native-video)**
 <br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the [React Native Community](https://github.com/react-native-community/)--makes it a cinch to enable stunning visual effects in your app.
+
+**[React Native Drawer](https://github.com/root-two/react-native-drawer)**
+Create a slide-out global navigation menu for your app and make that hamburger do something more useful than giving you indigestion.
