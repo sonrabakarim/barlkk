@@ -35,7 +35,7 @@ Application boilerplates for creating React apps. And wow are there're a lot of 
 <br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
 
 **[simple-static-react-aframe](https://github.com/Jon-Biz/simple-static-react-aframe)**
-<br>It's refreshing to see a new use case for a boilerplate. This boilerplate gets you set-up to build a VR website with React and Aframe. Check out the mobile demo and start building the next Pokémon Go.
+<br>It's refreshing to see a new use case for a boilerplate. This boilerplate gets you set-up to build a VR website with React and Aframe. Check out the mobile demo and start building the next Pokémon Go. Be super slick to see something like this paired with [Whitestorm](https://github.com/WhitestormJS/whitestorm.js).
 
 **[react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/)**
 <br>A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
