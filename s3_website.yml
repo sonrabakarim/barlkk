@@ -48,8 +48,8 @@ cloudfront_wildcard_invalidation: true
 
 # concurrency_level: 5
 
-# redirects:
-#   index.php: /
+redirects:
+  managing-passwords-on-android: /managing-passwords-across-devices/
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
