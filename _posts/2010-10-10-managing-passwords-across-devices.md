@@ -32,7 +32,7 @@ To use KeePass and Dropbox together to manage passwords that easily sync between
 
 That's it! Those concerned about storing their passwords in a cloud can rest easy knowing the KeePass databases are stored encrypted using some of the [most secure][6] ciphers in existence. So unless you're protecting the kind of info that might one day end up on [WikiLeaks][5] or government email servers, you've got little to worry about in storing your KeePass data online.
 
-*One final thought...* Because you're using a master password don't assume the easiest way to get it will be over the wire. If you've ever been outdoors and typed your master password into your phone, it's quite possible you're already given away your secrets to the eye in the sky.
+*One final thought...* Because you're using a master password don't assume the easiest way to get it will be over the wire. If you've ever been outdoors and typed your master password into your phone, it's quite possible you've already given away your secrets to the eye in the sky.
 
  [1]: /running-android-on-htc-hd2-leo/
  [2]: http://keepass.info/
