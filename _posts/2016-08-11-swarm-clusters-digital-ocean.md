@@ -32,7 +32,7 @@ A few administrative things before we get going.
 
 ### Prerequisites
 
-Before we start you'll need an account with Digital Ocean. If you don’t already have an account you may [use my referral code](https://www.digitalocean.com/?refcode=9d5c1c681fd0){: .btn .btn--inverse} for $10 in free credits.
+Before we start you'll need an account with Digital Ocean. If you don’t already have an account you may [use my referral code](https://m.do.co/c/9d5c1c681fd0){: .btn .btn--inverse} for $10 in free credits.
 
 Once your account is created use Digital Ocean to [generate a Personal Access Token](https://cloud.digitalocean.com/settings/api/tokens) for use with Docker Swarm and save the token in your [password manager of choice](/managing-passwords-on-android/) for later retrieval.
 
