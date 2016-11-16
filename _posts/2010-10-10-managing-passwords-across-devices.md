@@ -2,7 +2,7 @@
 title: Managing Passwords Across Devices
 author: Josh Habdas
 date: 2010-10-10
-modified: 2016-11-14
+modified: 2016-11-16
 categories:
   - security
 tags:
@@ -22,7 +22,7 @@ After [hacking Android onto my HD2][1] I quickly became challenged with the task
 
 <!--more-->
 
-KeePass ports like KeePassDroid store passwords in an encrypted file that can be easily shared between devices. That's where [Dropbox][4] (or similar) comes in. When paired with DropBox, encrypted password stores can be automatically synced between operating systems and across devices.
+KeePass ports like KeePassDroid store passwords in an encrypted file that can be easily shared between devices. That's where [Dropbox][4] (or similar) comes in. When paired with DropBox, encrypted password stores can be synced between operating systems and across devices.
 
 To use KeePass and Dropbox together to manage passwords that easily sync between devices:
 
