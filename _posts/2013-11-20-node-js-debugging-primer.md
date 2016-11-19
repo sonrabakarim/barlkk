@@ -63,7 +63,7 @@ Womp womp. What happened? Unless you're a psychic, you're not gonna be able to t
 
 ## Install and start the Node Inspector
 
-**Update 2016-11-16:** Paul Irish introduced Node debugging in Chrome Dev Tools at the Chrome Dev Summit 2016. So rather than using the Node Inspector you can no debug Node applications directly within the browser. To learn more, [watch the Node debuggin intro video](https://youtu.be/HF1luRD4Qmk) from Paul's talk.
+**Update 2016-11-16:** Paul Irish introduced Node debugging in Chrome Dev Tools at the Chrome Dev Summit 2016. So rather than using the Node Inspector you can no debug Node applications directly within the browser. To learn more, [watch the Node debugging intro video](https://youtu.be/HF1luRD4Qmk?t=21m4s) from Paul's talk.
 {: .notice--info}
 
 Thankfully due to a well placed question at a [Chicago Node.js meetup](http://www.meetup.com/Chicago-Nodejs/) meetup earlier this year I didn't have to spend any time figuring out how to get started with debugging Node. The Node.js gurus at Groupon suggested [node-inspector](https://github.com/node-inspector/node-inspector) for step debugging.
