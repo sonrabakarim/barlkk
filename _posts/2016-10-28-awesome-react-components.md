@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2016-11-10
+modified: 2016-11-18
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -52,6 +52,9 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Elements](https://github.com/react-native-community/React-Native-Elements)**
 <br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
+
+**[CodePush](https://microsoft.github.io/code-push/)**
+<br>Somehow still the Number 2 result on Google for the search term "CodePush", this component has been called "the most hipster thing" out of Microsoft in quite some time. Using it allows one to make remote changes to apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to the back-end.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
