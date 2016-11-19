@@ -54,7 +54,7 @@ Awesome components (native modules) for building React Native apps. All of which
 <br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
 
 **[CodePush](https://microsoft.github.io/code-push/)**
-<br>Somehow still the Number 2 result on Google for the search term "CodePush", this component has been called "the most hipster thing" out of Microsoft in quite some time. Using it allows one to make remote changes to apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to the back-end.
+<br>Somehow still the #2 result on Google for the term "CodePush", this component has been called "the most hipster thing" out of Microsoft in...quite some time. CodePush allows devs to make remote changes to installed apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to your back-end. Word to the weary, this is a single point of failure.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
@@ -68,5 +68,5 @@ Awesome components (native modules) for building React Native apps. All of which
 **[React Native Video](https://github.com/react-native-community/react-native-video)**
 <br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the [React Native Community](https://github.com/react-native-community/)--makes it a cinch to enable stunning visual effects in your app.
 
-**[React Native Drawer](https://github.com/root-two/react-native-drawer)**
-Create a slide-out global navigation menu for your app and make that hamburger do something more useful than giving you indigestion.
+**[React Native Maps](https://github.com/airbnb/react-native-maps)**
+<br>From the homies at Airbnb, do map stuff with React Native. The RN core team has [planned](https://github.com/facebook/react-native/wiki/Roadmap#stability) to remove their MapView (yeah, who knew?) in favor of this bad shooting star.
