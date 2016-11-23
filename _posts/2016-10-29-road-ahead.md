@@ -2,7 +2,7 @@
 title: The Road Ahead
 date: 2016-10-29T13:44:44-05:00
 modified: 2016-11-02
-excerpt: The journey of a thousand miles starts with...a blog?
+excerpt: The journey of 9764 miles starts with a blog.
 categories: [reflection]
 tags: [blogging, programming, freelance, career, travel]
 header:
