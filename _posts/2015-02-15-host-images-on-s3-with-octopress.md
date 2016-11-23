@@ -2,6 +2,7 @@
 title: "Host images on S3 with Octopress"
 author: Josh Habdas
 date: 2015-02-15 23:39
+modified: 2016-11-22
 excerpt: Learn how to host Octopress (Jekyll) images on S3.
 categories:
   - tutorials
@@ -18,6 +19,9 @@ tags:
 Glancing over the Octopress plug-ins list yesterday I noticed something I hadn’t seen before, an [Image tag & uploader for S3](https://github.com/TheAshwanik/aws_s3_imagetag/). Curious to tinker around with it I set-up an account for S3 and integrated it today to decrease my blog header background image size and serve it from the cloud with caching.
 
 > Learn how to host images on S3 with Octopress.
+
+**Update 2016-11-22**: You can find the open source earlier Octopress version of this blog open sourced GitHub. Once you're ready to move on from GitHub try [hosting Jekyll on DigitalOcean using Docker](/simple-websites-jekyll-docker/). And, once you've nailed that approach, try going for [PageSpeed 100 with S3 and CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/).
+{: .notice--info}
 
 <!--more-->
 
