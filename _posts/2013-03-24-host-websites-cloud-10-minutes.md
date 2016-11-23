@@ -10,13 +10,20 @@ tags:
   - hosting
   - web
   - webmaster
+header:
+  overlay_image: photo-1440407876336-62333a6f010f_1280.jpeg
+  overlay_filter: 0.5
+  teaser: photo-1440407876336-62333a6f010f_512.jpeg
 ---
 
-Hosting companies [Bluehost](http://hackcabin.com/go/bluehost) and Dreamhost offer simple, one-click installation of popular blogging platforms like WordPress, Drupal and Joomla. The affordable hosting plans offered are low-cost, but you tend to get what you pay for: shoddy up-time and slow server responses. What would our hero Mario do about this? I'm thinking he'd <a href="http://features.peta.org/mario-kills-tanooki/" rel="nofollow">Tanooki suit up</a>, make a mad dash and fly to the first cloud he found. And that's what this post is all about. Read on to learn how to host a website in the cloud in 10 minutes. It may not be as simple as 1-click hosting, but it'll almost certainly be faster. And you'll earn some geek cred for doing something complicated to do something simple.
+Hosting companies [Bluehost](http://hackcabin.com/go/bluehost) and Dreamhost offer simple, one-click installation of popular blogging platforms like WordPress, Drupal and Joomla. The affordable hosting plans offered are low-cost, but you tend to get what you pay for: shoddy up-time and slow server responses.
+
+What would our hero Mario do about this? I'm thinking he'd <a href="http://features.peta.org/mario-kills-tanooki/" rel="nofollow">Tanooki suit up</a>, make a mad dash and fly to the first cloud he found. And that's what this post is all about. Read on to learn how to host a website in the cloud in 10 minutes. It may not be as simple as 1-click hosting, but it'll almost certainly be faster. And you'll earn some geek cred for doing something complicated to do something simple.
 
 <!--more-->
 
 **Update 2016-11-22:** Instead of using EC2 as described within, consider going static and [hosting with S3 and CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/).
+{: .notice--info}
 
 ## Getting started
 
