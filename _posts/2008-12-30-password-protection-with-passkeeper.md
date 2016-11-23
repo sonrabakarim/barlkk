@@ -2,6 +2,7 @@
 title: Password Protection with PassKeeper
 author: Josh Habdas
 date: 2008-12-30
+modified: 2010-11-22
 categories:
   - security
 tags:
@@ -15,6 +16,9 @@ After recently losing a USB flash drive with all my passwords on it, I was grate
 > <a title="PassKeeper" href="http://www.passkeeper.com/">PassKeeper</a> is a Windows utility that allows you to keep a list of accounts with usernames, passwords, and notes. This list is stored encrypted.
 
 The utility is freeware and has been available for public download since the mid-90’s. Data are encrypted using the 56-bit <a title="DES cipher" href="http://en.wikipedia.org/wiki/Data_Encryption_Standard" rel="nofollow">DES</a> cipher and stored in an DAT file in the application’s root directory. The size of the application (189 kilobytes) and the data file (~400 bytes/entry) are lightweight and can easily be carried around on any USB flash drive.
+
+**Update 2016-11-22**: In 2010 I switched to KeePass, which [works across devices](/managing-passwords-across-devices/) and provides features such as secure password generation and grouping.
+{: .notice--info}
 
 <!--more-->
 
