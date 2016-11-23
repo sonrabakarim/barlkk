@@ -2,6 +2,7 @@
 author: Josh Habdas
 title: "Turbocharge Your Octopress Blog"
 date: 2015-04-13 21:00
+modified: 2016-11-22
 excerpt: "Speed up your Octopress or Jekyll blog and rank higher in search with a 92 or better page speed. Learn how to turbocharge your Octopress blog."
 categories: [tutorials]
 tags: [octopress, blogging, performance, optimization, s3, aws]
@@ -14,6 +15,9 @@ header:
 The need for speed is upon us. Out of the box the speed of an Octopress kinda drags. However, there are a number of things you can do to to speed it up without a complete overhaul.
 
 > Learn how to turbocharge your Octopress blog
+
+**Update 2016-11-22**: You can find the open source Octopress version of this blog circa 2015 [open sourced GitHub](https://github.com/jhabdas/jhabdas.github.io). Once you're ready to move on from GitHub try [hosting Jekyll on DigitalOcean using Docker](/simple-websites-jekyll-docker/). And, once you've nailed that approach, try going for [PageSpeed 100 with S3 and CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/).
+{: .notice--info}
 
 <!--more-->
 
