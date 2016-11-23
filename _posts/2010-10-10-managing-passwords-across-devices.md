@@ -17,7 +17,7 @@ After [hacking Android onto my HD2][1] I quickly became challenged with the task
 
 > KeePassDroid makes recalling passwords as easy as copy/paste and also includes a password generator for creating strong passwords.
 
-**Update 10 Aug 16:** Though I still use the password management methods described herein, I've switched from KeePass to [KeePassX](https://www.keepassx.org/) on OS X, and use [MiniKeePass for iOS](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808?ls=1&mt=8).
+**Update 10 Aug 16**: Though I still use the password management methods described herein, I've switched from KeePass to [KeePassX](https://www.keepassx.org/) on OS X, and use [MiniKeePass for iOS](https://itunes.apple.com/us/app/minikeepass-secure-password/id451661808?ls=1&mt=8).
 {: .notice--info}
 
 <!--more-->
