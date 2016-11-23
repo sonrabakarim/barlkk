@@ -2,6 +2,7 @@
 title: The Holy Grail of Rich Internet Applications
 author: Josh Habdas
 date: 2013-02-26
+modified: 2016-11-22
 categories:
   - opinion
 tags:
@@ -22,6 +23,9 @@ It seems as though I'm not alone in my belief that [Progressive Enhancement][3] 
 A successful quest for The Holy Grail should yield a fully-crawlable Rich Internet Application with phenomenal "time to content" that doesn't tax crawlers with ajax and will function in most any browser, even with JavaScript disabled.
 
 Check out the [Airbnb article][4] referenced, which depicts the Holy Grail in a linked image, and ask yourself if you're drinking from the right cup. You must choose, but choose wisely.
+
+**Update 2016-11-22**: I've used two great React-based boiler plates for building Isomorphic apps. You can read about them on my list of [Awesome React Boilerplates](/awesome-react-boilerplates).
+{: .notice--info}
 
  *[SPA]: Single-Page Application
  *[PE]: Progressive Enhancement
