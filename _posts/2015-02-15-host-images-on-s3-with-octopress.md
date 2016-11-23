@@ -20,7 +20,7 @@ Glancing over the Octopress plug-ins list yesterday I noticed something I hadnâ€
 
 > Learn how to host images on S3 with Octopress.
 
-**Update 2016-11-22**: You can find the open source earlier Octopress version of this blog open sourced GitHub. Once you're ready to move on from GitHub try [hosting Jekyll on DigitalOcean using Docker](/simple-websites-jekyll-docker/). And, once you've nailed that approach, try going for [PageSpeed 100 with S3 and CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/).
+**Update 2016-11-22**: You can find the open source Octopress version of this blog circa 2015 [open sourced GitHub](https://github.com/jhabdas/jhabdas.github.io). Once you're ready to move on from GitHub try [hosting Jekyll on DigitalOcean using Docker](/simple-websites-jekyll-docker/). And, once you've nailed that approach, try going for [PageSpeed 100 with S3 and CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/).
 {: .notice--info}
 
 <!--more-->
