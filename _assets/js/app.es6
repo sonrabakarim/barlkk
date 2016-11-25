@@ -1,5 +1,10 @@
 function run() {
 
+  // Black Friday
+  const bf = document.querySelector('#blackfriday')
+  const hc = document.querySelector('a[target=_blank]')
+  hc.addEventListener('mouseenter', () => bf.parentNode ? bf.parentNode.removeChild(bf) : null)
+
   // AnchorJS init
   anchors.options = {
     visible: 'touch',
