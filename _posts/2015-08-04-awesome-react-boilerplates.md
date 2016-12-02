@@ -5,7 +5,7 @@ date: 2015-08-04T15:08:31-05:00
 modified: 2016-11-19
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
-tags: [react, react native, native, programming, web platform]
+tags: [react, react native, starter kit, boilerplate, pluralsight]
 header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5
@@ -22,7 +22,7 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 
 # React
 
-Application boilerplates for creating React apps. And wow are there're a lot of good ones to choose from.
+Application boilerplates for creating React apps, many of which contain their own starter kit tutorials. And wow are there're a lot of good ones to choose from.
 
 **[react-production-starter](https://github.com/jaredpalmer/react-production-starter)** --- **Editor's choice**
 <br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Sports [feature-first organization](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9), JS standard for simplified linting, built-in example site with collection and item views, sample navigation both internally and sample unit tests. Integrates easily with [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) and [Material UI](http://www.material-ui.com/). Functional stateless (pure) components. HMR that works! Also includes a `Dockerfile` to get the app up and running in a flash. Yowza!
