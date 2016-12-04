@@ -16,7 +16,7 @@ feature_row1:
     alt: "Chicago Gang History Website"
     title: "Chicago Gang History"
     excerpt: >
-      Reskinned and ported a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Created in 6 days.
+      Reskinned and ported a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Created in 6 days. No joke.
       <br><br>
       <small>AWS / Jekyll / AdSense / TypeForm / TinyLetter </small>
     url: "https://chicagoganghistory.com"
