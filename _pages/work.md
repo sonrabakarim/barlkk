@@ -27,7 +27,7 @@ feature_row1:
     alt: "Lumpen Radio app screenshot"
     title: "Lumpen Radio App"
     excerpt: >
-      iOS app I built using React Native. Selected for the <a href="https://facebook.github.io/react-native/showcase.html" target="_blank">React Native Showcase</a>. Includes webcast covering app construction.
+      iOS app built using React Native. One of the first in the App Store. Selected for the <a href="https://facebook.github.io/react-native/showcase.html" target="_blank">React Native Showcase</a>. Includes webcast covering app construction.
       <br><br>
       [![Download it on the App Store.](/images/download-on-app-store-badge.svg)](http://appsto.re/us/NdeV7.i)<br><br>
       <small>React Native / Babel / Webpack / Xcode</small>
@@ -39,7 +39,7 @@ feature_row1:
     alt: "After Dark screenshot"
     title: "After Dark"
     excerpt: >
-      A retro dark theme for the Hugo static site generator.
+      A retro dark theme for the Hugo static site generator, easing nighttime reading while achieving PageSpeed 100 straight out of the box.
       <br><br>
       <small>Golang / HTML5 / CSS3 / Hugo Static Site Generator</small>
     url: "https://github.com/comfusion/after-dark/"
