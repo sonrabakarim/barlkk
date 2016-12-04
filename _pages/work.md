@@ -12,15 +12,15 @@ feature_row1_overview:
   - excerpt: "_To view the source code of a project click **View Source**._"
 feature_row1:
   -
-    image_path: react-native-webpack-starter-kit.jpeg
-    alt: "React Native Webpack Starter Kit logo"
-    title: "React Native Webpack Starter Kit"
+    image_path: chicago-gang-history-at-launch.png
+    alt: "Chicago Gang History Website"
+    title: "Chicago Gang History"
     excerpt: >
-      iOS and Android development toolkit I created for building native apps using JavaScript.
+      Reskinned and ported a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Created in 6 days.
       <br><br>
-      <small>React Native / Babel / Webpack / Travis-CI</small>
-    url: "https://github.com/jhabdas/react-native-webpack-starter-kit"
-    btn_label: "View Source"
+      <small>AWS / Jekyll / AdSense / TypeForm / TinyLetter </small>
+    url: "https://chicagoganghistory.com"
+    btn_label: "Visit Website"
     btn_class: "btn--inverse"
   -
     image_path: lumpen-radio-ios-framed-cropped.png
@@ -58,15 +58,18 @@ feature_row2:
     btn_label: "View Source"
     btn_class: "btn--inverse"
   -
-    title: "Xanthippe"
+    image_path: react-native-webpack-starter-kit.jpeg
+    alt: "React Native Webpack Starter Kit logo"
+    title: "React Native Webpack Starter Kit"
     excerpt: >
-      Chat parsing library using ES6, JSPM and Travis-CI. Runs entirely in the browser using SystemJS with CORS disabled.
+      iOS and Android development toolkit I created for building native apps using JavaScript.
       <br><br>
-      <small>JSPM / SystemJS / Fetch API</small>
-    url: "https://github.com/jhabdas/xanthippe"
+      <small>React Native / Babel / Webpack / Travis-CI</small>
+    url: "https://github.com/jhabdas/react-native-webpack-starter-kit"
     btn_label: "View Source"
     btn_class: "btn--inverse"
-  - image_path: hopstop.png
+  -
+    image_path: hopstop.png
     alt: "Hopstop application screenshot"
     title: "Hopstop"
     excerpt: >
