@@ -60,17 +60,6 @@ feature_row2:
     btn_label: "View Documentation"
     btn_class: "btn--inverse"
   -
-    image_path: lumpen-radio-web-schedule-framed.png
-    alt: "Lumpen Radio Web screenshot"
-    title: "Lumpen Radio Web 2.0"
-    excerpt: >
-      SEO-friendly and [seriously fast](https://speakerdeck.com/jhabdas/isomorphic-rendering-with-react?slide=13) React application for the Web. Features data-driven programming schedule, show listings, news feed, event schedule and blog. Pages load in less than half a second.
-      <br><br>
-      <small>React / Flux / Babel / Webpack / Firebase</small>
-    url: "https://github.com/jhabdas/lumpenradio-com"
-    btn_label: "View Source"
-    btn_class: "btn--inverse"
-  -
     image_path: react-native-webpack-starter-kit.jpeg
     alt: "React Native Webpack Starter Kit logo"
     title: "React Native Webpack Starter Kit"
@@ -79,6 +68,17 @@ feature_row2:
       <br><br>
       <small>React Native / Babel / Webpack / Travis-CI</small>
     url: "https://github.com/jhabdas/react-native-webpack-starter-kit"
+    btn_label: "View Source"
+    btn_class: "btn--inverse"
+  -
+    image_path: lumpen-radio-web-schedule-framed.png
+    alt: "Lumpen Radio Web screenshot"
+    title: "Lumpen Radio Web 2.0"
+    excerpt: >
+      SEO-friendly and [seriously fast](https://speakerdeck.com/jhabdas/isomorphic-rendering-with-react?slide=13) React application for the Web. Features data-driven programming schedule, show listings, news feed, event schedule and blog. Pages load in less than half a second.
+      <br><br>
+      <small>React / Flux / Babel / Webpack / Firebase</small>
+    url: "https://github.com/jhabdas/lumpenradio-com"
     btn_label: "View Source"
     btn_class: "btn--inverse"
 feature_row3:
