@@ -64,7 +64,7 @@ feature_row2:
     alt: "React Native Webpack Starter Kit logo"
     title: "React Native Webpack Starter Kit"
     excerpt: >
-      iOS and Android development toolkit I created for building native apps using JavaScript.
+      iOS and Android development toolkit I created for building native apps using JavaScript. Has earned **more than 790 stars on GitHub** and has helped shape the way React Native apps are built today.
       <br><br>
       <small>React Native / Babel / Webpack / Travis-CI</small>
     url: "https://github.com/jhabdas/react-native-webpack-starter-kit"
@@ -87,7 +87,7 @@ feature_row3:
     alt: "Hopstop application screenshot"
     title: "Hopstop"
     excerpt: >
-      A beer-first mobile search app for the Web. Allows quick retrieval of beer info using the Untappd API.
+      A beer-first mobile search app for the Web. Allows quick retrieval of beer info (Style, ABV, Brewery) using the Untappd API. Created in a weekend to help save time questioning cicerones.
       <br><br>
       <small>Hapi / Chaplin / Brunch / Untappd API</small>
     url: "https://github.com/jhabdas/hopstop"
