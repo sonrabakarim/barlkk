@@ -3,13 +3,13 @@ title: Work
 permalink: /work/
 modified: 2016-05-27
 layout: splash
-excerpt: "Assorted good things."
+excerpt: "Featured open and closed source projects from the past and present."
 header:
   overlay_image: pourover-unsplash_1280.jpeg
   overlay_filter: 0.5
   caption: "Photo credit: [*@kfred*](https://unsplash.com/@kfred)"
-feature_row1_overview:
-  - excerpt: "An assortment of recent and notable projects I've created."
+#feature_row1_overview:
+#  - excerpt: "Featured open and closed source projects from the past and present."
 feature_row1:
   -
     image_path: chicago-gang-history-at-launch.png
