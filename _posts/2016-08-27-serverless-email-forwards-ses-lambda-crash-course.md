@@ -1,6 +1,7 @@
 ---
 title: Serverless Email Forwards with SES and Lambda
 date: 2016-08-27T15:12:33-05:00
+modified: 2016-12-05
 author: Josh Habdas
 excerpt: A crash course in Serverless with AWS Lambda.
 categories:
@@ -20,15 +21,13 @@ header:
 
 Recently this website underwent a major overhaul. I took it off my [simple Docker set-up](/simple-websites-jekyll-docker/) and [moved it to S3 with CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/). The process of which enabled me to reduce hosting costs by 80% all while increasing reach and decreasing page load times globally.
 
-But static websites have a perceived disadvantage: they're static. They have no inherent dynamic functionality. So what are you going to do when you want to add some piece of interactivity like a contact form, or an email distribution list? Sure you could take the blue pill and go with Formspree or MailChimp. But you're an engineer. I just want to say one word to you. Just one word. Serverless.
+But static websites have a perceived disadvantage: they're static. They have no inherent dynamic functionality. What will you do when you want to add some piece of interactivity---a contact form, or an email distribution list? Sure you could go with TypeForm or TinyLetter. But <abbr title="Function as a Service">FaaS</abbr> (a.k.a. Serverless) is a thing and [will continue to be a thing](https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0) for years to come.
 
-> I just want to say one word to you. Just one word. Serverless.
-
-To understand the benefits of a serverless architecture look at the following illustration:
+To quickly grok the benefits of a "serverless" architecture, look at the following illustration:
 
 <script async class="speakerdeck-embed" data-slide="13" data-id="478787189d06467b8ea4c4ecd4a4fbf6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-What the illustration shows is that using virtual machines, often hosted on public and private clouds using technologies like [EC2](https://aws.amazon.com/ec2/), [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) or [DigitalOcean](https://m.do.co/c/9d5c1c681fd0) is downright wasteful. Not only are VMs difficult to manage, they're harder to scale and flat out cost more money.
+What the illustration shows is that using virtual machines, often hosted on public and private clouds using technologies like [EC2](https://aws.amazon.com/ec2/), [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/) or [DigitalOcean](https://m.do.co/c/9d5c1c681fd0) is downright wasteful. Not only are VMs difficult to manage from a DevOps perspective, they're harder to scale and flat out cost more money.
 
 Going serverless helps fix the wastefulness by skipping the VM management, only paying for the compute resources used and simplifies making things scale. And, consequently, serverless architectures plug-in very well with static websites by allowing them to layer on dynamic functionality without forcing a platform change.
 
