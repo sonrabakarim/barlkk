@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-12-01
+modified: 2016-12-07
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [es6, react, react native, starter kit, boilerplate, pluralsight]
@@ -77,6 +77,9 @@ Application boilerplates for creating React Native applications. If you're just 
 
 **[pepperoni](http://getpepperoni.com/)**
 <br>A well-constructed open source starter for React Native iOS and Android projects jam packed with lots of tasty ingredients, inspired by Snowflake. Uses ImmutableJS like Snowflake, Redux and leverages the semi-official [NavigationExperimental](https://facebook.github.io/react-native/docs/navigation.html#navigationexperimental) for routing. Also includes a bash script to help rename your application after your clone, fork or mirror.
+
+**Update 2016-12-07**: Tab bar icons [now supported](https://github.com/futurice/pepperoni-app-kit/issues/40#issuecomment-265529553)!
+{: .notice--info}
 
 **[snowflake](https://github.com/bartonhammond/snowflake)**
 <br>A React Native starter kit for iOS and Android given to us by the affable [Barton Hammond](https://github.com/bartonhammond). Includes all sorts of goodies, including Redux, Jest, Istanbul, Parse integration (planned to be replaced with [Serverless](serverless.com)) and more. Includes video tutorials for set-up with Bitrise and more. Uses [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) for routing.
