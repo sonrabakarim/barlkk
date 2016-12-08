@@ -37,9 +37,6 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 **[Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React)**
 <br>I had the pleasure of working with [Levi Thomason](https://github.com/levithomason) on this project when it was still called Stardust. Like Material UI, Semantic UI is a great way to get a project to MVP without a designer. It's now the official React port of Semantic UI and sure to continue gaining traction as time goes on. It's also jQuery-free and fully unit tested.
 
-**[React Native Web](https://github.com/necolas/react-native-web)**
-<br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
-
 **[React Waypoint](https://github.com/brigade/react-waypoint)**
 <br>Based on the ever-so-useful [Waypoints](http://imakewebthings.com/waypoints/) library, leverage this component to trigger animations or capture events as users ogle their way down your pages.
 
@@ -47,8 +44,11 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
+**[React Native Web](https://github.com/necolas/react-native-web)**
+<br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
+
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
-<br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a number of components, provides an opinionated way to theme an app and also provides a declarative way to perofrm common animations and parallax.
+<br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a few components, provides an opinionated way to theme apps and perform common animations (e.g. parallax). Pretty slick.
 
 **[React Native Elements](https://github.com/react-native-community/React-Native-Elements)**
 <br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
@@ -70,3 +70,10 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Maps](https://github.com/airbnb/react-native-maps)**
 <br>From the homies at Airbnb, do map stuff with React Native. The RN core team has [planned](https://github.com/facebook/react-native/wiki/Roadmap#stability) to remove their MapView (yeah, who knew?) in favor of this bad shooting star.
+
+# Universal
+
+To be considered "Universal" for the purposes of this list components must not only be awesome, they must leverage the same codebase for both React and React Native and work on Android, iOS and Web.
+
+**[Carbon UI](https://carbon-ui.com/)**
+<br>Piggybacking on **React Native Web** Carbon UI is a <abbr title="Material UI">MUI</abbr> clone [being released](https://github.com/callemall/material-ui/issues/593#issuecomment-265753123) just in time for the 2016 holidays. That's arguably a better gift than [a years' worth of 24 Ways](https://24ways.org/). Giggity.
