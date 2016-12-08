@@ -37,6 +37,9 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 **[Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React)**
 <br>I had the pleasure of working with [Levi Thomason](https://github.com/levithomason) on this project when it was still called Stardust. Like Material UI, Semantic UI is a great way to get a project to MVP without a designer. It's now the official React port of Semantic UI and sure to continue gaining traction as time goes on. It's also jQuery-free and fully unit tested.
 
+**[ANT DESIGN](https://github.com/ant-design/ant-design/)**
+<br>A fresh take on a lot a React component library. Doesn't try to mimic any existing component library. It's obvious even the smaller design details were carefully considered while putting together ANT DESIGN.
+
 **[React Waypoint](https://github.com/brigade/react-waypoint)**
 <br>Based on the ever-so-useful [Waypoints](http://imakewebthings.com/waypoints/) library, leverage this component to trigger animations or capture events as users ogle their way down your pages.
 
