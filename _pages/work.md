@@ -89,7 +89,7 @@ feature_row3:
     excerpt: >
       A beer-first mobile search app for the Web. Allows quick retrieval of beer info (Style, ABV, Brewery) using the Untappd API. Created in a weekend to help save time questioning cicerones.
       <br><br>
-      <small>Hapi / Chaplin / Brunch / Untappd API</small>
+      <small>Hapi / Chaplin / Brunch / Bloodhound / Untappd API</small>
     url: "https://github.com/jhabdas/hopstop"
     btn_label: "View Source"
     btn_class: "btn--inverse"
