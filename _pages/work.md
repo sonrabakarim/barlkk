@@ -64,9 +64,9 @@ feature_row2:
     alt: "React Native Webpack Starter Kit logo"
     title: "React Native Webpack Starter Kit"
     excerpt: >
-      iOS and Android development toolkit I created for building native apps using JavaScript. Has earned **more than 790 stars on GitHub** and has helped shape the way React Native apps are built today.
+      iOS and Android development toolkit I created for building native apps with JavaScript. The kit has earned **over 800 stars on GitHub** and has helped shape the way React Native apps are built today.
       <br><br>
-      <small>React Native / Babel / Webpack / Travis-CI</small>
+      <small>React Native / Babel / Webpack / Travis-CI / GreenKeeper</small>
     url: "https://github.com/jhabdas/react-native-webpack-starter-kit"
     btn_label: "View Source"
     btn_class: "btn--inverse"
