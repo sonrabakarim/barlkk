@@ -54,8 +54,8 @@ analytics:
     write_key            : YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
 
 # Google AdSense
-google_ad_client         :
-google_ad_slot           :
+google_ad_client         : ca-pub-0082825360919078
+google_ad_slot           : 5217752381 # habd.as - Main Config Ad Slot
 
 
 # Site Author
