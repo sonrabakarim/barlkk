@@ -25,11 +25,11 @@ First off, identifying issues with site search indexability doesn't require an S
 
 ### Fetch as Google
 
-From Google Search Console run&nbsp;[Fetch as Google](https://www.google.com/webmasters/tools/googlebot-fetch) tool against a verified site and choose the&nbsp;*Fetch and Render*&nbsp;option. This will cause Googlebot to crawl the specified page and show you what it sees. Once finished, if you see a blank or partially rendered page your app website may be invisible to Google.
+From Google Search Console run [Fetch as Google](https://www.google.com/webmasters/tools/googlebot-fetch) tool against a verified site and choose the *Fetch and Render* option. This will cause Googlebot to crawl the specified page and show you what it sees. Once finished, if you see a blank or partially rendered page your app website may be invisible to Google.
 
 ### Browse with Elinks
 
-Another telltale sign your site is experiencing SEO issues is to simply browse it with [ELinks](http://elinks.or.cz/) or [LYNX](http://lynx.browser.org/). These browsers tend to block automatic cookies and shun JavaScript downloads. If your site **is SEO-friendly** like the *React Production Starter* featured on [Awesome React Boilerplates](/awesome-react-boilerplates/)&nbsp;you should see something like this:
+Another telltale sign your site is experiencing SEO issues is to simply browse it with [ELinks](http://elinks.or.cz/) or [LYNX](http://lynx.browser.org/). These browsers tend to block automatic cookies and shun JavaScript downloads. If your site **is SEO-friendly** like the *React Production Starter* featured on [Awesome React Boilerplates](/awesome-react-boilerplates/) you should see something like this:
 
 ![LYNX browser showing Isomorphic React App](/uploads/versions/lynx-12roads---x----1684-1132x---.png)
 
@@ -49,4 +49,4 @@ I know, I know. Google and Bing both crawl Ajax pages. I've used this rationaliz
 
 ## Addressing the Problem
 
-Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please&nbsp;[contact me to schedule a free consultation](/contact/).
+Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please [contact me to schedule a free consultation](/contact/).
