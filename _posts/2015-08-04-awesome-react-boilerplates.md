@@ -54,7 +54,7 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 <br>React Slingshot is a comprehensive starter kit for rapid application development using React. Includes React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in.
 
 **[Este](https://github.com/este/este)**
-<br>A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is not as SEO friendly as React Starter Kit.
+<br>A React/Flux dev stack and starter kit for [Universal JavaScript apps](https://medium.com/@mjackson/universal-javascript-4761051b7ae9). Renders pages <abbr title="Single Page App">SPA</abbr> style (using `script` tags) and, therefore, is [not as SEO friendly](/telltale-signs-your-react-app-isnt-seo-friendly/) as isomorphic boilerplates.
 
 **[re-base](https://github.com/tylermcginnis/re-base)**
 <br>Inspired by Relay, combines the benefits of React and Firebase by allowing each component to specify its own data dependency. Forget about your data persistence and focus on what really matters, your application's state.
