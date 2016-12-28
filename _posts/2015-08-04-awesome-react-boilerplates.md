@@ -17,7 +17,7 @@ Not interested in reinventing the wheel? Neither am I. Here's a short list of aw
 
 Already settled on a boilerplate? Check out the list of [Awesome React Components](/awesome-react-components) and start building without all the experimentation and research.
 
-Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the [`nofollow`][^2] removed.
+Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow`[^2] removed.
 {: .notice--info }
 
 # React
