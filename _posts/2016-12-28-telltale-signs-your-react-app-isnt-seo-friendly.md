@@ -50,4 +50,4 @@ I know, I know. Google and Bing both crawl Ajax pages. I've used this rationaliz
 
 ## Addressing the Problem
 
-Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please [contact me to schedule a free consultation](/contact/).
+Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please [contact me to schedule a free 15-minute consultation](/contact/).
