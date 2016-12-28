@@ -16,7 +16,7 @@ tags:
 ---
 Following is a  list of cross-browser/platform web development and debugging tools useful for client-side developers. Depending on the application, one or all of these tools can be valuable in completing work on a website front-end.
 
-**Note:** This information was originally compiled in 2009. While not all of it is still relevant some of it may still be useful. Proceed with caution until I have a chance to reboot this list.
+**Note 2016-09-16:** This information was originally compiled in 2009. While not all of it is still relevant some of it may still be useful. Proceed with caution until I have a chance to reboot this list. You may also be interested in my list of [Awesome React Boilerplates](/awesome-react-boilerplates).
 {: .notice--info}
 
 <!--more-->
