@@ -17,7 +17,7 @@ header:
 
 As you may or may not be aware NPM and React have caused a Cambrian explosion in the number of [Awesome React Boilerplates](/awesome-react-boilerplates/). But did you know many of those boilerplates and the web apps that build upon them aren't at all SEO friendly, and possibly even [invisible to Google](https://github.com/davezuko/react-redux-starter-kit/issues/819)? Sites experiencing SEO issues are more likely to be buried deeper in Search results and unlikely to see the Organic visitors they'd otherwise enjoy sans marketing efforts.
 
-In this post we'll explore some of the telltale signs your React app isn't SEO friendly. Don't hold your breath.
+In this post we'll explore some of the telltale signs your React app isn't SEO friendly.
 
 ## Identify SEO Issues
 
