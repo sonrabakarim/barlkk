@@ -42,6 +42,7 @@ From within the Panache directory, install the application dependencies detailed
     npm install && bower install
 
 **Tip:** Windows users should use the `--no-bin-links` flag for the NPM command when using Vagrant with synced folders enabled to avoid the creation of symlinks (not supported by the NTFS filesystem).
+{: .notice--info }
 
 Then install [Jake][2] globally to allow use of the application's task library:
 

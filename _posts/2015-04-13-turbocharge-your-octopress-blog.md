@@ -41,6 +41,7 @@ npm install -g uglifyjs
 Once the Rake tasks are functional you’ll be able to remove a few of the `script` tags from `source/_includes/head.html` as well as any *asides* or *plug-ins* making external script requests.
 
 **ProTip:** Use the `async` attribute on the `script` tag that loads `all.js` (move it to `head.html`) to mitigate script blocking and receive an instant bump in your [PageSpeed score](https://developers.google.com/speed/pagespeed/insights/).
+{: .notice--info }
 
 Now that we’ve combined JS files and squeezed down their size we’re ready to move on to the CSS. Bravo.
 
