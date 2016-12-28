@@ -37,7 +37,7 @@ Otherwise your React site will take the form of a black hole as shown on slide 6
 
 ### Disable JavaScript
 
-Yet another way for testing for SEO issues in your React app is to disable JavaScript in the browser. To do so simply navigate to the page you'd like to test and disable JavaScript. If the page doesn't load at all with JavaScript disabled you're site's SEO likely needs some fixing-up.
+Yet another way for testing for SEO issues in your React app is to disable JavaScript in the browser. To do so simply navigate to the page you'd like to test and disable JavaScript. If the page doesn't load at all with JavaScript disabled your site's SEO likely needs some fixing-up.
 
 **Tip:** If you're using Chrome you can disable JavaScript for a single browser tab from the Settings pane in [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/). Thanks to my friend Anton, creator of [Artsembler](https://artsembler.com/), for the reminder!
 {: .notice--info }
