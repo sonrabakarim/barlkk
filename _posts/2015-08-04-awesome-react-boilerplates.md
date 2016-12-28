@@ -17,7 +17,7 @@ Not interested in reinventing the wheel? Neither am I. Here's a short list of aw
 
 Already settled on a boilerplate? Check out the list of [Awesome React Components](/awesome-react-components) and start building without all the experimentation and research.
 
-Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the `nofollow` removed.
+Contributions via comments welcome. The best React and React Native Boilerplates will be moved into the article body and the [`nofollow`][^2] removed.
 {: .notice--info }
 
 # React
@@ -91,3 +91,5 @@ Application boilerplates for creating React Native applications. If you're just 
 <br>Boilerplate I extracted from building the [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) app early in the RN lifecycle, enabling RN development using bundles dynamically generated with Webpack.
 
 [^1]: "The Stream" is a kind of slot machine used to [hijack your mind](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3).
+
+[^2]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
