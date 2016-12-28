@@ -9,9 +9,9 @@ tags:
   - react
   - SEO
 header:
-  overlay_image: photo-1464498939806-94a4611c3c74_1280.jpg
+  overlay_image: /images/vgoiy1gzzyg-atlas-green.jpg
   overlay_filter: 0.5
-  teaser: photo-1464498939806-94a4611c3c74_512.jpg
+  teaser: Is Your React App Invisible to Google?
 ---
 
 
@@ -47,6 +47,6 @@ Almost. And I'm not talking about the [stellar Robert Redford film](http://lette
 
 I know, I know. Google and Bing both crawl Ajax pages. I've used this rationalization myself in the past when my websites weren't SEO friendly. But did you know, when crawlers Ajax crawl, they do so at a slower rate? Yup, that means your site may still be crawled but never at full speed. And did you know there are thousands of less sophisticated crawlers out there that can no longer see your site at all? Maybe that's what you want so you can't be scraped, but what if you want to be scraped to game the Search engines using a smart keyword tool? That would be a bad day indeed for any content publisher on the Web.
 
-## Fixing the Problem
+## Addressing the Problem
 
-Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please feel free to [contact me for a free consultation](/contact/).
+Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please&nbsp;[contact me to schedule a free consultation](/contact/).
