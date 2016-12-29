@@ -9,7 +9,7 @@ tags:
   - react
   - SEO
 header:
-  overlay_image: vgoiy1gzzyg-atlas-green.jpg
+  overlay_image: vgoiy1gzzyg-atlas-green_1280.jpg
   overlay_filter: 0.5
   teaser: Is Your React App Invisible to Google?
 ---
