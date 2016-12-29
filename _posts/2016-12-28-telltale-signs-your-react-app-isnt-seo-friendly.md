@@ -42,12 +42,10 @@ Yet another way for testing for SEO issues in your React app is to disable JavaS
 **Tip:** If you're using Chrome you can disable JavaScript for a single browser tab from the Settings pane in [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/). Thanks to my friend Anton, creator of [Artsembler](https://artsembler.com/), for the reminder!
 {: .notice--info }
 
-## All Is Lost
+## All Is Not Lost
 
-Almost. And I'm not talking about the [stellar Robert Redford film](http://letterboxd.com/film/all-is-lost/). I mean once you start building React apps without SEO friendliness from the start **it's almost impossible to go back** without starting from scratch.
+Google and Bing both crawl Ajax pages. But when they crawl Ajax pages, they have to spend more time doing it, meaning your site will not be crawled as quickly. And that's pretty much where it ends. There are thousands of other crawlers out there which will not be able to access your site any longer, and that's not necessarily a good thing for your site or the Web.
 
-I know, I know. Google and Bing both crawl Ajax pages. I've used this rationalization myself in the past when my websites weren't SEO friendly. But did you know, when crawlers Ajax crawl, they do so at a slower rate? Yup, that means your site may still be crawled but never at full speed. And did you know there are thousands of less sophisticated crawlers out there that can no longer see your site at all? Maybe that's what you want so you can't be scraped, but what if you want to be scraped to game the Search engines using a smart keyword tool? That would be a bad day indeed for any content publisher on the Web.
+Once you start building React apps without SEO friendliness it's **almost impossible** to go back without some extensive overhauling or creative workarounds.
 
-## Addressing the Problem
-
-Assuming you're reading this you're probably already sweating your SEO. If you'd like to discover your options to fix SEO issues with your React site please [contact me to schedule a free 15-minute consultation](/contact/).
+If you'd like to understand your situation and options to address SEO issues with your React site or app please [contact me](/contact/) to schedule time to talk.
