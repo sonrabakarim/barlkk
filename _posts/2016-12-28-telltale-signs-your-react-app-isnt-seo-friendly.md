@@ -11,7 +11,7 @@ tags:
 header:
   overlay_image: vgoiy1gzzyg-atlas-green_1280.jpg
   overlay_filter: 0.5
-  teaser: Is Your React App Invisible to Google?
+  teaser: vgoiy1gzzyg-atlas-green_512.jpg
 ---
 
 
