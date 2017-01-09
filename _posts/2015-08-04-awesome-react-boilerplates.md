@@ -32,6 +32,9 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
 <br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. That's wild!
 
+**[ARc](https://github.com/diegohaz/arc)**
+<br>One of the common things I hear from individuals getting started with React is that the ecosystem is so complicated it's difficult to take everything in. That's why I'm please to see Diego Haz's ARc (Atomic React) project, which uses a _progressive_ design methodology intended to help individuals start small and work their way forward by incorporating new features one by one. Great job Diego!
+
 **[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
 <br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
 
@@ -61,9 +64,6 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 
 **[electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)**
 <br>Electron application boilerplate based on react, react-router, webpack, react-hot-loader for rapid application development
-
-**[relay-starter-kit](https://github.com/relayjs/relay-starter-kit)**
-<br>Barebones starting point for a Relay application. [Uses](https://github.com/relayjs/relay-starter-kit/blob/37f1d13613db732b2d924a55cecf89c255ce0f40/package.json#L14) the Babel Relay Plug-in and [linked to](https://facebook.github.io/relay/docs/guides-babel-plugin.html#content) from the official Relay documentation so it's likely to gain traction as a starting point for new apps.
 
 **[jspm-react](https://github.com/tinkertrain/jspm-react)**
 <br>Configured starter repo to build web apps with React and ES6 modules using JSPM. Not actively maintained, though the author is still accepting pull requests.
