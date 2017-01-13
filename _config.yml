@@ -25,10 +25,10 @@ comments:
 version: 3.0.3
 
 # SEO Related
-google_site_verification : B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
-bing_site_verification   : DBC165D1E8CE148BED6D48D4F31A3831
-alexa_site_verification  : # Claim a site feature retired May 2016
-yandex_site_verification : 4006a8813cbb9fdb
+site_verification:
+  google: B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
+  bing: DBC165D1E8CE148BED6D48D4F31A3831
+  yandex: 4006a8813cbb9fdb
 
 # Social Sharing
 twitter:
