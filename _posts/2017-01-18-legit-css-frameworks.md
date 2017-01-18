@@ -71,6 +71,6 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
 
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
-<br>Some CSS classes to move your DOM! Drop it in, add some classes and try your best to determine if the page is shaking or you've just had too much coffee.
+<br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
 
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
