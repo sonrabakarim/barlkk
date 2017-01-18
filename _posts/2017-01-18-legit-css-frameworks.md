@@ -60,7 +60,7 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 <br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
 
 **[Basscss](http://basscss.com/)**
-<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is compoxable and supports a number of community-supported add-ons.
+<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
 
 **[Ratchet](http://goratchet.com/)**
 <br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It comes with themes for iOS and Android, and is easy to use. I've used Ratchet to prototype a simple mobile app using [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/) didn't have any problems. Sadly this framework looks to be falling behind on maintenance, but serves as a good reference for starting your own mobile CSS framework.
