@@ -63,7 +63,7 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 <br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
 
 **[Ratchet](http://goratchet.com/)**
-<br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It comes with themes for iOS and Android, and is easy to use. I've used Ratchet to prototype a simple mobile app using [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/) didn't have any problems. Sadly this framework looks to be falling behind on maintenance, but serves as a good reference for starting your own mobile CSS framework.
+<br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It's dog ugly by today's standards, and not very well maintained, still useful for studying nonetheless. Its docs come with a nifty mobile phone preview tool akin to the React Playground. To see an example app I've built using Ratchet checkout my talk on [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/).
 
 ## Animation CSS frameworks
 
