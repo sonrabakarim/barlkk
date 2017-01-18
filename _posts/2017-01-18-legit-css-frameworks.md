@@ -53,4 +53,7 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 **[hack.css](http://hackcss.com/)**
 <br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
 
+**[Ratchet](http://goratchet.com/)**
+<br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It comes with themes for iOS and Android, and is easy to use. I've used Ratchet to prototype a simple mobile app using [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/) didn't have any problems. Sadly this framework looks to be falling behind on maintenance, but serves as a good reference for starting your own mobile CSS framework.
+
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
