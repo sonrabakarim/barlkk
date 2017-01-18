@@ -22,7 +22,7 @@ Contributions via comments welcome. Legit CSS Frameworks will be moved into the 
 These CSS frameworks pretty much have it all, and then some.
 
 **[Foundation](http://foundation.zurb.com/)**
-<br>Created and managed by Zurb, I've been tracking Foundation for several years and used it to build [ChicagoGangHistory.com](http://chicagoganghistory.com), which receives 75% of its traffic from mobile. Foundation makes it easy to build professional mobile-first and fully responsive websites. Unlike other open source CSS frameworks, Foundation is constantly being upgraded.
+<br>Created and managed by Zurb, I've been tracking Foundation for several years and used it to build [ChicagoGangHistory.com](http://chicagoganghistory.com), which receives 75% of its traffic from mobile. Foundation makes it easy to build professional mobile-first and fully responsive websites.
 
 It can be downloaded in several different varieties, including prepackaged builds as well as more customizable and extendable versions as well. In addition to powering hundreds of well-known websites, there's a version to [build responsive email templates](http://foundation.zurb.com/emails.html) as well.
 
