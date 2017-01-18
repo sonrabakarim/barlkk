@@ -67,6 +67,8 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 
 ## Animation CSS frameworks
 
+Frameworks and libraries to help you move DOM elements.
+
 **[Sequence.js](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
 
