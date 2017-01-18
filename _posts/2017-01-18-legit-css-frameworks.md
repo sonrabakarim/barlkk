@@ -42,7 +42,7 @@ Like Foundation, Bootstrap features a [web-based customizer](http://getbootstrap
 
 ## Micro frameworks
 
-Teeny-tiny frameworks for when you just need to get <s>shit</s> stuff done.
+Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 
 **[Material Design Lite](https://getmdl.io)**
 <br>Does a lot of what Materialize can do, but _doesn't rely on JavaScript_ to function. A great place to start for those who want to apply Material Design concepts their [Hugo or Jekyll static websites](https://habd.as/choose-hugo-over-jekyll/). Unfortunately, like Bootstrap, Material design can be limiting in its ability to help you differentiate the look-and-feel of your site. But perhaps those are the training wheels you're looking for to prevent potential design snafus.
