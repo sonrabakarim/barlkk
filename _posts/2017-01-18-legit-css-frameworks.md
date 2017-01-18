@@ -47,13 +47,30 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 **[Material Design Lite](https://getmdl.io)**
 <br>Does a lot of what Materialize can do, but _doesn't rely on JavaScript_ to function. A great place to start for those who want to apply Material Design concepts their [Hugo or Jekyll static websites](https://habd.as/choose-hugo-over-jekyll/). Unfortunately, like Bootstrap, Material design can be limiting in its ability to help you differentiate the look-and-feel of your site. But perhaps those are the training wheels you're looking for to prevent potential design snafus.
 
+**[Primer](http://primercss.io/)**
+<br>The CSS toolkit and guidelines that power GitHub. Need I say more?
+
 **[Pure CSS](http://purecss.io/)**
 <br>Created by Yahoo, Pure CSS is a great addition to accomplish simple layout and styling tasks on a site without going all-in on a larger framework. Check out the docs to see what it can do.
 
 **[hack.css](http://hackcss.com/)**
 <br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
 
+**[Milligram](https://milligram.github.io/)**
+<br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
+
+**[Basscss](http://basscss.com/)**
+<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is compoxable and supports a number of community-supported add-ons.
+
 **[Ratchet](http://goratchet.com/)**
 <br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It comes with themes for iOS and Android, and is easy to use. I've used Ratchet to prototype a simple mobile app using [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/) didn't have any problems. Sadly this framework looks to be falling behind on maintenance, but serves as a good reference for starting your own mobile CSS framework.
+
+## Animation CSS frameworks
+
+**[Sequence.js](http://www.sequencejs.com/)**
+<br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
+
+**[CSShake](https://elrumordelaluz.github.io/csshake/)**
+<br>Some CSS classes to move your DOM! Drop it in, add some classes and try your best to determine if the page is shaking or you've just had too much coffee.
 
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
