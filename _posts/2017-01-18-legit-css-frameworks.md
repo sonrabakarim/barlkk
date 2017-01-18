@@ -73,4 +73,7 @@ Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
 <br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
 
+**[Animate.css](https://daneden.github.io/animate.css/)**
+<br>Just-add-water CSS animations. Handy for providing feedback to users, such as shaking a button when a form is invalid.
+
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
