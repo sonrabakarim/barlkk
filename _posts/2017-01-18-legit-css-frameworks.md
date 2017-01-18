@@ -12,7 +12,7 @@ header:
 ---
 {% include toc %}
 
-CSS frameworks are a dime a dozen and new ones are appearing all the time. You're smart enough not to build your own when there are so many great options already available and maintained by the open source community. Rather than listing everything out there I've selected only a handful of well-maintained CSS frameworks I'd recommend to others for building websites.
+CSS frameworks are a dime a dozen, and new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks I'd recommend to others.
 
 Contributions via comments welcome. Legit CSS Frameworks will be moved into the article body and the `nofollow`[^1] removed.
 {: .notice--info }
