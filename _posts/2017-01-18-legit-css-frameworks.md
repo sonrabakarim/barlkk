@@ -78,4 +78,4 @@ Frameworks and libraries to help you really move your users.
 **[Animate.css](https://daneden.github.io/animate.css/)**
 <br>Just-add-water CSS animations. Handy for providing feedback to users, such as shaking a button when a form is invalid.
 
-[^1]: `nofollow` links indicate the linked document is not endorsed by the author of this one, for example if it has no control over it, if it is a bad example or if there is commercial relationship between the two (sold link). This link type may be used by some search engines that use popularity ranking techniques.
+[^1]: `nofollow` links indicate the linked document is not endorsed by the author of the linking site. For example, if the author doesn't trust it, does not wish to pass authority, or if there is commercial relationship between the two, a link is more likely to be nofollowed. `nofollow` links play a role in the passage of authority and page rank in Search engine algorithms.
