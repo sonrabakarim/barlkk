@@ -14,7 +14,7 @@ header:
 
 CSS frameworks are a dime a dozen, and new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks I'd recommend to others.
 
-Contributions via comments welcome. Legit CSS Frameworks will be moved into the article body and the `nofollow`[^1] removed.
+Contributions via comments welcome. The best CSS Frameworks will be moved into the article body and the `nofollow`[^1] removed.
 {: .notice--info }
 
 ## Full-featured frameworks
