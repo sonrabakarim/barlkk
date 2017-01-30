@@ -79,7 +79,7 @@ If you click on a third party link, you will be directed to that third
 party's site. We strongly advise you to review the Privacy Policy of
 every site you visit.
 
-habd.as has no control over, and assumes no responsibility for, the
+Site has no control over, and assumes no responsibility for, the
 content, privacy policies, or practices of any third party sites or
 services.
 
