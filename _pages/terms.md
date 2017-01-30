@@ -86,7 +86,7 @@ services.
 ## License
 
 All original content (e.g. articles, blog posts, illustrations, artwork, and
-photographs) available on habd.as is released under a
+photographs) available on Site is released under a
 [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
 unless otherwise noted. Basically this means you are free to share, transmit,
 distribute, alter, transform, and build on my work just as long as you don't
