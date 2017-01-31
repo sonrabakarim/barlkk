@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2016-12-08
+modified: 2017-01-31
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, native, programming, web platform]
@@ -55,6 +55,9 @@ Awesome components (native modules) for building React Native apps. All of which
 
 **[React Native Elements](https://github.com/react-native-community/React-Native-Elements)**
 <br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
+
+**[React Native UI Kitten](https://akveo.github.io/react-native-ui-kitten/)**
+<br>Hold your jokes about the name, here's another UI framework for React Native. It's not necessarily awesome yet but I'm adding it here for tracking purposes as it's open source and could become awesome if enough people get behind it.
 
 **[CodePush](https://microsoft.github.io/code-push/)**
 <br>Somehow still the #2 result on Google for the term "CodePush", this component has been called "the most hipster thing" out of Microsoft in...quite some time. CodePush allows devs to make remote changes to installed apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to your back-end. Word to the weary, this is a single point of failure.
