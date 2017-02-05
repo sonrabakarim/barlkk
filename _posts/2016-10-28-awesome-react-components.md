@@ -4,7 +4,7 @@ date: 2016-10-28T22:23:08-05:00
 modified: 2017-01-31
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
-tags: [react, react native, native, programming, web platform]
+tags: [react, react native, universal apps, programming, web platform]
 header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5

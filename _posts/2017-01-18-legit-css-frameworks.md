@@ -2,6 +2,7 @@
 title: Legit CSS Frameworks
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
+modified: 2017-02-05
 excerpt: An evergreen list of free and open source CSS frameworks worthy of your time.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
@@ -26,6 +27,9 @@ These CSS frameworks pretty much have it all, and then some.
 
 It can be downloaded in several different varieties, including prepackaged builds as well as more customizable and extendable versions as well. In addition to powering hundreds of well-known websites, there's a version to [build responsive email templates](http://foundation.zurb.com/emails.html) as well.
 
+**Update 2017-02-05:** I'm starting to work with [@Phlow](https://github.com/Phlow/) and another contributor on GitHub to port his wonderful theme [Feeling Responsive](https://github.com/Phlow/feeling-responsive) from Foundation 5 to Foundation 6 and was astonished to learn not only does Foundation 6 support ARIA and RTL languages, it's also 50% smaller than Foundation 5. Wow!
+{: .notice--info}
+
 **[Bootstrap](http://getbootstrap.com/)**
 <br>This framework needs little introduction. Born out of Twitter, Bootstrap is one of the most well-known and widely deployed CSS frameworks out there. I used this at Sears to build out their new product detail pages back when Backbone was still being used to create <abbr="Single-Page Apps">SPAs</abbr>. After a few years with no new versions, the Bootstrap team seems to have gotten things together and is starting releasing updates on a more frequent cadence.
 
@@ -42,28 +46,34 @@ Like Foundation, Bootstrap features a [web-based customizer](http://getbootstrap
 
 ## Micro frameworks
 
-Teeny-tiny CSS frameworks for when you just need to get <s>shit</s> stuff done.
+Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s> schtuff done.
+
+**[Basscss](http://basscss.com/)**
+<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
+
+**[hack.css](http://hackcss.com/)**
+<br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
 
 **[Material Design Lite](https://getmdl.io)**
 <br>Does a lot of what Materialize can do, but _doesn't rely on JavaScript_ to function. A great place to start for those who want to apply Material Design concepts their [Hugo or Jekyll static websites](https://habd.as/choose-hugo-over-jekyll/). Unfortunately, like Bootstrap, Material design can be limiting in its ability to help you differentiate the look-and-feel of your site. But perhaps those are the training wheels you're looking for to prevent potential design snafus.
+
+**[mini.css](https://chalarangelo.github.io/mini.css/)**
+<br>As [the author points out](https://habd.as/legit-css-frameworks/#comment-3138394169) mini.css isn't exactly a full-featured framework, but it's not a micro framework either. Regardless, I took a look at the doc site and was surprised to see such comprehensive documentation and even quick reference guide with code snippets and links to functional Pens. mini lives up to its name with a pretty lightweight footprint -- clocking in at just 7kb compressed. That's awesome!
+
+**[Milligram](https://milligram.github.io/)**
+<br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
 
 **[Primer](http://primercss.io/)**
 <br>The CSS toolkit and guidelines that power GitHub. Need I say more?
 
 **[Pure CSS](http://purecss.io/)**
-<br>Created by Yahoo, Pure CSS is a great addition to accomplish simple layout and styling tasks on a site without going all-in on a larger framework. Check out the docs to see what it can do.
-
-**[hack.css](http://hackcss.com/)**
-<br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
-
-**[Milligram](https://milligram.github.io/)**
-<br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
-
-**[Basscss](http://basscss.com/)**
-<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
+<br>Created by Yahoo, Pure CSS can be added piecemeal to accomplish simple layout and styling tasks on a site without going all-in on the kitchen sink. Check out the docs to see what it can do.
 
 **[Ratchet](http://goratchet.com/)**
 <br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It's dog ugly by today's design standards, and not very well maintained, yet still useful for studying nonetheless. Its docs come with a nifty mobile preview tool so you can get a feel for the experience a user would get. To see an example app I've built using Ratchet checkout my talk on [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/).
+
+**[Spectre](https://picturepan2.github.io/spectre/)**
+<br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](https://habd.as/legit-css-frameworks/#comment-3106269595) for bringing it to my attention in the comment section below.
 
 ## Animation CSS frameworks
 
