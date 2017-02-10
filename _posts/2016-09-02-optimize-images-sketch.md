@@ -7,9 +7,10 @@ categories:
   - tutorials
 tags:
   - sketch
-  - performance
+  - webperf
   - optimization
   - tools
+  - design
 header:
     overlay_image: photo-1430760903787-4d91bbf15384_1280.jpg
     overlay_filter: 0.5

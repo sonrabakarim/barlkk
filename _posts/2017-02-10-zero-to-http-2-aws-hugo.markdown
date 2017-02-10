@@ -5,7 +5,7 @@ date: 2017-02-10T16:41:53+08:00
 modified: 2017-02-05
 excerpt: A step-by-step guide to building your own hacker blog.
 categories: [tutorials]
-tags: [aws, hugo, http2, performance, web, ssl, https]
+tags: [aws, hugo, http2, webperf, web, ssl, https]
 header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
   overlay_filter: 0.5

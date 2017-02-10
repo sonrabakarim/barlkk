@@ -6,8 +6,7 @@ categories:
   - reference
 tags:
   - mobile
-  - performance
-  - ui
+  - webperf
   - debugging
   - programming
 ---
