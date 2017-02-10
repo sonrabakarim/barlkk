@@ -16,7 +16,7 @@ Those who subscribe to [Node Weekly](http://nodeweekly.com/) may have seen a pos
 
 Ivan goes on to share code snippets for implementing HTTP/2 in several popular Node-based web servers, something JS developers---especially fans of [JSPM](http://jspm.io/)---might enjoy, but entirely unnecessary if you're using CloudFront, which [announced HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/) in September 2016, to serve static websites like those generated with Hugo.
 
-In this post you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.
+**In this post you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.**
 
 <aside class="notice--success">
   <h4>Why spend time doing this?</h4>
