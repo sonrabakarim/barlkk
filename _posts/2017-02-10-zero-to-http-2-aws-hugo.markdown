@@ -146,10 +146,10 @@ To enable HTTPS by default do:
 1. Under _Viewer Protocol Policy_ choose **Redirect HTTP to HTTPS**
 1. Scroll to the bottom of hte page and choose **Yes, Edit**.
 
-That's it. You're finished. This time for real.
-
 ## Appreciate your hard work
 
 Navigate to your website's custom domain name and ensure it is being served over HTTPS. Verify the HTTP to HTTPS redirection is working as expected by entering a URL starting with HTTP (it should 301 to HTTPS). And, finally, use [HTTP/2 Test Tool](https://tools.keycdn.com/http2-test) to verify HTTP/2 is functioning as expected.
 
-Huzzah! You've now gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories in the comments section below.
+**That's it. You're finished. This time for real.**
+
+You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories or battle cries in the comments section below.
