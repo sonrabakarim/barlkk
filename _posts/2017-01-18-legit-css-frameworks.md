@@ -51,6 +51,9 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 **[Basscss](http://basscss.com/)**
 <br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
 
+**[Bulma](http://bulma.io/)**
+<br>This one had completely escaped my radar until it [popped up in the comments](https://habd.as/legit-css-frameworks/#comment-3148163230) thanks to Victor Bastos. It's CSS only, and wow that's a damn sexy docs site. I cannot wait to give this one a spin!!!
+
 **[hack.css](http://hackcss.com/)**
 <br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
 
@@ -68,9 +71,6 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 
 **[Pure CSS](http://purecss.io/)**
 <br>Created by Yahoo, Pure CSS can be added piecemeal to accomplish simple layout and styling tasks on a site without going all-in on the kitchen sink. Check out the docs to see what it can do.
-
-**[Ratchet](http://goratchet.com/)**
-<br>Ratchet comes from the team that brought you Bootstrap, and provides design patterns for building mobile apps for the Web. It's dog ugly by today's design standards, and not very well maintained, yet still useful for studying nonetheless. Its docs come with a nifty mobile preview tool so you can get a feel for the experience a user would get. To see an example app I've built using Ratchet checkout my talk on [Typeahead with Bloodhound](/talks/typeahead-with-bloodhound/).
 
 **[Spectre](https://picturepan2.github.io/spectre/)**
 <br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](https://habd.as/legit-css-frameworks/#comment-3106269595) for bringing it to my attention in the comment section below.
