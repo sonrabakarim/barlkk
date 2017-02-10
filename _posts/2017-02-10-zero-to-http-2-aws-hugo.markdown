@@ -3,7 +3,7 @@ title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
 modified: 2017-02-05
-excerpt: How to take advantage of HTTP/2 on CloudFront without Let's Encrypt.
+excerpt: A step-by-step guide to building your own hacker blog.
 categories: [tutorials]
 tags: [aws, hugo, http2, performance, web, ssl, https]
 header:
