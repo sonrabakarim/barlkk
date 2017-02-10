@@ -20,10 +20,10 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <h4>Why spend time doing this?</h4>
   <p>Here are some carrots, assuming you even like vegetables:</p>
   <ul>
-    <li>Site will have **PageSpeed 100** for desktop and mobile
-    <li>Page **interactive in 0.4 seconds** over a 2G connection (uncached)
-    <li>Learn how to deliver an **entire page in a single HTTP request**
-    <li>Best of all, **no more Let's Encrypt cert renewals** (hooray!)
+    <li>Site will have <b>PageSpeed 100</b> for desktop and mobile</li>
+    <li>Page <b>interactive in 0.4 seconds</b> over a 2G connection (uncached)</li>
+    <li>Learn how to deliver an <b>entire page in a single HTTP request</b></li>
+    <li>Best of all, <b>no more Let's Encrypt cert renewals</b> (hooray!)</li>
   </ul>
 </aside>
 
