@@ -150,6 +150,6 @@ That's it. You're finished. This time for real.
 
 ## Appreciate your hard work
 
-Navigate to your website's custom domain name and ensure it is being served over HTTPS. Verify the HTTP to HTTPS redirection is working as expected by entering a URL starting with HTTP (it should 301 to HTTPS). And, finally, use [HTTP/2 Test](https://tools.keycdn.com/) to verify HTTP/2 is functioning as expected.
+Navigate to your website's custom domain name and ensure it is being served over HTTPS. Verify the HTTP to HTTPS redirection is working as expected by entering a URL starting with HTTP (it should 301 to HTTPS). And, finally, use [HTTP/2 Test Tool](https://tools.keycdn.com/http2-test) to verify HTTP/2 is functioning as expected.
 
 Huzzah! You've now gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories in the comments section below.
