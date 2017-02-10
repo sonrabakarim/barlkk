@@ -14,7 +14,7 @@ header:
 
 Those who subscribe to [Node Weekly](http://nodeweekly.com/) may have seen a post in early 2017 from Ivan Jovanovic titled [Running Express, Koa And Hapi On HTTP/2](http://ivanjov.com/running-express-koa-and-hapi-on-http-2/). In his post Ivan gives a brief overview of the new HTTP protocol and describes some of the HTTP/2 key advantages, such as speed.
 
-Ivan goes on to share code snippets for implementing HTTP/2 in several popular Node-based web servers, something JS developers---especially fans of [JSPM](http://jspm.io/)---might enjoy, but entirely unnecessary if you're using CloudFront, which [announced HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/) in September 2016, to serve static websites like those generated with Hugo.
+Ivan goes on to share code snippets for implementing HTTP/2 in several popular Node-based web servers, something JS developers (especially fans of [JSPM](http://jspm.io/)) might enjoy, but entirely unnecessary if you're using CloudFront---which [announced HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/) in September 2016---to serve static websites like those generated with Hugo.
 
 **In this post you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.**
 
