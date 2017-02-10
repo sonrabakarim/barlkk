@@ -16,16 +16,18 @@ Those who subscribe to [Node Weekly](http://nodeweekly.com/) may have seen a pos
 
 Ivan goes on to share code snippets for implementing HTTP/2 in several popular Node-based web servers, something JS developers---especially fans of [JSPM](http://jspm.io/)---might enjoy, but entirely unnecessary if you're using CloudFront, which [announced HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/) in September 2016, to serve static websites like those generated with Hugo.
 
-> The remainder of this post will show you how to go from Zero to HTTP/2 with AWS and Hugo.
+<aside class="notice--success">
+  <h4>Why spend time doing this?</h4>
+  <p>Here are some carrots, assuming you even like vegetables:</p>
+  <ul>
+    <li>Site will have **PageSpeed 100** for desktop and mobile
+    <li>Page **interactive in 0.4 seconds** over a 2G connection (uncached)
+    <li>Learn how to deliver an **entire page in a single HTTP request**
+    <li>Best of all, **no more Let's Encrypt cert renewals** (hooray!)
+  </ul>
+</aside>
 
-Why spend time doing this? Here are some carrots, assuming you like vegetables:
-
-- Site will have **PageSpeed 100** for desktop and mobile
-- Page **interactive in 0.4 seconds** over a 2G connection (uncached)
-- Learn how to deliver an **entire page in a single HTTP request**
-- Best of all, **no more Let's Encrypt cert renewals** (hooray!)
-
-Sound good? Let's get started.
+Sound good? I thought so too. Let's get started.
 
 ## Getting started
 
