@@ -20,12 +20,13 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 <aside class="notice--success">
   <h4>Why spend time doing this?</h4>
-  <p>Here are some carrots, assuming you even like vegetables:</p>
+  <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
-    <li>Site will have <b>PageSpeed 100</b> for desktop and mobile</li>
-    <li>Page <b>interactive in 0.4 seconds</b> over a 2G connection (uncached)</li>
-    <li>Learn how to deliver an <b>entire page in a single HTTP request</b></li>
-    <li>Best of all, <b>no more Let's Encrypt cert renewals</b> (hooray!)</li>
+    <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
+    <li>Page <b>interactive in 0.4 seconds</b> over a 2G connection (uncached and worldwide)</li>
+    <li><b>HTTPS by default</b>, with full transference of link juice</li>
+    <li>A way to <b>receive emails at your own domain</b></li>
+    <li>Best of all, <b>no more Let's Encrypt Cert renewals</b> (hooray!)</li>
   </ul>
 </aside>
 
