@@ -19,7 +19,7 @@ header:
     teaser: photo-1457203112846-f9f76625f7c4_512.jpg
 ---
 
-Many are familiar with the idea of static site generators like Jekyll and [why they should use them](http://jekyll.tips/jekyll-casts/why-use-a-static-site-generator/). But Jekyll isn't the only <abbr title="Static Site Generator">SSG</abbr> out there. In fact, [there are hundreds](https://staticsitegenerators.net/) of static site generators available. With so many to choose from it can be difficult to decide which to use.
+Many are familiar with the idea of static site generators like Jekyll and [why they should use them](http://jekyll.tips/jekyll-casts/why-use-a-static-site-generator/). But Jekyll isn't the only <abbr title="Static Site Generator">SSG</abbr> out there. In fact, there are <a href="https://staticsitegenerators.net/" rel="nofollow">hundreds of SSGs</a> out there. With so many to choose from it can be difficult to decide which to use.
 
 After trying a number of them myself over the years _The One_ I've zeroed in on is none other than [Hugo](https://gohugo.io). My primary reasons for choosing Hugo include the following:
 
