@@ -3,9 +3,9 @@ title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
 modified: 2017-02-05
-excerpt: How to take advantage of HTTP/2 on AWS starting from scratch.
+excerpt: How to take advantage of HTTP/2 on CloudFront without Let's Encrypt.
 categories: [tutorials]
-tags: [aws, hugo, http2, performance, web]
+tags: [aws, hugo, http2, performance, web, ssl, https]
 header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
   overlay_filter: 0.5
@@ -18,7 +18,14 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 > The remainder of this post will show you how to go from zero to HTTP/2 with AWS and Hugo.
 
-Let's not waste any more time.
+Why spend time doing this? Here are some carrots, assuming you like vegetables:
+
+- Site will have **PageSpeed 100** for desktop and mobile
+- Page interactive in 0.4 seconds over a 2G connection (uncached)
+- Learn how to deliver an entire page in a single HTTP request
+- Best of all, no more Let's Encrypt cert renewals (yay!)
+
+Sound good? Let's get started.
 
 ## Getting started
 
@@ -37,7 +44,7 @@ Next, install [After Dark](https://github.com/comfusion/after-dark), a hacker th
 
 If you followed the instructions, you should now have a S3 bucket for your website, automatically created or updated by `s3_website`, with your After Dark site deployed. If you _really_ followed the instructions you will also have a CloudFront distribution configured to use HTTP/2, all wired up to your S3 bucket and ready to go.
 
-Here's what my current configuration looks like for Hack Cabin, which also uses After Dark:
+Here's what my current configuration looks like for [Hack Cabin](https://hackcabin.com), which also uses After Dark:
 
 ```yaml
 s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
