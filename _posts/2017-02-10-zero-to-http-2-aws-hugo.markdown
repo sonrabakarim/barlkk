@@ -21,9 +21,9 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 Why spend time doing this? Here are some carrots, assuming you like vegetables:
 
 - Site will have **PageSpeed 100** for desktop and mobile
-- Page interactive in 0.4 seconds over a 2G connection (uncached)
-- Learn how to deliver an entire page in a single HTTP request
-- Best of all, no more Let's Encrypt cert renewals (yay!)
+- Page **interactive in 0.4 seconds** over a 2G connection (uncached)
+- Learn how to deliver an **entire page in a single HTTP request**
+- Best of all, **no more Let's Encrypt cert renewals** (hooray!)
 
 Sound good? Let's get started.
 
