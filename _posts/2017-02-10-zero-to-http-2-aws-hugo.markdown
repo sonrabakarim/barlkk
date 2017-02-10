@@ -32,9 +32,9 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 Sound good? I thought so too. Let's get started.
 
-## Getting started
+## Get started with AWS and Hugo
 
-To get started, [create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/). If it's your first time you will benefit from a free year of service. If you already have an account, proceed.
+First, [create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/). If this is your first time using AWS you will benefit from a free year of service (after that it's cheaper than [Digital Ocean](https://m.do.co/c/9d5c1c681fd0)). If you already have an AWS account, proceed to the next step.
 
 Next, install [After Dark](https://github.com/comfusion/after-dark), a hacker theme I created for Hugo. The instructions assume you're using macOS, though other platforms are supported as well.
 
