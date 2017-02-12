@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-01-31
+modified: 2017-02-12
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -47,11 +47,14 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
-**[React Native Web](https://github.com/necolas/react-native-web)**
-<br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
+**[Lottie](https://github.com/airbnb/lottie-react-native)**
+<br>I saw this one announced on Medium though it already had over **3,000 stargazers** by the time I saw it. Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
 <br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a few components, provides an opinionated way to theme apps and perform common animations (e.g. parallax). Pretty slick.
+
+**[React Native Web](https://github.com/necolas/react-native-web)**
+<br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
 
 **[React Native Elements](https://github.com/react-native-community/React-Native-Elements)**
 <br>Ostensibly inspired by Material Design, React Native Elements is another UI kit for building React Native apps. It includes a drawer and tab bar, as well as some nice looking form-related components Shoutem lacks.
