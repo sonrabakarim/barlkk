@@ -17,10 +17,10 @@ Over time the content direction for the blog became clearer. It eventually grew 
 
 After [deciding to leave the corporate world][1] earlier this year in favor of a path less conventional I realized this site was not the proper place to tell that story. And so I created a **new website to start documenting the freelance journey**. The new website name was inspired by one Ean Platter, curator of the fantastic [React Newsletter](http://reactjsnewsletter.com/), during our time together at TechnologyAdvice--it's called Hack Cabin.
 
-[Hack Cabin](http://hackcabin.com) is a static website built using AWS and Hugo. To get acquainted, read about the [site architecture](http://hackcabin/post/initial-commit/) or why I suggest others [Choose Hugo Over Jekyll](/choose-hugo-over-jekyll/).
+[Hack Cabin](https://hackcabin.com) is a static website built using AWS and Hugo. To get acquainted, read about the [site architecture](http://hackcabin/post/initial-commit/) or why I suggest others [Choose Hugo Over Jekyll](/choose-hugo-over-jekyll/).
 
-And if you're not interested in technology I'll also be writing about [travel](hackcabin.com/post/bali-travel-survival-guide/) and freelancing on Hack Cabin. So check it out if you're interested in [gaining independence][1] in the way you work, and quietly slipping away from your corporate overlords.
+And if you're not interested in technology I'll also be writing about [travel](https://hackcabin.com/post/bali-travel-survival-guide/) and [freelancing](https://hackcabin.com/post/become-better-freelancer/) on Hack Cabin. So check it out if you're interested in [gaining independence][1] in the way you work, and quietly slipping away from your corporate overlords.
 
 To the road ahead, wherever it may lead.
 
-[1]: http://hackcabin.com/post/six-figure-job-independence/
+[1]: https://hackcabin.com/post/six-figure-job-independence/
