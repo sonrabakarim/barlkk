@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2016-12-07
+modified: 2017-02-15
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
@@ -30,7 +30,7 @@ Application boilerplates for creating React apps, many of which contain their ow
 Here's an [example photo sharing application starter](https://github.com/jhabdas/12roads) I spiked on using this kit.
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. That's wild!
+<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. If you prefer TypeScript, there's even [a flavor of that](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well. That's wild!
 
 **[ARc](https://github.com/diegohaz/arc)**
 <br>One of the common things I hear from individuals getting started with React is that the ecosystem is so complicated it's difficult to take everything in. That's why I'm please to see Diego Haz's ARc (Atomic React) project, which uses a _progressive_ design methodology intended to help individuals start small and work their way forward by incorporating new features one by one. Great job Diego!
