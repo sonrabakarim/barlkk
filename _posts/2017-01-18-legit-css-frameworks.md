@@ -2,7 +2,7 @@
 title: Legit CSS Frameworks
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-02-05
+modified: 2017-02-15
 excerpt: An evergreen list of free and open source CSS frameworks worthy of your time.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
@@ -44,12 +44,13 @@ Like Foundation, Bootstrap features a [web-based customizer](http://getbootstrap
 **[Materialize](http://materializecss.com/)**
 <br>Yet another Material Design framework, Materialize gives you the same Google design feeling as the others but also includes JavaScript widgets which don't require React to function. So if you're looking to build responsive Websites with Material Design, with interactivity beyond what Material Design Lite provides, this may be the framework for you.
 
+**[UIkit](https://getuikit.com/)**
+<br>UIkit brands itself as "A lightweight and modular front-end framework
+for developing fast and powerful web interfaces." They've got through a number of iterations already, and maintain a [Changelog](https://getuikit.com/changelog) to help keep you updated on what's happening.
+
 ## Micro frameworks
 
 Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s> schtuff done.
-
-**[Basscss](http://basscss.com/)**
-<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
 
 **[Bulma](http://bulma.io/)**
 <br>This one had completely escaped my radar until it [popped up in the comments](https://habd.as/legit-css-frameworks/#comment-3148163230) thanks to Victor Bastos. It's CSS only, and wow that's a damn sexy docs site. I cannot wait to give this one a spin!!!
@@ -69,7 +70,7 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 **[Primer](http://primercss.io/)**
 <br>The CSS toolkit and guidelines that power GitHub. Need I say more?
 
-**[Pure CSS](http://purecss.io/)**
+**[Pure.css](http://purecss.io/)**
 <br>Created by Yahoo, Pure CSS can be added piecemeal to accomplish simple layout and styling tasks on a site without going all-in on the kitchen sink. Check out the docs to see what it can do.
 
 **[Spectre](https://picturepan2.github.io/spectre/)**
@@ -89,3 +90,11 @@ Frameworks and libraries to help you really move your users.
 <br>Just-add-water CSS animations. Handy for providing feedback to users, such as shaking a button when a form is invalid.
 
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of the linking site. For example, if the author doesn't trust it, does not wish to pass authority, or if there is commercial relationship between the two, a link is more likely to be nofollowed. `nofollow` links play a role in the passage of authority and page rank in Search engine algorithms.
+
+## CSS Toolkits
+
+**[Basscss](http://basscss.com/)**
+<br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
+
+**[Susy](http://susy.oddbird.net/)**
+<br>Used to create Michael Rose's popular [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme, Susy is a responsive toolkit for use with Sass.
