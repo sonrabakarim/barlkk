@@ -10,6 +10,7 @@ header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
   overlay_filter: 0.5
   teaser: 4fqamznaguo-reginar_512.jpg
+featured: true
 ---
 
 Those who subscribe to [Node Weekly](http://nodeweekly.com/) may have seen a post in early 2017 from Ivan Jovanovic titled [Running Express, Koa And Hapi On HTTP/2](http://ivanjov.com/running-express-koa-and-hapi-on-http-2/). In his post Ivan gives a brief overview of the new HTTP protocol and describes some of the HTTP/2 key advantages, such as speed.

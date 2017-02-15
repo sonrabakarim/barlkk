@@ -10,6 +10,7 @@ header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5
   teaser: circular-837510_500x333.jpg
+featured: true
 ---
 {% include toc %}
 

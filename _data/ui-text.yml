@@ -26,6 +26,7 @@ en: &DEFAULT_EN
   website_label         : "Website"
   email_label           : "Email"
   recent_posts          : "Latest Posts"
+  featured_posts        : "Featured Posts"
 en-US:
   <<: *DEFAULT_EN
 en-UK:
