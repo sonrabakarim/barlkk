@@ -96,3 +96,11 @@ html, body {
      height: 100%;
    }
  }
+
+ /*
+    Disqus overrides
+    ========================================================================== */
+
+.post.highlighted {
+  border-radius: $border-radius;
+}
