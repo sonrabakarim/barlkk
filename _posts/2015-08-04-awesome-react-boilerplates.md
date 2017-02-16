@@ -33,6 +33,11 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
 <br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. If you prefer TypeScript, there's even [a flavor of that](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well. That's wild!
 
+<aside class="notice--success">
+  <h4>Need a diversion?</h4>
+  <p>Learn to build your own hacker blog in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a>, only on <i><a href="https://habd.as">habd.as</a></i>.</p>
+</aside>
+
 **[ARc](https://github.com/diegohaz/arc)**
 <br>One of the common things I hear from individuals getting started with React is that the ecosystem is so complicated it's difficult to take everything in. That's why I'm please to see Diego Haz's ARc (Atomic React) project, which uses a _progressive_ design methodology intended to help individuals start small and work their way forward by incorporating new features one by one. Great job Diego!
 
