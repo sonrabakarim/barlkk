@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-02-05
+modified: 2017-02-16
 excerpt: A step-by-step guide to building your own hacker blog.
 categories: [tutorials]
 tags: [aws, hugo, http2, webperf, web, ssl, https]

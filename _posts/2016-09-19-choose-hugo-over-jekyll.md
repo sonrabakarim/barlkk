@@ -1,7 +1,7 @@
 ---
 title: Choose Hugo Over Jekyll
 date: 2016-09-19T10:36:32-05:00
-modified: 2017-02-10
+modified: 2017-02-16
 author: Josh Habdas
 excerpt: In a sea of choice, which static site generator will you choose?
 categories:
@@ -31,7 +31,7 @@ After trying a number of SSGs myself over the years **the one I've zeroed in on 
   {: .notice--info}
 
 - **It's ultra flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on, Hugo was built from the ground up with freedom of content structure in mind.
-- **It's fun!** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
+- **It's fun!** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
 
 [![After Dark theme for Hugo screenshot](/images/after-dark-framed.png)](https://comfusion.github.io/after-dark/)
 
