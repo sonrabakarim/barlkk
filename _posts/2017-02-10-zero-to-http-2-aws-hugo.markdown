@@ -24,7 +24,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
     <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
-    <li>Page <b>interactive in 0.4 seconds</b> over a 2G connection (uncached and worldwide)</li>
+    <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide[^1]</li>
     <li><b>HTTPS by default</b>, with full transference of link juice</li>
     <li>A way to <b>receive emails</b> at your own domain</li>
     <li>Best of all, <b>no more Let's Encrypt</b> cert renewals (hooray!)</li>
@@ -154,3 +154,5 @@ Navigate to your website's custom domain name and ensure it is being served over
 **That's it. You're finished. This time for real.**
 
 You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories or battle cries in the comments section below.
+
+[^1]: Measured using <a target="_blank" href="https://www.webpagetest.org/">WebPageTest</a> taking median of <i>RUM First Paint</i> of <i>First View Only</i> metric from San Jose (0.506s), Manchester (0.694s), Buenos Aires (0.940s), Singapore (0.585s) and Japan (1.110s) at mobile LTE connection speed (12 Mbps/12 Mbps 70ms RTT) on the Chrome browser.
