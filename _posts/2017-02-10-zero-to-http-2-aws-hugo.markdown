@@ -35,7 +35,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 Once finished, you will have a blog that looks like the following screenshot, save for theme advancements and your personal customizations:
 
-![Hacker blog screenshot](/images/after-dark-framed.png "After Dark Hugo in Safari")
+[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "After Dark Hugo in Safari")](https://comfusion.github.io/after-dark/)
 
 When you're ready, let's get started.
 
