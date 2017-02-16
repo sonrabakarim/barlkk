@@ -33,7 +33,11 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <p><small>See <a href="#benchmarks">Benchmarks</a> for how these numbers were determined.</small></p>
 </aside>
 
-Sound good? I thought so too. Let's get started.
+Once finished, you will have a blog that looks like the following screenshot, save for theme advancements and your personal customizations:
+
+![Hacker blog screenshot](/images/after-dark-framed.png "After Dark Hugo in Safari")
+
+When you're ready, let's get started.
 
 ## Get started with AWS and Hugo
 
