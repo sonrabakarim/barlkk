@@ -23,10 +23,11 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <h4>Why spend time doing this?</h4>
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
-    <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
-    <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide[^1]</li>
+    <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile[^1]</li>
+    <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide[^2]</li>
+    <li>Ability to generate 400 blog posts in a half-second[^3]</li>
     <li><b>HTTPS by default</b>, with full transference of link juice</li>
-    <li>A way to <b>receive emails</b> at your own domain without Google</li>
+    <li>A way to <b>receive emails</b> at your own domain <i>without Google</i></li>
     <li>Best of all, <b>no more Let's Encrypt</b> cert renewals (hooray!)</li>
   </ul>
 </aside>
@@ -155,4 +156,8 @@ Navigate to your website's custom domain name and ensure it is being served over
 
 You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories or battle cries in the comments section below.
 
-[^1]: Measured using <a target="_blank" href="https://www.webpagetest.org/">WebPageTest</a> taking median of <i>RUM First Paint</i> of <i>First View Only</i> metric from San Jose (0.506s), Manchester (0.694s), Buenos Aires (0.940s), Singapore (0.585s) and Japan (1.110s) at mobile LTE connection speed (12 Mbps/12 Mbps 70ms RTT) on the Chrome browser.
+[^1]: With Google Analytics and Disqus disabled.
+
+[^2]: Measured using <a target="_blank" href="https://www.webpagetest.org/">WebPageTest</a> taking median of <i>RUM First Paint</i> of <i>First View Only</i> metric from San Jose (0.506s), Manchester (0.694s), Buenos Aires (0.940s), Singapore (0.585s) and Japan (1.110s) at mobile LTE connection speed (12 Mbps/12 Mbps 70ms RTT) on the Chrome browser.
+
+[^3]: Measured in Feb '17 with Hugo v0.18 on a MacBook Pro with 2.5 GHz Intel Core i7 with 500GB Flash Storage running macOS Sierra (10.12.3) using the content from [collantes.us](https://collantes.us/).
