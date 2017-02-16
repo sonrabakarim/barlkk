@@ -163,6 +163,8 @@ You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to shar
 
 ## Benchmarks
 
+PageSpeed benchmarks assume you are not putting images above the fold or using JavaScript widgets like Google Analytics, which will immediately start to decrease your scores.
+
 Mobile interactive pages measured using <a target="_blank" href="https://www.webpagetest.org/">WebPageTest</a> taking median of <b>RUM First Paint</b> of <b>First View Only</b> metric from San Jose (0.506s), Manchester (0.694s), Buenos Aires (0.940s), Singapore (0.585s) and Japan (1.110s) at mobile LTE connection speed (12 Mbps/12 Mbps 70ms RTT) on the Chrome browser.
 
 Page generation speed measured in Feb '17 with Hugo v0.18 on a MacBook Pro with 2.5 GHz Intel Core i7 with 500GB Flash Storage running macOS Sierra (10.12.3) using the content from [collantes.us](https://collantes.us/).
