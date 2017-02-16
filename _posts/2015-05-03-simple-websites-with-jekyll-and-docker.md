@@ -11,6 +11,7 @@ header:
   overlay_image: sailing-boat-679833_1280.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [Counselling](http://pixabay.com/en/sailing-boat-sea-ocean-679833/)"
+featured: true
 ---
 {% include toc %}
 
