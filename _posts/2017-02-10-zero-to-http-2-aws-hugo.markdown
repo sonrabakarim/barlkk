@@ -33,9 +33,9 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <p><small>See <a href="#benchmarks">Benchmarks</a> for how these numbers were determined.</small></p>
 </aside>
 
-Once finished, you will have a blog that looks like the following screenshot, save for theme advancements and your personal customizations:
+And here's what your blog will look like, save for theme advancements and your personal customizations (click to view live example):
 
-[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "After Dark Hugo in Safari")](https://comfusion.github.io/after-dark/)
+[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "Click here for production example")](https://comfusion.github.io/after-dark/)
 
 When you're ready, let's get started.
 
