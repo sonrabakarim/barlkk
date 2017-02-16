@@ -30,7 +30,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
     <li>A way to <b>receive emails</b> at your own domain <i>without Google</i></li>
     <li>Best of all, <b>no more Let's Encrypt</b> cert renewals (hooray!)</li>
   </ul>
-  <p><small>See <a href="#benchmarks">Benchmarks</a> for how these numbers were determined</small></p>
+  <p><small>See <a href="#benchmarks">Benchmarks</a> for how these numbers were determined.</small></p>
 </aside>
 
 Sound good? I thought so too. Let's get started.
