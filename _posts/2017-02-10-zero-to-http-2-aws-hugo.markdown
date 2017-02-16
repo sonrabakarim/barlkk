@@ -37,7 +37,7 @@ And here's what your blog will look like, save for theme advancements and your p
 
 [![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "Click here for production example")](https://hackcabin.com)
 
-When you're ready, let's get started.
+When you're ready to get your hands dirty, continue on for the full set of step-by-step instructions on how to go from Zero to HTTP/2 with AWS and Hugo.
 
 ## Get started with AWS and Hugo
 
