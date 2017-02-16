@@ -24,7 +24,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
     <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
-    <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide</li>
+    <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide over LTE</li>
     <li>Ability to generate 400 blog posts in a half-second</li>
     <li><b>HTTPS by default</b>, with full transference of link juice</li>
     <li>A way to <b>receive emails</b> at your own domain <i>without Google</i></li>
