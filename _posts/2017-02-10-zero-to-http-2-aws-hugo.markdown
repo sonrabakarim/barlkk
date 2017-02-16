@@ -35,7 +35,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 And here's what your blog will look like, save for theme advancements and your personal customizations (click to view live example):
 
-[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "Click here for production example")](https://comfusion.github.io/after-dark/)
+[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png "Click here for production example")](https://hackcabin.com)
 
 When you're ready, let's get started.
 
