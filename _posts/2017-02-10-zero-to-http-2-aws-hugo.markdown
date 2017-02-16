@@ -26,7 +26,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
     <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
     <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide[^1]</li>
     <li><b>HTTPS by default</b>, with full transference of link juice</li>
-    <li>A way to <b>receive emails</b> at your own domain</li>
+    <li>A way to <b>receive emails</b> at your own domain without Google</li>
     <li>Best of all, <b>no more Let's Encrypt</b> cert renewals (hooray!)</li>
   </ul>
 </aside>
