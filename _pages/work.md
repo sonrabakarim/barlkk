@@ -81,18 +81,6 @@ feature_row2:
     url: "https://github.com/jhabdas/lumpenradio-com"
     btn_label: "View Source"
     btn_class: "btn--inverse"
-feature_row3:
-  -
-    image_path: hopstop.png
-    alt: "Hopstop application screenshot"
-    title: "Hopstop"
-    excerpt: >
-      A beer-first mobile search app for the Web. Allows quick retrieval of beer info (Style, ABV, Brewery) using the Untappd API. Created in a weekend to help save time questioning cicerones.
-      <br><br>
-      <small>Hapi / Chaplin / Brunch / Bloodhound / Untappd API</small>
-    url: "https://github.com/jhabdas/hopstop"
-    btn_label: "View Source"
-    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="feature_row1_overview" type="center" %}
