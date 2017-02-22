@@ -1,5 +1,5 @@
 ---
-title: Making your own Tiny URLs
+title: Make Your Own Tiny URLs
 date: 2017-02-22T23:48:47+08:00
 author: Josh Habdas
 author_profile: false
