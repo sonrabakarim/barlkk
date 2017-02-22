@@ -107,6 +107,7 @@ exclude:
   - .sass-cache
   - _assets/js/plugins
   - _assets/js/vendor
+  - s3_website.yml
   - Capfile
   - CHANGELOG
   - config
