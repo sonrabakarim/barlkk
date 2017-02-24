@@ -19,8 +19,8 @@ feature_row1:
       Reskinned and ported a 200+ page WordPress site to breath life into the content, improve UX, speed and search visibility. Created in 6 days.
       <br><br>
       <small>AWS / Jekyll / AdSense / TypeForm / TinyLetter </small>
-    url: "https://chicagoganghistory.com"
-    btn_label: "Visit Website"
+    url: "http://comfusionllc.com/clients/chicago-gang-history/"
+    btn_label: "View Customer Story"
     btn_class: "btn--inverse"
   -
     image_path: lumpen-radio-ios-framed-cropped.png
