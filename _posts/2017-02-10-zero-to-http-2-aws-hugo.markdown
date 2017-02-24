@@ -157,6 +157,8 @@ To enable HTTPS by default do:
 
 Navigate to your website's custom domain name and ensure it is being served over HTTPS. Verify the HTTP to HTTPS redirection is working as expected by entering a URL starting with HTTP (it should 301 to HTTPS). And, finally, use [HTTP/2 Test Tool](https://tools.keycdn.com/http2-test) to verify HTTP/2 is functioning as expected.
 
+![HTTP/2 Test Proof](/images/hackcabin-http2-test.png)
+
 **That's it. You're finished. This time for real.**
 
 You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories or battle cries in the comments section below.
