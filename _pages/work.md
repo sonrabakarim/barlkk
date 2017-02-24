@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [*@kfred*](https://unsplash.com/@kfred)"
 feature_row1_overview:
-  - excerpt: "Like to work together? Please head over to [Comfusion LLC](http://comfusionllc.com) for professional portfolio, case studies and service offerings."
+  - excerpt: "A few of the things I've done. I also offer [static site development and hosting](http://comfusionllc.com)."
 feature_row1:
   -
     image_path: chicago-gang-history-at-launch.png
