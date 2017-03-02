@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 share: false
 categories:
-  - tutorials
+  - news
 tags:
   - web development
   - social media
@@ -15,5 +15,7 @@ tags:
   - link building
 link: https://hackcabin.com/post/make-free-url-shortener-blog/
 header:
-  teaser: https://source.unsplash.com/ZqqlOZyGG7g/2000x1322
+  overlay_image: https://source.unsplash.com/ZqqlOZyGG7g/1280x846
+  overlay_filter: 0.5
+  teaser: https://source.unsplash.com/ZqqlOZyGG7g/512x338
 ---
