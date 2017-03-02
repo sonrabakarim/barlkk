@@ -37,18 +37,6 @@ feature_row1:
     btn_label: "View Source"
     btn_class: "btn--inverse"
   -
-    image_path: 12roads-prototype.png
-    alt: "12 Roads prototype screenshot"
-    title: "12 Roads"
-    excerpt: >
-      An open source photo browsing React prototype created to test a new [Awesome React Boilerplate](/awesome-react-boilerplates/). Emphasis on experience, best practices and scalability. Spiked in 16 hours.
-      <br><br>
-      <small>React / Babel / Webpack / Material UI / Node.js </small>
-    url: "https://github.com/jhabdas/12roads/"
-    btn_label: "View Source"
-    btn_class: "btn--inverse"
-feature_row2:
-  -
     image_path: after-dark-framed.png
     alt: "After Dark screenshot"
     title: "After Dark"
@@ -58,6 +46,18 @@ feature_row2:
       <small>Golang / HTML5 / CSS3 / Hugo Static Site Generator</small>
     url: "https://comfusion.github.io/after-dark/"
     btn_label: "View Documentation"
+    btn_class: "btn--inverse"
+feature_row2:
+  -
+    image_path: 12roads-prototype.png
+    alt: "12 Roads prototype screenshot"
+    title: "12 Roads"
+    excerpt: >
+      An open source photo browsing React prototype created to test a new [Awesome React Boilerplate](/awesome-react-boilerplates/). Emphasis on experience, best practices and scalability. Spiked in 16 hours.
+      <br><br>
+      <small>React / Babel / Webpack / Material UI / Node.js </small>
+    url: "https://github.com/jhabdas/12roads/"
+    btn_label: "View Source"
     btn_class: "btn--inverse"
   -
     image_path: react-native-webpack-starter-kit.jpeg
