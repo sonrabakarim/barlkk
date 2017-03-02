@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [*@kfred*](https://unsplash.com/@kfred)"
 feature_row1_overview:
-  - excerpt: "I offer [static site development and hosting](http://comfusionllc.com) and have experience with Cloud CMSs."
+  - excerpt: "I offer [static site hosting and development](http://comfusionllc.com) with CloudCannon."
 feature_row1:
   -
     image_path: chicago-gang-history-at-launch.png
