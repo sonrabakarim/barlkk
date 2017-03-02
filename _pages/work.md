@@ -20,7 +20,7 @@ feature_row1:
       <br><br>
       <small>AWS / Jekyll / AdSense / TypeForm / TinyLetter </small>
     url: "http://comfusionllc.com/clients/chicago-gang-history/"
-    btn_label: "View Customer Story"
+    btn_label: "Read Customer Story"
     btn_class: "btn--inverse"
   -
     image_path: lumpen-radio-ios-framed-cropped.png
@@ -45,7 +45,7 @@ feature_row1:
       <br><br>
       <small>Golang / HTML5 / CSS3 / Hugo Static Site Generator</small>
     url: "https://comfusion.github.io/after-dark/"
-    btn_label: "View Documentation"
+    btn_label: "Visit Docs"
     btn_class: "btn--inverse"
 feature_row2:
   -
