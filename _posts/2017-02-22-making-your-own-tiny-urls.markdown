@@ -15,6 +15,5 @@ tags:
   - link building
 link: https://hackcabin.com/post/make-free-url-shortener-blog/
 header:
-  overlay_filter: 0.5
   teaser: https://source.unsplash.com/ZqqlOZyGG7g/512x338
 ---

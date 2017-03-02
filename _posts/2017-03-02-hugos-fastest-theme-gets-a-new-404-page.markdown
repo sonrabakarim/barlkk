@@ -16,6 +16,5 @@ tags:
   - performance
 link: https://hackcabin.com/post/after-dark-error-page-redesign/
 header:
-  overlay_filter: 0.5
   teaser: https://hackcabin.com/images/after-dark-error-page.png
 ---
