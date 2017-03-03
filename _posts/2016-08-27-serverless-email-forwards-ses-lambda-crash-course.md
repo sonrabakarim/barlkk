@@ -94,7 +94,7 @@ Serverless: with template: "aws-nodejs"
 
 Once created, follow any on-screen instructions and then confirm it can be deployed to AWS.
 
-## Deploying the Example Service
+### Deploying the Example
 
 To deploy Hellow World to AWS simply run the following command:
 
@@ -126,7 +126,7 @@ functions:
 
 If deployment doesn't work jump back to [Setting up AWS](#setting-up-aws) and make sure you follow all of the instructions.
 
-## Invoking the Example Service
+### Invoking the Example
 
 Once successfully deployed invoke the `hello` Lambda function:
 
@@ -139,7 +139,7 @@ You should see output similar to the following:
       "body": "{\"message\":\"Go Serverless v1.0! Your function executed successfully!\",\"input\":{}}"
     }
 
-## Removing the Example Service
+### Removing the Example
 
 Now that you've gotten the Hello World example running, remove it by running the following:
 
@@ -147,11 +147,11 @@ Now that you've gotten the Hello World example running, remove it by running the
 
 The above will remove the `hello` Lambda function from AWS so we can create a SES forwarding Lambda utilizing  [`aws-lambda-ses-forwarder`](https://github.com/arithmetric/aws-lambda-ses-forwarder).
 
-## Creating an Email Forwarding Service
+## Creating the Forwarding Service
 
 In this section we'll create a Lambda to forward emails from SES to another email address.
 
-### Coding the Email Forwarding Service Lambda
+### Coding the Forwarding Service
 Create the email forwarder by modeling from the following commit on my blog:
 
 [99117d58](https://github.com/jhabdas/habd.as/commit/99117d58d156e05a920611b47efb59f080ca2b26)
@@ -161,22 +161,22 @@ While doing so ensure you set the expected SES region in `serverless.env.yml`. I
 
 Once coded do an `npm i` to install the NPM dependencies needed to run the Lambda. These get packaged into the ZIP file uploaded to AWS, but you don't need to commit them to source control.
 
-### Deploying the Email Forwarding Service
+### Deploying the Forwarding Service
 
 Just like before, deploy the Lambda with `sls deploy`.
 
-### Add Additional AWS Configuration
+### Updating AWS Configuration
 
 The email collected by SES is stored in an S3 bucket created with Jeremy's instructions. Take a look back at his instructions and configure the Lambda "Policy Document" and add the Lambda as an action to the email S3 bucket. Check out Jeremy's screenshots (bottom of his post) for visuals of some of these steps.
 
-### Test the Email Forwarding Service
+### Testing the Forwarding Service
 
 Once deployed test the Lambda by sending an email at an address on the SES-configured domain. If everything worked you'll receive a forwarded email at the verified SES address. If not, [see your CloudWatch logs](https://us-west-2.console.aws.amazon.com/cloudwatch/home#logs:) for errors.
 
 **Note:** As of v1.7, Serverless can also trigger Lambdas in response to CloudWatch events. This could be used to, for example, trigger a notification should your website go down.
 {: .notice--info}
 
-### Save Your Work
+## Save Your Work
 
 Once you're finished don't forget to commit your work. Be sure you don't commit any AWS secrets or other sensitive info. Secrets should be kept outside your application's source code for security reasons.
 
