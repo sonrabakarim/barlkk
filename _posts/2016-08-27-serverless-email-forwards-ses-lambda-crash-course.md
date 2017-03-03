@@ -14,9 +14,9 @@ tags:
   - nodejs
   - javascript
 header:
-  overlay_image: photo-1448227700746-d8eab5a1b9d7_1028.jpg
+  overlay_image: steinar-engeland-84139_1028w.jpg
   overlay_filter: 0.5
-  teaser: photo-1448227700746-d8eab5a1b9d7_512.jpg
+  teaser: steinar-engeland-84139_512w.jpg
 featured: true
 ---
 
