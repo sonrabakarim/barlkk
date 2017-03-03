@@ -14,9 +14,9 @@ tags:
   - nodejs
   - javascript
 header:
-  overlay_image: steinar-engeland-84139_1028w.jpg
+  overlay_image: ishan-seefromthesky-118581_1028w.jpg
   overlay_filter: 0.5
-  teaser: steinar-engeland-84139_512w.jpg
+  teaser: ishan-seefromthesky-118581_512w.jpg
 featured: true
 ---
 
