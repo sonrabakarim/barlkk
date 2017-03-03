@@ -156,7 +156,7 @@ Create the email forwarder by modeling from the following commit on my blog:
 
 [99117d58](https://github.com/jhabdas/habd.as/commit/99117d58d156e05a920611b47efb59f080ca2b26)
 
-While doing so ensure you set the expected SES region in `serverless.env.yml`. If you don't your Lambda won't be able to talk to the SES S3 bucket you created while [Configuring Email Forwarding on AWS](#configuring-email-forwarding-on-aws).
+While doing so ensure you set the expected SES region in `serverless.yml`. If you don't your Lambda won't be able to talk to the SES S3 bucket you created while [Configuring Email Forwarding on AWS](#configuring-email-forwarding-on-aws).
 {: .notice--info}
 
 Once coded do an `npm i` to install the NPM dependencies needed to run the Lambda. These get packaged into the ZIP file uploaded to AWS, but you don't need to commit them to source control.
