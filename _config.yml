@@ -121,6 +121,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /services
 keep_files:
   - .git
   - .svn
