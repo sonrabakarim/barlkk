@@ -182,6 +182,6 @@ Once you're finished don't forget to commit your work. Be sure you don't commit 
 
 # In Review
 
-In this crash course you learned the value of serverless technology for static websites and used it to create a practical email forwarding service with Serverless, SES and Lambda. If you finished, congratulations! Please feel free to share your feedback and questions in the comments section below. Cheers!
+In this crash course you learned the value of serverless technology for static websites and used it to create a practical email forwarding service with Serverless, SES and Lambda. If you finished, congratulations! Please feel free to share your feedback and questions in the comments section below.
 
 [Serverless]: http://serverless.com/
