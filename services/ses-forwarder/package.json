@@ -1,17 +1,17 @@
 {
   "name": "ses-forwarder",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
-  "description": "Forward email with Lambda to SES-verified email address.",
+  "description": "Forward email with Lambda to SES-verified email addresses.",
   "scripts": {
-    "lambda-tail": "smoketail -f /aws/lambda/ses-forwarder-dev-sesForwarder",
+    "lambda-tail": "smoketail -f /aws/lambda/ses-forwarder-habdas-dev-sesForwarder",
     "lambda-deploy": "serverless deploy"
   },
   "dependencies": {
-    "aws-lambda-ses-forwarder": "^3.0.0"
+    "aws-lambda-ses-forwarder": "^4.0.0"
   },
   "devDependencies": {
-    "serverless": "^1.0.0-beta.2",
+    "serverless": "^1.8.0",
     "smoketail": "^0.1.0"
   }
 }

@@ -8,6 +8,7 @@ module.exports.sesForwarder = function (evt, ctx) {
   //
   // Expected keys/values:
   // - fromEmail: Forwarded emails will come from this verified address
+  // - subjectPrefix: Forwarded emails subject will contain this prefix
   // - emailBucket: S3 bucket name where SES stores emails.
   // - emailKeyPrefix: S3 key name prefix where SES stores email. Include the
   //   trailing slash.
