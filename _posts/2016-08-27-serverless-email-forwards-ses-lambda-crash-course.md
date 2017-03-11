@@ -14,9 +14,9 @@ tags:
   - nodejs
   - javascript
 header:
-  overlay_image: ishan-seefromthesky-118581_1028w.jpg
+  overlay_image: mathyas-kurmann-102977_1200w.jpg
   overlay_filter: 0.5
-  teaser: ishan-seefromthesky-118581_512w.jpg
+  teaser: mathyas-kurmann-102977_512w.jpg
 featured: true
 ---
 
