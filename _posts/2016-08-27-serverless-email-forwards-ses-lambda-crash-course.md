@@ -22,7 +22,7 @@ featured: true
 
 In 2016 this website underwent a major overhaul. I took it off my [simple Docker set-up](/simple-websites-jekyll-docker/) and [moved it to S3 with CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/). The process of which enabled me to **reduce hosting costs by 80%** all while increasing reach and decreasing page load times globally.
 
-But static websites have a perceived disadvantage: they're static. They have no inherent dynamic functionality. What will you do when you want to add some piece of interactivity---a contact form, or an email distribution list? Sure you could go with TypeForm or TinyLetter. But <abbr title="Function as a Service">FaaS</abbr> (a.k.a. Serverless) is a thing and [will continue to be a thing](https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0) for years to come.
+But static websites have a perceived disadvantage: they're static. They have no inherent dynamic functionality. What will you do when you want to add some piece of interactivity---a contact form, or an email distribution list? Sure you could go with TypeForm or TinyLetter. But you could also create your own service using <abbr title="Function as a Service">FaaS</abbr> (a.k.a. Serverless). Afterall, Serverless isn't just a fad, and it's [not going away anytime soon](https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0).
 
 To quickly grok the benefits of a "serverless" architecture, look at the following illustration:
 
