@@ -3,7 +3,7 @@ title: Serverless Email Forwards with SES and Lambda
 date: 2016-08-27T15:12:33-05:00
 modified: 2017-03-11
 author: Josh Habdas
-excerpt: A crash course in Serverless with AWS Lambda.
+excerpt: Learn how to create your own email forwarding service using Serverless and AWS Lambda.
 categories:
   - tutorial
 tags:
