@@ -2,19 +2,8 @@
 
 var sesForwarder = require('aws-lambda-ses-forwarder')
 
-module.exports.sesForwarder = function (evt, ctx) {
-  // Configure the S3 bucket and key prefix for stored raw emails, and the
-  // mapping of email addresses to forward from and to.
-  //
-  // Expected keys/values:
-  // - fromEmail: Forwarded emails will come from this verified address
-  // - subjectPrefix: Forwarded emails subject will contain this prefix
-  // - emailBucket: S3 bucket name where SES stores emails.
-  // - emailKeyPrefix: S3 key name prefix where SES stores email. Include the
-  //   trailing slash.
-  // - forwardMapping: Object where the key is the email address from which to
-  //   forward and the value is an array of email addresses to which to send the
-  //   message.
+module.exports.sesForwarder = function (evt, ctx, cb) {
+  // See aws-lambda-ses-forwarder/index.js for all options
   var overrides = {
     config: {
       fromEmail: "noreply@habd.as",
@@ -27,5 +16,5 @@ module.exports.sesForwarder = function (evt, ctx) {
       }
     }
   };
-  sesForwarder.handler(evt, ctx, overrides);
+  sesForwarder.handler(evt, ctx, cb, overrides);
 }
