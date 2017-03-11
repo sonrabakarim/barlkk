@@ -1,7 +1,7 @@
 ---
 title: Serverless Email Forwards with SES and Lambda
 date: 2016-08-27T15:12:33-05:00
-modified: 2017-03-03
+modified: 2017-03-11
 author: Josh Habdas
 excerpt: A crash course in Serverless with AWS Lambda.
 categories:
@@ -168,6 +168,9 @@ Just like before, deploy the Lambda with `sls deploy`.
 ### Updating AWS Configuration
 
 The email collected by SES is stored in an S3 bucket created with Jeremy's instructions. Take a look back at his instructions and configure the Lambda "Policy Document" and add the Lambda as an action to the email S3 bucket. Check out Jeremy's screenshots (bottom of his post) for visuals of some of these steps.
+
+**Note:** Until you do this your email forwarding will not work. To debug the error open CloudWatch and access the logs.
+{: .notice--info}
 
 ### Testing the Forwarding Service
 
