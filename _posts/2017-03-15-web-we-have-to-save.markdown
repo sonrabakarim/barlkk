@@ -1,6 +1,6 @@
 ---
-title: "Re: I invented the web. Here are three things we need to change to save it."
-excerpt: Simple steps for protecting your privacy online.
+title: "Regarding Sir Tim-Berners Lee's Recent Article on Saving the Web"
+excerpt: Simple steps to make you more secure and help protect your privacy online.
 date: 2017-03-15T12:47:11+08:00
 author: Josh Habdas
 categories:
