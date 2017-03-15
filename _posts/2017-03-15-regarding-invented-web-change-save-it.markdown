@@ -17,7 +17,7 @@ header:
   teaser: binary-1327493_500.jpg
 ---
 
-A few days ago Sir Tim Berners-Lee, the inventor of the Web posted [a short article on The Guardian](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet) covering three things we need to do to save the Web.
+In March of 2017 Sir Tim Berners-Lee, the inventor of the Web posted [a short article on The Guardian](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet) covering three things we need to do to save the Web.
 
 To paraphrase, they are:
 
