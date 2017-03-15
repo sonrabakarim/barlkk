@@ -11,6 +11,7 @@ tags:
   - web
   - privacy
   - security
+  - net neutrality
 header:
   overlay_image: binary-1327493_1280.jpg
   overlay_filter: 0.5
