@@ -25,7 +25,7 @@ To paraphrase, they are:
 - Improve diversity in Social media and Search channels
 - Create more transparency behind political advertising
 
-The third of which is, in my opinion, really just an extension of the second, so let's briefly cover the first two and **what you can do as individual to address Tim's concerns right now**. When you're finished, you'll have a deeper understanding of how to protect your privacy online.
+The third of which is, in my opinion, really just an extension of the second, so let's briefly cover the first two and **what you can do as individuals to address Tim's concerns right now**. When you're finished, you'll have a deeper understanding of how to protect your privacy online.
 
 > Increase individual control over sharing of personal data
 
