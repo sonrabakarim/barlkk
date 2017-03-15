@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-02-12
+modified: 2017-03-16
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -86,5 +86,8 @@ To be considered "Universal" for the purposes of this list components must not o
 
 **[Carbon UI](https://carbon-ui.com/)**
 <br>Piggybacking on **React Native Web** Carbon UI is a <abbr title="Material UI">MUI</abbr> clone [being released](https://github.com/callemall/material-ui/issues/593#issuecomment-265753123) just in time for the 2016 holidays. That's arguably a better gift than [a years' worth of 24 Ways](https://24ways.org/). Giggity.
+
+**[Animated](https://github.com/animatedjs/animated)**
+<br>Declarative Animations Library for React and React Native. My favorite part is in the README and I quote "At some point, React Native will itself depend on this library." Whoa.
 
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of the linking site. For example, if the author doesn't trust it, does not wish to pass authority, or if there is commercial relationship between the two, a link is more likely to be nofollowed. `nofollow` links play a role in the passage of authority and page rank in Search engine algorithms.
