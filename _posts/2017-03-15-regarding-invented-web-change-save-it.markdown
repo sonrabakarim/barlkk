@@ -1,5 +1,5 @@
 ---
-title: I invented the web. Here are three things we need to change to save it
+title: Re: I invented the web. Here are three things we need to change to save it
 date: 2017-03-15T12:47:11+08:00
 author: Josh Habdas
 categories:
@@ -10,6 +10,10 @@ tags:
   - web
   - privacy
   - security
+header:
+  overlay_image: binary-1327493_1280.jpg
+  overlay_filter: 0.5
+  teaser: binary-1327493_500.jpg
 ---
 
 A few days ago Sir Tim Berners-Lee, the inventor of the Web posted [a short article on The Guardian](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet) covering three things we need to do to save the Web.
