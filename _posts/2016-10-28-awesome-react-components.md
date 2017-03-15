@@ -47,6 +47,9 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 
 Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
 
+**[React Swipeable Views](https://github.com/oliviertassinari/react-swipeable-views)**
+<br>Does what it says on the tin.
+
 **[Lottie](https://github.com/airbnb/lottie-react-native)**
 <br>I saw this one announced on Medium though it already had over **3,000 stargazers** by the time I saw it. Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! It's wrapper for React Native was open sourced in late January 2017.
 
