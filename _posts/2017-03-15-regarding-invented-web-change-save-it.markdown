@@ -1,11 +1,11 @@
 ---
-title: Re: I invented the web. Here are three things we need to change to save it
+title: "Re: I invented the web. Here are three things we need to change to save it"
 date: 2017-03-15T12:47:11+08:00
 author: Josh Habdas
 categories:
   - opinion
 tags:
-  - social
+  - social media
   - internet
   - web
   - privacy
