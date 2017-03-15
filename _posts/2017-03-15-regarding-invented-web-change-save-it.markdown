@@ -5,7 +5,7 @@ author: Josh Habdas
 categories:
   - opinion
 tags:
-  - social media
+  - social
   - internet
   - web
   - privacy
