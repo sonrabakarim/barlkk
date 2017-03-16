@@ -15,7 +15,7 @@ tags:
 header:
   overlay_image: binary-1327493_1280.jpg
   overlay_filter: 0.5
-  teaser: binary-1327493_500.jpg
+  teaser: binary-1327493_512.jpg
 ---
 
 In March of 2017 Sir Tim Berners-Lee, the inventor of the Web posted [a short article on The Guardian](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet) covering three things we need to do to save the Web.
