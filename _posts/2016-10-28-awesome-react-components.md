@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-03-16
+modified: 2017-03-17
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -45,13 +45,10 @@ _Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of
 
 # React Native
 
-Awesome components (native modules) for building React Native apps. All of which support both iOS and Android.
+Awesome component libraries and native modules for building React Native apps.
 
-**[React Swipeable Views](https://github.com/oliviertassinari/react-swipeable-views)**
-<br>Does what it says on the tin.
-
-**[Lottie](https://github.com/airbnb/lottie-react-native)**
-<br>I saw this one announced on Medium though it already had over **3,000 stargazers** by the time I saw it. Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! It's wrapper for React Native was open sourced in late January 2017.
+**[Styled Components](https://styled-components.com/)**
+<br>From Glen Maddern and Max Stoiber, styled components for the component age. Uses tagged template literals and enables you to write "actual CSS" to style your components. That's cool. Learned about this one from [a post by Jani Eväkallio](https://medium.com/react-native-development/react-native-app-stack-march-2017-f7605e02d46f).
 
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
 <br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a few components, provides an opinionated way to theme apps and perform common animations (e.g. parallax). Pretty slick.
@@ -80,8 +77,14 @@ Awesome components (native modules) for building React Native apps. All of which
 **[React Native Video](https://github.com/react-native-community/react-native-video)**
 <br>Looking to add a fullscreen video background to your RN app? Here's your ticket. From [Brent Vatne](https://github.com/brentvatne), creator of [Exponent](https://www.getexponent.com/), this native module--now a part of a collective group of components managed by the [React Native Community](https://github.com/react-native-community/)--makes it a cinch to enable stunning visual effects in your app.
 
+**[React Swipeable Views](https://github.com/oliviertassinari/react-swipeable-views)**
+<br>Does what it says on the tin. Swipeable views for your React Native app.
+
 **[React Native Maps](https://github.com/airbnb/react-native-maps)**
 <br>From the homies at Airbnb, do map stuff with React Native. The RN core team has [planned](https://github.com/facebook/react-native/wiki/Roadmap#stability) to remove their MapView (yeah, who knew?) in favor of this bad shooting star.
+
+**[Lottie](https://github.com/airbnb/lottie-react-native)**
+<br>Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! It's wrapper for React Native was open sourced in late January 2017.
 
 # Universal
 
