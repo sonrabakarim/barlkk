@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-03-17
+modified: 2017-03-18
 excerpt: Awesome React Components to help you build better, faster, stronger apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -67,6 +67,9 @@ Awesome component libraries and native modules for building React Native apps.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
+
+**[React Native Simple Auth](https://github.com/adamjmcgrath/react-native-simple-auth)**
+<br>Looking for more control over how your users authenticate? Roll your own authentication setup for Google, Facebook, Twitter or Tumblr.
 
 **[React Native Router Flux](https://github.com/aksonov/react-native-router-flux/)**
 <br>Routing in RN is, ahem, a bit of suck. In fact, there are [several ways to do navigation](https://facebook.github.io/react-native/docs/navigation.html) in RN core. Instead of rolling your own, use React Native Router Flux -- which integrates easily with Redux -- to help you manage card-based scenes in your app.
