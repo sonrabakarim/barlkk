@@ -23,7 +23,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <h4>Why spend time doing this?</h4>
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
-    <li>A personal hacker blog that [looks like this](https://hackcabin.com).</li>
+    <li>A personal hacker blog that <a href="https://hackcabin.com">looks like this</a>.</li>
     <li>Paints in <b>250-300ms</b> as clocked by Lighthouse</li>
     <li><b>Zero-downtime</b> deployments</li>
     <li>Ability to generate <b>400 blog posts in a half-second</b></li>
