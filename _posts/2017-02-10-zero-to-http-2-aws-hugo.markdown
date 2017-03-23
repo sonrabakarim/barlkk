@@ -25,6 +25,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
   <ul>
     <li>A personal hacker blog with <b>PageSpeed 100</b> for desktop and mobile</li>
     <li><b>Zero-downtime</b> deployments</li>
+    <li><b>250-300ms paints</b> as clocked by Lighthouse</li>
     <li>Mobile <b>interactive pages in 0.767 seconds</b>, worldwide over LTE</li>
     <li>Ability to generate <b>400 blog posts in a half-second</b></li>
     <li><b>HTTPS by default</b>, with full transference of link juice</li>
