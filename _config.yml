@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "habd.as"
 title_separator          : "-"
 name                     : "Josh Habdas"
-description              : "Building the future Web"
+description              : "Build the future Web"
 url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/jhabdas/habd.as/
@@ -63,7 +63,7 @@ google_ad_slot           : 5217752381 # habd.as - Main Config Ad Slot
 author:
   name             : "Josh Habdas"
   avatar           : "bio-photo.jpg"
-  bio              : Freelance app dev gone Nomad. Currently stomping around in Southeast Asia.
+  bio              : I'm not just a software engineer. Writing elegant code is only one of the ways I enjoy solving problems.
   location         : "Bali, Indonesia"
   email            :
   uri              :
