@@ -35,7 +35,7 @@ Ivan goes on to share code snippets for implementing HTTP/2 in several popular N
 
 Here's what your blog will look like, excluding your customizations (click to view live example):
 
-[![After Dark theme for Hugo screenshots](https://github.com/comfusion/after-dark/blob/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
+[![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
 
 When you're ready to get your hands dirty, continue on for the full set of step-by-step instructions on how to go from Zero to HTTP/2 with AWS and Hugo.
 
