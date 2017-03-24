@@ -33,8 +33,8 @@ After trying a number of SSGs myself over the years **the one I've zeroed in on 
 - **It's ultra flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on, Hugo was built from the ground up with freedom of content structure in mind.
 - **It's fun!** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
 
-[![After Dark theme for Hugo screenshot](/images/after-dark-framed.png)](https://comfusion.github.io/after-dark/)
+![After Dark theme for Hugo screenshots](https://github.com/comfusion/after-dark/blob/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")
 
-There are **some downsides**, don't get me wrong. For starters, Hugo hasn't been around as long as Jekyll and, as a result, doesn't not have as large of a community. Additionally, you may find a few holes in Hugo's documentation--which is otherwise pretty great.
+There are **some downsides** to Hugo, don't get me wrong. For starters, Hugo hasn't been around as long as Jekyll and, as a result, doesn't not have as large of a community. Additionally, you may find a few holes in Hugo's documentation--which is otherwise pretty great.
 
 So what are you waiting for? **[Give Hugo a try](/zero-to-http-2-aws-hugo/)**. And, while you're at it, check out the [After Dark theme](https://comfusion.github.io/after-dark/) for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.
