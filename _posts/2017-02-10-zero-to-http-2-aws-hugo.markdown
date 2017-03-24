@@ -159,6 +159,8 @@ Navigate to your website's custom domain name and ensure it is being served over
 
 **That's it. You're finished. This time for real.**
 
-You've just gone from Zero to HTTP/2 with AWS and Hugo. Now you can start building your APIs using [Serverless and Lambda](https://habd.as/serverless-email-forwards-ses-lambda-crash-course/) or even set-up your own [self-hosted Git service using Gitea](https://gitea.io/) for hosting your code.
+You've just gone from Zero to HTTP/2 with AWS and Hugo.
+
+Now you can start building your APIs using [Serverless and Lambda](https://habd.as/serverless-email-forwards-ses-lambda-crash-course/) or even set-up your own [self-hosted Git service using Gitea](https://gitea.io/) for hosting your code. Maybe you want to start measuring the speed of your website with [Speedtracker](https://speedtracker.org). The possibilities are endless. Have fun!
 
 Please feel free to share your success stories or battle cries in the comments section below.
