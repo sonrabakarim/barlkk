@@ -41,9 +41,9 @@ feature_row1:
     alt: "After Dark screenshot"
     title: "After Dark"
     excerpt: >
-      A retro dark theme for the Hugo static site generator, easing nighttime reading while achieving PageSpeed 100 straight out of the box.
+      A retro dark theme for the Hugo static site generator, easing nighttime reading and providing a framework for JAMstack sites.
       <br><br>
-      <small>Golang / HTML5 / CSS3 / Hugo Static Site Generator</small>
+      <small>Golang / JavaScript / HTML5 / CSS3 / Hugo </small>
     url: "https://comfusion.github.io/after-dark/"
     btn_label: "Visit Docs"
     btn_class: "btn--inverse"
