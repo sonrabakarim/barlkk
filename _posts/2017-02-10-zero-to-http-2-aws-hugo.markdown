@@ -2,10 +2,10 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-03-06
-excerpt: A step-by-step guide to building your own hacker blog.
+modified: 2017-03-24
+excerpt: A step-by-step guide to building your own JAMstack hacker blog.
 categories: [tutorials]
-tags: [aws, hugo, http2, webperf, web, ssl, https]
+tags: [aws, hugo, http2, webperf, web, ssl, https, jamstack]
 header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
   overlay_filter: 0.5
@@ -13,11 +13,9 @@ header:
 featured: true
 ---
 
-Those who subscribe to [Node Weekly](http://nodeweekly.com/) may have seen a post in early 2017 from Ivan Jovanovic titled [Running Express, Koa And Hapi On HTTP/2](http://ivanjov.com/running-express-koa-and-hapi-on-http-2/). In his post Ivan gives a brief overview of the new HTTP protocol and describes some of the HTTP/2 key advantages, such as speed.
+So you read about how <a href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener"> and want to create your own JAMstack website. If so, you're in luck. And I'll show you how to do it without Netifly so you can close your source code without payout through the nose for hosting.
 
-Ivan goes on to share code snippets for implementing HTTP/2 in several popular Node-based web servers, something JS developers (especially fans of [rollup.js](http://rollupjs.org/)) might enjoy, but entirely unnecessary if you're using CloudFront---which [announced HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2016/09/amazon-cloudfront-now-supports-http2/) in September 2016---to serve static websites like those generated with Hugo.
-
-**In this post you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.**
+**In this tutorial you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.**
 
 <aside class="notice--success">
   <h4>Why spend time doing this?</h4>
@@ -161,6 +159,6 @@ Navigate to your website's custom domain name and ensure it is being served over
 
 **That's it. You're finished. This time for real.**
 
-You've just gone from Zero to HTTP/2 with AWS and Hugo. Please feel free to share your success stories or battle cries in the comments section below.
+You've just gone from Zero to HTTP/2 with AWS and Hugo and can start building your APIs using [Serverless and Lambda](https://habd.as/serverless-email-forwards-ses-lambda-crash-course/).
 
-Page generation speed measured in Feb '17 with Hugo v0.18 on a MacBook Pro with 2.5 GHz Intel Core i7 with 500GB Flash Storage running macOS Sierra (10.12.3) using the content from [collantes.us](https://collantes.us/).
+Please feel free to share your success stories or battle cries in the comments section below.
