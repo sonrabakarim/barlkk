@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [*@kfred*](https://unsplash.com/@kfred)"
 feature_row1_overview:
-  - excerpt: "For static site development and hosting please head over to [comfusionllc.com](http://comfusionllc.com). Thank you!"
+  - excerpt: "For JAMstack site development and hosting please head over to [comfusionllc.com](http://comfusionllc.com). Thank you!"
 feature_row1:
   -
     image_path: chicago-gang-history-at-launch.png
