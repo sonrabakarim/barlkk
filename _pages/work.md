@@ -37,7 +37,7 @@ feature_row1:
     btn_label: "View Source"
     btn_class: "btn--inverse"
   -
-    image_path: after-dark-framed.png
+    image_path: https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png
     alt: "After Dark screenshot"
     title: "After Dark"
     excerpt: >
