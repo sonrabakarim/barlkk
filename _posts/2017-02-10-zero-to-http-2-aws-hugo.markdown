@@ -23,8 +23,8 @@ So you learned how <a target="_blank" href="https://www.netlify.com/blog/2017/03
   <ul>
     <li>A personal hacker blog that <a href="https://hackcabin.com">looks like this</a>.</li>
     <li>First paint in <b>250-300ms</b> as clocked by Lighthouse.</li>
-    <li><b>Zero-downtime</b> deployments.</li>
-    <li>Ability to generate <b>400 blog posts in a half-second</b>.</li>
+    <li><b>Zero-downtime</b> deployments with automatic cache busting.</li>
+    <li>Ability to generate <b>800+ pages per second</b>.</li>
     <li><b>HTTPS by default</b>, with 301 redirects from HTTP.</li>
     <li>A way to <b>receive emails</b> at your own domain <i>without Google</i>.</li>
     <li>Best of all, <b>no more SSL cert renewals</b>.</li>
