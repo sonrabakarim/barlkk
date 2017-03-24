@@ -26,7 +26,7 @@ So you learned how <a target="_blank" href="https://www.netlify.com/blog/2017/03
     <li><b>Zero-downtime</b> deployments with automatic cache busting.</li>
     <li>Ability to generate <b>800+ pages per second</b>.</li>
     <li><b>HTTPS by default</b>, with 301 redirects from HTTP.</li>
-    <li>A way to <b>receive emails</b> at your own domain <i>without Google</i>.</li>
+    <li>A way to <b>receive email at your own domain</b> without Google.</li>
     <li>Best of all, <b>no more SSL cert renewals</b>.</li>
   </ul>
 </aside>
