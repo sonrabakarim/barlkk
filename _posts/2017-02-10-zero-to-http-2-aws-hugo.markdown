@@ -13,7 +13,7 @@ header:
 featured: true
 ---
 
-So you learned how <a href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own JAMstack website. If so, you're in luck. And I'll show you how to do it without Netifly so you can close your source code without payout through the nose for hosting.
+So you learned how <a target="_blank" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own JAMstack website. If so, you're in luck. And I'll show you how to do it without Netifly so you can close your source code without payout through the nose for hosting.
 
 **In this tutorial you will learn how to go from Zero to HTTP/2 with AWS and Hugo, the [fastest static site generator](/choose-hugo-over-jekyll/) in existence.**
 
