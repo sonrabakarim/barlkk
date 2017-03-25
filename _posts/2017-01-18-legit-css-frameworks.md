@@ -82,7 +82,7 @@ Frameworks and libraries to help you really move your users. Some may depend on 
 
 ### Complex
 
-Complex frameworks typical use JS, Canvas and other technologies to achieve interactive effects. Some of these require a commercial licence for use in client projects.
+Complex frameworks typically use advanced HTML5 techniques to achieve interactive effects. Some of these require a licenses for use in commercial projects.
 
 **[Sequence](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
@@ -112,7 +112,7 @@ CSS animation frameworks with a little JS to help get the job done.
 
 ### Simple
 
-CSS-only frameworks for simple animation effects.
+CSS-only frameworks for super-simple animation effects.
 
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
 <br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
