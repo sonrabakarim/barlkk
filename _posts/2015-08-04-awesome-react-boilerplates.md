@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2017-02-15
+modified: 2017-03-25
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
