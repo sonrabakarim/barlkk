@@ -2,8 +2,8 @@
 title: Legit CSS Frameworks
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-02-15
-excerpt: An evergreen list of free and open source CSS frameworks worthy of your time.
+modified: 2017-03-25
+excerpt: An evergreen list of free and open source CSS and animation frameworks worth checking out.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
 header:
@@ -76,12 +76,29 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 **[Spectre](https://picturepan2.github.io/spectre/)**
 <br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](https://habd.as/legit-css-frameworks/#comment-3106269595) for bringing it to my attention in the comment section below.
 
-## Animation CSS frameworks
+## Animation and visualization frameworks
 
-Frameworks and libraries to help you really move your users.
+Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS.
+
+## Complex
 
 **[Sequence.js](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
+
+**[WhitestormJS](https://whsjs.io/)**
+<br>A super gnarly physics library for interactive 3D physics animations. Checkout out [some of the examples](https://whs-dev.surge.sh/examples/).
+
+**[three.js](https://threejs.org/)**
+<br>A lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js scripts may be used in conjunction with the HTML5 canvas element, SVG or WebGL.
+
+**[A-Frame](https://aframe.io/)**
+<br>A web framework for building virtual reality experiences
+Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms. For an example React boilerplate using A-Frame, check out [Awesome React Boilerplates](/awesome-react-boilerplates).
+
+**[D3.js](https://d3js.org/)**
+<br>JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
+
+### Simple
 
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
 <br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
