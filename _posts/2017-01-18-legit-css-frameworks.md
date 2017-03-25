@@ -78,7 +78,7 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 
 ## Animation and visualization
 
-Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS.
+Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS. See also [CSS Animation Tools, Frameworks & Tutorials](https://speckyboy.com/css-animation/).
 
 ### Complex
 
