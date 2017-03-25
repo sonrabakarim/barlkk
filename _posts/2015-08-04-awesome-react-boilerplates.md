@@ -35,7 +35,7 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 
 <aside class="notice--success">
   <h4>Need a diversion?</h4>
-  <p>Learn to build your own hacker blog in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a>, only on <i><a href="https://habd.as">habd.as</a></i>.</p>
+  <p>Learn to create your own <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack site</a> like Smashing Magazine in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a>.</p>
 </aside>
 
 **[ARc](https://github.com/diegohaz/arc)**
