@@ -80,7 +80,9 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 
 Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS.
 
-## Complex
+### Complex
+
+Complex frameworks typical use JS, Canvas and other technologies to achieve interactive effects. Some of these require a commercial licence for use in client projects.
 
 **[Sequence.js](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
@@ -99,6 +101,8 @@ Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile 
 <br>JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
 
 ### Simple
+
+CSS-only frameworks for simple animation effects.
 
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
 <br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
