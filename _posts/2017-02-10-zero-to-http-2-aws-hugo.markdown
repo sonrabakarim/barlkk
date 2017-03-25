@@ -27,7 +27,7 @@ So you learned how <a target="_blank" href="https://www.netlify.com/blog/2017/03
     <li>Ability to generate <b>800+ pages per second</b>.</li>
     <li><b>HTTPS by default</b>, with 301 redirects from HTTP.</li>
     <li>A way to <b>receive email at your own domain</b> without Google.</li>
-    <li>Best of all, <b>no more SSL cert renewals</b>.</li>
+    <li>Best of all, <b>no more Let's Encrypt</b>.</li>
   </ul>
 </aside>
 
