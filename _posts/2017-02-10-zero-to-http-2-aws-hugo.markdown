@@ -31,7 +31,7 @@ So you learned how <a target="_blank" href="https://www.netlify.com/blog/2017/03
   </ul>
 </aside>
 
-Here's what your blog will look like, excluding your customizations (click to view live example):
+Here's what your blog will look like, excluding your customizations (click for preview):
 
 [![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
 
