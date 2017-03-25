@@ -1,8 +1,8 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-03-18
-excerpt: Awesome React Components to help you build better, faster, stronger apps.
+modified: 2017-03-25
+excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
 header:
@@ -53,6 +53,11 @@ Awesome component libraries and native modules for building React Native apps.
 **[Shoutem UI Toolkit](https://shoutem.github.io/ui/)**
 <br>Shoutem UI toolkit enables you to build professionally looking React Native apps with ease. It includes quite a few components, provides an opinionated way to theme apps and perform common animations (e.g. parallax). Pretty slick.
 
+<aside class="notice--success">
+  <h4>Need a diversion?</h4>
+  <p>Learn to create your own <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack site</a> like Smashing Magazine in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a>.</p>
+</aside>
+
 **[React Native Web](https://github.com/necolas/react-native-web)**
 <br>From Nicolas Gallagher, creator of [SUIT CSS](https://suitcss.github.io/), this project aims to bring the power of React Native building blocks and touch handling to the Web. Forrealzies!
 
@@ -63,7 +68,7 @@ Awesome component libraries and native modules for building React Native apps.
 <br>Hold your jokes about the name, here's another UI framework for React Native. It's not necessarily awesome yet but I'm adding it here for tracking purposes as it's open source and could become awesome if enough people get behind it.
 
 **[CodePush](https://microsoft.github.io/code-push/)**
-<br>Somehow still the #2 result on Google for the term "CodePush", this component has been called "the most hipster thing" out of Microsoft in...quite some time. CodePush allows devs to make remote changes to installed apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to your back-end. Word to the weary, this is a single point of failure.
+<br>CodePush has been called "the most hipster thing" out of Microsoft in, well, quite some time. CodePush allows devs to make remote changes to installed apps without going through the App and Play stores. It does add a bit of complexity and planning, but the payoff will be worth it if you're making a breaking change to your back-end. Word to the weary, this is a single point of failure.
 
 **[React Native Lock](https://auth0.com/lock)**
 <br>From the team who brought us [Auth0](https://auth0.com/), the Lock component makes it simple to add authentication and password resets using email and social to your app. It even supports TouchID for iOS and can do Passwordless logins as well.
