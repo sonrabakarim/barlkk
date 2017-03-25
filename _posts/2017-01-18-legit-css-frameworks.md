@@ -107,6 +107,9 @@ CSS animation frameworks with a little JS to help get the job done.
 **[Animatic](http://lvivski.com/animatic/)**
 <br>Animatic gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation.
 
+**[Animate Plus](https://github.com/bendc/animateplus)**
+<br>Animate Plus is a CSS and SVG animation library for modern browsers. Animate Plus is performant and lightweight (2.8KB gzipped), making it particularly well-suited for mobile.
+
 ### Simple
 
 CSS-only frameworks for simple animation effects.
