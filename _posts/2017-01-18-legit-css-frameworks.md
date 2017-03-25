@@ -76,7 +76,7 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 **[Spectre](https://picturepan2.github.io/spectre/)**
 <br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](https://habd.as/legit-css-frameworks/#comment-3106269595) for bringing it to my attention in the comment section below.
 
-## Animation and visualization frameworks
+## Animation and visualization
 
 Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS.
 
@@ -84,21 +84,28 @@ Frameworks and libraries to help you really move your users. Some may depend on 
 
 Complex frameworks typical use JS, Canvas and other technologies to achieve interactive effects. Some of these require a commercial licence for use in client projects.
 
-**[Sequence.js](http://www.sequencejs.com/)**
+**[Sequence](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
 
-**[WhitestormJS](https://whsjs.io/)**
+**[Whitestorm](https://whsjs.io/)**
 <br>A super gnarly physics library for interactive 3D physics animations. Checkout out [some of the examples](https://whs-dev.surge.sh/examples/).
 
-**[three.js](https://threejs.org/)**
+**[three](https://threejs.org/)**
 <br>A lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js scripts may be used in conjunction with the HTML5 canvas element, SVG or WebGL.
 
 **[A-Frame](https://aframe.io/)**
 <br>A web framework for building virtual reality experiences
 Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms. For an example React boilerplate using A-Frame, check out [Awesome React Boilerplates](/awesome-react-boilerplates).
 
-**[D3.js](https://d3js.org/)**
+**[D3](https://d3js.org/)**
 <br>JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
+
+### Medium complexity
+
+CSS animation frameworks with a little JS to help get the job done.
+
+**[Animatic](http://lvivski.com/animatic/)**
+<br>Animatic gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation.
 
 ### Simple
 
