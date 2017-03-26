@@ -2,7 +2,7 @@
 title: Legit CSS Frameworks
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-03-25
+modified: 2017-03-26
 excerpt: An evergreen list of free and open source CSS and animation frameworks worth checking out.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
@@ -40,6 +40,9 @@ Like Foundation, Bootstrap features a [web-based customizer](http://getbootstrap
 
 **[Material UI](http://material-ui.com)**
 <br>Though I've covered Material UI in my list of [Awesome React Components](/awesome-react-components) it's worth mentioning here as this framework set the bar early for building component-based Web apps using React. Material UI is a well-thought-out framework for building responsive applications for the Web using Google's [Material Design ethos](https://material.io/guidelines/).
+
+**[Material Design for Bootstrap](http://fezvrasta.github.io/bootstrap-material-design/)**
+<br>It's hard to ignore a repo with **more than 17,000** stargazers. Material Design Bootstrap is a Material Design "theme" for Bootstrap 3 and 4, bringing the best of two worlds together under a single framework.
 
 **[Materialize](http://materializecss.com/)**
 <br>Yet another Material Design framework, Materialize gives you the same Google design feeling as the others but also includes JavaScript widgets which don't require React to function. So if you're looking to build responsive Websites with Material Design, with interactivity beyond what Material Design Lite provides, this may be the framework for you.
