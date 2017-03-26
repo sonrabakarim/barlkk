@@ -21,17 +21,17 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
   <h4>Why spend time doing this?</h4>
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
-    <li>A personal hacker blog that <a href="https://hackcabin.com">looks like this</a>.</li>
-    <li>First paint in <b>250-300ms</b> as clocked by Lighthouse.</li>
-    <li><b>Zero-downtime</b> deployments with automatic cache busting.</li>
+    <li>Your own JAMstack site built on <a href="http://go.habd.as/2n4mmjC">After Dark.</a></li>
+    <li>First paints in <b>~300ms or less</b>, as clocked by Lighthouse.</li>
+    <li><b>Zero-downtime deployments</b> with instant cache invalidation.</li>
     <li>Ability to generate <b>800+ pages per second</b>.</li>
-    <li><b>HTTPS by default</b>, with 301 redirects from HTTP.</li>
-    <li>A way to <b>receive email at your own domain</b> without Google.</li>
-    <li>Best of all, <b>no more Let's Encrypt</b>.</li>
+    <li><b>HTTPS by default</b>, with automatic secure redirects.</li>
+    <li>Domain <b>email forwarding</b> with cryptographic message authentication.</li>
+    <li><b>Custom SSL/TLS</b> certs with automatic renewal.</li>
   </ul>
 </aside>
 
-Here's what your blog will look like, excluding your customizations (click for preview):
+And here's what your new JAMstack site will look like, save for your personal theme customizations (click for preview):
 
 [![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
 
