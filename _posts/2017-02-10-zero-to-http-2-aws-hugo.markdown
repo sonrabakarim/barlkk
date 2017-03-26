@@ -31,7 +31,7 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
   </ul>
 </aside>
 
-And here's what your new JAMstack site will look like, save for your personal theme customizations (click for preview):
+And here's what your new site will look like, save for personal customizations (click for preview):
 
 [![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")](https://hackcabin.com)
 
