@@ -39,7 +39,7 @@ When you're ready to get your hands dirty, continue on for the full set of step-
 
 ## Get started with AWS and Hugo
 
-First, [create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/). If this is your first time using AWS you will benefit from a free year of service (after that it's on par with the [Vultr 20 GB SSD plan](http://go.habd.as/2oiL54G)).
+First, [create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/). If this is your first time using AWS you will benefit from a free year of service (after that it's on par with the [Vultr 20GB SSD plan](http://go.habd.as/2oiL54G)).
 
 Next, install [After Dark](https://github.com/comfusion/after-dark), a hacker   theme I created for Hugo. The instructions assume you're using macOS, though other platforms are supported as well.
 
