@@ -1,15 +1,17 @@
 ---
-title: Legit CSS Frameworks
+title: JAMstack CSS Frameworks, Tools and Libraries
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-03-26
-excerpt: An evergreen list of free and open source CSS and animation frameworks worth checking out.
+modified: 2017-03-27T16:22:00+08:00
+excerpt: An list of CSS frameworks for building your JAMstack sites.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
 header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5
   teaser: circular-837510_500x333.jpg
+redirect_from:
+  - /legit-css-frameworks/
 ---
 {% include toc %}
 
