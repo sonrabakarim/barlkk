@@ -2,11 +2,11 @@
 title: Drupal 7 for WordPress Admins
 author: Josh Habdas
 date: 2012-01-29
+modified: 2017-03-27
 categories:
   - tutorials
 tags:
-  - blogging
-  - cmf
+  - web development
   - cms
   - drupal
   - webmaster
@@ -15,6 +15,9 @@ tags:
 WordPress continues to become more and more sophisticated as time draws on, with a constantly improving admin dashboard and easy-to-use plugin architecture. And themes like [Twenty Eleven][1] give both bloggers and web developers something to appreciate. But while WordPress is a great CMS for personal blogs, it's not well suited for more complex applications such as e-commerce, discussion forums, or collaborative wikis. [Drupal][2], on the other hand, and by design, excels at all of the above and more. This article will look at some of the similarities and differences between WordPress and Drupal 7, explain how to accomplish some of the less intuitive administration procedures in Drupal, share some newbie gotchas and timesavers, and provide a list of modules useful to get a new Drupal site off the ground. It is assumed readers are new to Drupal but have a familiarity with using the [WordPress][3] blogging platform.
 
 <!--more-->
+
+**Still using a CMS?** Modern static site generators have advanced to the point you may no longer need a CMS. Learn more about the [JAMstack](https://jamstack.org/) and check out cloud CMS's like [CloudCannon](http://cloudcannon.com/) and [Siteleaf](https://siteleaf.com/).
+{: .notice--success}
 
 ## Similarities between WordPress and Drupal
 
