@@ -38,6 +38,8 @@ And here's what your new site will look like, save for personal customizations (
 
 When you're ready to get your hands dirty, continue on for the full set of step-by-step instructions on how to go from Zero to HTTP/2 with AWS and Hugo.
 
+{% include toc %}
+
 ## Get started with AWS and Hugo
 
 First, [create an AWS account](https://portal.aws.amazon.com/gp/aws/developer/registration/). If this is your first time using AWS you will benefit from a free year of service (after that it's on par with the [Vultr 20GB SSD plan](http://go.habd.as/2oiL54G)).
