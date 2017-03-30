@@ -39,7 +39,7 @@ After trying a number of static site generators myself over the years to build m
 
 There are **some downsides** to Hugo, don't get me wrong. For starters, Hugo hasn't been around as long and, as a result, doesn't not have as large of a community as more well established SSGs like Jekyll. Additionally, you may find a few holes in Hugo's documentation--which is otherwise pretty great.
 
-**Update 30 Mar 2017:** Hugo is currently under way of rollout out an entirely new documentation site. The last one was good. The next one will be even better.
+**Update 30 Mar 2017:** Hugo is currently under way of rolling out an entirely new documentation site. The last one was good. The next one will be even better.
 {: .notice--info}
 
 So what are you waiting for? **[Give Hugo a try](/zero-to-http-2-aws-hugo/)**. And, while you're at it, check out the [After Dark theme](https://comfusion.github.io/after-dark/) and for a [culture jamming](https://en.wikipedia.org/wiki/Vaporwave) take on content publishing in the new millennium.
