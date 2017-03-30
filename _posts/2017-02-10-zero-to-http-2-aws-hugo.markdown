@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-03-30
+modified: 2017-03-30T19:29:00+08:00
 excerpt: A step-by-step guide to building your own JAMstack hacker blog.
 categories: [tutorials]
 tags: [aws, hugo, http2, perfmatters, web, ssl, https, jamstack]
@@ -161,6 +161,6 @@ Navigate to your website's custom domain name and ensure it is being served over
 
 You've just gone from Zero to HTTP/2 with AWS and Hugo.
 
-Now you can start building your APIs using [Serverless and Lambda](/serverless-email-forwards-ses-lambda-crash-course/) or even set-up your own [self-hosted Git service using Gitea](https://gitea.io/) for hosting your code. Maybe you want to start measuring the speed of your website with [Speedtracker](https://speedtracker.org). The possibilities are endless. Have fun!
+From here you can start [customizing the theme](https://comfusion.github.io/after-dark/#customizing), create some microservices for your site using [Serverless and Lambda](/serverless-email-forwards-ses-lambda-crash-course/), set-up your own [self-hosted Git service](https://gitea.io/) using Gitea. Or maybe you want to start measuring the speed of your website over time with [Speedtracker](https://speedtracker.org), explore some of the other [beautiful Hugo themes](http://themes.gohugo.io/) available, or even create your own theme using some of the [JAMstack CSS Frameworks, Tools and Libraries](/jamstack-css-framework-tool-library/). The possibilities are endless. Have fun!
 
-Please feel free to share your success stories or battle cries in the comments section below.
+And, as always, please feel free to share your success stories or battle cries in the comments section below.
