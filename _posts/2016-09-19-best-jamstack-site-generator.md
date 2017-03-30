@@ -32,7 +32,7 @@ After trying a number of static site generators myself over the years to build m
   **Update 10 Feb 2017:** As of Hugo v0.17, when multilingual sites were introduced, Hugo site generation speed has---wait for it---doubled!
   {: .notice--info}
 
-- **It's ultra flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on, Hugo was built from the ground up with freedom of content structure in mind.
+- **It's ultra flexible.** Unlike Jekyll, which was blog-focused until [Collections](https://jekyllrb.com/docs/collections/) were bolted on version 3 (albeit, in a very well-thought out way), Hugo was built from the ground up with freedom of content structure in mind.
 - **It's fun!** To prove this last point I decided to create a theme for Hugo called [After Dark](https://comfusion.github.io/after-dark/) (pictured below). The initial theme creation process took about two days, and making it reminded me of the joys of coding for the Web circa 1995---back when flying toasters were all the rage.
 
 ![After Dark theme for Hugo screenshots](https://raw.githubusercontent.com/comfusion/after-dark/master/images/minimal-mac.png "After Dark running on a MacBook and iPhone")
