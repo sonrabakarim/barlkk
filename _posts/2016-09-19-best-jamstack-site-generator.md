@@ -26,7 +26,7 @@ Many are familiar with the idea of static site generators like Jekyll and [why t
 After trying a number of static site generators myself over the years to build my JAMstack sites, **the one I've zeroed in on is none other than [Hugo](https://gohugo.io)**. Here's just a few of the reasons why Hugo rocks the socks off the competition:
 
 - **It has zero dependencies.** Once you get a hold of the Hugo binary you're ready to roll. Many other static site generators require a complex environment and dependencies to run. For Jekyll, that means Ruby and RubyGems. For Hexo, you'll need Node and NPM. For Hugo, all you need is Hugo.
-- **It's easy to set-up.** If you're a OS X user, simply `brew install hugo` and you can start a new website with the `hugo new site` command. Hugo pre-built binaries are available for FreeBSD, Windows and Linux as well.
+- **It's easy to set-up.** If you're a macOS user, simply `brew install hugo` and you can start a new website with the `hugo new site` command. Hugo pre-built binaries are available for FreeBSD, Windows and Linux as well.
 - **It's extremely fast.** Unlike Jekyll or Hexo, which [can](https://mademistakes.com/articles/using-jekyll-2016/#posts-for-all-the-things) [take](https://github.com/hexojs/hexo/pull/550) hours to compile a large site, Hugo can generate up to [5,000 webpages in under 10 seconds](https://youtu.be/CdiDYZ51a2o).
 
   **Update 10 Feb 2017:** As of Hugo v0.17, when multilingual sites were introduced, Hugo site generation speed has---wait for it---doubled!
