@@ -21,7 +21,7 @@ redirect_from:
   - /choose-hugo-over-jekyll/
 ---
 
-Many are familiar with the idea of static site generators like Jekyll and [why they should use them](http://jekyll.tips/jekyll-casts/why-use-a-static-site-generator/). But those aren't the only <abbr title="Static Site Generator">SSG</abbr>s out there. In fact, there are literally <a href="https://staticsitegenerators.net/" rel="nofollow">hundreds of SSGs</a> guaranteed to give you analysis paralysis. With so many to choose from it can be difficult to decide which to use.
+Many are familiar with the idea of static site generators like Jekyll and [why they should use them](http://jekyll.tips/jekyll-casts/why-use-a-static-site-generator/). But Jekyll isn't the only <abbr title="Static Site Generator">SSG</abbr>s out there. In fact, there are literally <a href="https://staticsitegenerators.net/" rel="nofollow">hundreds of SSGs</a> guaranteed to give you analysis paralysis. With so many to choose from it can be difficult to decide which to use.
 
 After trying a number of static site generators myself over the years to build my JAMstack sites, **the one I've zeroed in on is none other than [Hugo](https://gohugo.io)**. Here's just a few of the reasons why Hugo rocks the socks off the competition:
 
