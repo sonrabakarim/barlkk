@@ -101,7 +101,7 @@ CLOUDFRONT_DISTRIBUTION_ID=A17WRF71NFFL7K
 
 ## You're done! Well, almost...
 
-Sites served over CloudFront allow HTTPS by default, meaning you do not have to do anything to enjoy SSL. However, if you're using a custom domain (which you can purchase starting at $12 per year via Route 53 in the AWS Console) you need to do a little more work.
+Sites served over CloudFront allow HTTPS by default, meaning you do not have to do anything to enjoy SSL. However, if you're using a custom domain (which can be purchased for as little as $0.88/year using [namecheap](http://go.habd.as/2nioaFH)) you need to do a little more work.
 
 ## Configure HTTPS on a custom domain
 
