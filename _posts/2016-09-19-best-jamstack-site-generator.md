@@ -1,5 +1,5 @@
 ---
-title: Hugo: The Best JAMstack Site Generator
+title: "Hugo: The Best JAMstack Site Generator"
 date: 2016-09-19T10:36:32-05:00
 modified: 2017-03-30
 author: Josh Habdas
