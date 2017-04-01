@@ -47,7 +47,7 @@ Next, install [After Dark](https://github.com/comfusion/after-dark), a hacker   
 
 ## Install s3_website
 
-`s3_website` is a RubyGem utilizing the AWS-CLI that can be used to automatically configure your website on AWS, and deploy it to CloudFront in a matter of seconds from your local machine. See [the README](https://github.com/laurilehmijoki/s3_website) for installation and usage instructions.
+[`s3_website`](https://github.com/laurilehmijoki/s3_website) is a RubyGem utilizing the AWS-CLI that can be used to automatically configure your website on AWS, and deploy it to CloudFront in a matter of seconds from your local machine. See [the README](https://github.com/laurilehmijoki/s3_website) for installation and usage instructions.
 
 **Note:** Be sure you install version 3.0.0 or better to take advantage of the HTTP/2 configuration settings for CloudFront distributions.
 {: .notice--info}
