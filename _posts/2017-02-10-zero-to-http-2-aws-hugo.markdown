@@ -5,7 +5,6 @@ date: 2017-02-10T16:41:53+08:00
 modified: 2017-04-01T10:42:00+08:00
 excerpt: A step-by-step guide to making your own JAMstack site using Amazon Web Services.
 categories: [tutorials]
-author_profile: false
 tags: [aws, hugo, http2, perfmatters, web, ssl, https, jamstack]
 header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
