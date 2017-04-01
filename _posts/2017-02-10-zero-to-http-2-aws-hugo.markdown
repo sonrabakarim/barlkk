@@ -13,7 +13,7 @@ header:
 featured: true
 ---
 
-So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own <a target="_intro" href="https://jamstack.org/" rel="noreferrer nofollow noopener">JAMstack site</a>. If so, you're in luck. And I'll show you how to do it using AWS, so you can get a **free year of hosting** and not have to worry about getting locked into a monthly plan thereafter.
+So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own <a target="_intro" href="https://jamstack.org/" rel="noreferrer nofollow noopener">JAMstack site</a>. If so, you're in luck. And I'll show you how to do it using AWS, so you can get a **free year of hosting** and not have to worry about getting locked into tiered plan pricing thereafter.
 
 **In this tutorial you will learn how to go from Zero to HTTP/2 with <abbr title="Amazon Web Services">AWS</abbr> and Hugo, the [fastest static site generator](/best-jamstack-site-generator/) in existence.**
 
