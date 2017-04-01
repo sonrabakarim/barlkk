@@ -22,7 +22,7 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
     <li>Your own JAMstack site built on <a href="http://go.habd.as/2n4mmjC">After Dark.</a></li>
-    <li><b>~1 second page loads</b> over <i>good</i> 2G connections.</li>
+    <li>Page content loads in a <b>single HTTP request</b>.</li>
     <li><b>Zero-downtime deployments</b> with instant cache invalidation.</li>
     <li>Ability to generate <b>~1000 pages per second</b>.</li>
     <li><b>HTTPS by default</b>, with automatic secure redirects.</li>
