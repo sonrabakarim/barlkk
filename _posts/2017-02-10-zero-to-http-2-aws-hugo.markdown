@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-03-30T19:29:00+08:00
+modified: 2017-04-01T10:42:00+08:00
 excerpt: A step-by-step guide to making your own JAMstack site using Amazon Web Services.
 categories: [tutorials]
 author_profile: false
@@ -14,7 +14,7 @@ header:
 featured: true
 ---
 
-So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own <a target="_intro" href="https://jamstack.org/" rel="noreferrer nofollow noopener">JAMstack site</a>. If so, you're in luck. And I'll show you how to do it without Netlify so you can close your source code without paying through the nose for hosting.
+So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Smashing Magazine's website just got 10x faster</a> and want to create your own <a target="_intro" href="https://jamstack.org/" rel="noreferrer nofollow noopener">JAMstack site</a>. If so, you're in luck. And I'll show you how to do it using AWS, so you can get a **free year of hosting** and not have to worry about getting locked into a monthly plan thereafter.
 
 **In this tutorial you will learn how to go from Zero to HTTP/2 with <abbr title="Amazon Web Services">AWS</abbr> and Hugo, the [fastest static site generator](/best-jamstack-site-generator/) in existence.**
 
