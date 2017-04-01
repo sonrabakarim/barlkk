@@ -21,7 +21,7 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
   <h4>Why spend time doing this?</h4>
   <p>Here are some carrots, assuming you even like vegetables. When finished you will have:</p>
   <ul>
-    <li>Your own <abbr title="JavaScript, APIs and Markup">JAM</abbr>stack site built on <a href="http://go.habd.as/2n4mmjC">After Dark.</a></li>
+    <li>Your own <abbr title="JavaScript, APIs and Markup">JAM</abbr>stack site built on <a href="https://go.habd.as/2n4mmjC">After Dark.</a></li>
     <li>Page content loads in a <b>single HTTP request</b>.</li>
     <li><b>Zero-downtime deployments</b> with instant cache invalidation.</li>
     <li>Ability to generate <b>~1000 pages per second</b>.</li>
