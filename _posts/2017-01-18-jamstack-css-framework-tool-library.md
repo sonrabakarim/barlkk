@@ -87,7 +87,7 @@ Frameworks and libraries to help you really move your users. Some may depend on 
 
 ### Complex
 
-Complex frameworks typically use advanced HTML5 techniques to achieve interactive effects. Some of these require a licenses for use in commercial projects.
+Complex frameworks typically use advanced HTML5 techniques to achieve interactive effects. Some of these require a license for use in commercial projects.
 
 **[Sequence](http://www.sequencejs.com/)**
 <br>For creating sliders, presentations, banners, and other step-based applications. Sequence provides a number of free and premium themes to help you create an engaging app or wizard in no time at all.
