@@ -21,7 +21,7 @@ redirect_from:
   - /choose-hugo-over-jekyll/
 ---
 
-Many are familiar with the idea of static site generators like Jekyll and [why they should use them](https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/). But Jekyll isn't the only <abbr title="Static Site Generator">SSG</abbr> out there. In fact, there are literally <a href="https://staticsitegenerators.net/" rel="nofollow">hundreds of SSGs</a> guaranteed to give you analysis paralysis. With so many to choose from it can be difficult to decide which to use.
+Many are familiar with the idea of static site generators like Jekyll and <a target="intro" href="https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/">why they should use them</a>. But Jekyll isn't the only <abbr title="Static Site Generator">SSG</abbr> out there. In fact, there are literally <a target="intro" href="https://staticsitegenerators.net/" rel="nofollow">hundreds of SSGs</a> guaranteed to give you analysis paralysis. With so many to choose from it can be difficult to decide which to use.
 
 After trying a number of static site generators myself over the years, **the one I'd bet the farm on is [Hugo](https://gohugo.io)**. Here're a few of the reasons why I feel Hugo rocks the socks off the competition:
 
