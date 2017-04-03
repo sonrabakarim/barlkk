@@ -33,7 +33,7 @@ It can be downloaded in several different varieties, including prepackaged build
 {: .notice--info}
 
 **[Bootstrap](http://getbootstrap.com/)**
-<br>This framework needs little introduction. Born out of Twitter, Bootstrap is one of the most well-known and widely deployed CSS frameworks out there. I used this at Sears to build out their new product detail pages back when Backbone was still being used to create <abbr="Single-Page Apps">SPAs</abbr>. After a few years with no new versions, the Bootstrap team seems to have gotten things together and is starting releasing updates on a more frequent cadence.
+<br>This framework needs little introduction. Born out of Twitter, Bootstrap is one of the most well-known and widely deployed CSS frameworks out there. I once used this at Sears to build out their product detail page back when Backbone was still a thing. After a few years with no new versions, the Bootstrap team seems to have gotten things together and is starting releasing updates on a more frequent cadence.
 
 Like Foundation, Bootstrap features a [web-based customizer](http://getbootstrap.com/customize/) enabling individuals to select just the parts of the framework they want to use, which helps reduce overall page weight when the kitchen sink is not what you need. One gripe many have with Bootstrap is that it's hard to make sites stand apart from other Bootstrap sites as many of them look alike.
 
