@@ -58,16 +58,16 @@ for developing fast and powerful web interfaces." They've got through a number o
 Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s> schtuff done.
 
 **[Bulma](http://bulma.io/)**
-<br>This one had completely escaped my radar until it [popped up in the comments](https://habd.as/legit-css-frameworks/#comment-3148163230) thanks to Victor Bastos. It's CSS only, and wow that's a damn sexy docs site. I cannot wait to give this one a spin!!!
+<br>This one had completely escaped my radar until it [popped up in the comments](#comment-3148163230) thanks to Victor Bastos. It's CSS only, and wow that's a damn sexy docs site. I cannot wait to give this one a spin!!!
 
 **[hack.css](http://hackcss.com/)**
 <br>hack.css describes itself as a "dead simple css framework", and it truly is. I used this tiny little framework, which does not package itself with a CSS reset or normalize ([and for good reason](https://github.com/egoist/hack/issues/35)), to build the [After Dark theme for Hugo](https://comfusion.github.io/after-dark/). Pairs well with the [Bytesize](http://danklammer.com/bytesize-icons/) SVG icon set by Dan Klammer.
 
 **[Material Design Lite](https://getmdl.io)**
-<br>Does a lot of what Materialize can do, but _doesn't rely on JavaScript_ to function. A great place to start for those who want to apply Material Design concepts their [Hugo or Jekyll static websites](https://habd.as/choose-hugo-over-jekyll/). Unfortunately, like Bootstrap, Material design can be limiting in its ability to help you differentiate the look-and-feel of your site. But perhaps those are the training wheels you're looking for to prevent potential design snafus.
+<br>Does a lot of what Materialize can do, but _doesn't rely on JavaScript_ to function. A great place to start for those who want to apply Material Design concepts their [Hugo or Jekyll static websites](/best-jamstack-site-generator/). Unfortunately, like Bootstrap, Material design can be limiting in its ability to help you differentiate the look-and-feel of your site. But perhaps those are the training wheels you're looking for to prevent potential design snafus.
 
 **[mini.css](https://chalarangelo.github.io/mini.css/)**
-<br>As [the author points out](https://habd.as/legit-css-frameworks/#comment-3138394169) mini.css isn't exactly a full-featured framework, but it's not a micro framework either. Regardless, I took a look at the doc site and was surprised to see such comprehensive documentation and even quick reference guide with code snippets and links to functional Pens. mini lives up to its name with a pretty lightweight footprint -- clocking in at just 7kb compressed. That's awesome!
+<br>As [the author points out](#comment-3138394169) mini.css isn't exactly a full-featured framework, but it's not a micro framework either. Regardless, I took a look at the doc site and was surprised to see such comprehensive documentation and even quick reference guide with code snippets and links to functional Pens. mini lives up to its name with a pretty lightweight footprint -- clocking in at just 7kb compressed. That's awesome!
 
 **[Milligram](https://milligram.github.io/)**
 <br>A minimalist CSS framework for desktop and mobile development, Milligram provides the basics to get a site set-up without using a full-featured framework.
@@ -79,11 +79,11 @@ Teeny-tiny, lightweight CSS frameworks for when you just need to get <s>shit</s>
 <br>Created by Yahoo, Pure CSS can be added piecemeal to accomplish simple layout and styling tasks on a site without going all-in on the kitchen sink. Check out the docs to see what it can do.
 
 **[Spectre](https://picturepan2.github.io/spectre/)**
-<br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](https://habd.as/legit-css-frameworks/#comment-3106269595) for bringing it to my attention in the comment section below.
+<br>Spectre brands itself as a ligtweight, responsive and modern CSS framework for faster and extensible development. The doc site is very nicely laid out and there's some pretty nifty-looking <abbr title="Chinese-Japanese-Korean">CJK</abbr> support baked-in. They're also planning on adding support for email templates, something I haven't seen anyone except for Foundation do. [Thanks to @roemhildtg](#comment-3106269595) for bringing it to my attention in the comment section below.
 
 ## Animation and visualization
 
-Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS. See also [CSS Animation Tools, Frameworks & Tutorials](https://speckyboy.com/css-animation/).
+Frameworks and libraries to help you really move your users. Some may depend on JavaScript, but all of them use CSS. See also [CSS Animation Tools, Frameworks & Tutorials](https://speckyboy.com/css-animation/) from Speckyboy.
 
 ### Complex
 
