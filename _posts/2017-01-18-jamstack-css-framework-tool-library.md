@@ -107,7 +107,7 @@ Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile 
 
 ### Medium complexity
 
-CSS animation frameworks with a little JS to help get the job done.
+Animation frameworks using CSS or JS to help get the job done, but don't require a college degree to operate.
 
 **[Animatic](http://lvivski.com/animatic/)**
 <br>Animatic gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation.
