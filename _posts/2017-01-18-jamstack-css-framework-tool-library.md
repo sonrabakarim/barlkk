@@ -15,7 +15,7 @@ redirect_from:
 ---
 {% include toc %}
 
-CSS frameworks are a dime a dozen, and new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks I'd recommend to others.
+CSS frameworks are a dime a dozen, and new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks, tools and libraries I'd recommend to others.
 
 Contributions via comments welcome. The best CSS Frameworks will be moved into the article body and the `nofollow`[^1] removed.
 {: .notice--info }
@@ -126,6 +126,28 @@ CSS-only frameworks for super-simple animation effects.
 <br>Just-add-water CSS animations. Handy for providing feedback to users, such as shaking a button when a form is invalid.
 
 [^1]: `nofollow` links indicate the linked document is not endorsed by the author of the linking site. For example, if the author doesn't trust it, does not wish to pass authority, or if there is commercial relationship between the two, a link is more likely to be nofollowed. `nofollow` links play a role in the passage of authority and page rank in Search engine algorithms.
+
+## Iconography
+
+Icons and tools to help bring your site some visual appeal. Best of all, they're free.
+
+**[Material Icons](https://material.io/icons/)**
+<br>Icon set for Material Design. Lots of them, and there's a _very_ handy toolbar for downloading these in SVG, PNG or Icon Font format. Let Ross Phillips show you how to use them to create some very [lightweight social share buttons](http://cloudcannon.com/tutorials/2017/02/01/lightweight-social-share-buttons/pretty).
+
+**[Bytesize Icons](https://github.com/danklammer/bytesize-icons)**
+<br>A "Tiny style-controlled SVG iconset". Like the name suggests, this icon set is fairly small. But the minimalist design makes these perfect for applications where you don't want draw too much attention away from your content. I use some of these icons in [After Dark](https://comfusion.github.io/after-dark/), my retro dark theme for Hugo.
+
+**[Font Custom](https://github.com/FontCustom/fontcustom)**
+<br>Generate custom icon webfonts from the comfort of the command line. Use only what you need, with Font Custom. I originally learned about this one while working with the [Feeling Responsive](https://github.com/Phlow/feeling-responsive) theme. It can be a little tricky to use at first, but the payoff is worth it.
+
+**[Font Awesome](http://fontawesome.io/)**
+<br>Everyone and their dog knows about Font Awesome. But did you know you can [download the entire set to your page asynchronously](https://github.com/jhabdas/fetch-inject#loading-css-asynchronously) using Fetch Inject? Here's how you would do it:
+
+```js
+fetchInject([
+  'https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css'
+])
+```
 
 ## CSS Toolkits
 
