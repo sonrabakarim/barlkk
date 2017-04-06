@@ -16,3 +16,5 @@ link: https://hackcabin.com/post/managing-asynchronous-dependencies-javascript/
 header:
   teaser: https://source.unsplash.com/-09QE4q0ezw/512x338
 ---
+
+Managing asynchronous dependencies with JavaScript can be a nightmare. But there's a better way. It's called Fetch Injection.

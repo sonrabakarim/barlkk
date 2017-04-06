@@ -18,3 +18,5 @@ link: https://hackcabin.com/post/after-dark-error-page-redesign/
 header:
   teaser: https://hackcabin.com/images/after-dark-error-page.png
 ---
+
+The Devil is in the detail. About the After Dark 404 page redesign.
