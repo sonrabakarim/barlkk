@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-04-01T10:42:00+08:00
+modified: 2017-04-06T17:14:00+08:00
 excerpt: A step-by-step guide to creating your own JAMstack site using Amazon Web Services and the Hugo static site generator.
 categories: [tutorials]
 tags: [aws, hugo, http2, perfmatters, web, ssl, https, jamstack]
@@ -107,7 +107,7 @@ Sites served over CloudFront allow HTTPS by default, meaning you do not have to 
 
 ## Configure HTTPS on a custom domain
 
-This part requires some manual work in the AWS Console, but nothing too extravagant. And though some may encourage you to [Setup Let's Encrypt SSL Certificate on Amazon CloudFront](https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2) it has been my personal experience **using the AWS Certificate Manager is much easier** to manage over time.
+This part requires some manual work in the AWS Console, but nothing too extravagant. And while some [may encourage you](https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2) to use Let's Encrypt, it has been my personal experience using the AWS Certificate Manager is **significantly easier** to manage over time.
 
 To obtain a custom SSL certificate using the Certificate Manager you need to configure SES to receive email.
 
@@ -124,8 +124,8 @@ Once you've finished you will have a new S3 bucket capable of receiving emails a
 
 First, access Certificate Manager from the AWS Console and choose **Request a certificate**. Then enter the domain name or names for which you'd like to request a certificate for, e.g.:
 
-- theoutline.com
-- \*.theoutline.com
+- hackcabin.com
+- \*.hackcabin.com
 
 Form there choose **Review and request** followed by **Confirm and request**. This will kick off several verification emails to SES, which will store them in the related S3 bucket set-up in the last step.
 
