@@ -2,7 +2,7 @@
 title: JAMstack CSS Frameworks, Tools and Libraries
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-03-29T17:00:00+08:00
+modified: 2017-04-06T22:39:00+08:00
 excerpt: CSS frameworks and tools for building your JAMstack sites.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
@@ -110,14 +110,17 @@ Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile 
 Animation frameworks using CSS or JS to help get the job done, but don't require a college degree to operate.
 
 **[Animatic](http://lvivski.com/animatic/)**
-<br>Animatic gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation.
+<br>Animatic gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation. I tried using this library to create a title rotation animation but got stuck in callback hell as it doesn't support promises. Hopefully that changes in the future.
+
+**[animo](https://github.com/ThrivingKings/animo)**
+<br>Animo is a powerful little tool for managing transitions and animations with JavaScript. It's composed of a number of smaller, more focused animation tools which provide the promises you need to properly handle your animation transitions without driving yourself bonkers.
 
 **[Animate Plus](https://github.com/bendc/animateplus)**
 <br>Animate Plus is a CSS and SVG animation library for modern browsers. Animate Plus is performant and lightweight (2.8KB gzipped), making it particularly well-suited for mobile.
 
 ### Simple
 
-CSS-only frameworks for super-simple animation effects.
+CSS-only frameworks for super-simple animation effects. Perfect for beginners looking to add a little movement to their pages.
 
 **[CSShake](https://elrumordelaluz.github.io/csshake/)**
 <br>Some CSS classes to move your DOM! Drop it in, add some classes and do your best to determine if the page is shaking or you've just had too much coffee.
