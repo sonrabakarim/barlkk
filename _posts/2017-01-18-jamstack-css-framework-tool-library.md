@@ -2,7 +2,7 @@
 title: JAMstack CSS Frameworks, Tools and Libraries
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-04-06T22:39:00+08:00
+modified: 2017-04-09T14:29:00+08:00
 excerpt: CSS frameworks and tools for building your JAMstack sites.
 categories: [reference]
 tags: [open source, css, frameworks, boilerplate]
@@ -15,7 +15,7 @@ redirect_from:
 ---
 {% include toc %}
 
-CSS frameworks are a dime a dozen, and new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks, tools and libraries I'd recommend to others.
+<a target="_intro" href="https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/" rel="noreferrer nofollow noopener">Making the next Smashing Magazine?</a> Web development CSS frameworks, libraries and tools are a dime a dozen. And new ones are appearing all the time. If you're smart enough not to build your own when there are so many great open source options available, this list is for you. Rather than listing everything out there I've selected only a handful of well-maintained or noteworthy CSS frameworks, tools and libraries I'd recommend to others.
 
 Contributions via comments welcome. The best CSS Frameworks will be moved into the article body and the `nofollow`[^1] removed.
 {: .notice--info }
@@ -162,3 +162,11 @@ fetchInject([
 
 **[Basscss](http://basscss.com/)**
 <br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
+
+## Libraries
+
+**[fontfaceobserver](https://github.com/bramstein/fontfaceobserver)**
+<br>Web font loading. Simple, small and efficient.
+
+**[PhotoSwipe](http://photoswipe.com/)**
+<br>JavaScript gallery, no dependencies.

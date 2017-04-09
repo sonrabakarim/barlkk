@@ -2,6 +2,7 @@
 title: Tools for building rich web apps
 author: Josh Habdas
 date: 2013-07-23
+modified: 2017-04-09
 categories:
   - reference
 tags:
@@ -15,6 +16,9 @@ tags:
 ---
 
 After recently planning to do a survey of tools for building rich web apps I stumbled across <https://github.com/codylindley/frontend-tools>, which claims to be an opinionated list of tools for building front-end applications. For those new to building modern web applications, it's certainly easier to take in than larger lists like <https://github.com/joyent/node/wiki/modules>. But lists aren't necessarily the best place to start for putting an application together. At least not where the rubber hits the road.
+
+**Update: 2017-04-09:** This post is out of date. Lately Marko JS may become the new hotness following React and, for Web dev in general, look into [JAMstack](https://jamstack.org/). Cheers.
+{: .notice--info}
 
 ## The Web has all the resources you need
 
