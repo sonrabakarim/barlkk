@@ -8,7 +8,7 @@ categories:
   - tutorials
 tags:
   - mobile
-  - webperf
+  - performance
   - jekyll
   - blog
 header:
