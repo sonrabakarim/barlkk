@@ -5,7 +5,7 @@ date: 2017-02-10T16:41:53+08:00
 modified: 2017-04-06T17:14:00+08:00
 excerpt: A step-by-step guide to creating your own JAMstack site using Amazon Web Services and the Hugo static site generator.
 categories: [tutorials]
-tags: [aws, hugo, http2, perfmatters, website performance, ssl, https, jamstack]
+tags: [aws, hugo, http2, performance, ssl, https, jamstack]
 header:
   overlay_image: 4fqamznaguo-reginar_1280.jpg
   overlay_filter: 0.5
