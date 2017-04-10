@@ -1,7 +1,7 @@
 ---
 title: "You Can Do Better: Reach For The Stars With SpeedTracker"
 date: 2017-04-10T21:58:37+08:00
-excerpt: Progressive Monitoring for your Progressive Web App.
+excerpt: Progressive Monitoring for your Progressive Web Apps.
 author: Josh Habdas
 categories:
   - reference
