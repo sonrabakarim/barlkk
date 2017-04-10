@@ -1,7 +1,7 @@
 ---
-title: "You Can Do Better: Reach The Top With SpeedTracker"
+title: "You Can Do Better: Reach For The Stars With SpeedTracker"
 date: 2017-04-10T21:58:37+08:00
-excerpt: Is Your Website Getting Faster? See the light at the end of the tunnel.
+excerpt: Progressive Monitoring for your Progressive Web App.
 author: Josh Habdas
 categories:
   - reference
