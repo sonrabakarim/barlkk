@@ -39,7 +39,7 @@ Getting started with SpeedTracker was as easy as following their <a target="_spe
 
 {% include video id="185952137" provider="vimeo" %}
 
-You'll be up and running in minutes.
+You'll be up and running in no time.
 
 Looking for something more advanced? Check out <a href="https://www.sitespeed.io/">Sitespeed.io</a>.
 {: .notice--info}
