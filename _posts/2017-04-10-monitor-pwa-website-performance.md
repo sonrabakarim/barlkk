@@ -53,7 +53,7 @@ And if you're curious how I set it up, my <a target="_speedtracker" href="https:
 
 ### Measuring Progressive Web Apps
 
-In addition to providing basic website performance testing leveraging the power of <a target="_blank" href="https://www.webpagetest.org/">WebPageTest.org</a>, SpeedTracker also <a target="_speedtracker" href="https://github.com/speedtracker/speedtracker-api/pull/27">provides support</a> for...wait for it...**Google's Lighthouse**!
+In addition to providing basic website performance testing leveraging the power of <a target="_blank" href="https://www.webpagetest.org/">WebPageTest.org</a>, SpeedTracker <a target="_speedtracker" href="https://github.com/speedtracker/speedtracker-api/pull/27">also provides</a> PageSpeed and Lighthouse metrics.
 
 Now you can _really_ find out if your <abbr title="Progressive Web App">PWA</abbr> cuts the mustard. And you won't need a Chrome extension or separate website checker to monitor your web performance.
 
