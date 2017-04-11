@@ -33,9 +33,6 @@ In a previous life I used <a target="_blank" rel="noopener nofollow noreferrer" 
 
 Getting started with website speed tests was simple.
 
-If you're looking for something more advanced, check out <a href="https://www.sitespeed.io/">Sitespeed.io</a>.
-{: .notice--info}
-
 ### Getting Started With SpeedTracker
 
 Getting started with SpeedTracker was as easy as following their <a target="_speedtracker" rel="noopener" href="https://speedtracker.org/docs">Quick Start documentation</a>. They've even included a screencast to help you on your journey to page load speed perfection:
@@ -43,6 +40,9 @@ Getting started with SpeedTracker was as easy as following their <a target="_spe
 {% include video id="185952137" provider="vimeo" %}
 
 You'll be up and running in minutes.
+
+Looking for something more advanced? Check out <a href="https://www.sitespeed.io/">Sitespeed.io</a>.
+{: .notice--info}
 
 ### SpeedTracker In Action
 
