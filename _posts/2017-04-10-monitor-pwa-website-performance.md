@@ -8,8 +8,7 @@ categories:
   - reference
 tags:
   - lighthouse
-  - pwas
-  - website
+  - pwa
   - performance
   - monitoring
 header:
