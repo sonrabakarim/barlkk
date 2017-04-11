@@ -1,6 +1,7 @@
 ---
 title: "You Can Do Better: Reach For The Stars With SpeedTracker"
 date: 2017-04-10T21:58:37+08:00
+modified: 2017-04-11T13:37:00+08:00
 excerpt: Progressive Monitoring for your Progressive Web Apps.
 author: Josh Habdas
 categories:
@@ -32,6 +33,9 @@ In a previous life I used <a target="_blank" rel="noopener nofollow noreferrer" 
 
 Getting started with website speed tests was simple.
 
+If you're looking for something more advanced, check out <a href="https://www.sitespeed.io/">Sitespeed.io</a>.
+{: .notice--info}
+
 ### Getting Started With SpeedTracker
 
 Getting started with SpeedTracker was as easy as following their <a target="_speedtracker" rel="noopener" href="https://speedtracker.org/docs">Quick Start documentation</a>. They've even included a screencast to help you on your journey to page load speed perfection:
@@ -56,6 +60,6 @@ Now you can _really_ find out if your <abbr title="Progressive Web App">PWA</abb
 
 ### Digital Narcissism At It's Finest
 
-It's true. Sometimes we just can't get enough of vanity metrics. With SpeedTracker installed it's quite likely you're going to need a new <a target="_blank" rel="noopener nofollow noreferrer" href="https://thecoffeelicious.com/this-is-the-antidote-for-digital-narcissism-998b424a1ba1">Antidote for Digital Narcissism</a>. But who could blame you? I know I won't.
+It's true. Sometimes we just can't get enough vanity metrics. With SpeedTracker installed it's quite likely you're going to need a new <a target="_blank" rel="noopener nofollow noreferrer" href="https://thecoffeelicious.com/this-is-the-antidote-for-digital-narcissism-998b424a1ba1">Antidote for Digital Narcissism</a>. But who could blame you? I know I won't.
 
 [![Hack Cabin Rendering Metrics display chart](/images/speedtracker-hackcabin.png "Click to view metrics")](http://speed.habd.as/)
