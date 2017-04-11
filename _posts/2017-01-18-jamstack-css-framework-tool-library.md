@@ -116,7 +116,7 @@ Animation frameworks using CSS or JS to help get the job done, but don't require
 <br>Animate Plus is a CSS and SVG animation library for modern browsers. Animate Plus is performant and lightweight (2.8KB gzipped), making it particularly well-suited for mobile. I tried using this library to create a title rotation animation but got stuck in callback hell as it [doesn't support promises](https://github.com/bendc/animateplus/issues/19). Hopefully that changes in the future.
 
 **[animo](https://github.com/ThrivingKings/animo)**
-<br>Animo is a powerful little tool for managing transitions and animations with JavaScript. It's composed of a number of smaller, more focused animation tools and returns promises allowing you to sequence animations without turning out spaghetti. My gripe with this one is the docs don't include any demos (you have to run the project) and it's built in a pretty hipster fashion making is less usable to the masses.
+<br>Animo is a powerful little tool for managing transitions and animations with JavaScript. It's composed of a number of smaller, more focused animation tools and returns promises allowing you to sequence animations without turning out spaghetti.
 
 ### Simple
 
