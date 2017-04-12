@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-04-06T17:14:00+08:00
+modified: 2017-04-12T16:57:00+08:00
 excerpt: A step-by-step guide to creating your own JAMstack site using Amazon Web Services and the Hugo static site generator.
 categories: [tutorials]
 tags: [aws, hugo, http2, performance, ssl, https, jamstack]
@@ -163,6 +163,6 @@ Navigate to your website's custom domain name and ensure it is being served over
 
 You've just gone from Zero to HTTP/2 with AWS and Hugo.
 
-From here you can start [customizing the theme](https://comfusion.github.io/after-dark/#customizing), create some microservices for your site using [Serverless and Lambda](/serverless-email-forwards-ses-lambda-crash-course/), set-up your own [self-hosted Git service](https://gitea.io/) using Gitea. Or maybe you want to start measuring the speed of your website over time with [SpeedTracker](https://speedtracker.org), explore some of the other wonderful [Hugo themes available](http://themes.gohugo.io/), or even create your own theme using some of the [JAMstack CSS Frameworks, Tools and Libraries](/jamstack-css-framework-tool-library/). The possibilities are endless. Have fun!
+From here you can start [customizing the theme](https://comfusion.github.io/after-dark/#customizing), create some microservices for your site using [Serverless and Lambda](/serverless-email-forwards-ses-lambda-crash-course/), set-up your own [self-hosted Git service](https://gitea.io/) using Gitea. Or maybe you want to [start measuring the speed](/monitor-pwa-website-performance/) of your website with SpeedTracker, explore some of the other wonderful [Hugo themes available](http://themes.gohugo.io/) (there are lots of them), or even roll your own theme using some of my [JAMstack Frameworks, Tools and Tips](/jamstack-frameworks-tools-tips/). The possibilities are endless. Get creative, and have fun.
 
 And, as always, please feel free to share your success stories or battle cries in the comments section below.
