@@ -57,7 +57,7 @@ In addition to providing basic website performance testing leveraging the power 
 
 Now you can _really_ find out if your <abbr title="Progressive Web App">PWA</abbr> cuts the mustard. And you won't need a Chrome extension or separate website checker to monitor your web performance.
 
-### Digital Narcissism At It's Finest
+### Digital Narcissism At Its Finest
 
 It's true. Sometimes we just can't get enough vanity metrics. With SpeedTracker installed it's quite likely you're going to need a new <a target="_blank" rel="noopener nofollow noreferrer" href="https://thecoffeelicious.com/this-is-the-antidote-for-digital-narcissism-998b424a1ba1">Antidote for Digital Narcissism</a>. But who could blame you? I know I won't.
 
