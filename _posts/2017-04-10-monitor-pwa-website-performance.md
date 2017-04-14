@@ -40,7 +40,7 @@ Getting started with SpeedTracker was as easy as following their <a target="_spe
 
 You'll be up and running in no time.
 
-Looking for something more advanced? Check out <a href="https://www.sitespeed.io/">Sitespeed.io</a>.
+Looking for something more advanced? Check out <a target="_blank" rel="noopener" href="https://www.sitespeed.io/">Sitespeed.io</a>. _Caveat emptor_. <abbr title="Bring Your Own Development Team"</abbr>. 
 {: .notice--info}
 
 ### SpeedTracker In Action
