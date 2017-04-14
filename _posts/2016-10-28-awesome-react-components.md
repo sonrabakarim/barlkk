@@ -13,7 +13,7 @@ featured: true
 ---
 {% include toc %}
 
-One of the best parts of building with React is discovering new and awesome open source components to use. Rather than throwing the [kitchen](https://github.com/karl1992/awesome-react-components-all) [sink](https://github.com/enaqx/awesome-react#components) at you, here's a curated list of React components and component libraries I think are truly awesome.
+One of the best parts of building with React is discovering new and awesome open source components to use. Rather than throwing the <a target="intro" rel="nofollow noreferrer noopener" href="https://github.com/karl1992/awesome-react-components-all">kitchen</a> <a target="intro" rel="nofollow noreferrer noopener" href="https://github.com/enaqx/awesome-react#components">sink</a> at you, here's a curated list of React components and component libraries I think are truly awesome.
 
 Looking for something more in-depth and hackable? Checkout the [OpusCapita Showroom](https://github.com/OpusCapitaBES/js-react-showroom-client).
 {: .notice--info }
