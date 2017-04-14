@@ -17,7 +17,6 @@ header:
   overlay_image: mathyas-kurmann-102977_1200w.jpg
   overlay_filter: 0.5
   teaser: mathyas-kurmann-102977_512w.jpg
-featured: true
 ---
 
 In 2016 this website underwent a major overhaul. I took it off my [simple Docker set-up](/simple-websites-jekyll-docker/) and [moved it to S3 with CloudFront](/pagespeed-100-with-jekyll-s3-and-cloudfront/). The process of which enabled me to **reduce hosting costs by 80%** all while increasing reach and decreasing page load times globally.
