@@ -40,7 +40,7 @@ Getting started with SpeedTracker was as easy as following their <a target="_spe
 
 You'll be up and running in no time.
 
-Looking for something more advanced? Check out <a target="_blank" rel="noopener" href="https://www.sitespeed.io/">Sitespeed.io</a>. _Caveat emptor_. <abbr title="Bring Your Own Development Team">BYODT</abbr>. 
+Looking for something more advanced? Check out <a target="_blank" rel="noopener" href="https://www.sitespeed.io/">Sitespeed.io</a>. _Caveat emptor_. <abbr title="Bring Your Own Development Team">BYODT</abbr>.
 {: .notice--info}
 
 ### SpeedTracker In Action
@@ -59,6 +59,6 @@ Now you can _really_ find out if your <abbr title="Progressive Web App">PWA</abb
 
 ### Digital Narcissism At Its Finest
 
-It's true. Sometimes we just can't get enough vanity metrics. With SpeedTracker installed it's quite likely you're going to need a new <a target="_blank" rel="noopener nofollow noreferrer" href="https://thecoffeelicious.com/this-is-the-antidote-for-digital-narcissism-998b424a1ba1">Antidote for Digital Narcissism</a>. But who could blame you? I know I won't.
+It's true. Sometimes we just can't get enough vanity metrics. With SpeedTracker installed it's quite likely you're going to need a new <a rel="nofollow noreferrer" href="https://thecoffeelicious.com/this-is-the-antidote-for-digital-narcissism-998b424a1ba1">Antidote for Digital Narcissism</a>. But who could blame you? I know I won't.
 
 [![Hack Cabin Rendering Metrics display chart](/images/speedtracker-hackcabin.png "Click to view metrics")](http://speed.habd.as/)
