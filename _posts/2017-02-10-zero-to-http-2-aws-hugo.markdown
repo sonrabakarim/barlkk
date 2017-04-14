@@ -2,7 +2,7 @@
 title: Zero to HTTP/2 with AWS and Hugo
 author: Josh Habdas
 date: 2017-02-10T16:41:53+08:00
-modified: 2017-04-12T16:57:00+08:00
+modified: 2017-04-14T17:50:00+08:00
 excerpt: A step-by-step guide to creating your own JAMstack site using Amazon Web Services and the Hugo static site generator.
 categories: [tutorials]
 tags: [aws, hugo, http2, performance, ssl, https, jamstack]
@@ -26,8 +26,8 @@ So you learned how <a target="_intro" href="https://www.netlify.com/blog/2017/03
     <li><b>Zero-downtime deployments</b> with instant cache invalidation.</li>
     <li>Ability to generate <b>~1000 pages per second</b>.</li>
     <li><b>HTTPS by default</b>, with automatic secure redirects.</li>
-    <li>Domain <b>email forwarding</b> with cryptographic message authentication.</li>
-    <li><b>Custom SSL/TLS</b> certs with automatic renewal.</li>
+    <li>Domain <b>email forwarding</b> with cryptographic message authentication. (optional)</li>
+    <li><b>Custom SSL/TLS</b> domain cert with <i>automatic</i> renewal.</li>
   </ul>
 </aside>
 
@@ -109,18 +109,18 @@ Sites served over CloudFront allow HTTPS by default, meaning you do not have to 
 
 This part requires some manual work in the AWS Console, but nothing too extravagant. And while some [may encourage you](https://medium.com/@richardkall/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront-b217669987b2) to use Let's Encrypt, it has been my personal experience using the AWS Certificate Manager is **significantly easier** to manage over time.
 
-To obtain a custom SSL certificate using the Certificate Manager you need to configure SES to receive email.
+To obtain a custom TLS/SSL certificate you **must be able to receive email** at your custom domain. If you can already receive email, skip the SES set-up and jump to [Request Certificate Using Certificate Manager](#request-security-certificate-using-certificate-manager). Otherwise you can set-up email forwarding on AWS for basically nothing in the next step.
 
 ### Configure SES to receive email
 
-The reason this is needed is because the certificate authority must be able to verify you own your domain name. I've linked to instructions on how to do this in my post titled [Serverless Email with SES and Lambda](https://habd.as/serverless-email-forwards-ses-lambda-crash-course/#configure-ses-to-send-and-receive-email).
+If you don't currently have a way to receive email at your custom domain, don't want to spend money on something like <a target="_blank" rel="noopener" href="https://gsuite.google.com/">G Suite</a>, I've linked to instructions on how to set-up email forwarding on AWS using Amazon SES in my post titled <a href="_blank" href="https://habd.as/serverless-email-forwards-ses-lambda-crash-course/#configure-ses-to-send-and-receive-email">Serverless Email with SES and Lambda</a>. Using this approach you can forward email at your custom domain to any location you like, and do it in a secure way with all of your email forwarding rules specified in version controlled source code.
 
-**Note:** Skip the majority of the instructions you see and focus only on receiving email with SES.
+**Timesaver:** Skip the majority of the instructions and _focus only on receiving email_ with SES. That's all you really need.
 {: .notice--info}
 
-Once you've finished you will have a new S3 bucket capable of receiving emails at your custom domain and can now request a custom SSL cert using the Certificate Manager.
+Once finished you will have a new S3 bucket capable of receiving emails at your custom domain (and possibly email forwarding, depending on how far you took it) and can now request a security certificate using Certificate Manager.
 
-### Request Certificate using Certificate Manager
+### Request security certificate using Certificate Manager
 
 First, access Certificate Manager from the AWS Console and choose **Request a certificate**. Then enter the domain name or names for which you'd like to request a certificate for, e.g.:
 
