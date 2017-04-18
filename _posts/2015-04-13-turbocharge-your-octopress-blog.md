@@ -97,7 +97,7 @@ After images are optimized ensure they’re efficiently delivered to the browser
 
 The last major piece is handling the Web Fonts installed. If you're using the Classic theme you should find two LINK tags in `source/_includes/custom/head.html`. Remove them both. It's okay if the file is empty afterwards. Then inline the two Web Fonts using Data URIs. Then use [this tutorial](http://sosweetcreative.com/2613/font-face-and-base64-data-uri) from SoSweet creative to produce base64-encoded fonts and drop them into `sass/custom/_styles.scss` like so:
 
-```css
+```html
 @font-face {
   font-family: 'PT Sans';
   font-style: normal;
@@ -111,6 +111,7 @@ The last major piece is handling the Web Fonts installed. If you're using the Cl
   font-weight: normal;
   src: local('PT Serif'), local('PTSerif-Regular'),
     url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAIQYABMAAAAA/MAA) format('woff');
+}
 ```
 
 This step should earn you around a 5 point bump in Page Speed. And that's all the big stuff.
