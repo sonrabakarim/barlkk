@@ -2,7 +2,7 @@
 author: Josh Habdas
 title: "Turbocharge Your Octopress Blog"
 date: 2015-04-13 21:00
-modified: 2016-11-22
+modified: 2017-04-18
 excerpt: "Speed up your Octopress or Jekyll blog and rank higher in search with a 92 or better page speed. Learn how to turbocharge your Octopress blog."
 categories: [tutorials]
 tags: [octopress, blogging, performance, optimization, s3, aws]
@@ -95,7 +95,7 @@ After images are optimized ensure they’re efficiently delivered to the browser
 
 ## Inline Web Fonts
 
-The last major piece is handling the Web Fonts installed. If you're using the Classic theme you should find two LINK tags in `source/_includes/custom/head.html`. Remove them both. It's okay if the file is empty afterwards. Then inline the two Web Fonts using Data URIs. Google a tutorial then drop each base64-encoded font into `sass/custom/_styles.scss` like so:
+The last major piece is handling the Web Fonts installed. If you're using the Classic theme you should find two LINK tags in `source/_includes/custom/head.html`. Remove them both. It's okay if the file is empty afterwards. Then inline the two Web Fonts using Data URIs. Then use [this tutorial](http://sosweetcreative.com/2613/font-face-and-base64-data-uri) from SoSweet creative to produce base64-encoded fonts and drop them into `sass/custom/_styles.scss` like so:
 
 ```css
 @font-face {
