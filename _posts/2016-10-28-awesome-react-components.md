@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-03-25
+modified: 2017-04-26T16:54:00+08:00
 excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -24,6 +24,9 @@ Contributions via comments welcome. The best React and React Native Components w
 # React
 
 Awesome components for building React apps.
+
+**[React Sketch App](https://github.com/airbnb/react-sketchapp)**
+<br>Render react elements into Sketch App. Read <a target="_blank" rel="noopener" href="https://www.subtraction.com/2017/04/25/generating-design-elements-directly-from-code/">Khoi Vihn's thoughts about it</a> on **Subtraction.com**.
 
 **[Material UI](http://www.material-ui.com/)**
 <br>Short on design resources? Missing a style guide? No problem. With Material UI you can build and theme-roll an entire app without much of any design skills whatsoever, and still walk away looking like your right brain does more than fantasize about [retro gaming on an RPi](/ultima-underworld-on-rpi/).
