@@ -18,6 +18,7 @@ tags:
 link: https://medium.com/@jhabdas/putting-wordpress-into-hyperdrive-4705450dffc2
 header:
   teaser: https://cdn-images-1.medium.com/max/2000/1*XyvhznCwriSIzuqwV9bAYg.png
+featured: true
 ---
 
 Loading Pages Faster than the Speed of Light with Fetch Inject, Redis, Vultr, Load Impact and LEMP.
