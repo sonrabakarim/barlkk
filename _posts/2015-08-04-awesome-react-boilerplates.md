@@ -32,8 +32,8 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 <br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. If you prefer TypeScript, there's even [a flavor of that](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well. That's wild!
 
 <aside class="notice--success">
-  <h4>Need a diversion?</h4>
-  <p>Learn to create your own <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack site</a> like Smashing Magazine in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a>.</p>
+  <h4>Not building an app?</h4>
+  <p>Learn to create your own <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack site</a> using Hugo in <a href="https://habd.as/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll and Docker in <a href="https://habd.as/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>.</p>
 </aside>
 
 **[ARc](https://github.com/diegohaz/arc)**
