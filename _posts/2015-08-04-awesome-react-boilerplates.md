@@ -28,30 +28,30 @@ Application boilerplates for creating React apps, many of which contain their ow
 
 Here's an [example photo sharing application starter](https://github.com/jhabdas/12roads) I spiked on using an earlier version of this kit when it was still called **react-production-starter**.
 
-**[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes.
-
-There's [a TS flavor of Ryan's work now](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well, and the previous repo is no longer being maintained.
+**[https://github.com/mikechabot/react-boilerplate](react-boilerplate)**
+<br>Brands itself as <q>A slightly opinionated yet dead simple boilerplate for ReactJS and Webpack 2</q> and was submitted by its author [in the comments](#comment-3296221301) section below. It's being lifted near the top of this list because it's fresh, it's young and it needs your attention to help it flourish.
 
 <aside class="notice--success">
   <h4>Building a website, not an app?</h4>
   <p>Choose your own adventure. Learn to create a<a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack</a> site using Hugo in <a href="/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll in <a href="/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>. Here's a list of <a href="/jamstack-frameworks-tips-tools/">JAMstack development tools</a> to get you moving.</p>
 </aside>
 
+**[react-starter-kit](https://github.com/kriasoft/react-starter-kit)**
+<br>Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com) or my [Isomporhpic Rendering with React](/talks/isomorphic-rendering-react/) talk.
+
 **[ARc](https://github.com/diegohaz/arc)**
 <br>One of the common things I hear from individuals getting started with React is that the ecosystem is so complicated it's difficult to take everything in. That's why I'm please to see Diego Haz's ARc (Atomic React) project, which uses a _progressive_ design methodology intended to help individuals start small and work their way forward by incorporating new features one by one. Great job Diego!
-
-**[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
-<br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
 
 **[simple-static-react-aframe](https://github.com/Jon-Biz/simple-static-react-aframe)**
 <br>It's refreshing to see a new use case for a boilerplate. This boilerplate gets you set-up to build a VR website with React and Aframe. Check out the mobile demo and start building the next Pokémon Go. Be super slick to see something like this paired with [Whitestorm](https://github.com/WhitestormJS/whitestorm.js).
 
-**[react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example/)**
-<br>A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+**[express-react-redux-starter](https://github.com/DimitriMikadze/express-react-redux-starter)**
+<br>I wanted to spike on a simple game of [5x5 Tic-Tac-Toe](https://github.com/jhabdas/tictactoe/) recently and was able to use this kit to build out the game board using functional stateless components, and without having to yank out tons of boilerplate. It had just the things I needed to start building, and nothing more.
 
-**[react-starter-kit](https://github.com/kriasoft/react-starter-kit)**
-<br>Everything you need to build a front-end for a SEO-friendly React website. Supports text-only browsing and focuses heavily on Node.js and the surrounding ecosystem of NPM libraries. For an example isomporhpic application I've built using this kit check out [lumpenradio-com](https://github.com/jhabdas/lumpenradio-com) or my [Isomporhpic Rendering with React](/talks/isomorphic-rendering-react/) talk.
+**[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
+<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes.
+
+There's [a TS flavor of Ryan's work now](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well, and the previous repo is no longer being maintained.
 
 **[react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)**
 <br>By former colleague (and one hell of a coder) this kit is designed to get you up and running with a bunch of awesome new front-end technologies. It can be a bit heavy for those new to React, and doesn't have the benefits of isomorphic rendering, but there's plenty of info to take away from studying David's coding wizardry.
