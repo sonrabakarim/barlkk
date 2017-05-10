@@ -2,7 +2,7 @@
 title: Awesome React Boilerplates
 author: Josh Habdas
 date: 2015-08-04T15:08:31-05:00
-modified: 2017-03-25
+modified: 2017-05-10T13:00:00+08:00
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
@@ -23,17 +23,19 @@ Contributions via comments welcome. The best React and React Native Boilerplates
 
 Application boilerplates for creating React apps, many of which contain their own starter kit tutorials. And wow are there're a lot of good ones to choose from.
 
-**[react-production-starter](https://github.com/jaredpalmer/react-production-starter)** --- **Editor's choice**
-<br>React Redux boilerplate with isomorphic rendering, async react-router routes, async redux reducers, async data fetching, and code-splitting. Sports [feature-first organization](https://medium.com/front-end-hacking/the-secret-to-organization-in-functional-programming-913484e85fc9), JS standard for simplified linting, built-in example site with collection and item views, sample navigation both internally and sample unit tests. Integrates easily with [React Flexbox Grid](http://roylee0704.github.io/react-flexbox-grid/) and [Material UI](http://www.material-ui.com/). Functional stateless (pure) components. HMR that works! Also includes a `Dockerfile` to get the app up and running in a flash. Yowza!
+**[Razzle](https://github.com/jaredpalmer/react-production-starter)** --- **Editor's choice**
+<br>Create universal React, Preact, Inferno, and Rax applications with no build configuration.
 
-Here's an [example photo sharing application starter](https://github.com/jhabdas/12roads) I spiked on using this kit.
+Here's an [example photo sharing application starter](https://github.com/jhabdas/12roads) I spiked on using an earlier version of this kit when it was still called **react-production-starter**.
 
 **[scalable-react-boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)**
-<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes. If you prefer TypeScript, there's even [a flavor of that](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well. That's wild!
+<br>Finally, a simple starter kit for scalable apps. Includes a Slush template generator, CLI code generators, a rig for use of CSS modules with SASS, and includes Airbnb linters and Mocha for testing (though I've been preferring [standard](http://standardjs.com) these days over ESLint as there's less to maintain). Also includes some GraphQL goodies, `re-select` for Redux state queries, server-side rendering, Webpack code chunking and lazy-loaded routes.
+
+There's [a TS flavor of Ryan's work now](https://github.com/RyanCCollins/scalable-react-ts-boilerplate) as well, and the previous repo is no longer being maintained.
 
 <aside class="notice--success">
   <h4>Building a website, not an app?</h4>
-  <p>Learn to create your own <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack</a> site using Hugo in <a href="/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll in <a href="/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>. Here's a list of <a href="/jamstack-frameworks-tips-tools/">JAMstack development tools</a> to get you moving.</p>
+  <p>Choose your own adventure. Learn to create a<a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack</a> site using Hugo in <a href="/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll in <a href="/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>. Here's a list of <a href="/jamstack-frameworks-tips-tools/">JAMstack development tools</a> to get you moving.</p>
 </aside>
 
 **[ARc](https://github.com/diegohaz/arc)**
