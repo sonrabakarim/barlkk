@@ -2,7 +2,7 @@
 title: "Simple websites with Jekyll and Docker"
 author: Josh Habdas
 date: 2015-05-03T01:01:56-05:00
-modified: 2016-04-18
+modified: 2017-05-16T11:48:00+08:00
 excerpt: "Learn how to host your own simple websites with Jekyll and Docker."
 permalink: /simple-websites-jekyll-docker/
 tags: [blogging, devops, jekyll, docker, server, webmaster, vm, virtualization, hosting]
@@ -28,25 +28,14 @@ Looking to create a simple website but don’t want to pay through the nose for 
 
 # Create Docker image
 
-Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run locally and on a server.
+Alright, now onto the fun stuff! In this section we’re going to clone a seed for our Jekyll site and use it to create a Docker image we can run the same site both locally and on a server.
 
 **Tip:** Never used Docker before? No worries! Just head over to the [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn to start learning.
 {: .notice--info}
 
 ## Install Docker
 
-Docker is designed to run on Linux. To use it on Windows you’ll need to run a virtual machine with Linux on it. To do so [download and install Virtual Box](https://www.virtualbox.org/) and [docker-machine](https://github.com/docker/machine), and follow the setup instructions for each. Mac OS X users can use [dlite](https://github.com/nlf/dlite) and skip using VirtualBox and `docker-machine` altogether.
-
-If using `docker-machine`, **create a virtual machine** using the virtualbox driver and then **start the Docker daemon** on it, setting any environment variables suggested by `docker-machine` to enable proper connection from the host machine to the VM:
-
-    docker-machine create -d virtualbox default
-    docker-machine start default
-
-Once Docker is installed, run it with:
-
-    docker
-
-You’ll see a command listing if everything worked. If not, ensure your Docker environment is configured correctly before proceeding.
+Docker is designed to run on a variety of platforms including macOS, Windows and several varieties of Linux. To get Docker head to [Install Docker](https://docs.docker.com/engine/installation/) on the docker docs website. Please install Docker before proceeding.
 
 ## Clone Jekyll seed
 
