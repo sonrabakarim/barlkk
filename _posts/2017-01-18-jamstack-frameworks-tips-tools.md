@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-04-16T18:32:00+08:00
+modified: 2017-05-20T10:24:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -175,14 +175,20 @@ fetchInject([
 
 ## Noteworthy libraries
 
+**[Fetch Inject](https://github.com/jhabdas/fetch-inject)**
+<br>A fetching async loader and DOM injection sequencer for high-performance websites. Use Fetch Inject to dynamically import page resources such as JS and CSS in parallel (even across the network), and load them into your page in a desired sequence.
+
 **[PhotoSwipe](http://photoswipe.com/)**
 <br>A composite JavaScript gallery, no dependencies. Use it to create the most beautiful photo gallery you could imagine, replete with social sharing and full screen buttons. As the documentation states, you're going to need to know some JavaScript to get this thing working. But there are some code snippets and Pens to get you going, and the maintainer actively helps answer questions on the GitHub repo.
 
-**[Fetch Inject](https://github.com/jhabdas/fetch-inject)**
-<br>A fetching async loader and DOM injection sequencer for high-performance websites. Say what? Use Fetch Inject to dynamically import page resources such as JS and CSS in parallel (even across the network), and load them into your page in a desired sequence. It even works alongside Progressive Web Apps for screaming fast websites.
+**[lazysizes](https://github.com/aFarkas/lazysizes)**
+<br>Lazy load images and scripts into your page. Support for optimistic preloading of assets with lazy-queueing. Also does responsive images and supports LQIP (Low-Quality Image Placeholders) and more. I used this while building [a prototoype](https://hackernoon.com/putting-wordpress-into-hyperdrive-4705450dffc2) for the [WordCamp Ubud 2017](https://2017.ubud.wordcamp.org/) and it did wonders for page weight. I've also implemented on the [Hugo theme gallery](http://themes.gohugo.io/) to improve UX and page speed.
 
-**[fontfaceobserver](https://github.com/bramstein/fontfaceobserver)**
-<br>Web font loading. Simple, small and efficient. I actually haven't used this yet. But I'm leaving it here so I don't forget to come back to it. You've been forewarned.
+**[Waypoints](https://github.com/imakewebthings/waypoints/)**
+<br>Achieve infinite scrolling on your static website, and trigger events as the user scrolls. Used to be a jQuery only thing back in the day. But not anymore.
+
+**[Headroom.js](https://github.com/WickyNilliams/headroom.js)**
+<br>Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll.
 
 ## Cloud CMS's
 
