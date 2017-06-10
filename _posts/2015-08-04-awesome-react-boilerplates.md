@@ -35,7 +35,7 @@ And here's another app using Razzle with MUI, Express and more shared in the com
 
 <aside class="notice--success">
   <h4>Building a website, not an app?</h4>
-  <p>Choose your own adventure. Learn to create a<a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack</a> site using Hugo in <a href="/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll in <a href="/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>. Here's a list of <a href="/jamstack-frameworks-tips-tools/">JAMstack development tools</a> to get you moving.</p>
+  <p>Choose your own adventure. Learn to create a <a href="https://jamstack.org/" rel="noreferrer nofollow">JAMstack</a> site using Hugo in <a href="/zero-to-http-2-aws-hugo/">Zero to HTTP/2 with AWS and Hugo</a> or Jekyll in <a href="/simple-websites-jekyll-docker/">Simple Websites with Jekyll and Docker</a>. Here's a list of <a href="/jamstack-frameworks-tips-tools/">JAMstack development tools</a> to get you moving.</p>
 </aside>
 
 **[react-starter-kit](https://github.com/kriasoft/react-starter-kit)**
