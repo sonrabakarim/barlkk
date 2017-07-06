@@ -1,5 +1,5 @@
 ---
-title: Introducing the BTC License
+title: Introducing the BTC Crypto License
 date: 2017-07-05T23:40:00+08:00
 author: Josh Habdas
 author_profile: false
@@ -19,4 +19,4 @@ header:
 featured: true
 ---
 
-Loading Pages Faster than the Speed of Light with Fetch Inject, Redis, Vultr, Load Impact and LEMP.
+Because your hard work deserves a little recognition
