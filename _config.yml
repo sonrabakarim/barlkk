@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "habd.as"
 title_separator          : "-"
 name                     : "Josh Habdas"
-description              : "Let's build a faster Web"
+description              : "Let's build a better Web"
 url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/jhabdas/habd.as/
@@ -63,7 +63,7 @@ google_ad_slot           : 5217752381 # habd.as - Main Config Ad Slot
 author:
   name             : "Josh Habdas"
   avatar           : "bio-photo.jpg"
-  bio              : I code so others don't have to.
+  bio              : “The cave you fear to enter holds the treasure that you seek.” —Joseph Campbell
   location         : "Bali, Indonesia"
   email            :
   uri              :

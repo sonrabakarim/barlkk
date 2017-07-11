@@ -13,10 +13,10 @@ tags:
   - licenses
   - open source
   - software development
-link: https://medium.com/@jhabdas/introducing-the-btc-license-28650887eb11
+link: https://hackernoon.com/introducing-the-btc-license-28650887eb11
 header:
   teaser: https://source.unsplash.com/IdjxBF_StBk/512x338
 featured: true
 ---
 
-Because your hard work deserves a little recognition
+Because your hard work deserves a little recognition. And so do you for supporting freedom.
