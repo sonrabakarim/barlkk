@@ -19,4 +19,4 @@ header:
 featured: true
 ---
 
-Because your hard work deserves a little recognition. And so do you for supporting freedom.
+Bringing sexy back to software licenses.
