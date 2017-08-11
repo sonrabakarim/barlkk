@@ -1,8 +1,8 @@
 ---
-title: "You Can Do Better: Reach For The Stars With SpeedTracker"
+title: "Monitoring Progressive Webapp Performance"
 date: 2017-04-10T21:58:37+08:00
 modified: 2017-04-11T13:37:00+08:00
-excerpt: Progressive Monitoring for your Progressive Web Apps.
+excerpt: Progressive Monitoring for your Progressive Web Apps with Speed Tracker.
 author: Josh Habdas
 categories:
   - reference
