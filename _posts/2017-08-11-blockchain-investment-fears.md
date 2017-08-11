@@ -1,5 +1,5 @@
 ---
-title: Introducing the BTC Crypto License
+title: Overcoming Fear — My First Bitcoin Wallet
 date: 2017-08-11T19:25:00+08:00
 author: Josh Habdas
 author_profile: false
