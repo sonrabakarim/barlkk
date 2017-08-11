@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 share: false
 categories:
-  - news
+  - blogging
 tags:
   - web development
   - social media
