@@ -16,7 +16,7 @@ tags:
 link: https://hackernoon.com/introducing-the-btc-license-28650887eb11
 header:
   teaser: https://source.unsplash.com/IdjxBF_StBk/512x338
-featured: true
+featured: false
 ---
 
 Bringing sexy back to software licenses.

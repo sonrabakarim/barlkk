@@ -13,7 +13,7 @@ tags:
 link: https://hackcabin.com/post/overcoming-fear-first-bitcoin-wallet/
 header:
   teaser: https://source.unsplash.com/e8ofKlNHdsg/512x338
-featured: true
+featured: false
 ---
 
 How I overcame my Bitcoin investment fears and just created a goddamn wallet.

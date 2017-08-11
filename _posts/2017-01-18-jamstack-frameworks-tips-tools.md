@@ -14,7 +14,7 @@ redirect_from:
   - /legit-css-frameworks/
   - /jamstack-css-framework-tool-library/
   - /jamstack-frameworks-tools-tips/
-featured: true
+featured: false
 ---
 {% include toc %}
 
