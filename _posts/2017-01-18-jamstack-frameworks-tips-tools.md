@@ -193,6 +193,11 @@ fetchInject([
 **[Headroom.js](https://github.com/WickyNilliams/headroom.js)**
 <br>Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll.
 
+## Miscellaneous tools
+
+**[wordmark.it](https://wordmark.it/)**
+<br>Preview various fonts using your own text using a light or dark background.
+
 ## Cloud CMS's
 
 Cloud CMS's make it possible to edit the content for a static website without having to know how to squash commits. Quite literally, these services are opening the door to JAMstack development, and marry the best of developer experience working in GitHub with the ease of editing content using a visual editor online.
