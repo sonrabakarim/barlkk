@@ -2,7 +2,7 @@
 title: JAMstack Frameworks, Tips and Tools
 author: Josh Habdas
 date: 2017-01-18T11:07:47+08:00
-modified: 2017-05-20T10:24:00+08:00
+modified: 2017-08-26T14:18:00+08:00
 excerpt: An assortment of shiny things for building your JAMstack sites.
 categories: [reference]
 tags: [jamstack, design tools, css frameworks, icons, animation]
@@ -143,6 +143,9 @@ CSS-only frameworks for super-simple animation effects. Perfect for beginners lo
 ## Iconography
 
 Icons and icon-related tools to help bring your site some flair. Use them to create social icons, export SVG images, do sprite things and all around just add value to help move eyeballs through your pages.
+
+**[Material Design Icons](https://materialdesignicons.com/)**
+<br>A bunch of Materialesque icons including SVG vectors for easily-embedded iconography piped down with the page HTML.
 
 **[Material Icons](https://material.io/icons/)**
 <br>Icon set for Material Design. Lots of them, and there's a _very_ handy toolbar for downloading these in SVG, PNG or Icon Font format. Let Ross Phillips show you how to use them to create some very [lightweight social share buttons](http://cloudcannon.com/tutorials/2017/02/01/lightweight-social-share-buttons/pretty).
