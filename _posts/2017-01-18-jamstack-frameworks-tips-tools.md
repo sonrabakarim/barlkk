@@ -176,6 +176,9 @@ fetchInject([
 **[Basscss](http://basscss.com/)**
 <br>A low-level CSS toolkit. Basscss provides a base for desktop and mobile development, is composable and provides a number of community-supported add-ons.
 
+**[Bourbon](http://bourbon.io/)**
+<br>Man this thing has been around forever. But it provides some crutches for Sass many designers need to create good CSS animations such as [hamburger menu open/close animations](https://codepen.io/jonsuh/pen/bskzn) and is def worth mentioning.
+
 ## Noteworthy libraries
 
 **[Fetch Inject](https://github.com/jhabdas/fetch-inject)**
