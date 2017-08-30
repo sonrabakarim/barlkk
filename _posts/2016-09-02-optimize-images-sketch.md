@@ -1,16 +1,19 @@
 ---
-title: Optimize Images with Sketch
+title: Optimize Images with Sketch App
 date: 2016-09-02T10:14:05-05:00
+modified: 2017-08-30T14:44:05+08:00
 author: Josh Habdas
-excerpt: Techniques to optimize assets for the Web.
+excerpt: Optimize your image assets for the Web using Sketch app.
 categories:
   - tutorials
 tags:
-  - sketch
+  - sketchapp
   - webperf
   - optimization
   - tools
   - design
+  - performance
+  - seo
 header:
     overlay_image: photo-1430760903787-4d91bbf15384_1280.jpg
     overlay_filter: 0.5
@@ -61,4 +64,4 @@ Saving for Web will remove unneeded metadata from file headers, making the resul
 
 # Summing things up
 
-The above techniques will help maintain a reasonable level of fidelity while optimizing images with Sketch without introducing a lot of complexity, or additional tools or processes. Using them can mean the difference between Page 1 of Google and getting buried in the nether regions. What tips do you have? Please feel free to share them in the comments section below.
+The above techniques will help maintain a reasonable level of fidelity while optimizing images with Sketch without introducing a lot of complexity, or additional tools or processes. If you're looking for something with a little more oomph check out the [ImageOptim plugin for Sketch](https://imageoptim.com/sketch).
