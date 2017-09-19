@@ -18,4 +18,4 @@ header:
 featured: false
 ---
 
-Here's a collection of useful tools to help you maintain your privacy online. I'm already in a position were I don't rely on any of the Google tools metioned. What about you?
+Here's a collection of useful tools to help you maintain your privacy online. Use them instead of Google for max protection.
