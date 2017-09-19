@@ -1,6 +1,6 @@
 ---
 title: Transform Your Bitcoin Into Cold, Hard Cash
-date: 2017-08-29T14:10:00+08:00
+date: 2017-08-30T14:10:00+08:00
 author: Josh Habdas
 author_profile: false
 comments: false
