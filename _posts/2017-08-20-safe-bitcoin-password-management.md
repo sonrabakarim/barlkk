@@ -15,6 +15,8 @@ link: https://hackcabin.com/post/safe-bitcoin-password-management/
 header:
   teaser: https://source.unsplash.com/wYO6Lz3ifM8/512x338
 featured: false
+redirect_from:
+  - /safe-bitoin-password-management/
 ---
 
 Store Bitcoin using decentralized password management. Avoid getting hacked.

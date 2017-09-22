@@ -4,7 +4,7 @@ date: 2017-09-19T14:01:00+08:00
 author: Josh Habdas
 author_profile: false
 comments: false
-share: true
+share: false
 categories:
   - politics
 tags:

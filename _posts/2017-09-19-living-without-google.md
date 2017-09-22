@@ -10,11 +10,10 @@ categories:
 tags:
   - privacy
   - google
-  - apple
   - tools
 link: https://spreadprivacy.com/how-to-remove-google/
 header:
-  teaser: https://source.unsplash.com/uXWPg9uMwt8/512x338
+  teaser: https://source.unsplash.com/BjcGdM-mjL0/512x338
 featured: false
 ---
 

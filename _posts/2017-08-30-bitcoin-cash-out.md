@@ -18,4 +18,4 @@ header:
 featured: false
 ---
 
-Convert Bitcoin into dollars without paying any fees.
+Convert Bitcoin into dollars without paying any fees. Spend anywhere in the world that accepts VISA.
