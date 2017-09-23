@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "habd.as"
 title_separator          : "-"
 name                     : "Josh Habdas"
-description              : "Let's build a better Web"
+description              : "Use the shiny responsively."
 url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/jhabdas/habd.as/
