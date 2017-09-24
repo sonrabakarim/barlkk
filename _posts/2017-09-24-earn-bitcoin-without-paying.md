@@ -16,7 +16,7 @@ tags:
 link: https://hackcabin.com/post/11-hacks-erupt-some-bitcoin-right-now/
 header:
   teaser: https://source.unsplash.com/e4usjv5lmhE/512x338
-featured: false
+featured: true
 ---
 
 Don't buy Bitcoin, Volcano Boy! Make it spew out with these 11 simple hacks.
