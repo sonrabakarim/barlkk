@@ -1,5 +1,5 @@
 ---
-title: EFF withdraws from W3C. DPRK plays with fire.
+title: Hacks to Earn Some Bitcoin Free Right Now
 date: 2017-09-24T19:55:00+08:00
 author: Josh Habdas
 author_profile: false
@@ -19,4 +19,4 @@ header:
 featured: true
 ---
 
-Don't buy Bitcoin, Volcano Boy! Make it spew out with these 11 simple hacks.
+Don't buy Bitcoin! Earn it with these 11 simple hacks.
