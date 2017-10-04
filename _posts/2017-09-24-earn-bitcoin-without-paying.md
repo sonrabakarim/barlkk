@@ -16,7 +16,7 @@ tags:
 link: https://hackcabin.com/post/11-hacks-erupt-some-bitcoin-right-now/
 header:
   teaser: https://source.unsplash.com/e4usjv5lmhE/512x338
-featured: true
+featured: false
 ---
 
 Don't buy Bitcoin! Earn it with these 11 simple hacks.

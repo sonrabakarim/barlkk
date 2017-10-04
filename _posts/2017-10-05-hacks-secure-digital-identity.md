@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 share: false
 categories:
-  - hacks
+  - hacking
 tags:
   - security
   - privacy

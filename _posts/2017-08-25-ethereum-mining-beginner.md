@@ -15,7 +15,7 @@ tags:
 link: https://hackcabin.com/post/dont-mine-bitcoin-mine-altcoins/
 header:
   teaser: https://source.unsplash.com/Y2Tfj9I7SAE/512x338
-featured: false
+featured: true
 ---
 
 Did you know mining Bitcoin isn't nearly as lucrative as altcoins? True story. Learn how to mine altcoins using nothing but spare computer resources.
