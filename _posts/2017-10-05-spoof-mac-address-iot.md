@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 share: false
 categories:
-  - hacking
+  - reference
 tags:
   - spoofing
   - iot
