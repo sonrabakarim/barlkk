@@ -33,7 +33,7 @@ Here's an [example photo sharing application starter](https://github.com/jhabdas
 
 And here's another app using Razzle with MUI, Express and more shared in the comment thread: [kireerik/razzle-material-ui-styled-example](https://github.com/kireerik/razzle-material-ui-styled-example).
 
-**[https://github.com/mikechabot/react-boilerplate](react-boilerplate)**
+**[react-boilerplate](https://github.com/mikechabot/react-boilerplate)**
 <br>Brands itself as <q>A slightly opinionated yet dead simple boilerplate for ReactJS and Webpack 2</q> and was submitted by its author [in the comments](#comment-3296221301) section below. It's being lifted near the top of this list because it's fresh, it's young and it needs your attention to help it flourish.
 
 <aside class="notice--success">
