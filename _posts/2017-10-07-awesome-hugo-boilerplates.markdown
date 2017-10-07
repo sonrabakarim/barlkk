@@ -25,15 +25,15 @@ Let us not waste any more time. Here they are!
 <br>Created by the team at Netlify, Victor Hugo is probably the most popular boilerplate for Hugo projects to date. It comes with a Gulp build pipeline and melds it together with Webpack. While I'm not sure Netlify is dogfooding this internally, I believe they created this when they took Smashing Magazine off WordPress—however a ridiculous choice that actually was. Just remember, sometimes you need to [take two steps back](/zero-to-http-2-aws-hugo/) to take a step forward. Cool logo not included.
 
 **[Hugo Lambda](https://github.com/ryansb/hugo-lambda)**
-<br>Whilst it isn't actively maintained, the concept behind this boilerplate is sensational—to leverage <abbr title="Function As A Service">FaaS</abbr> tech from Amazon to deploy Hugo under a serverless architecture. If and when I decide to automate deployments with Hugo this is probably the approach I will take. But for now simply run a single task to [deploy from the CLI](/zero-to-http-2-aws-hugo/).
+<br>Whilst it isn't actively maintained, the concept behind this boilerplate is sensational—to leverage <abbr title="Function As A Service">FaaS</abbr> tech from Amazon to deploy Hugo under a serverless architecture. If and when I decide to automate deployments with Hugo this is probably the approach I will take. But for now I simply run a single task to [deploy from the CLI](/zero-to-http-2-aws-hugo/).
 
 <aside class="notice--success">
   <h4>WTF is Serverless you ask?</h4>
-  <p>Learn more about the awesomeness of Serverless architectures in my <b>free</b> <a href="https://habd.as/serverless-email-forwards-ses-lambda-crash-course/">Serverless crash course</a>, where you'll learn just WTF Serverless is, why it's important and have a chance to use Serverless, Lambda and Node to create your own email forwarding service.</p>
+  <p>Learn more about Serverless architectures in my <b>free</b> <a href="https://habd.as/serverless-email-forwards-ses-lambda-crash-course/">Serverless crash course</a>, where you'll learn just WTF Serverless is, why it's important and have a chance to use Serverless, Lambda and Node to create your own email forwarding service.</p>
 </aside>
 
 **[Hugulp](https://github.com/jbrodriguez/hugulp)**
-<br>Hugo + Gulp starter kit. Includes BrowserSync, does image optimization stuff, asset fingerprinting (totally not needed if you [deploy Hugo to AWS with CloudFront](/zero-to-http-2-aws-hugo/), your choice between Less and SASS, autoprefixer and more. What's really interesting about this kit is it's inclusion of Docker—probably [my favorite](/simple-websites-jekyll-docker/) DevOps tool ever next to [DevilBox](https://github.com/cytopia/devilbox) or [Helm](https://helm.sh).
+<br>Hugo + Gulp starter kit. Includes BrowserSync, does image optimization stuff, asset fingerprinting (total overkill IMHO when you can simply [deploy from AWS](/zero-to-http-2-aws-hugo/)), your choice between Less and SASS, autoprefixer and more. What's really interesting about this kit is it's inclusion of Docker—probably [my favorite](/simple-websites-jekyll-docker/) DevOps tool ever next to [DevilBox](https://github.com/cytopia/devilbox) or [Helm](https://helm.sh).
 
 **[Huggle](https://github.com/ktmud/huggle)**
 <br>Huggle is a generator and a reduced boilerplate mixed into a single tool. Shown here, Huggle churning out a GitHub Pages-friendly Hugo site with a single command from the CLI:
