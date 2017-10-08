@@ -1,6 +1,7 @@
 ---
 title: Awesome Hugo Boilerplates
 date: 2017-10-07T15:09:01+08:00
+modified: 2017-10-08T17:23:00+08:00
 author: Josh Habdas
 excerpt: Awesome Hugo starter kits to kick your site development into high gear.
 categories: [reference]
@@ -14,7 +15,7 @@ header:
 
 Tired of reinventing the wheel? So am I. In the fashion of [Awesome React Boilerplates](/awesome-react-boilerplates) `habd.as` is comin' atcha with an all new *evergreen* list of awesome boilerplates—this time for the one and only [Hugo](https://gohugo.io/) static site generator.
 
-Let us not waste any more time. Here they are!
+Let us not waste any more time. Here they are in all their glory! And as always, feel free to drop your submissions in the comment section below to promote your FOSS product for the benefit of others.
 
 **[Atlas](https://github.com/indigotree/atlas)**
 <br>I learned about Atlas from a well-timed comment from [`@chrisgeary92`](https://github.com/chrisgeary92) while having a [short discussion](https://github.com/netlify/victor-hugo/issues/46) about pulling Gulp from Victor Hugo. Like Victor Atlas is heavily integrated with Netlify so it probably won't get you very far with a headless CMS like [Prismic](https://prismic.io/) or [Dato](https://www.datocms.com/). But what you lose in portability you gain in speed to market. Plus it comes with a slick logo, shown here:
