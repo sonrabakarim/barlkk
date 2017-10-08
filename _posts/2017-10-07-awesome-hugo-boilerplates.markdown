@@ -17,7 +17,7 @@ Tired of reinventing the wheel? So am I. In the fashion of [Awesome React Boiler
 Let us not waste any more time. Here they are!
 
 **[Atlas](https://github.com/indigotree/atlas)**
-<br>I learned about Atlas from a well-timed comment from [`@chrisgeary92`](https://github.com/chrisgeary92) while having a [short discussion](https://github.com/netlify/victor-hugo/issues/46) about pulling Gulp from Victor Hugo. Like Victor Atlas is heavily integrated with Netlify so it probably won't get you very far with a headless CMS like [Prismic](https://prismic.io/) or [Dato](https://www.datocms.com/). But what you lose in portability you gain in speed to market. Plus it comes with a super cool logo, shown here:
+<br>I learned about Atlas from a well-timed comment from [`@chrisgeary92`](https://github.com/chrisgeary92) while having a [short discussion](https://github.com/netlify/victor-hugo/issues/46) about pulling Gulp from Victor Hugo. Like Victor Atlas is heavily integrated with Netlify so it probably won't get you very far with a headless CMS like [Prismic](https://prismic.io/) or [Dato](https://www.datocms.com/). But what you lose in portability you gain in speed to market. Plus it comes with a slick logo, shown here:
 
 [![Atlas logo](https://camo.githubusercontent.com/e204c18f8923f4b969620ef61f5e4f7d09adf259/68747470733a2f2f61746c61732e696e6469676f747265652e636f2e756b2f696d616765732f6769746875622d62616e6e65722e706e67)](https://github.com/indigotree/atlas)
 
