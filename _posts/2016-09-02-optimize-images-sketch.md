@@ -1,7 +1,7 @@
 ---
 title: Optimize Images with Sketch App
 date: 2016-09-02T10:14:05-05:00
-modified: 2017-09-02T23:08:00+08:00
+modified: 2017-10-11T01:22:00+08:00
 author: Josh Habdas
 excerpt: Optimize your image assets for the Web using Sketch app.
 categories:
@@ -64,4 +64,15 @@ Saving for Web will remove unneeded metadata from file headers, making the resul
 
 # Summing things up
 
-The above techniques will help maintain a reasonable level of fidelity while optimizing images with Sketch without introducing a lot of complexity, or additional tools or processes. If you're looking for something with a little more oomph check out the [ImageOptim plugin for Sketch](https://imageoptim.com/sketch). And if you want to nerd out on image compression check out [PNG optimization](https://bjango.com/articles/pngoptimisation/) and [BPG](https://bellard.org/bpg/).
+The above techniques will help maintain a reasonable level of fidelity while optimizing images with Sketch without introducing a lot of complexity, or additional tools or processes. If you're looking for something with a little more oomph check out the [ImageOptim plugin for Sketch](https://imageoptim.com/sketch). Install it using the [Sketch Plugin Manager](https://mludowise.github.io/Sketch-Plugin-Manager/) for additional gains. With [ImageOptim](https://imageoptim.com) installed the plug-in will automatically squish exported images as shown here:
+
+![Image Optim screenshot](/images/image-optim-sketch.png)
+
+And if you want to nerd out on image compression check out the following additional resources:
+
+- [PNG optimization](https://bjango.com/articles/pngoptimisation/)
+- [Essential Image Optimization](https://images.guide/)
+- [Responsive Breakpoint Generator](http://responsivebreakpoints.com)
+- [BPG Image format](https://bellard.org/bpg/)
+
+Happy optimizing!
