@@ -14,10 +14,10 @@ tags:
   - investing
   - finance
   - trading
-link: https://hackcabin.com/post/how-profit-bitcoin-hard-fork/
+link: https://hackcabin.com/post/make-killing-bitcoin-fork/
 header:
   teaser: https://source.unsplash.com/Cp-LUHPRpWM/512x338
 featured: true
 ---
 
-Bitcoin's next hard fork is only weeks away and value is increasing rapidly. There are things you can be doing right now to achieve dazzling performance. Here's how.
+Bitcoin's next hard fork is only weeks away and value is increasing rapidly. There are things you can do right now to achieve death-defying performance. Don't miss out!
