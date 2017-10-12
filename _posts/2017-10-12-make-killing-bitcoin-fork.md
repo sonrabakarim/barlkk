@@ -16,7 +16,7 @@ tags:
   - trading
 link: https://hackcabin.com/post/how-profit-bitcoin-hard-fork/
 header:
-  teaser: https://source.unsplash.com/d_tvWt1yaIY/512x338
+  teaser: https://source.unsplash.com/Cp-LUHPRpWM/512x338
 featured: true
 ---
 
