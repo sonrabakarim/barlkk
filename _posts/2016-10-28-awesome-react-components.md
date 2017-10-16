@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-04-26T16:54:00+08:00
+modified: 2017-10-16T16:12:00+08:00
 excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -25,19 +25,17 @@ Contributions via comments welcome. The best React and React Native Components w
 
 Awesome components for building React apps.
 
-**[React Sketch App](https://github.com/airbnb/react-sketchapp)**
-<br>Render react elements into Sketch App. Read <a target="_blank" rel="noopener" href="https://www.subtraction.com/2017/04/25/generating-design-elements-directly-from-code/">Khoi Vihn's thoughts about it</a> on **Subtraction.com**.
-
-**[Material UI](http://www.material-ui.com/)**
-<br>Short on design resources? Missing a style guide? No problem. With Material UI you can build and theme-roll an entire app without much of any design skills whatsoever, and still walk away looking like your right brain does more than fantasize about [retro gaming on an RPi](/ultima-underworld-on-rpi/).
-
-**[React Flexbox Grid](https://github.com/roylee0704/react-flexbox-grid)**
-<br>Though Material UI has a pretty stellar [Grid List component](http://www.material-ui.com/#/components/grid-list), it's not intended for layout. That's what Flexbox is for, bra. This component leverages CSS Modules, and pairs well with [Aphrodite](https://github.com/Khan/aphrodite) and Material UI for bulletproof responsive layouts.
+**[react-router-transition](https://github.com/maisano/react-router-transition)**
+<br>Painless transitions built for `react-router`, powered by the popular [`react-motion`](https://github.com/chenglou/react-motion) spring animation library producing silky smooth page transition effects. Checkout [the demo](http://maisano.github.io/react-router-transition/) to see for yourself! While I could see this getting pretty annoying if applied to pages, use in providing user feedback in microinteractions such as a card swipe seem perfectly suited for this shiny toy.
 
 **[PhotoSwipe](https://github.com/minhtranite/react-photoswipe)**
 <br>Looking to create an engaging image gallery without going all-in on an [image gallery component](https://github.com/xiaolin/react-image-gallery)? Check out [PhotoSwipe](http://photoswipe.com) to see what it looks like, then install this gnarly react port for a superior image browsing UX for desktop and mobile.
 
-_Thanks to [Anton Aleksandrov](https://github.com/anton-aleksandrov), creator of [Artsembler](https://artsembler.com/), for the suggestion._
+**[Material UI](https://material-ui-next.com/)**
+<br>If you're building a React App using Google's Google's [Design Guidelines](https://design.google/resources/) this MUI clone is a must-see. It reached the `1.0.0-beta` release after over 6000 commits. And while that may be against SemVer best practices the important take away is stability as the final coats of polish are added to this cornerstone React library.
+
+**[React Flexbox Grid](https://github.com/roylee0704/react-flexbox-grid)**
+<br>Though Material UI has a pretty stellar [Grid List component](http://www.material-ui.com/#/components/grid-list), it's not intended for layout. That's what Flexbox is for, bra. This component leverages CSS Modules, and pairs well with [Aphrodite](https://github.com/Khan/aphrodite) and Material UI for bulletproof responsive layouts.
 
 **[Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React)**
 <br>I had the pleasure of working with [Levi Thomason](https://github.com/levithomason) on this project when it was still called Stardust. Like Material UI, Semantic UI is a great way to get a project to MVP without a designer. It's now the official React port of Semantic UI and sure to continue gaining traction as time goes on. It's also jQuery-free and fully unit tested.
