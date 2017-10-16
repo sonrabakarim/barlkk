@@ -26,7 +26,7 @@ Contributions via comments welcome. The best React and React Native Components w
 Awesome components for building React apps.
 
 **[react-router-transition](https://github.com/maisano/react-router-transition)**
-<br>Painless transitions built for `react-router`, powered by the popular [`react-motion`](https://github.com/chenglou/react-motion) spring animation library producing silky smooth page transition effects. Checkout [the demo](http://maisano.github.io/react-router-transition/) to see for yourself! While I could see this getting pretty annoying if applied to pages, use in providing user feedback in microinteractions such as a card swipe seem perfectly suited for this shiny toy.
+<br>Painless transitions built for `react-router`, powered by the popular [`react-motion`](https://github.com/chenglou/react-motion) spring animation library producing silky smooth page transition effects. Checkout [the demo](http://maisano.github.io/react-router-transition/) to see for yourself! Try using `Cmd` along with the arrow keys to navigate rapidly to trigger an avalanche of falling text.
 
 **[PhotoSwipe](https://github.com/minhtranite/react-photoswipe)**
 <br>Looking to create an engaging image gallery without going all-in on an [image gallery component](https://github.com/xiaolin/react-image-gallery)? Check out [PhotoSwipe](http://photoswipe.com) to see what it looks like, then install this gnarly react port for a superior image browsing UX for desktop and mobile.
