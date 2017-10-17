@@ -20,4 +20,4 @@ header:
 featured: true
 ---
 
-Bitcoin's next hard fork is only weeks away and value is increasing rapidly. There are things you can do right now to achieve death-defying performance. Don't miss out!
+Bitcoin's next hard fork is right around the corner, and value is increasing rapidly. Do these things right now to achieve death-defying performance. Don't miss out!
