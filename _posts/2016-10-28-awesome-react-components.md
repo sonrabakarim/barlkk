@@ -1,7 +1,7 @@
 ---
 title: Awesome React Components
 date: 2016-10-28T22:23:08-05:00
-modified: 2017-10-16T16:12:00+08:00
+modified: 2017-10-20T11:18:00+08:00
 excerpt: Awesome React Components to help you build better, faster, stronger React and React Native apps.
 categories: [reference]
 tags: [react, react native, universal apps, programming, web platform]
@@ -27,6 +27,9 @@ Awesome components for building React apps.
 
 **[react-router-transition](https://github.com/maisano/react-router-transition)**
 <br>Painless transitions built for `react-router`, powered by the popular [`react-motion`](https://github.com/chenglou/react-motion) spring animation library producing silky smooth page transition effects. Checkout [the demo](http://maisano.github.io/react-router-transition/) to see for yourself! Try using `Cmd` along with the arrow keys to navigate rapidly to trigger an avalanche of falling text.
+
+**[redux-offline](https://github.com/redux-offline-team/redux-offline)**
+<br>Persistent Redux store for Reasonaboutable™️ Offline-First applications, with first-class support for optimistic UI. Use with React, React Native, or as standalone state container for any web app.
 
 **[PhotoSwipe](https://github.com/minhtranite/react-photoswipe)**
 <br>Looking to create an engaging image gallery without going all-in on an [image gallery component](https://github.com/xiaolin/react-image-gallery)? Check out [PhotoSwipe](http://photoswipe.com) to see what it looks like, then install this gnarly react port for a superior image browsing UX for desktop and mobile.
