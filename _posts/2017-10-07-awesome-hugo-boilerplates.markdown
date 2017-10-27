@@ -6,7 +6,7 @@ author: Josh Habdas
 excerpt: Awesome Hugo starter kits to kick your site development into high gear.
 categories: [reference]
 tags: [programming, webdev, hugo, static site, starter kit, boilerplate]
-featured: true
+featured: false
 header:
   overlay_image: https://source.unsplash.com/v6uiP2MD6vs/1280x845
   overlay_filter: 0.5

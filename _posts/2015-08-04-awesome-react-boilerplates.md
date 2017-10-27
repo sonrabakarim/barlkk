@@ -6,7 +6,7 @@ modified: 2017-10-05T23:51:00+08:00
 excerpt: Awesome React starter kits to kick your app development into high gear.
 categories: [reference]
 tags: [programming, javascript, es2015, es6, react, react native, starter kit, boilerplate]
-featured: true
+featured: false
 header:
   overlay_image: circular-837510_1280.jpg
   overlay_filter: 0.5

@@ -20,4 +20,4 @@ header:
 featured: true
 ---
 
-**UPDATED:** Bitcoin's next hard fork is right around the corner, and value is increasing rapidly. Do these things right now to achieve death-defying performance. Don't miss out!
+Bitcoin's next hard fork is right around the corner, and value is increasing rapidly. Do these things right now to achieve death-defying performance. Don't miss out!

@@ -15,7 +15,7 @@ header:
   overlay_image: robert-wiedemann-177442_1280w.jpg
   overlay_filter: 0.5
   teaser: robert-wiedemann-177442_512w.jpg
-featured: true
+featured: false
 ---
 
 How do you monitor website performance? Is it monitored? How do you know if your website is getting faster? Or when it falls below critical performance thresholds? Are you receiving automated alerts? If not, you could be. And it won't cost you a dime to get started with SpeedTracker.
