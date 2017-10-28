@@ -4,9 +4,9 @@ title                    : "https://sonrabakarim.github.io/"
 title_separator          : "-"
 name                     : "Josh Habdas"
 description              : "Please use the shiny responsively."
-url                      : https://sonrabakarim.github.io/ # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
+url                      : https://sonrabakarim.github.io # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://sonrabakarim.github.io/
+repository               : sonrabakarim/sonrabakarim.github.io
 teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : # true, false (default)
 words_per_minute         : 200
